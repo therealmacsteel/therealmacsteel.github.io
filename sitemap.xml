@@ -1,11 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://therealmacsteel.github.io/404.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
   <url>
     <loc>https://therealmacsteel.github.io/about.html</loc>
     <lastmod>2026-09-10</lastmod>
@@ -31,18 +25,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://therealmacsteel.github.io/blog/2026-05-23-steelworks-intelligence-system-update-2026-05-23.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/blog/2026-05-24-ai-real-estate-market-scan-cherokee-county-ga-2026-05-24.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://therealmacsteel.github.io/blog/2026-08-01-cold-outreach-that-isnt-spam.html</loc>
     <lastmod>2026-09-10</lastmod>
     <changefreq>monthly</changefreq>
@@ -61,25 +43,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://therealmacsteel.github.io/blog/2026-08-13-how-to-replace-300month-in-saas-with-autonomous-ai-agents.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://therealmacsteel.github.io/blog/2026-08-14-day-95-what-my-autonomous-ai-system-built-while-i-slept.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/blog/2026-08-15-steelworks-intelligence-system-update-2026-08-15.held.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/blog/2026-08-16-ai-real-estate-market-scan-cherokee-county-ga-2026-08-16.held.html</loc>
     <lastmod>2026-09-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -91,31 +55,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://therealmacsteel.github.io/blog/2026-08-18-how-to-replace-300month-in-saas-with-autonomous-ai-agents.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://therealmacsteel.github.io/blog/2026-08-19-day-100-what-my-autonomous-ai-system-built-while-i-slept.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/blog/2026-08-20-how-to-replace-300month-in-saas-with-autonomous-ai-agents.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/blog/2026-08-21-day-102-what-my-autonomous-ai-system-built-while-i-slept.held.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/blog/2026-08-22-steelworks-intelligence-system-update-2026-08-22.held.html</loc>
     <lastmod>2026-09-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -133,31 +73,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://therealmacsteel.github.io/blog/2026-08-25-how-to-replace-300month-in-saas-with-autonomous-ai-agents.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://therealmacsteel.github.io/blog/2026-08-26-day-107-what-my-autonomous-ai-system-built-while-i-slept.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/blog/2026-08-27-how-to-replace-300month-in-saas-with-autonomous-ai-agents.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/blog/2026-08-29-steelworks-intelligence-system-update-2026-08-29.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/blog/2026-08-30-ai-real-estate-market-scan-cherokee-county-ga-2026-08-30.held.html</loc>
     <lastmod>2026-09-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -283,18 +199,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://therealmacsteel.github.io/newsletter/index.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/newsletter/week-001.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://therealmacsteel.github.io/newsletter/week-002.html</loc>
     <lastmod>2026-09-10</lastmod>
     <changefreq>monthly</changefreq>
@@ -307,25 +211,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://therealmacsteel.github.io/newsletter/week-004.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/newsletter/week-005.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://therealmacsteel.github.io/newsletter/week-006.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/newsletter/week-007.html</loc>
     <lastmod>2026-09-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -361,25 +247,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://therealmacsteel.github.io/newsletter/week-014.held.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/newsletter/week-015.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://therealmacsteel.github.io/onboard-retainer.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/paper-and-pace/index.html</loc>
     <lastmod>2026-09-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -409,66 +277,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://therealmacsteel.github.io/products/agent-prompts-pack.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/ai-automation-prompt-templates-v2.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/ai-automation-storytelling.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/ai-automation-templates.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/ai-content-repurpose-youtube-prompts.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/ai-launch-stack-prompts.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/ai-model-optimization-prompts.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/ai-podcasting-prompts.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/ai-powered-chatbot-conversations-pack-25-prompts-for-craftin.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/ai-search-readiness-audit-welcome.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://therealmacsteel.github.io/products/ai-search-readiness.html</loc>
     <lastmod>2026-09-10</lastmod>
     <changefreq>monthly</changefreq>
@@ -481,73 +289,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://therealmacsteel.github.io/products/api-for-ai-generated-voice-avatars.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/auto-generate-tiktok-voice-over-packs.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/browser-based-ai-script-runner.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/build-in-public-pack.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://therealmacsteel.github.io/products/business-os-guide.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/create-gumroad-product-for-pinterest.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/create-gumroad-product-for-reddit.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/free-first-growth-workflow.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/free-prompt-pack.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/geometric-mandala-coloring-book.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/gumroad-notion-templates.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/high-engagement-topic-without-product-the-ai-seo-agency-guide.html</loc>
     <lastmod>2026-09-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -571,79 +313,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://therealmacsteel.github.io/products/linkedin-guide.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/minimalist-quote-wall-art-set.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/model-router-pack.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/notion-templates-blueprint-pack-v2.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://therealmacsteel.github.io/products/outreach-machine.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/pinterest-guide.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/printable-budget-planner.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/printable-habit-tracker.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/public-aibuilder-prompts.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/reddit-guide.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/tiktok-video-creation-tools.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/twitter-x-guide.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/products/undated-digital-planner.html</loc>
     <lastmod>2026-09-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -667,12 +337,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://therealmacsteel.github.io/source-hubs/index.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://therealmacsteel.github.io/source-hubs/local-ai-marketing-automation.html</loc>
     <lastmod>2026-09-10</lastmod>
     <changefreq>monthly</changefreq>
@@ -690,22 +354,4 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/thank-you.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/workbenches/content-revenue-os.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://therealmacsteel.github.io/workbenches/market-intelligence.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-</urlset>
+  <url><loc>https://therealmacsteel.github.io/tools/readiness-console.html</loc><changefreq>weekly</changefreq><priority>0.85</priority><lastmod>2026-09-11</lastmod></url><url><loc>https://therealmacsteel.github.io/tools/readiness-check.html</loc><changefreq>weekly</changefreq><priority>0.85</priority><lastmod>2026-09-11</lastmod></url></urlset>
