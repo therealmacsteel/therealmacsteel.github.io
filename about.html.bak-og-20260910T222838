@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About — SteelWorks Intelligence | Mac Steel, Acworth GA</title>
+<meta name="description" content="Founded 2026 by Mac Steel in Acworth, GA, to replace an $847/month SaaS stack with agents that share one memory, one gate and one kill switch.">
+<link rel="icon" href="/favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&family=JetBrains+Mono:wght@400;700&display=swap">
+<link rel="stylesheet" href="/assets/components.css">
+<!--
+  design-knowledge: style-systems.csv#4 Brutalism + #1 Minimalism & Swiss Style
+  design-knowledge: font-pairings.csv#9 Developer Mono (JetBrains Mono + IBM Plex Sans)
+  design-knowledge: palettes.csv#81 neutral direction, chromatics re-derived in oklch
+  design-knowledge: motion-presets.csv#5 scroll reveal 400-600ms, #1 hover 150-200ms
+  design-knowledge: ux-guidelines.csv focus visibility, 44px targets, reduced motion
+  design-knowledge: huashu design-styles.md:31 oklch convergence (2 chromatics, 150 deg apart)
+  design-knowledge: style-systems.csv#27 Storytelling-Driven — the origin figure carries the narrative
+  Decisions of record: data/org/web-design-decisions.md
+-->
+</head>
+<body>
+
+<!-- steelworks:header -->
+<a class="skip-link" href="#main">
+Skip to content</a>
+<header class="site-header">
+  <div class="shell">
+    <a class="brand" href="/index.html">
+      <svg class="ti" aria-hidden="true"><use href="/assets/vendor/tabler/icons.svg#ti-terminal-2"></use></svg>
+      SteelWorks
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="/index.html">Home</a>
+      <a href="/products/index.html">Products</a>
+      <a href="/ai-search-visibility.html">AI Visibility</a>
+      <a href="/services.html">Services</a>
+      <a href="/about.html">About</a>
+      <a href="/contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+<!-- /steelworks:header -->
+
+<main id="main">
+
+  <section class="section">
+    <div class="shell">
+      <p class="eyebrow reveal">About</p>
+      <h1 class="reveal">The SaaS bill was<br>$847 a month.</h1>
+      <p class="lede reveal">SteelWorks Intelligence was founded in 2026 by Mac Steel in
+        Acworth, Georgia, to make autonomous business operation something a single
+        operator can actually run.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="shell grid grid-2">
+      <figure class="reveal flush">
+        <img src="/assets/brand/profile-photo.png" width="800" height="800"
+             alt="Mac Steel, founder of SteelWorks Intelligence.">
+        <figcaption class="fine">Mac Steel &mdash; @therealmacsteel</figcaption>
+      </figure>
+      <div class="reveal">
+        <h2>Why it exists</h2>
+        <p>Clay for enrichment. Zapier for automation. Apollo for prospecting. Manus for
+          AI workflows. None of them knew the others existed, none of them got smarter,
+          and together they cost $847 a month.</p>
+        <p>So the tools were replaced with agents that share one memory, one gate and one
+          kill switch &mdash; and the whole stack was rebuilt on things that cost nothing
+          to run.</p>
+        <div class="receipt">
+          <dl>
+            <dt>founded</dt><dd>2026, Acworth GA</dd>
+            <dt>replaced SaaS spend</dt><dd>$847/mo</dd>
+            <dt>paid APIs in the stack</dt><dd>0</dd>
+            <dt>revenue, honestly</dt><dd>$0</dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="shell">
+      <hr class="rule">
+      <div class="stack pad-t">
+        <p class="eyebrow reveal">What you can read</p>
+        <h2 class="reveal">The receipts are public.</h2>
+        <p class="reveal">Every figure on this site is pulled from the running system,
+          including the ones that are not flattering. If a number here is wrong, it is
+          wrong in public.</p>
+        <p class="cluster reveal">
+          <a class="btn btn-ghost" href="/index.html">See the live receipt <svg class="ti" aria-hidden="true"><use href="/assets/vendor/tabler/icons.svg#ti-arrow-right"></use></svg></a>
+        </p>
+        <form class="capture reveal" action="https://swi-leads.macsmacpro.workers.dev/api/lead" method="post">
+          <label class="visually-hidden" for="email">Email address</label>
+          <input id="email" name="email" type="email" required placeholder="you@company.com" autocomplete="email">
+          <button class="btn" type="submit">Get the free stack <svg class="ti" aria-hidden="true"><use href="/assets/vendor/tabler/icons.svg#ti-mail"></use></svg></button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="opportunity-cta" id="business-opportunity-cta">
+    <p class="eyebrow">SteelWorks Intelligence</p>
+    <h2>Turn this into a working AI business system</h2>
+    <p>Get the practical OpenClaw setup resources, then follow the live build as the system improves itself.</p>
+    <div class="opportunity-cta-actions">
+      <a class="btn btn-primary" href="https://macsmacpro.gumroad.com">View Gumroad Products</a>
+      <a class="btn btn-secondary" href="newsletter/">Join the Build Log</a>
+    </div>
+  </section>
+
+</main>
+
+<!-- steelworks:footer -->
+<footer class="site-footer">
+
+  <div class="shell">
+    <hr class="rule">
+    <div class="footer-links">
+      <a href="/index.html">Home</a>
+      <a href="/services.html">Services</a>
+      <a href="/free-ai-business-stack.html">Free AI Stack</a>
+      <a href="/products/index.html">Products</a>
+      <a href="/blog/index.html">Blog</a>
+      <a href="/about.html">About</a>
+      <a href="/contact.html">Contact</a>
+      <a href="/ventures/index.html">Ventures</a>
+      <a href="/podcast/index.html">Podcast</a>
+      <a href="/newsletter/index.html">Newsletter</a>
+      <a href="/campaigns/index.html">Campaigns</a>
+      <a href="https://github.com/therealmacsteel" rel="noopener">
+        <svg class="ti" aria-hidden="true"><use href="/assets/vendor/tabler/icons.svg#ti-brand-github"></use></svg>
+        GitHub
+      </a>
+    </div>
+    <p class="mono">SteelWorks Intelligence LLC — Acworth, GA. Built and operated by an autonomous agent fleet. <!--STATS:STAMP-->Live-derived from fleet state · verified 2026-09-10<!--/STATS:STAMP--></p>
+  </div>
+</footer>
+<!-- /steelworks:footer -->
+
+<script src="/assets/capture.js" defer></script>
+</body>
+</html>

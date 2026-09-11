@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Business OS Setup Guide, $47 — SteelWorks Intelligence</title>
+<meta name="description" content="The configs, routing patterns, cron templates, and scripts behind the SteelWorks free-first autonomous business stack. One-time $47 on Gumroad. No paid API lane, no subscriptions.">
+<link rel="icon" href="/favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&family=JetBrains+Mono:wght@400;700&display=swap">
+<link rel="stylesheet" href="/assets/components.css">
+<!--
+  design-knowledge: style-systems.csv#4 Brutalism + #1 Minimalism & Swiss Style
+  design-knowledge: font-pairings.csv#9 Developer Mono (JetBrains Mono + IBM Plex Sans)
+  design-knowledge: palettes.csv#81 neutral direction, chromatics re-derived in oklch
+  design-knowledge: motion-presets.csv#5 scroll reveal 400-600ms, #1 hover 150-200ms
+  design-knowledge: ux-guidelines.csv focus visibility, 44px targets, reduced motion
+  design-knowledge: huashu design-styles.md:31 oklch convergence (2 chromatics, 150 deg apart)
+  Decisions of record: data/org/web-design-decisions.md
+-->
+</head>
+<body>
+
+<!-- steelworks:header -->
+<a class="skip-link" href="#main">
+Skip to content</a>
+<header class="site-header">
+  <div class="shell">
+    <a class="brand" href="/index.html">
+      <svg class="ti" aria-hidden="true"><use href="/assets/vendor/tabler/icons.svg#ti-terminal-2"></use></svg>
+      SteelWorks
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="/index.html">Home</a>
+      <a href="/products/index.html">Products</a>
+      <a href="/ai-search-visibility.html">AI Visibility</a>
+      <a href="/services.html">Services</a>
+      <a href="/about.html">About</a>
+      <a href="/contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+<!-- /steelworks:header -->
+
+<main id="main">
+
+  <section class="section">
+    <div class="shell">
+      <p class="eyebrow reveal">SteelWorks</p>
+      <h1 class="reveal">The Business OS Setup Guide, $47 — SteelWorks Intelligence</h1>
+      <p class="lede reveal">You are not just paying for software. You are paying for someone else’s servers, someone else’s roadmap, and someone else’s margin, every month.</p>
+      <p class="cluster reveal">
+        <a class="btn" href="https://macsmacpro.gumroad.com/l/dkhfzd">Buy on Gumroad <svg class="ti" aria-hidden="true"><use href="/assets/vendor/tabler/icons.svg#ti-building-store"></use></svg></a>
+      </p>
+    </div>
+  </section>
+
+
+  <section class="section">
+    <div class="shell">
+      <figure class="reveal flush">
+        <img src="/assets/img/generated/products-business-os-guide-html.png" width="768" height="576" alt="The Business OS Setup Guide, $47 — SteelWorks Intelligence">
+      </figure>
+    </div>
+  </section>
+
+
+  <section class="section">
+    <div class="shell stack">
+      <h2 class="reveal">Why rent a stack you could own?</h2>
+      <p class="reveal">You are not just paying for software. You are paying for someone else’s servers, someone else’s roadmap, and someone else’s margin, every month.</p>
+      <p class="reveal">CRMs, outreach tools, analytics, content schedulers: much of this can be replicated with a well-configured agent and a few hundred lines of Python. The guide gives you the build we use, not a concept.</p>
+      <p class="reveal">Zapier costs money. Make costs money. Custom integrations need developers. Agents running on your own machine share context natively, with no webhooks and no automation-tier upsell between you and your data.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="shell stack">
+      <h2 class="reveal">Renting capabilities you could run yourself</h2>
+      <p class="reveal">CRMs, outreach tools, analytics, content schedulers: much of this can be replicated with a well-configured agent and a few hundred lines of Python. The guide gives you the build we use, not a concept.</p>
+      <p class="reveal">Zapier costs money. Make costs money. Custom integrations need developers. Agents running on your own machine share context natively, with no webhooks and no automation-tier upsell between you and your data.</p>
+      <p class="reveal">Every SaaS you depend on is one pricing-page update away from taking more of your margin. When you own the agents, scripts, and databases, you negotiate with no one, and when a better model ships you switch fast.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="shell stack">
+      <h2 class="reveal">A stack that cannot talk to itself</h2>
+      <p class="reveal">Zapier costs money. Make costs money. Custom integrations need developers. Agents running on your own machine share context natively, with no webhooks and no automation-tier upsell between you and your data.</p>
+      <p class="reveal">Every SaaS you depend on is one pricing-page update away from taking more of your margin. When you own the agents, scripts, and databases, you negotiate with no one, and when a better model ships you switch fast.</p>
+      <p class="reveal">The actual files behind the stack, organized into a setup order: configs, scripts, templates, and step-by-step docs.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="shell stack">
+      <h2 class="reveal">Vendor lock-in kills your leverage</h2>
+      <p class="reveal">Every SaaS you depend on is one pricing-page update away from taking more of your margin. When you own the agents, scripts, and databases, you negotiate with no one, and when a better model ships you switch fast.</p>
+      <p class="reveal">The actual files behind the stack, organized into a setup order: configs, scripts, templates, and step-by-step docs.</p>
+      <p class="reveal">The SteelWorks team structure across executive, operations, sales, marketing, production, R&amp;D, legal, accounting, procurement, analytics, trading, and support, documented with responsibilities, routing rules, and handoff points.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="shell stack">
+      <h2 class="reveal">What one payment buys.</h2>
+      <p class="reveal">The actual files behind the stack, organized into a setup order: configs, scripts, templates, and step-by-step docs.</p>
+      <p class="reveal">The SteelWorks team structure across executive, operations, sales, marketing, production, R&amp;D, legal, accounting, procurement, analytics, trading, and support, documented with responsibilities, routing rules, and handoff points.</p>
+      <p class="reveal">The architecture for routing heavy work to local Ollama models, online research to free browser bridges, and overflow to free cloud fallbacks. Includes bridge server, Chrome config, route table, and health checks.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="shell stack">
+      <h2 class="reveal">Agent operating map</h2>
+      <p class="reveal">The SteelWorks team structure across executive, operations, sales, marketing, production, R&amp;D, legal, accounting, procurement, analytics, trading, and support, documented with responsibilities, routing rules, and handoff points.</p>
+      <p class="reveal">The architecture for routing heavy work to local Ollama models, online research to free browser bridges, and overflow to free cloud fallbacks. Includes bridge server, Chrome config, route table, and health checks.</p>
+      <p class="reveal">Production cron templates covering executive briefs, competitor monitoring, SEO rank checks, social posting, lead scraping, trading research, and system health checks, with free-tier load controls and fallback patterns.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="shell">
+      <hr class="rule">
+      <div class="stack pad-t">
+        <h2 class="reveal">Get the free stack.</h2>
+        <form class="capture reveal" action="https://swi-leads.macsmacpro.workers.dev/api/lead" method="post">
+          <label class="visually-hidden" for="email">Email address</label>
+          <input id="email" name="email" type="email" required placeholder="you@company.com" autocomplete="email">
+          <button class="btn" type="submit">Send it <svg class="ti" aria-hidden="true"><use href="/assets/vendor/tabler/icons.svg#ti-mail"></use></svg></button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<!-- steelworks:footer -->
+<footer class="site-footer">
+
+  <div class="shell">
+    <hr class="rule">
+    <div class="footer-links">
+      <a href="/index.html">Home</a>
+      <a href="/services.html">Services</a>
+      <a href="/free-ai-business-stack.html">Free AI Stack</a>
+      <a href="/products/index.html">Products</a>
+      <a href="/blog/index.html">Blog</a>
+      <a href="/about.html">About</a>
+      <a href="/contact.html">Contact</a>
+      <a href="/ventures/index.html">Ventures</a>
+      <a href="/podcast/index.html">Podcast</a>
+      <a href="/newsletter/index.html">Newsletter</a>
+      <a href="/campaigns/index.html">Campaigns</a>
+      <a href="https://github.com/therealmacsteel" rel="noopener">
+        <svg class="ti" aria-hidden="true"><use href="/assets/vendor/tabler/icons.svg#ti-brand-github"></use></svg>
+        GitHub
+      </a>
+    </div>
+    <p class="mono">SteelWorks Intelligence LLC — Acworth, GA. Built and operated by an autonomous agent fleet. <!--STATS:STAMP-->Live-derived from fleet state · verified 2026-09-10<!--/STATS:STAMP--></p>
+  </div>
+</footer>
+<!-- /steelworks:footer -->
+
+<script src="/assets/capture.js" defer></script>
+</body>
+</html>
