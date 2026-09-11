@@ -1,17 +1,17 @@
 # Deploy — SteelWorks Intelligence
 
-SteelWorks Intelligence is the business brand. `https://therealmacsteel.github.io/` is the canonical public domain and the free GitHub Pages hosting surface tied to the existing therealmacsteel GitHub account.
+SteelWorks Intelligence is the business brand. `https://steelworksintelligence.com/` is the canonical public domain and the free GitHub Pages hosting surface tied to the existing therealmacsteel GitHub account.
 
-Public layer: `therealmacsteel.github.io`.
+Public layer: `steelworksintelligence.com`.
 
-Free-first rule: do not buy domains, paid hosting, paid DNS, paid deploy tooling, or paid analytics. All visible copy, metadata, schema, `llms.txt`, and offers must present SteelWorks Intelligence as the operating brand while using `https://therealmacsteel.github.io/` as the live public URL.
+Free-first rule: do not buy domains, paid hosting, paid DNS, paid deploy tooling, or paid analytics. All visible copy, metadata, schema, `llms.txt`, and offers must present SteelWorks Intelligence as the operating brand while using `https://steelworksintelligence.com/` as the live public URL.
 
 ## GitHub Pages Setup (Free, < 10 minutes)
 
 ### Step 1 — Create GitHub Repository
 
 1. Go to github.com and sign in
-2. Create new repository named: `therealmacsteel.github.io`
+2. Create new repository named: `steelworksintelligence.com`
    - **Important:** name must match `<yourusername>.github.io` exactly
    - Set visibility: Public
    - Do NOT initialize with README
@@ -26,7 +26,7 @@ git init
 git add .
 git commit -m "Initial website build — The Real Mac Steel"
 git branch -M main
-git remote add origin https://github.com/therealmacsteel/therealmacsteel.github.io.git
+git remote add origin https://github.com/therealmacsteel/steelworksintelligence.com.git
 git push -u origin main
 ```
 
@@ -37,7 +37,7 @@ git push -u origin main
 3. Branch: `main` / `/ (root)`
 4. Save
 
-Canonical public site goes live at: `https://therealmacsteel.github.io` within 2-5 minutes.
+Canonical public site goes live at: `https://steelworksintelligence.com` within 2-5 minutes.
 
 ---
 
@@ -61,7 +61,7 @@ Add these DNS records:
 | A     | @    | 185.199.109.153           |
 | A     | @    | 185.199.110.153           |
 | A     | @    | 185.199.111.153           |
-| CNAME | www  | therealmacsteel.github.io |
+| CNAME | www  | steelworksintelligence.com |
 
 DNS propagation: 5-30 minutes (sometimes up to 24h)
 

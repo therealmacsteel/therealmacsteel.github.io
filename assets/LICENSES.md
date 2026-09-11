@@ -1,4 +1,4 @@
-# Media licenses — therealmacsteel.github.io
+# Media licenses — steelworksintelligence.com
 
 Every media asset on this site is recorded here with its origin and license.
 Rail: no fabricated numbers as decoration; all media license-recorded.
