@@ -188,7 +188,7 @@ Skip to content</a>
     </a>
     <nav class="site-nav" aria-label="Primary">
       <a href="/services.html">Services</a>
-      <a href="/services.html#assessments">Assessments</a>
+      <a href="/assessments.html">Assessments</a>
       <a href="/products/index.html">Resources</a>
       <a href="/about.html">About</a>
       <a href="/contact.html">Contact</a>
@@ -333,8 +333,9 @@ Skip to content</a>
           </p>
         </article>
       </div>
-      <p class="fine pad-t reveal">Not sure which one? Run the <a href="/tools/readiness-check.html">free AI answer readiness check</a>
-        on your own URL first &mdash; it is the same ten checks we run on our pages.</p>
+      <p class="fine pad-t reveal">Not sure which one? <a href="/assessments.html">Compare the three</a>, or run the
+        <a href="/tools/readiness-check.html">free AI answer readiness check</a> on your own URL first &mdash; it is the
+        same ten checks we run on our pages.</p>
     </div>
   </section>
 
@@ -399,25 +400,28 @@ Skip to content</a>
     <div class="shell grid grid-2 pad-t">
       <div class="reveal">
         <p class="eyebrow">Real audits</p>
-        <h3>Four Atlanta-area businesses, audited 2026&#8209;09&#8209;01. Same checks you would get.</h3>
+        <h3>Four real businesses from our audit log. Same checks you would get.</h3>
         <p>Names withheld until the owners say yes; the scores and the findings are exactly what
-          the report said.</p>
-        <!-- data-proof rows: the real audit results from data/org/pivot/audit-proof.jsonl. -->
+          each report said. Rows and the scorecard beside them are redrawn from the audit log on
+          every deploy.</p>
+        <!-- data-proof rows: rewritten by scripts/brand_visuals.py --proof-table from
+             data/org/pivot/audit-proof.jsonl on every website_sync. -->
         <div class="receipt" data-proof="table">
           <dl>
-            <dt><strong>Real estate brokerage, Marietta</strong><small>firewall turning away AI crawlers &middot; no llms.txt &middot; no LocalBusiness schema</small></dt><dd class="score">62<span class="fine">/100</span></dd>
-            <dt><strong>Veterinary clinic, Atlanta</strong><small>no llms.txt &middot; weak homepage description &middot; weak title tag</small></dt><dd class="score">54<span class="fine">/100</span></dd>
-            <dt><strong>Nail salon, Roswell</strong><small>no llms.txt &middot; no LocalBusiness schema &middot; no clear headline</small></dt><dd class="score">33<span class="fine">/100</span></dd>
-            <dt><strong>Law firm, Atlanta</strong><small>no llms.txt &middot; no LocalBusiness schema &middot; weak description</small></dt><dd class="score">27<span class="fine">/100</span></dd>
+            <dt><strong>Dentist, Kennesaw</strong><small>Put your name, address and phone on the homepage — and in the schema, identically · Add Organization/LocalBusiness JSON-LD schema · audited 2026-09-04</small></dt><dd class="score">65<span class="fine">/100</span></dd>
+            <dt><strong>Hairdresser, Marietta</strong><small>Put your name, address and phone on the homepage — and in the schema, identically · Publish your real reviews on the site with AggregateRating schema · audited 2026-09-07</small></dt><dd class="score">51<span class="fine">/100</span></dd>
+            <dt><strong>Insurance, Woodstock</strong><small>Put your name, address and phone on the homepage — and in the schema, identically · Publish a sitemap.xml · audited 2026-09-05</small></dt><dd class="score">46<span class="fine">/100</span></dd>
+            <dt><strong>Beauty, Marietta</strong><small>Put your name, address and phone on the homepage — and in the schema, identically · Add an llms.txt file · audited 2026-09-04</small></dt><dd class="score">30<span class="fine">/100</span></dd>
           </dl>
         </div>
-        <p class="fine">One of the four was turning away AI crawlers at the firewall without knowing
-          it. That business is invisible to every assistant, whatever its Google ranking.</p>
+        <p class="fine">The most common miss is the simplest: a business whose name, address and phone
+          are not stated identically on the page and in its schema. An assistant that cannot
+          confirm who you are will not recommend you, whatever your Google ranking.</p>
       </div>
       <figure class="reveal">
-        <img src="/assets/img/machined-steel.jpg" width="800" height="600" loading="lazy"
-             alt="Machined steel under measurement — the audit reports what it measured, not what it assumed.">
-        <figcaption class="fine">Measured, not guessed. Every score line maps to a listed check.</figcaption>
+        <img src="/assets/img/brand/fleet-map.svg" width="1200" height="750" loading="lazy"
+             alt="The SteelWorks fleet: every unit and its agent count, drawn from the org record">
+        <figcaption class="fine">The fleet that ran these audits, drawn from the org record on every deploy.</figcaption>
       </figure>
     </div>
   </section>
@@ -536,7 +540,7 @@ Skip to content</a>
           <li><a href="/tools/readiness-check.html">Free AI answer readiness check</a></li>
           <li><a href="/products/ai-search-readiness.html">AI Search Readiness Audit</a></li>
           <li><a href="/services/ai-security-audit.html">AI Security &amp; Risk Audit</a></li>
-          <li><a href="/services.html#assessments">Digital Intelligence Assessment</a></li>
+          <li><a href="/assessments.html#digital">Digital Intelligence Assessment</a></li>
         </ul>
       </div>
       <div>
