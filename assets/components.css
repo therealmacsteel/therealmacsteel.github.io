@@ -103,6 +103,7 @@ a:hover { color: var(--ink-100); }
    stroke 1.5 (not the 2 default), butt caps + miter joins = square terminals
    matching the mono/receipt identity. Monochrome, inherits currentColor.   */
 .ti {
+  display: inline-block;            /* the reset makes svg block; an icon sits in the line */
   width: 1.25em; height: 1.25em;
   stroke: currentColor;
   stroke-width: 1.5;
@@ -286,3 +287,149 @@ figure img { max-width: min(100%, 32rem); }
 figure.hero img { max-width: 100%; }
 .fine { font-family: var(--font-display); font-size: var(--step--1); color: var(--ink-300); }
 figcaption.fine { padding-top: 0.75rem; }
+
+/* ==========================================================================
+   2026-09-11 — shared card system, resource library, product template, shell v2.
+   Root cause of the "pages all out of whack" report: six generators wrote
+   website/products/ with six templates and no shared card. One card, one grid,
+   one product page, one header/footer — all defined HERE and nowhere else.
+   Citations: style-systems.csv#4 brutalism (square, no shadow), ux-guidelines.csv
+   (44px targets, visible focus), motion-presets.csv#7 stagger.
+   ========================================================================== */
+
+/* --- resource grid + card ---------------------------------------------------- */
+.rgrid {
+  display: grid; gap: var(--gutter);
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 17rem), 1fr));
+  align-items: stretch;
+}
+.rcard {
+  display: flex; flex-direction: column; min-width: 0;
+  background: var(--ink-700); border: 1px solid var(--ink-500);
+  transition: border-color var(--dur-hover) var(--ease), transform var(--dur-hover) var(--ease);
+}
+.rcard:hover { border-color: var(--ink-300); transform: translateY(-2px); }
+.rcard-visual { display: block; background: var(--ink-900); border-bottom: 1px solid var(--ink-500); }
+.rcard-visual img { width: 100%; max-width: 100%; aspect-ratio: 16 / 10; object-fit: cover; }
+.rcard-body { display: flex; flex-direction: column; gap: 0.5rem; padding: var(--gutter); flex: 1 1 auto; }
+.rcard-body h3 { font-size: calc(var(--step-0) * 1.1); margin: 0; }
+.rcard-body p { margin: 0; color: var(--ink-300); font-size: var(--step--1); max-width: none; }
+.rcard-tag {
+  display: inline-flex; align-items: center; gap: 0.4rem; margin: 0;
+  font-family: var(--font-display); font-size: var(--step--1);
+  text-transform: uppercase; letter-spacing: 0.1em; color: var(--signal);
+}
+.rcard-tag .ti { width: 1em; height: 1em; }
+.rcard-foot {
+  display: flex; align-items: center; justify-content: space-between; gap: 0.75rem; flex-wrap: wrap;
+  padding: 0 var(--gutter) var(--gutter);
+}
+.price { font-family: var(--font-display); font-weight: 700; color: var(--ink-100); }
+.btn-sm { padding: 0.5rem 0.9rem; font-size: var(--step--1); min-height: 40px; }
+
+/* --- page intro / breadcrumb ------------------------------------------------ */
+.page-intro { padding-bottom: clamp(2rem, 5vw, 3rem); }
+.page-intro .cluster { padding-top: 0.5rem; }
+.crumbs {
+  display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;
+  padding-top: var(--gutter); font-family: var(--font-display); font-size: var(--step--1);
+}
+.crumbs a { display: inline-flex; align-items: center; gap: 0.35rem; text-decoration: none; }
+
+/* --- product template ------------------------------------------------------- */
+.product-hero {
+  display: grid; gap: var(--gutter); align-items: center;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr));
+}
+.product-hero-copy { min-width: 0; }
+.product-visual { margin: 0; border: 1px solid var(--ink-500); background: var(--ink-900); }
+.product-visual img { width: 100%; max-width: 100%; aspect-ratio: 16 / 10; object-fit: cover; }
+.product-hero h1 { font-size: var(--step-2); }
+.product-body { align-items: start; }
+.product-body h3 { font-size: var(--step-0); margin-top: 1.5em; }
+.library > .section { padding-block: clamp(2rem, 5vw, 3.5rem); }
+.product-body h2 { font-size: var(--step-1); }
+.product-body ul, .product-body ol { padding-left: 1.2rem; }
+.stack-tight { margin: 0 0 1em; padding-left: 1.2rem; }
+.stack-tight > * + * { margin-top: 0.35rem; }
+
+/* --- disclosure (FAQ, collapsed catalogue sections) -------------------------- */
+details { border: 1px solid var(--ink-500); padding: 0.9rem var(--gutter); background: color-mix(in oklch, var(--ink-700) 60%, transparent); }
+details + details { margin-top: 0.5rem; }
+summary {
+  cursor: pointer; list-style: none; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: baseline;
+  font-family: var(--font-display); min-height: 24px;
+}
+summary::-webkit-details-marker { display: none; }
+summary::before { content: "+"; color: var(--signal); font-weight: 700; flex: none; }
+details[open] > summary::before { content: "\2013"; }
+details > :not(summary) { margin-top: 0.75rem; }
+details > p:last-child { margin-bottom: 0; }
+summary .eyebrow { margin: 0; }
+
+/* --- figures inside a two-column grid must fill the column ---------------------
+   The home page proof section put a <figure> beside a tall receipt; the figure
+   sat at the top with dead space beneath it (operator screenshot, 2026-09-11).
+   A figure that shares a row stretches to the row and covers it.            */
+.grid-2 > figure { margin: 0; align-self: stretch; display: flex; position: relative; }
+.grid-2 > figure img { width: 100%; max-width: 100%; height: 100%; min-height: 16rem; object-fit: cover; }
+.grid-2 > figure figcaption {
+  position: absolute; left: 0; right: 0; bottom: 0; padding: 0.6rem var(--gutter);
+  background: color-mix(in oklch, var(--ink-900) 85%, transparent);
+}
+
+/* --- home: hero, pillars, offers ---------------------------------------------- */
+.hero { padding-block: clamp(3.5rem, 9vw, 7rem) clamp(2.5rem, 6vw, 4rem); }
+.hero h1 { max-width: 22ch; }
+.hero .lede { max-width: var(--measure); }
+.hero .cluster { padding-top: 0.5rem; }
+.pillars { grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); }
+.pillars .card { display: flex; flex-direction: column; gap: 0.5rem; }
+.pillars .card p { margin: 0; color: var(--ink-300); font-size: var(--step--1); max-width: none; }
+.pillars .card h3 { font-size: calc(var(--step-0) * 1.1); margin: 0; }
+.pillars .card a.more { margin-top: auto; padding-top: 0.5rem; font-family: var(--font-display); font-size: var(--step--1); text-decoration: none; display: inline-flex; gap: 0.35rem; align-items: center; }
+.offer { display: flex; flex-direction: column; gap: 0.5rem; }
+.offer .price { font-size: var(--step-1); color: var(--signal); }
+.offer p { max-width: none; }
+.offer .cluster { margin-top: auto; padding-top: 0.75rem; }
+.facts { display: grid; gap: var(--gutter); grid-template-columns: repeat(auto-fit, minmax(min(100%, 10rem), 1fr)); }
+.facts .metric { font-size: var(--step-2); }
+.facts p { margin: 0; color: var(--ink-300); font-size: var(--step--1); max-width: none; }
+
+/* --- shell v2: nav CTA + grouped footer ------------------------------------------ */
+.site-nav .btn { padding: 0.5rem 0.9rem; min-height: 40px; font-size: var(--step--1); color: var(--signal-ink); }
+.site-nav .btn:hover { color: var(--signal-ink); }
+.footer-grid { display: grid; gap: var(--gutter); grid-template-columns: repeat(auto-fit, minmax(min(100%, 11rem), 1fr)); }
+.footer-grid h2 { font-size: var(--step--1); text-transform: uppercase; letter-spacing: 0.12em; color: var(--ink-100); margin: 0 0 0.6rem; }
+.footer-grid ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.35rem; }
+.footer-grid a { color: var(--ink-300); text-decoration: none; }
+.footer-grid a:hover { color: var(--ink-100); }
+.footer-meta { display: flex; flex-wrap: wrap; gap: 1rem 1.5rem; align-items: center; justify-content: space-between; padding-top: 1.5rem; border-top: 1px solid var(--ink-500); }
+@media (max-width: 40rem) {
+  .site-header .shell { flex-wrap: wrap; row-gap: 0.75rem; }
+  .site-nav { flex-wrap: wrap; gap: 0.75rem 1rem; width: 100%; }
+}
+
+/* --- home: pillar rows (Swiss numbered rows, not an icon-card grid) -----------
+   design_antipattern_audit HARD-fails three or more identical icon+heading cards;
+   the four pillars are rows: number and heading left, copy and link right.  */
+.pillar-list { border-top: 1px solid var(--ink-500); }
+.pillar {
+  display: grid; gap: var(--gutter); padding-block: clamp(1.5rem, 4vw, 2.5rem);
+  border-bottom: 1px solid var(--ink-500);
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+}
+@media (min-width: 48rem) { .pillar { grid-template-columns: minmax(0, 2fr) minmax(0, 3fr); } }
+.pillar-head { display: flex; gap: 1rem; align-items: baseline; }
+.pillar-head .metric { font-size: var(--step-1); flex: none; }
+.pillar-head h3 { margin: 0; font-size: var(--step-1); }
+.pillar-body p { margin: 0 0 0.75rem; max-width: none; color: var(--ink-300); }
+.pillar-body a.more, .pillars .card a.more {
+  font-family: var(--font-display); font-size: var(--step--1); text-decoration: none;
+  display: inline-flex; gap: 0.35rem; align-items: center;
+}
+.receipt dd a { color: var(--link); }
+/* an icon inside a filled button takes the button's ink, never the card accent —
+   .card .ti painted amber-on-amber and the arrow vanished (home, 2026-09-11). */
+.card .btn .ti, .btn .ti { color: currentColor; }
+.hero .fine { margin-top: 1.25rem; }
