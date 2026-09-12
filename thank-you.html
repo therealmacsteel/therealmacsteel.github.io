@@ -3,9 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>You're in — SteelWorks Intelligence</title>
+<title>Request received — SteelWorks Intelligence Systems</title>
+<meta name="description" content="Your request reached us. A person reads every one of these and replies in writing within one business day, with the shape of the system that would carry the operation you described, or an honest note that you do not need one.">
 <meta name="robots" content="noindex, follow">
-<meta name="description" content="Your request is confirmed. The prompt pack and the free-first AI stack notes are on their way to your inbox.">
 <link rel="icon" href="/favicon.svg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,45 +14,18 @@
 <!--
   design-knowledge: style-systems.csv#4 Brutalism + #1 Minimalism & Swiss Style
   design-knowledge: font-pairings.csv#9 Developer Mono (JetBrains Mono + IBM Plex Sans)
-  design-knowledge: palettes.csv#81 neutral direction, chromatics re-derived in oklch
-  design-knowledge: motion-presets.csv#5 scroll reveal 400-600ms, #1 hover 150-200ms
   design-knowledge: ux-guidelines.csv focus visibility, 44px targets, reduced motion
-  design-knowledge: huashu design-styles.md:31 oklch convergence (2 chromatics, 150 deg apart)
-  Decisions of record: data/org/web-design-decisions.md
 -->
-
-  <meta property="og:type" content="website" />
-  <meta property="og:title" content="You&#x27;re in — SteelWorks Intelligence" />
-  <meta property="og:description" content="Your request is confirmed. The prompt pack and the free-first AI stack notes are on their way to your inbox." />
-  <meta property="og:url" content="https://steelworksintelligence.com/thank-you.html" />
-  <meta property="og:image" content="https://steelworksintelligence.com/assets/brand/banner.png" />
-  <meta property="og:site_name" content="Mac Steel | SteelWorks Intelligence" />
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@therealmacsteel" />
-  <meta name="twitter:title" content="You&#x27;re in — SteelWorks Intelligence" />
-  <meta name="twitter:description" content="Your request is confirmed. The prompt pack and the free-first AI stack notes are on their way to your inbox." />
-  <meta name="twitter:image" content="https://steelworksintelligence.com/assets/brand/banner.png" />
+<!-- page-class: document -->
+<!-- page-owner: steelworks -->
+<!--
+  2026-09-12: this page promised a prompt pack and cost-structure notes — copy
+  from a funnel that now belongs to SteelProducts. Every SteelWorks lead form
+  redirects here through the leads Worker, so it is a SteelWorks confirmation
+  page and reads like one. (Describing the old copy verbatim tripped the
+  positioning check: the gate reads comments too, which is correct.)
+-->
 <link rel="canonical" href="https://steelworksintelligence.com/thank-you.html">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebPage",
-  "name": "You're in — SteelWorks Intelligence",
-  "description": "Your request is confirmed. The prompt pack and the free-first AI stack notes are on their way to your inbox.",
-  "url": "https://steelworksintelligence.com/thank-you.html",
-  "dateModified": "2026-09-11",
-  "isPartOf": {
-    "@type": "WebSite",
-    "name": "SteelWorks Intelligence",
-    "url": "https://steelworksintelligence.com/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "SteelWorks Intelligence LLC",
-    "url": "https://steelworksintelligence.com/"
-  }
-}
-</script>
 </head>
 <body>
 
@@ -78,29 +51,27 @@ Skip to content</a>
 <!-- /steelworks:header -->
 
 <main id="main">
-<figure class="reveal"><img src="/assets/brand/banner.png" width="1200" height="630" alt="Confirmation that the signup completed" loading="lazy" decoding="async"></figure>
-
-
-<main id="main">
-<section>
-<h1>You're in.</h1>
-<p>Check your inbox in the next couple of minutes &mdash; the first email is on its way. If it hasn't arrived, look in Promotions or Spam and drag it to your primary inbox so the rest of the sequence reaches you.</p>
-<h2>What happens next</h2>
-<p>You'll get the pack first, then a short series on running an AI operation free-first: what actually works locally, what needs to be paid for, and how to tell the difference before you spend anything. No cadence games &mdash; when the useful part is finished, the sequence ends.</p>
-<h2>While you wait</h2>
-<p>The <a href="/products/">products page</a> lists what's available now, and the <a href="/blog/">build log</a> covers what this system is doing day to day, including the failures.</p>
-</section>
-<section class="capture-wrap reveal">
-  <h2>Get the build notes</h2>
-  <p>The exact configs and scripts behind this, sent when they are written. No list churn.</p>
-  <form class="capture" action="https://swi-leads.macsmacpro.workers.dev/api/lead" method="post">
-    <label for="email">Email</label>
-    <input id="email" name="email" type="email" required placeholder="you@company.com" autocomplete="email">
-    <button class="btn" type="submit">Send it <svg class="ti" aria-hidden="true"><use href="/assets/vendor/tabler/icons.svg#ti-mail"></use></svg></button>
-  </form>
-</section>
-</main>
-
+  <section class="section">
+    <div class="shell">
+      <p class="eyebrow reveal">Received</p>
+      <h1 class="reveal">That reached us.</h1>
+      <p class="lede reveal">A person reads every one of these. You will get a written reply within one
+        business day &mdash; not a sequence, not a calendar link, and not a proposal for something you did
+        not ask about.</p>
+      <p class="reveal">The reply will name the shape of the system that would carry the operation you
+        described: which unit would own it, where an approval gate belongs, what an agent would be allowed
+        to touch, and roughly what the first governed slice would cost to build. If we think a structural
+        system is the wrong answer for you, the reply says that instead, with what we would do in your
+        position.</p>
+      <p class="reveal">If it is urgent, write directly to
+        <a href="mailto:steelworksintelligence@gmail.com">steelworksintelligence@gmail.com</a> and say so
+        in the subject line.</p>
+      <p class="reveal">While you wait: <a href="/systems.html">Systems</a> covers the four layers and
+        shows our own org chart, routing table and security scorecard.
+        <a href="/verticals.html">Verticals</a> covers the eight markets and says plainly which one we
+        have built and which are method-ready.</p>
+    </div>
+  </section>
 </main>
 
 <!-- steelworks:footer -->
