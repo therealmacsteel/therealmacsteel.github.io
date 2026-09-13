@@ -18,7 +18,7 @@
 (function () {
   "use strict";
   var ENDPOINT = "https://swi-leads.macsmacpro.workers.dev/api/lead";
-  var FALLBACK = "steelworksintelligence@gmail.com";
+  var FALLBACK = "admin@steelworksintelligence.com";
 
   function note(form, text, ok) {
     var el = form.querySelector(".capture-msg");

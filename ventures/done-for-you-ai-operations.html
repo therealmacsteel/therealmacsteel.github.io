@@ -89,8 +89,8 @@ try{const r=await fetch('https://swi-leads.macsmacpro.workers.dev/api/lead',{met
 headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name.value,email:email.value,company:biz.value,
 notes:sink.value,source:'venture:service-tier'})});const d=await r.json();
 if(d.ok){m.style.color='#1f7a5c';m.textContent='✓ Got it: we\'ll reach out within 48 hours to book your scoping call.';document.getElementById('f').reset();}
-else{m.style.color='#ff7b72';m.textContent='Didn\'t go through ('+(d.error||('HTTP '+r.status))+'). Email steelworksintelligence@gmail.com and we\'ll reply.';}}
-catch(e){m.style.color='#ff7b72';m.textContent='Couldn\'t reach the signup server. Email steelworksintelligence@gmail.com and we\'ll reply.';}return false;}</script>
+else{m.style.color='#ff7b72';m.textContent='Didn\'t go through ('+(d.error||('HTTP '+r.status))+'). Email admin@steelworksintelligence.com and we\'ll reply.';}}
+catch(e){m.style.color='#ff7b72';m.textContent='Couldn\'t reach the signup server. Email admin@steelworksintelligence.com and we\'ll reply.';}return false;}</script>
 
   <section class="section">
     <div class="shell">
