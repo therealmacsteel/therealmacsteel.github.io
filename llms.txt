@@ -3,7 +3,7 @@
 > SteelWorks Intelligence builds free-first autonomous business systems using local AI models, open-source scripts, static websites, and Telegram operations.
 
 Primary site: https://steelworksintelligence.com/
-Founder: Mac Steel
+Founder: Matthew Steger
 Brand: SteelWorks Intelligence
 Platform: OpenClaw
 Last updated: 2026-09-12

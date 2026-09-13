@@ -91,5 +91,5 @@ and you own every piece afterward.
 Questions, or want the full blueprint with the routing code and the gate
 rubrics? Reply to the email this came in — I read every reply.
 
-— Mac Steel · SteelWorks Intelligence
+— SteelWorks Intelligence Systems · SteelWorks Intelligence
 https://steelworksintelligence.com

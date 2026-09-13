@@ -24,7 +24,7 @@ Run from terminal:
 cd ~/openclaw/website
 git init
 git add .
-git commit -m "Initial website build — The Real Mac Steel"
+git commit -m "Initial website build — The Real SteelWorks Intelligence Systems"
 git branch -M main
 git remote add origin https://github.com/therealmacsteel/steelworksintelligence.com.git
 git push -u origin main
@@ -55,12 +55,12 @@ Only use this section if Mac explicitly confirms a separate domain is owned and 
 
 Add these DNS records:
 
-| Type  | Name | Value                     |
-| ----- | ---- | ------------------------- |
-| A     | @    | 185.199.108.153           |
-| A     | @    | 185.199.109.153           |
-| A     | @    | 185.199.110.153           |
-| A     | @    | 185.199.111.153           |
+| Type  | Name | Value                      |
+| ----- | ---- | -------------------------- |
+| A     | @    | 185.199.108.153            |
+| A     | @    | 185.199.109.153            |
+| A     | @    | 185.199.110.153            |
+| A     | @    | 185.199.111.153            |
 | CNAME | www  | steelworksintelligence.com |
 
 DNS propagation: 5-30 minutes (sometimes up to 24h)

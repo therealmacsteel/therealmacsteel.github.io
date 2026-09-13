@@ -1,5 +1,5 @@
 /* ============================================================
-   THE REAL MAC STEEL — Global JS
+   SteelWorks Intelligence Systems — Global JS
    ============================================================ */
 
 // ── Nav scroll effect ──
