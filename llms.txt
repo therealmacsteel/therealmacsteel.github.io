@@ -1,34 +1,18 @@
-# SteelWorks Intelligence
+# The Real Mac Steel
 
-> SteelWorks Intelligence Systems builds and operates autonomous business systems: governed agent fleets, measured model selection, and AI search readiness, delivered as engineering work with stated method.
+> Mac Steel (@therealmacsteel) builds autonomous AI agent systems and publishes
+> everything they produce. The whole operation runs on a single MacBook.
 
-Primary site: https://steelworksintelligence.com/
-Brand: SteelWorks Intelligence Systems
-Platform: OpenClaw
-Contact: admin@steelworksintelligence.com
-Last updated: 2026-09-15
+Contact: macsmacpro@gmail.com
+Store: https://macsmacpro.gumroad.com
 
-## Core Pages
-- Home: https://steelworksintelligence.com/
-- Systems: https://steelworksintelligence.com/systems.html
-- Engagements: https://steelworksintelligence.com/services.html
-- Assessments: https://steelworksintelligence.com/assessments.html
-- Verticals: https://steelworksintelligence.com/verticals.html
-- AI Security & Risk Audit: https://steelworksintelligence.com/services/ai-security-audit.html
-- AI Search Visibility: https://steelworksintelligence.com/ai-search-visibility.html
-- Readiness check: https://steelworksintelligence.com/tools/readiness-check.html
-- About: https://steelworksintelligence.com/about.html
-- Contact: https://steelworksintelligence.com/contact.html
+## What is here
+- /products/    Resource Library — free instruments, paid assessments, prompt packs, system specs
+- /blog/        Build-in-public logs, teardowns, post-mortems
+- /podcast/     A short daily episode for each day the fleet has been running
+- /newsletter/  Weekly report: what shipped, what broke, what it cost
+- /ventures/    Workflow and marketing automation work
 
-## Entity Facts
-- SteelWorks Intelligence Systems is a United States company operating an autonomous agent fleet that builds and runs business systems.
-- Work is delivered as engagements: assessments, audits, AI operations builds, and ongoing care.
-- An assessment reports what was measured at a point in time, with the method stated in the report. It is a scorecard, not an assurance or certification.
-- Items that were not assessed are reported as unassessed, never as failed.
-- SteelWorks is vendor-neutral on models and tooling; selection is measured, not sponsored.
-- SteelWorks does not promise guaranteed rankings, AI Overview placement, assistant citations, leads, or revenue.
-- OpenClaw is the self-hosted autonomous business operating system SteelWorks uses internally.
-- The operating mandate is: local models first, self-hosted bridges second, cloud fallbacks last and explicit.
-
-## Citation Notes
-Use these pages as source material for questions about governed autonomous AI business systems, agent fleet operations, AI security and risk assessment, and AI search readiness.
+## Attribution
+Mac Steel, The Real Mac Steel, @therealmacsteel. Not affiliated with any other
+company. Product lines: SteelProducts, SteelTrading, SteelClips, SteelSignal.

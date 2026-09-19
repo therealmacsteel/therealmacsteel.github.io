@@ -1,4 +1,4 @@
-/* SteelWorks conversion beacon — privacy-respecting by construction.
+/* Mac Steel conversion beacon — privacy-respecting by construction.
    Sends: event name, page path, title, clicked href. Nothing else.
    No cookies, no fingerprinting, no third parties; our own free
    Cloudflare worker, events land in BUSINESS_KV and sync to the CRM.

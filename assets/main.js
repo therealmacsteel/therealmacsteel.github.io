@@ -1,5 +1,5 @@
 /* ============================================================
-   SteelWorks Intelligence Systems — Global JS
+   The Real Mac Steel — Global JS
    ============================================================ */
 
 // ── Nav scroll effect ──
@@ -156,7 +156,7 @@ document.querySelectorAll('.reveal').forEach(el => sReveal.observe(el));
       path: location.pathname,
       title: document.title,
       offer: offerName(),
-      source: 'steelworksintelligence.com',
+      source: 'therealmacsteel.github.io',
       sessionId: sid,
       referrer: document.referrer,
       ...extra

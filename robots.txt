@@ -1,4 +1,5 @@
+# therealmacsteel.github.io
 User-agent: *
 Allow: /
 
-Sitemap: https://steelworksintelligence.com/sitemap.xml
+Sitemap: https://therealmacsteel.github.io/sitemap.xml

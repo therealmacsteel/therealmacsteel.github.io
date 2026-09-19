@@ -1,24 +1,34 @@
 /* capture.js — the ONE lead-capture handler for the whole site.
 
-   Why this exists: on 2026-08-07 the site was posting leads to three different
-   endpoints. Measured against the live worker:
+   HISTORY. On 2026-08-07 this file was written to end a real defect: the site
+   posted leads to three endpoints, two of which 404'd, and six pages silently
+   dropped every submission while showing the visitor nothing. The rule it
+   established still holds and is the reason this rewrite is careful: NEVER show
+   a confirmation you did not earn.
 
-     POST /api/lead    -> 400 on an empty body  (EXISTS, validates)
-     POST /subscribe   -> 404                   (DEAD — 6 pages used it)
-     POST /api/leads   -> 404                   (DEAD — 1 page used it)
+   2026-09-19 — REWRITTEN AT THE IDENTITY SPLIT.
+   The endpoint this file used belonged to a different company's account and was
+   still wired into every form on what is now the Mac Steel site. Left alone it
+   would have delivered Mac Steel's leads into someone else's funnel: not a
+   broken form, a misrouted one, which is worse because it looks like it works.
+   (The retired endpoint is named in the repo history, not here — this file is
+   served to visitors.)
 
-   Every lead submitted through those six pages went nowhere, and the visitor was
-   shown nothing to suggest it had failed. The worker also expects JSON, while a
-   plain <form action> posts form-encoded — so those pages were wrong twice over.
+   Mac Steel has no lead API of its own yet. Rather than invent an endpoint or
+   point at something unverified, this hands the visitor off to a real inbox:
+   their mail client opens with the message prefilled, and they can see it
+   leave. Nothing is claimed to have been received that has not been.
 
-   One handler, one endpoint, and it NEVER claims success it did not get: the
-   confirmation only appears when the worker returns ok, and a failure tells the
-   visitor how to reach a human instead of silently swallowing the lead. */
+   WHEN A REAL ENDPOINT EXISTS: set ENDPOINT below and the original POST path
+   comes back — but only wire it to a worker on a Mac Steel account, and only
+   after confirming it returns ok on a real submission. */
 
 (function () {
   "use strict";
-  var ENDPOINT = "https://swi-leads.macsmacpro.workers.dev/api/lead";
-  var FALLBACK = "admin@steelworksintelligence.com";
+
+  // No Mac Steel lead endpoint yet. Empty means "hand off to email".
+  var ENDPOINT = "";
+  var INBOX = "macsmacpro@gmail.com";
 
   function note(form, text, ok) {
     var el = form.querySelector(".capture-msg");
@@ -32,87 +42,85 @@
     el.dataset.state = ok ? "ok" : "error";
   }
 
+  function field(form, sel) {
+    var el = form.querySelector(sel);
+    return el && el.value ? String(el.value).trim() : "";
+  }
+
+  function collect(form) {
+    return {
+      name: field(form, 'input[name="name"]'),
+      email: field(form, 'input[type="email"]'),
+      website: field(form, 'input[name="website"]'),
+      offer: field(form, 'select[name="offer"], input[name="offer"]'),
+      message: field(form, 'textarea[name="message"]'),
+      source: field(form, 'input[name="source"]') || location.pathname
+    };
+  }
+
+  function mailtoFor(d) {
+    var subject = d.offer ? ("Mac Steel — " + d.offer) : "Mac Steel — enquiry";
+    var lines = [];
+    if (d.name) { lines.push("Name: " + d.name); }
+    if (d.email) { lines.push("Email: " + d.email); }
+    if (d.website) { lines.push("Website: " + d.website); }
+    if (d.offer) { lines.push("Interested in: " + d.offer); }
+    if (d.message) { lines.push("", d.message); }
+    lines.push("", "— sent from " + location.href);
+    return "mailto:" + INBOX +
+      "?subject=" + encodeURIComponent(subject) +
+      "&body=" + encodeURIComponent(lines.join("\n"));
+  }
+
   function wire(form) {
     form.addEventListener("submit", function (e) {
       e.preventDefault();
-      var email = form.querySelector('input[type="email"]');
-      if (!email || !email.value) { return; }
-      // 2026-09-02: the free-preview capture asks for the visitor's website so
-      // the audit runner has a domain to check. Carried in `company` (the
-      // worker's existing schema) and as `website`; absent on plain email forms.
-      var site = form.querySelector('input[name="website"]');
-      var srcEl = form.querySelector('input[name="source"]');
-      // services form (2026-09-02): name, the offer they picked, a message.
-      var nameEl = form.querySelector('input[name="name"]');
-      var offerEl = form.querySelector('select[name="offer"], input[name="offer"]');
-      var msgEl = form.querySelector('textarea[name="message"]');
+      var d = collect(form);
+      if (!d.email) {
+        note(form, "An email address is needed so there is somewhere to reply.", false);
+        return;
+      }
+
+      if (!ENDPOINT) {
+        // Opening the mail client is the whole delivery. Say exactly that —
+        // "thanks, we'll be in touch" would be a claim about a message that has
+        // not been sent yet and that only the visitor can send.
+        window.location.href = mailtoFor(d);
+        note(form,
+          "Your email app should be opening with this ready to send. " +
+          "If nothing happened, write to " + INBOX + " directly.", true);
+        return;
+      }
+
       var btn = form.querySelector("button");
       if (btn) { btn.disabled = true; }
       note(form, "Sending…", true);
-
-      // 2026-09-03 client onboarding: a form whose hidden source starts with
-      // "onboarding:" is a post-purchase intake — every named field goes up
-      // (the worker keeps them under `extra`), and the source is sent raw so
-      // venture_leads_pull can route it to the client record.
-      var isOnboarding = !!(srcEl && /^onboarding:/.test(srcEl.value || ""));
-      var payloadObj = {
-        name: nameEl && nameEl.value ? nameEl.value : "",
-        email: email.value,
-        company: site && site.value ? site.value : "",
-        website: site && site.value ? site.value : "",
-        offer: offerEl && offerEl.value ? offerEl.value : "",
-        message: msgEl && msgEl.value ? msgEl.value : "",
-        source: isOnboarding ? srcEl.value
-          : "web:" + location.pathname + (srcEl && srcEl.value ? "#" + srcEl.value : "")
-      };
-      if (isOnboarding) {
-        Array.prototype.forEach.call(form.querySelectorAll("[name]"), function (el) {
-          if (el.name && !(el.name in payloadObj) && el.value) { payloadObj[el.name] = el.value; }
-        });
-      }
       fetch(ENDPOINT, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(payloadObj)
-      })
-        .then(function (r) { return r.json().catch(function () { return { ok: false, error: "HTTP " + r.status }; }); })
-        .then(function (d) {
-          if (d && d.ok) {
-            note(form, "Got it — check your inbox.", true);
-            form.reset();
-          } else {
-            // Honest failure. A capture that fails must say so, not pretend.
-            note(form, "That didn't go through (" + ((d && d.error) || "unknown") +
-                       "). Email " + FALLBACK + " and I'll reply.", false);
-          }
-        })
-        .catch(function () {
-          note(form, "Couldn't reach the signup server. Email " + FALLBACK + " and I'll reply.", false);
-        })
-        .finally(function () { if (btn) { btn.disabled = false; } });
+        body: JSON.stringify(d)
+      }).then(function (r) {
+        if (!r.ok) { throw new Error("status " + r.status); }
+        note(form, "Got it. You'll hear back at " + d.email + ".", true);
+        form.reset();
+      }).catch(function () {
+        // The original rule: a failure tells the visitor how to reach a human,
+        // it never swallows the lead behind a success message.
+        note(form, "That did not go through. Please email " + INBOX + " instead.", false);
+      }).then(function () {
+        if (btn) { btn.disabled = false; }
+      });
     });
   }
 
-  document.addEventListener("DOMContentLoaded", function () {
-    Array.prototype.forEach.call(document.querySelectorAll("form.capture"), wire);
-  });
-})();
+  function init() {
+    var forms = document.querySelectorAll("form.capture, form[data-capture]");
+    for (var i = 0; i < forms.length; i++) { wire(forms[i]); }
+  }
 
-/* pageview beacon (2026-08-09): the site had zero traffic measurement.
-   Count only — path, no query string, no IP/UA/cookie stored. sendBeacon so
-   it never blocks navigation; fetch keepalive as the fallback. */
-(function () {
-  "use strict";
-  try {
-    var HIT = "https://swi-leads.macsmacpro.workers.dev/api/hit";
-    var payload = JSON.stringify({ path: location.pathname });
-    /* text/plain is CORS-safelisted; an application/json Blob makes
-       sendBeacon require a preflight it cannot perform, and the browser
-       silently drops the beacon — measured live 2026-08-09. */
-    if (navigator.sendBeacon) {
-      navigator.sendBeacon(HIT, payload);
-    } else {
-      fetch(HIT, { method: "POST", body: payload, keepalive: true });
-    }
-  } catch (e) { /* a lost count must never break a page */ }
-})();
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init);
+  } else {
+    init();
+  }
+}());
