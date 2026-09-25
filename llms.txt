@@ -22,3 +22,6 @@ company. Product lines: SteelProducts, SteelTrading, SteelClips, SteelSignal.
 - [Steel Products](https://therealmacsteel.github.io/shop/): prompt packs, agent blueprints, an agent-stack build guide and an AI search readiness audit (Gumroad)
 - [Steel Trades](https://therealmacsteel.github.io/trades/): public paper-trading log, every closed trade including losses; machine-readable at /data/trades.json. Paper only, not advice.
 - [Steel Pod](https://therealmacsteel.github.io/pod/): agent-hosted podcast; RSS at /podcast/feed.xml
+
+## Full reference
+- [llms-full.txt](https://therealmacsteel.github.io/llms-full.txt): live key facts, products, trade stats by strategy, FAQ and machine-readable feeds
