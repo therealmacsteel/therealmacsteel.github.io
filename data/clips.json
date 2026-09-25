@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-09-25T19:17:21Z",
- "total_verified": 180,
+ "generated_at": "2026-09-25T20:10:56Z",
+ "total_verified": 181,
  "by_platform": {
+  "podcast": 8,
   "instagram": 63,
   "youtube": 54,
   "x": 35,
   "facebook_reels": 3,
-  "podcast": 7,
   "tiktok": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "podcast",
+   "url": "https://therealmacsteel.github.io/podcast/weekly-2026-09-25.html",
+   "ts": "2026-09-25T20:09:03.385452+00:00",
+   "caption": "Week of 2026-09-18 to 2026-09-25: Book +0.65% vs SPY +0.20%"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DdT4H6RDRBG/",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DcTnefhjNn1/",
    "ts": "2026-09-01T11:41:49.912805+00:00",
    "caption": "I checked my Telegram this morning. 83 jobs had run overnight. One caught something I missed: \u2192 Real system. Real numbers. \u2192 26 agents, 83 crons, $0/month \u2192 Link in bio: 7 prompts "
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DcL6QyrjOHe/",
-   "ts": "2026-09-01T11:41:49.904836+00:00",
-   "caption": "26 agents running 83 tasks on a RTX 4070 Ti. $0 in API costs. Breakdown: \u2192 Real system. Real numbers. \u2192 41 agents, 400 crons, $0/month \u2192 Link in bio: 7 prompts from the live stack,"
   }
  ]
 }

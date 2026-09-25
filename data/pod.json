@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-09-25T19:17:23Z",
- "total": 42,
+ "generated_at": "2026-09-25T20:10:58Z",
+ "total": 43,
  "feed": "/podcast/feed.xml",
  "items": [
+  {
+   "title": "Week of 2026-09-18 to 2026-09-25: Book +0.65% vs SPY +0.20%",
+   "date": "2026-09-25",
+   "url": "/podcast/weekly-2026-09-25.html",
+   "audio": "/podcast/audio/weekly-2026-09-25.mp3",
+   "summary": "Since the book started on 2026-09-25, the Steel Trades book is up +0.65% after costs, while SPY is up +0.20%, a difference of +0.45 points. One position to note: SSO, 496 shares, average cost $70.13, last $70.96, up +1.1"
+  },
   {
    "title": "Day 105: While most entrepreneurs were asleep, this system published 6 posts, ran quantit",
    "date": "2026-08-24",
@@ -205,13 +212,6 @@
    "url": "/podcast/daily-2026-06-24.html",
    "audio": "/podcast/audio/daily-2026-06-24.mp3",
    "summary": "Day 44 \u2014 June 24, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline \u2014 without a single human touch. That"
-  },
-  {
-   "title": "Day 43 \u2014 June 23, 2026 \u2014 Mac Steel Podcast",
-   "date": "2026-06-23",
-   "url": "/podcast/daily-2026-06-23.html",
-   "audio": "/podcast/audio/daily-2026-06-23.mp3",
-   "summary": "Day 43 \u2014 June 23, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline \u2014 without a single human touch. That"
   }
  ]
 }
