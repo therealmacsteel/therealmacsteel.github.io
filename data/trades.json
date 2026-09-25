@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-25T14:17:28Z",
+ "generated_at": "2026-09-25T14:21:52Z",
  "mode": "PAPER",
- "disclaimer": "Paper trading only - simulated positions, no real money, no orders sent. Not investment advice. Losses are published as they happen.",
+ "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
  "closed_total": 230,
  "excluded_unmarkable": 64,
@@ -663,5 +663,165 @@
    "pnl_pct": -4.5,
    "opened": "2026-09-21"
   }
- ]
+ ],
+ "book": {
+  "mode": "PAPER",
+  "inception": "2026-09-25",
+  "capital": 69769.61,
+  "nav": 69724.89,
+  "book_pct": -0.06,
+  "spy_pct": -0.36,
+  "days": 1,
+  "positions": [
+   {
+    "symbol": "DBC",
+    "qty": 86.0
+   },
+   {
+    "symbol": "EEM",
+    "qty": 35.0
+   },
+   {
+    "symbol": "EFA",
+    "qty": 43.0
+   },
+   {
+    "symbol": "GLD",
+    "qty": 6.0
+   },
+   {
+    "symbol": "HYG",
+    "qty": 201.0
+   },
+   {
+    "symbol": "IWM",
+    "qty": 16.0
+   },
+   {
+    "symbol": "QQQ",
+    "qty": 3.0
+   },
+   {
+    "symbol": "SLV",
+    "qty": 27.0
+   },
+   {
+    "symbol": "SPY",
+    "qty": 6.0
+   },
+   {
+    "symbol": "SSO",
+    "qty": 496.0
+   },
+   {
+    "symbol": "UUP",
+    "qty": 420.0
+   },
+   {
+    "symbol": "VNQ",
+    "qty": 50.0
+   }
+  ],
+  "sleeves": {
+   "B": "SSO when SPY > 200-day average, else BIL",
+   "T": "15-ETF trend (3/6/9/12m), inverse-vol, 15% vol target, gross <= 1.8, 25% cap"
+  },
+  "risk": "daily loss -4%: no increases; drawdown -15%: halve; -25%: flat + halt",
+  "shadow_costs": 91.9,
+  "curve": [
+   {
+    "date": "2026-09-25",
+    "nav": 69724.89,
+    "book_pct": -0.06,
+    "spy_pct": -0.36
+   }
+  ],
+  "fills": [
+   {
+    "date": "2026-09-25",
+    "symbol": "VNQ",
+    "side": "buy",
+    "qty": 50.0,
+    "price": 91.1
+   },
+   {
+    "date": "2026-09-25",
+    "symbol": "UUP",
+    "side": "buy",
+    "qty": 420.0,
+    "price": 28.62
+   },
+   {
+    "date": "2026-09-25",
+    "symbol": "SSO",
+    "side": "buy",
+    "qty": 496.0,
+    "price": 70.13
+   },
+   {
+    "date": "2026-09-25",
+    "symbol": "SPY",
+    "side": "buy",
+    "qty": 6.0,
+    "price": 766.59
+   },
+   {
+    "date": "2026-09-25",
+    "symbol": "SLV",
+    "side": "buy",
+    "qty": 27.0,
+    "price": 57.59
+   },
+   {
+    "date": "2026-09-25",
+    "symbol": "QQQ",
+    "side": "buy",
+    "qty": 3.0,
+    "price": 740.08
+   },
+   {
+    "date": "2026-09-25",
+    "symbol": "IWM",
+    "side": "buy",
+    "qty": 16.0,
+    "price": 280.75
+   },
+   {
+    "date": "2026-09-25",
+    "symbol": "HYG",
+    "side": "buy",
+    "qty": 201.0,
+    "price": 77.75
+   },
+   {
+    "date": "2026-09-25",
+    "symbol": "GLD",
+    "side": "buy",
+    "qty": 6.0,
+    "price": 391.17
+   },
+   {
+    "date": "2026-09-25",
+    "symbol": "EFA",
+    "side": "buy",
+    "qty": 43.0,
+    "price": 104.9
+   },
+   {
+    "date": "2026-09-25",
+    "symbol": "EEM",
+    "side": "buy",
+    "qty": 35.0,
+    "price": 67.65
+   },
+   {
+    "date": "2026-09-25",
+    "symbol": "DBC",
+    "side": "buy",
+    "qty": 86.0,
+    "price": 32.76
+   }
+  ],
+  "backtest": "Both pre-registered backtests FAILED the bar vs SPY (CAGR 9.32% / 14.08% vs 11.20%; Sharpe 0.58 / 0.61). The book runs to measure, not to claim."
+ }
 }

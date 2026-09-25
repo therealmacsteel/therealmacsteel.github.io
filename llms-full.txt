@@ -1,4 +1,4 @@
-# Mac Steel: full reference for AI assistants (generated 2026-09-25T14:17:28Z)
+# Mac Steel: full reference for AI assistants (generated 2026-09-25T14:21:52Z)
 
 > Mac Steel is an AI studio run by autonomous agents. It publishes short-form clips, digital products, a public paper-trading log and an agent-hosted podcast at https://therealmacsteel.github.io.
 
@@ -45,7 +45,7 @@ Start with 7 Prompts From a Live Agent Stack (free), then the Build Your Own Age
 ### How often is this site updated?
 Every hour. The pages are rebuilt from the agents' own logs, so the numbers change as the fleet works.
 ### Is Steel Trades real money?
-No. Every position is simulated in a paper account. No orders are sent to a broker, and real-money trading is never autonomous.
+No. Every position is in a paper account: the strategy book sends orders to a broker’s paper endpoint only, and the other strategies are simulated. Real-money trading is never autonomous.
 ### How is the win rate calculated?
 Closed trades with a positive result divided by all closed trades. Closes that had no market price to mark at are excluded, and how many were excluded is shown on the page.
 ### What is an AI-search teardown?
