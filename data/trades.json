@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-09-25T12:17:18Z",
+ "generated_at": "2026-09-25T13:17:21Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - simulated positions, no real money, no orders sent. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
  "closed_total": 227,
- "excluded_unmarkable": 63,
+ "excluded_unmarkable": 64,
  "win_rate": 0.238,
  "avg_trade_pct": -3.26,
- "open_total": 170,
- "open_avg_pct": 0.51,
+ "open_total": 169,
+ "open_avg_pct": 0.57,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,8 +576,8 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 2394.18,
-   "mark": 2682.97,
-   "pnl_pct": 12.06,
+   "mark": 2715.18,
+   "pnl_pct": 13.41,
    "opened": "2026-09-02"
   },
   {
@@ -585,8 +585,8 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 76912.71,
-   "mark": 84169.85,
-   "pnl_pct": 9.44,
+   "mark": 84416.24,
+   "pnl_pct": 9.76,
    "opened": "2026-09-02"
   },
   {
@@ -628,15 +628,6 @@
    "opened": "2026-09-20"
   },
   {
-   "asset": "DIA",
-   "lane": "Options (simulated)",
-   "side": "long",
-   "entry": 4.95,
-   "mark": 4.48,
-   "pnl_pct": -9.49,
-   "opened": "2026-09-24"
-  },
-  {
    "asset": "EWZ",
    "lane": "Macro ETFs",
    "side": "long",
@@ -646,12 +637,21 @@
    "opened": "2026-09-10"
   },
   {
+   "asset": "MLM",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 502.43,
+   "mark": 480.01,
+   "pnl_pct": -4.46,
+   "opened": "2026-09-10"
+  },
+  {
    "asset": "TLT",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 83.06,
-   "mark": 79.19,
-   "pnl_pct": -4.66,
+   "mark": 79.5,
+   "pnl_pct": -4.29,
    "opened": "2026-08-25"
   },
   {
@@ -659,8 +659,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 83.06,
-   "mark": 79.19,
-   "pnl_pct": -4.66,
+   "mark": 79.5,
+   "pnl_pct": -4.29,
    "opened": "2026-08-25"
   }
  ]
