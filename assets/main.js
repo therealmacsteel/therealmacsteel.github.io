@@ -127,7 +127,10 @@ document.querySelectorAll('.reveal').forEach(el => sReveal.observe(el));
 
 // ── Privacy-light conversion tracking ──
 (() => {
-  const endpoint = 'https://swi-chatbot.macsmacpro.workers.dev/track';
+  // 2026-09-24: the old tracking worker belongs to SteelWorks Intelligence (separate
+  // company, separate Cloudflare account). Mac Steel sends visitor data nowhere
+  // until it has its own endpoint. track() is a no-op while endpoint is null.
+  const endpoint = null;
   const sidKey = 'swi_sid';
   let sid = '';
   try {
@@ -150,6 +153,7 @@ document.querySelectorAll('.reveal').forEach(el => sReveal.observe(el));
   }
 
   function track(event, extra = {}) {
+    if (!endpoint) return;
     const payload = {
       event,
       page: location.href,

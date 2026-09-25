@@ -6,8 +6,10 @@
    already live — this file then only aliases it (no double counting). */
 (function () {
   if (window.SWITrack) { window.swTrack = function (e, x) { window.SWITrack(e, x); }; return; }
-  var EP = 'https://swi-chatbot.macsmacpro.workers.dev/track';
+  // 2026-09-24: endpoint removed (it was SteelWorks' worker). No data leaves the page.
+  var EP = null;
   function send(event, extra) {
+    if (!EP) return;
     var payload = {
       event: event,
       page: location.hostname + location.pathname,

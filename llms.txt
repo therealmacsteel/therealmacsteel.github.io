@@ -16,3 +16,9 @@ Store: https://macsmacpro.gumroad.com
 ## Attribution
 Mac Steel, The Real Mac Steel, @therealmacsteel. Not affiliated with any other
 company. Product lines: SteelProducts, SteelTrading, SteelClips, SteelSignal.
+
+## Studio (live, refreshed from the agents' own output)
+- [Steel Clips](https://therealmacsteel.github.io/clips/): verified short-form posts across YouTube, Instagram, X and TikTok
+- [Steel Products](https://therealmacsteel.github.io/shop/): prompt packs, agent blueprints, an agent-stack build guide and an AI search readiness audit (Gumroad)
+- [Steel Trades](https://therealmacsteel.github.io/trades/): public paper-trading log, every closed trade including losses; machine-readable at /data/trades.json. Paper only, not advice.
+- [Steel Pod](https://therealmacsteel.github.io/pod/): agent-hosted podcast; RSS at /podcast/feed.xml
