@@ -1,26 +1,12 @@
 {
- "generated_at": "2026-09-25T11:17:10Z",
+ "generated_at": "2026-09-25T12:11:30Z",
  "store": "https://macsmacpro.gumroad.com",
  "items": [
-  {
-   "slug": "inner-circle",
-   "name": "Mac Steel Inner Circle",
-   "url": "https://macsmacpro.gumroad.com/l/lzcfw",
-   "description": "",
-   "image": null
-  },
   {
    "slug": "agent-stack",
    "name": "Build Your Own Agent Stack",
    "url": "https://macsmacpro.gumroad.com/l/dkhfzd",
    "description": "The complete build for a self-hosted AI agent system that runs your business 24/7 \u2014 on hardware you already own, for $0/month in API costs. This is the guide to the system in the screenshots: 41 specialised agents running 377 scheduled jobs across 10 free providers, on one Mac. Not a theory of how you might build one. 14 pages, six sections: What it does right now \u2014 the actual jobs the system performs daily, so you know what you are building toward. The $0/month architecture \u2014 the core concept, the stack layer by layer, the free providers, the routing logic that picks a model per task, and the exact .env to create. Agent structure \u2014 all 41 agents \u2014 the full directory with each agent's role, the IDENTITY.md system that defines them, and how memory and skills attach. The cron system \u2014 the commands you will actually use, and how jobs are grouped so they do not all fire at once. The bridge architecture \u2014 how the pieces talk, and the key files to know. Getting started checklist \u2014 install, keys, Chrome bridge, then editing each identity for your own niche. What this is not: a hosted product, a course, or a one-click installer. You will be editing config files and reading logs. If that sounds like work rather than a hobby, this is the wrong purchase. On the numbers: the agent and job counts in this guide are generated from the running system each time it is built, not typed in. If you see 41 agents on this page, the guide says 41 too.",
-   "image": null
-  },
-  {
-   "slug": "blueprints",
-   "name": "Autonomous Agent Blueprints \u2014 5 Real Workflows from a Working AI Business System",
-   "url": "https://macsmacpro.gumroad.com/l/stqefcm",
-   "description": "What if I showed you exactly how my AI system works \u2014 not theory, not a course, the actual scripts? This is 5 technical blueprints pulled straight from the OpenClaw system running my business right now. Every blueprint documents a real workflow: what it does, what you need, how to set it up, the exact commands to run, and what to expect. **What's inside:** **01 \u2014 The 5-Platform Content Pipeline** One Python script. One topic. Five platforms simultaneously \u2014 TikTok, YouTube, Instagram, Twitter, Facebook. AI generates the concept, writes the script, produces the video, and posts everything in a single command. 3\u20138 minutes start to finish. **02 \u2014 The AI Creative Director** A script that researches 14 top creators in your niche before any content gets made. Pulls live signals from Hacker News and Reddit. Produces a specific brief: exact opening line, angle, visual direction, what to avoid. Runs automatically before every post. **03 \u2014 The Zero-Cost Social Posting System** Direct API posting to TikTok and Instagram \u2014 no browser, no Selenium, no manual login. Two-step upload: presign \u2192 S3 \u2192 post. Returns a live URL. Used by the full pipeline automatically. **04 \u2014 The Free AI Voice Generator** Professional-quality voiceover for every video, free, no API key. The Kokoro tts.ai engine generates broadcast-quality narration, polls for completion, converts to MP3 via ffmpeg. Plugs into the video pipeline automatically. **05 \u2014 The Autonomous Agent Schedule** The scheduling layer that makes everything run without you. 88 cron jobs, 18 specialized agents, failure alerts to Telegram. Full setup guide \u2014 starter 5-cron schedule included, copy-paste commands ready. --- **Each blueprint includes:** - What it is (plain English) - Exact requirements (no surprise dependencies) - Step-by-step setup - Copy-paste commands - Expected output (what success looks like) - Troubleshooting table --- **This is for you if:** - You've done some AI automation and want to see how a full system fits together - You're building a content or lead-gen operation and want real infrastructure, not tutorial demos - You want to run agents on a schedule without a SaaS subscription **This is not:** - A beginner intro to AI - A video course - Theoretical advice about automation --- **Requirements:** - Python 3.9+ - macOS (scripts use macOS tools; adaptable to Linux) - At least one free AI API key (Groq, Gemini, Mistral, or Cerebras \u2014 all have free tiers) - ffmpeg (free, one install command) --- Questions? Email printedrevolution@gmail.com or find me at @therealmacsteel. ---",
    "image": null
   },
   {

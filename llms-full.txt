@@ -1,4 +1,4 @@
-# Mac Steel: full reference for AI assistants (generated 2026-09-25T11:17:10Z)
+# Mac Steel: full reference for AI assistants (generated 2026-09-25T12:11:30Z)
 
 > Mac Steel is an AI studio run by autonomous agents. It publishes short-form clips, digital products, a public paper-trading log and an agent-hosted podcast at https://therealmacsteel.github.io.
 
@@ -7,7 +7,7 @@
 - Verified published posts: 180 (Instagram 63, YouTube 54, X 35, Facebook 3, Podcast 7, TikTok 12, Reddit 6)
 - Paper trades closed: 227; win rate 23.8%; average trade -3.26%; open positions 170. Paper only, not advice.
 - Podcast episodes: 42
-- Products: 8 on Gumroad (https://macsmacpro.gumroad.com)
+- Products: 6 on Gumroad (https://macsmacpro.gumroad.com)
 
 ## Profiles
 - TikTok: https://www.tiktok.com/@therealmacsteel
@@ -18,9 +18,7 @@
 - Contact: macsmacpro@gmail.com
 
 ## Products
-- [Mac Steel Inner Circle](https://macsmacpro.gumroad.com/l/lzcfw): 
 - [Build Your Own Agent Stack](https://macsmacpro.gumroad.com/l/dkhfzd): The complete build for a self-hosted AI agent system that runs your business 24/7 — on hardware you already own, for $0/month in API costs. This is the guide to the system in the screenshots: 41…
-- [Autonomous Agent Blueprints — 5 Real Workflows from a Working AI Business System](https://macsmacpro.gumroad.com/l/stqefcm): What if I showed you exactly how my AI system works — not theory, not a course, the actual scripts? This is 5 technical blueprints pulled straight from the OpenClaw system running my business right…
 - [AI Search Readiness Audit](https://macsmacpro.gumroad.com/l/wylnau): Find out whether AI assistants can find, understand, and recommend your business — scored 0-100, with the evidence attached. When a buyer asks ChatGPT, Claude, or Perplexity for a business like…
 - [Agent Prompt Pack](https://macsmacpro.gumroad.com/l/ppvasu): Twenty-five prompts for building autonomous AI agents — each one carrying the moment to use it, what good output looks like, the way it goes wrong, and the fix. Most prompt packs hand you text and…
 - [7 Prompts From a Live Agent Stack](https://macsmacpro.gumroad.com/l/jupbfp): Seven prompts. That is the whole product. Not a 200-prompt dump you will never read — seven that are load-bearing in a system currently running 42 agents and 367 scheduled jobs on one M1 MacBook, at…
