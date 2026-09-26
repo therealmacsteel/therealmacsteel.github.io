@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T13:17:20Z",
+ "generated_at": "2026-09-26T14:17:20Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
