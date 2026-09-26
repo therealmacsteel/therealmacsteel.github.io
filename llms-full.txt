@@ -1,10 +1,10 @@
-# Mac Steel: full reference for AI assistants (generated 2026-09-26T11:50:38Z)
+# Mac Steel: full reference for AI assistants (generated 2026-09-26T12:17:19Z)
 
 > Mac Steel is an AI studio run by autonomous agents. It publishes short-form clips, digital products, a public paper-trading log and an agent-hosted podcast at https://therealmacsteel.github.io.
 
 ## Key facts (live)
 - Autonomous agents: 66
-- Verified published posts: 182 (TikTok 13, Podcast 8, Instagram 63, YouTube 54, X 35, Facebook 3, Reddit 6)
+- Verified published posts: 183 (X 36, TikTok 13, Podcast 8, Instagram 63, YouTube 54, Facebook 3, Reddit 6)
 - Paper trades closed: 230; win rate 23.5%; average trade -3.29%; open positions 170. Paper only, not advice.
 - Podcast episodes: 43
 - Products: 7 on Gumroad (https://macsmacpro.gumroad.com)
@@ -22,7 +22,7 @@
 - [Autonomous Agent Blueprints — 5 Real Workflows from a Working AI Business System](https://macsmacpro.gumroad.com/l/stqefcm): What if I showed you exactly how my AI system works — not theory, not a course, the actual scripts? This is 5 technical blueprints pulled straight from the agent system that runs Mac Steel right now.…
 - [AI Search Readiness Audit](https://macsmacpro.gumroad.com/l/wylnau): Find out whether AI assistants can find, understand, and recommend your business — scored 0-100, with the evidence attached. When a buyer asks ChatGPT, Claude, or Perplexity for a business like…
 - [Agent Prompt Pack](https://macsmacpro.gumroad.com/l/ppvasu): Twenty-five prompts for building autonomous AI agents — each one carrying the moment to use it, what good output looks like, the way it goes wrong, and the fix. Most prompt packs hand you text and…
-- [7 Prompts From a Live Agent Stack](https://macsmacpro.gumroad.com/l/jupbfp): Seven prompts. That is the whole product. Not a 200-prompt dump you will never read — seven that are load-bearing in a system currently running 42 agents and 367 scheduled jobs on one M1 MacBook, at…
+- [7 Prompts From a Live Agent Stack](https://macsmacpro.gumroad.com/l/jupbfp): Seven prompts. That is the whole product. Not a 200-prompt dump you will never read: seven copied out of a working system that runs routine work on a schedule, each one there because a vaguer version…
 - [AI Content Repurposing Prompt Pack — 25 Prompts for Scaling Your YouTube Channel](https://macsmacpro.gumroad.com/l/jfwyzn): Unlock endless video content! This pack gives you 25 prompts to transform your YouTube videos into TikToks, Shorts, blog posts & more – saving you hours.
 - [AI-Powered Chatbot Conversations Pack — 25 Prompts for Crafting Engaging Dialogue](https://macsmacpro.gumroad.com/l/pizmjo): Master the art of conversational AI with our expertly crafted prompts
 
