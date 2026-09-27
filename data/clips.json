@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-09-27T11:17:19Z",
- "total_verified": 186,
+ "generated_at": "2026-09-27T12:17:18Z",
+ "total_verified": 187,
  "by_platform": {
+  "x": 37,
   "tiktok": 14,
   "instagram": 65,
-  "x": 36,
   "podcast": 8,
   "youtube": 54,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2104181466783752307",
+   "ts": "2026-09-27T12:09:16.828293+00:00",
+   "caption": "Tired of typing the same post five times? One command handles all platforms in 3\u20118 minutes. Try the 5\u2011Platform Content Pipeline now."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7689942249450261791",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DcoNcTpAhpy/",
    "ts": "2026-09-01T11:41:49.935467+00:00",
    "caption": "When a cron fails at 3am, here's the exact sequence that fixes it without waking me up: \u2192 Real system. Real numbers. \u2192 26 agents, 83 crons, $0/month \u2192 Link in bio: 7 prompts from t"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DclopmwEaHk/",
-   "ts": "2026-09-01T11:41:49.932596+00:00",
-   "caption": "What 26 AI agents actually produce in a week: \u2192 Real system. Real numbers. \u2192 44 agents, 465 crons, $0/month \u2192 Link in bio: 7 prompts from the live stack, free"
   }
  ]
 }
