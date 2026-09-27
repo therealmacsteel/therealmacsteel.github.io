@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-27T19:17:19Z",
- "total_verified": 190,
+ "generated_at": "2026-09-27T20:17:20Z",
+ "total_verified": 191,
  "by_platform": {
+  "facebook": 2,
   "tiktok": 15,
-  "facebook": 1,
   "x": 38,
   "instagram": 65,
   "podcast": 8,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/3695363483950032",
+   "ts": "2026-09-27T20:01:09.415344+00:00",
+   "caption": "Got 30 points for robots.txt? See how that boosts your AI visibility. You want AI assistants to find your dentist office, salon, law firm or clinic instantly. Our AI Search Readine"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7690255782968937758",
@@ -221,12 +227,6 @@
    "url": "https://www.youtube.com/shorts/q1P3eISbib8",
    "ts": "2026-09-01T18:18:50.949769+00:00",
    "caption": "Hook: I turned a small business gap into a free-first revenue campaign. Show: the page, the proof, the tracking. CTA: get the guide or watch the build. Track the build:"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Dcv73mciHU5/",
-   "ts": "2026-09-01T15:37:57.072100+00:00",
-   "caption": "26 agents running 83 tasks on a RTX 4070 Ti. $0 in API costs. Breakdown: \u2192 Real system. Real numbers. \u2192 44 agents, 528 crons, $0/month \u2192 Link in bio: 7 prompts from the live stack,"
   }
  ]
 }
