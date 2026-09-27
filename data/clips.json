@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-27T14:17:20Z",
- "total_verified": 187,
+ "generated_at": "2026-09-27T15:17:21Z",
+ "total_verified": 188,
  "by_platform": {
-  "x": 37,
+  "x": 38,
   "tiktok": 14,
   "instagram": 65,
   "podcast": 8,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2104226786234061056",
+   "ts": "2026-09-27T15:09:19.809834+00:00",
+   "caption": "Did you know your site could earn 30 points just by fixing robots.txt? You can boost your AI Search Readiness score and get found when anyone asks an assistant for a dentist. The a"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2104181466783752307",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DcqyPWOipld/",
    "ts": "2026-09-01T11:41:49.938354+00:00",
    "caption": "Day 121 building in public. 403 prospects found. $0 in costs. \u2192 Real system. Real numbers. \u2192 44 agents, 521 crons, $0/month \u2192 Link in bio: 7 prompts from the live stack, free"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DcoNcTpAhpy/",
-   "ts": "2026-09-01T11:41:49.935467+00:00",
-   "caption": "When a cron fails at 3am, here's the exact sequence that fixes it without waking me up: \u2192 Real system. Real numbers. \u2192 26 agents, 83 crons, $0/month \u2192 Link in bio: 7 prompts from t"
   }
  ]
 }
