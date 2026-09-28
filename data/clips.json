@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-09-28T18:17:18Z",
- "total_verified": 196,
+ "generated_at": "2026-09-28T19:17:20Z",
+ "total_verified": 197,
  "by_platform": {
+  "youtube": 55,
   "tiktok": 17,
   "facebook": 3,
   "x": 39,
   "instagram": 66,
   "podcast": 8,
-  "youtube": 54,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/1caa9Fr-Ry4",
+   "ts": "2026-09-28T18:17:29.704197+00:00",
+   "caption": "14 top creators studied before your first line. Automated brief supplies opening line, angle, visual direction, what to avoid. Full set of 5 blueprints available for $10."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7690626838208498975",
@@ -221,12 +227,6 @@
    "url": "https://www.youtube.com/shorts/hUJl1Osl4Hg",
    "ts": "2026-09-02T18:02:07.466309+00:00",
    "caption": "An Atlanta veterinary clinic scored 54/100 on AI search. Here's what's missing."
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Dcygq3ojaUy/",
-   "ts": "2026-09-02T15:38:00.562386+00:00",
-   "caption": "Found a revenue gap hiding in plain sight: Create Gumroad product for 'Pinterest'. A creator, consultant, or small business owner trying to turn organic attention into revenue. is "
   }
  ]
 }
