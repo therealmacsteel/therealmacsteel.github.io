@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-09-28T16:17:19Z",
- "total_verified": 194,
+ "generated_at": "2026-09-28T17:17:20Z",
+ "total_verified": 195,
  "by_platform": {
+  "facebook": 3,
   "x": 39,
   "instagram": 66,
   "tiktok": 16,
-  "facebook": 2,
   "podcast": 8,
   "youtube": 54,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/2022930121695241",
+   "ts": "2026-09-28T17:01:08.709872+00:00",
+   "caption": "Still uploading videos by hand? Blueprint 03 of 5 eliminates browser, manual login, and automation. Two\u2011step presign, upload, post gives you the live link instantly. It runs automa"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2104543849079247281",
@@ -221,12 +227,6 @@
    "url": "https://www.instagram.com/p/DcygoQ6iGMt/",
    "ts": "2026-09-02T15:38:00.516237+00:00",
    "caption": "An Atlanta veterinary clinic scored 54/100 on AI search. Here's what's missing. \u2192 no llms.txt (AI engines have no summary to read) \u2192 weak homepage description \u2192 weak title tag When"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2095121778829881746",
-   "ts": "2026-09-02T12:09:15.051394+00:00",
-   "caption": "Found a revenue gap hiding in plain sight: Create Gumroad product for 'Pinterest'. A creator, consultant, or small business owner trying to turn organic attention into revenue. is "
   }
  ]
 }
