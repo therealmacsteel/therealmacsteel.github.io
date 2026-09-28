@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T17:17:22Z",
+ "generated_at": "2026-09-28T18:17:20Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -8,7 +8,7 @@
  "win_rate": 0.231,
  "avg_trade_pct": -3.2,
  "open_total": 180,
- "open_avg_pct": 0.7,
+ "open_avg_pct": 0.8,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -581,22 +581,22 @@
    "opened": "2026-09-02"
   },
   {
-   "asset": "XLRE",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 45.26,
-   "mark": 41.3,
-   "pnl_pct": 8.73,
-   "opened": "2026-08-16"
+   "asset": "OLLI",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 78.25,
+   "mark": 85.24,
+   "pnl_pct": 8.94,
+   "opened": "2026-09-21"
   },
   {
-   "asset": "GDX",
+   "asset": "WEAT",
    "lane": "Shorts (simulated)",
    "side": "short",
-   "entry": 96.47,
-   "mark": 88.11,
-   "pnl_pct": 8.67,
-   "opened": "2026-09-21"
+   "entry": 27.4,
+   "mark": 25.01,
+   "pnl_pct": 8.72,
+   "opened": "2026-08-31"
   },
   {
    "asset": "BTC/USD",
@@ -608,13 +608,13 @@
    "opened": "2026-09-02"
   },
   {
-   "asset": "TBT",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 38.55,
-   "mark": 41.86,
-   "pnl_pct": 8.59,
-   "opened": "2026-08-22"
+   "asset": "XLRE",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 45.26,
+   "mark": 41.46,
+   "pnl_pct": 8.39,
+   "opened": "2026-08-16"
   }
  ],
  "worst_open": [
@@ -632,36 +632,36 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 566.52,
-   "mark": 542.02,
-   "pnl_pct": -4.32,
+   "mark": 543.12,
+   "pnl_pct": -4.13,
    "opened": "2026-08-10"
+  },
+  {
+   "asset": "XME",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 110.19,
+   "mark": 105.68,
+   "pnl_pct": -4.1,
+   "opened": "2026-09-14"
+  },
+  {
+   "asset": "WEAT",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 26.08,
+   "mark": 25.01,
+   "pnl_pct": -4.1,
+   "opened": "2026-08-26"
   },
   {
    "asset": "AAPL",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 326.65,
-   "mark": 340.22,
-   "pnl_pct": -4.15,
+   "mark": 339.73,
+   "pnl_pct": -4.0,
    "opened": "2026-07-20"
-  },
-  {
-   "asset": "TLT",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 81.72,
-   "mark": 78.34,
-   "pnl_pct": -4.13,
-   "opened": "2026-08-17"
-  },
-  {
-   "asset": "TLT",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 81.72,
-   "mark": 78.34,
-   "pnl_pct": -4.13,
-   "opened": "2026-08-17"
   }
  ],
  "book": {

@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-09-28T17:17:20Z",
- "total_verified": 195,
+ "generated_at": "2026-09-28T18:17:18Z",
+ "total_verified": 196,
  "by_platform": {
+  "tiktok": 17,
   "facebook": 3,
   "x": 39,
   "instagram": 66,
-  "tiktok": 16,
   "podcast": 8,
   "youtube": 54,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7690626838208498975",
+   "ts": "2026-09-28T17:39:53.369251+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: 1. Extract Key Moments from [YOUR VIDEO] 11. Write Email Newsletters from Video Segments 13. Summarize Video Discussions for Po"
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/2022930121695241",
@@ -221,12 +227,6 @@
    "url": "https://www.instagram.com/p/Dcygq3ojaUy/",
    "ts": "2026-09-02T15:38:00.562386+00:00",
    "caption": "Found a revenue gap hiding in plain sight: Create Gumroad product for 'Pinterest'. A creator, consultant, or small business owner trying to turn organic attention into revenue. is "
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DcygoQ6iGMt/",
-   "ts": "2026-09-02T15:38:00.516237+00:00",
-   "caption": "An Atlanta veterinary clinic scored 54/100 on AI search. Here's what's missing. \u2192 no llms.txt (AI engines have no summary to read) \u2192 weak homepage description \u2192 weak title tag When"
   }
  ]
 }
