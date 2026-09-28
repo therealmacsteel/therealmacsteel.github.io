@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T20:17:22Z",
+ "generated_at": "2026-09-28T21:17:21Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -7,7 +7,7 @@
  "excluded_unmarkable": 70,
  "win_rate": 0.231,
  "avg_trade_pct": -3.2,
- "open_total": 180,
+ "open_total": 184,
  "open_avg_pct": 0.77,
  "lanes": [
   {
@@ -576,8 +576,8 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 2394.18,
-   "mark": 2686.15,
-   "pnl_pct": 12.2,
+   "mark": 2681.88,
+   "pnl_pct": 12.02,
    "opened": "2026-09-02"
   },
   {
@@ -608,13 +608,13 @@
    "opened": "2026-08-31"
   },
   {
-   "asset": "BTC/USD",
-   "lane": "Crypto",
-   "side": "long",
-   "entry": 76912.71,
-   "mark": 83558.78,
-   "pnl_pct": 8.64,
-   "opened": "2026-09-02"
+   "asset": "XLRE",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 45.26,
+   "mark": 41.35,
+   "pnl_pct": 8.62,
+   "opened": "2026-08-16"
   }
  ],
  "worst_open": [
@@ -623,8 +623,8 @@
    "lane": "Options (simulated)",
    "side": "long",
    "entry": 4.9,
-   "mark": 3.78,
-   "pnl_pct": -22.86,
+   "mark": 3.99,
+   "pnl_pct": -18.57,
    "opened": "2026-09-28"
   },
   {
