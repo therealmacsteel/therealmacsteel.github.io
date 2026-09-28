@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-09-28T11:17:17Z",
- "total_verified": 193,
+ "generated_at": "2026-09-28T12:17:20Z",
+ "total_verified": 194,
  "by_platform": {
+  "x": 39,
   "instagram": 66,
   "tiktok": 16,
   "facebook": 2,
-  "x": 38,
   "podcast": 8,
   "youtube": 54,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2104543849079247281",
+   "ts": "2026-09-28T12:09:14.623019+00:00",
+   "caption": "14 top creators studied before your first line. Get the exact opening angle for free. Grab all 5 blueprints for $10."
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/Ddy4sdYjRzg/",
@@ -221,12 +227,6 @@
    "url": "https://x.com/therealmacsteel/status/2095121778829881746",
    "ts": "2026-09-02T12:09:15.051394+00:00",
    "caption": "Found a revenue gap hiding in plain sight: Create Gumroad product for 'Pinterest'. A creator, consultant, or small business owner trying to turn organic attention into revenue. is "
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/qc_x1_hzPQs",
-   "ts": "2026-09-01T20:06:07.577541+00:00",
-   "caption": "How a 39-agent AI runs a business at $0/month"
   }
  ]
 }
