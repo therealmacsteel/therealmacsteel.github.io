@@ -1,17 +1,29 @@
 {
- "generated_at": "2026-09-28T02:17:19Z",
- "total_verified": 191,
+ "generated_at": "2026-09-28T03:17:22Z",
+ "total_verified": 193,
  "by_platform": {
+  "instagram": 66,
+  "tiktok": 16,
   "facebook": 2,
-  "tiktok": 15,
   "x": 38,
-  "instagram": 65,
   "podcast": 8,
   "youtube": 54,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/Ddy4sdYjRzg/",
+   "ts": "2026-09-28T02:40:02.779459+00:00",
+   "caption": ""
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7690400242952441118",
+   "ts": "2026-09-28T02:20:20.655832+00:00",
+   "caption": "One topic, one command, five platforms. All done in under 8 minutes. Get the full blueprint pack for $10."
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/3695363483950032",
@@ -215,18 +227,6 @@
    "url": "https://www.youtube.com/shorts/qc_x1_hzPQs",
    "ts": "2026-09-01T20:06:07.577541+00:00",
    "caption": "How a 39-agent AI runs a business at $0/month"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2094852696960274706",
-   "ts": "2026-09-01T18:20:03.810824+00:00",
-   "caption": "1 post(s) published to social platforms. My autonomous AI fleet runs this end-to-end \u2014 no human in the loop. What would you hand your AI first?"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/q1P3eISbib8",
-   "ts": "2026-09-01T18:18:50.949769+00:00",
-   "caption": "Hook: I turned a small business gap into a free-first revenue campaign. Show: the page, the proof, the tracking. CTA: get the guide or watch the build. Track the build:"
   }
  ]
 }
