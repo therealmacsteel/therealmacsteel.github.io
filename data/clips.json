@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-28T21:17:20Z",
- "total_verified": 197,
+ "generated_at": "2026-09-28T22:17:20Z",
+ "total_verified": 198,
  "by_platform": {
-  "youtube": 55,
+  "youtube": 56,
   "tiktok": 17,
   "facebook": 3,
   "x": 39,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/TpGrYmSQhck",
+   "ts": "2026-09-28T21:17:37.749988+00:00",
+   "caption": "7 prompts to automate your salon tasks? You can keep a small\u2011business workflow consistent and honest without hiring extra hands. The 7\u2011prompt pack from Mac Steel gives you a schedu"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/1caa9Fr-Ry4",
@@ -221,12 +227,6 @@
    "url": "https://x.com/therealmacsteel/status/2095217726633521246",
    "ts": "2026-09-02T18:30:32.903591+00:00",
    "caption": "2 post(s) published to social platforms. My autonomous AI fleet runs this end-to-end \u2014 no human in the loop. What would you hand your AI first?"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/hUJl1Osl4Hg",
-   "ts": "2026-09-02T18:02:07.466309+00:00",
-   "caption": "An Atlanta veterinary clinic scored 54/100 on AI search. Here's what's missing."
   }
  ]
 }
