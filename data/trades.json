@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-09-28T12:17:21Z",
+ "generated_at": "2026-09-28T13:17:22Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 230,
- "excluded_unmarkable": 64,
- "win_rate": 0.235,
- "avg_trade_pct": -3.29,
- "open_total": 170,
- "open_avg_pct": 0.67,
+ "closed_total": 239,
+ "excluded_unmarkable": 67,
+ "win_rate": 0.226,
+ "avg_trade_pct": -3.38,
+ "open_total": 169,
+ "open_avg_pct": 0.99,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -20,11 +20,11 @@
   },
   {
    "lane": "Macro ETFs",
-   "closed": 47,
-   "win_rate": 0.234,
+   "closed": 56,
+   "win_rate": 0.196,
    "avg_win_pct": 10.7,
-   "avg_loss_pct": -5.72,
-   "avg_trade_pct": -1.87
+   "avg_loss_pct": -5.69,
+   "avg_trade_pct": -2.47
   },
   {
    "lane": "Shorts (simulated)",
@@ -52,6 +52,105 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "SLV",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 58.48,
+   "exit": 55.27,
+   "pnl_pct": -5.5,
+   "opened": "2026-09-01",
+   "closed": "2026-09-28",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "TLT",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 83.06,
+   "exit": 78.78,
+   "pnl_pct": -5.15,
+   "opened": "2026-08-25",
+   "closed": "2026-09-28",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "TLT",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 83.06,
+   "exit": 78.78,
+   "pnl_pct": -5.15,
+   "opened": "2026-08-25",
+   "closed": "2026-09-28",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "TLT",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 83.06,
+   "exit": 78.78,
+   "pnl_pct": -5.15,
+   "opened": "2026-08-25",
+   "closed": "2026-09-28",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "SLV",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 58.88,
+   "exit": 55.59,
+   "pnl_pct": -5.58,
+   "opened": "2026-09-01",
+   "closed": "2026-09-28",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "GLD",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 405.46,
+   "exit": 382.42,
+   "pnl_pct": -5.68,
+   "opened": "2026-08-18",
+   "closed": "2026-09-28",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "GLD",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 405.46,
+   "exit": 382.42,
+   "pnl_pct": -5.68,
+   "opened": "2026-08-18",
+   "closed": "2026-09-28",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "SLV",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 59.27,
+   "exit": 55.59,
+   "pnl_pct": -6.21,
+   "opened": "2026-08-17",
+   "closed": "2026-09-28",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "SLV",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 59.27,
+   "exit": 55.59,
+   "pnl_pct": -6.21,
+   "opened": "2026-08-17",
+   "closed": "2026-09-28",
+   "exit_reason": "stop"
+  },
   {
    "asset": "ICL",
    "lane": "Equity factor model",
@@ -227,108 +326,45 @@
    "opened": "2026-09-09",
    "closed": "2026-09-24",
    "exit_reason": "stop"
-  },
-  {
-   "asset": "PSQ",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 26.05,
-   "exit": 24.74,
-   "pnl_pct": -5.03,
-   "opened": "2026-09-01",
-   "closed": "2026-09-24",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "XLRE",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 44.64,
-   "exit": 41.86,
-   "pnl_pct": -6.23,
-   "opened": "2026-08-27",
-   "closed": "2026-09-24",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "XLF",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 58.2,
-   "exit": 54.54,
-   "pnl_pct": -6.3,
-   "opened": "2026-08-24",
-   "closed": "2026-09-24",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "ABUS",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.2,
-   "exit": 4.86,
-   "pnl_pct": -6.63,
-   "opened": "2026-08-24",
-   "closed": "2026-09-24",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "XLU",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 42.76,
-   "exit": 39.76,
-   "pnl_pct": -7.01,
-   "opened": "2026-08-22",
-   "closed": "2026-09-24",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "SVRA",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.34,
-   "exit": 5.01,
-   "pnl_pct": -6.17,
-   "opened": "2026-08-17",
-   "closed": "2026-09-24",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "XLU",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 44.3,
-   "exit": 39.76,
-   "pnl_pct": 10.25,
-   "opened": "2026-08-16",
-   "closed": "2026-09-24",
-   "exit_reason": "target"
-  },
-  {
-   "asset": "PGR",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 223.96,
-   "exit": 212.23,
-   "pnl_pct": -5.24,
-   "opened": "2026-08-24",
-   "closed": "2026-09-21",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "AMD",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 557.32,
-   "exit": 613.13,
-   "pnl_pct": 10.01,
-   "opened": "2026-09-20",
-   "closed": "2026-09-21",
-   "exit_reason": "target"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "SLV",
+   "pnl_pct": -5.5
+  },
+  {
+   "asset": "TLT",
+   "pnl_pct": -5.15
+  },
+  {
+   "asset": "TLT",
+   "pnl_pct": -5.15
+  },
+  {
+   "asset": "TLT",
+   "pnl_pct": -5.15
+  },
+  {
+   "asset": "SLV",
+   "pnl_pct": -5.58
+  },
+  {
+   "asset": "GLD",
+   "pnl_pct": -5.68
+  },
+  {
+   "asset": "GLD",
+   "pnl_pct": -5.68
+  },
+  {
+   "asset": "SLV",
+   "pnl_pct": -6.21
+  },
+  {
+   "asset": "SLV",
+   "pnl_pct": -6.21
+  },
   {
    "asset": "ICL",
    "pnl_pct": -5.1
@@ -532,62 +568,26 @@
   {
    "asset": "PPLT",
    "pnl_pct": -5.24
-  },
-  {
-   "asset": "STLA",
-   "pnl_pct": -6.3
-  },
-  {
-   "asset": "XLI",
-   "pnl_pct": 10.07
-  },
-  {
-   "asset": "ACRS",
-   "pnl_pct": -8.76
-  },
-  {
-   "asset": "SSTK",
-   "pnl_pct": -5.02
-  },
-  {
-   "asset": "GAB",
-   "pnl_pct": -6.36
-  },
-  {
-   "asset": "DBC",
-   "pnl_pct": 10.3
-  },
-  {
-   "asset": "AVGO",
-   "pnl_pct": -5.0
-  },
-  {
-   "asset": "VNDA",
-   "pnl_pct": -5.41
-  },
-  {
-   "asset": "WEAT",
-   "pnl_pct": -5.12
   }
  ],
  "best_open": [
-  {
-   "asset": "SPY",
-   "lane": "Options (simulated)",
-   "side": "long",
-   "entry": 4.64,
-   "mark": 5.5,
-   "pnl_pct": 18.41,
-   "opened": "2026-09-24"
-  },
   {
    "asset": "ETH/USD",
    "lane": "Crypto",
    "side": "long",
    "entry": 2394.18,
-   "mark": 2642.34,
-   "pnl_pct": 10.37,
+   "mark": 2678.36,
+   "pnl_pct": 11.87,
    "opened": "2026-09-02"
+  },
+  {
+   "asset": "GLD",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 421.33,
+   "mark": 382.42,
+   "pnl_pct": 9.24,
+   "opened": "2026-08-27"
   },
   {
    "asset": "XLK",
@@ -619,15 +619,6 @@
  ],
  "worst_open": [
   {
-   "asset": "IWM",
-   "lane": "Options (simulated)",
-   "side": "long",
-   "entry": 4.53,
-   "mark": 3.18,
-   "pnl_pct": -29.8,
-   "opened": "2026-09-20"
-  },
-  {
    "asset": "ACRS",
    "lane": "Equity factor model",
    "side": "long",
@@ -655,13 +646,22 @@
    "opened": "2026-08-27"
   },
   {
-   "asset": "TLT",
-   "lane": "Macro ETFs",
+   "asset": "VEL",
+   "lane": "Equity factor model",
    "side": "long",
-   "entry": 83.06,
-   "mark": 79.38,
-   "pnl_pct": -4.43,
-   "opened": "2026-08-25"
+   "entry": 16.05,
+   "mark": 15.34,
+   "pnl_pct": -4.42,
+   "opened": "2026-09-21"
+  },
+  {
+   "asset": "AAPL",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 326.65,
+   "mark": 341.02,
+   "pnl_pct": -4.4,
+   "opened": "2026-07-20"
   }
  ],
  "book": {
