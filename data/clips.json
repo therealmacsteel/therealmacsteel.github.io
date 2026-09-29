@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-09-29T19:17:23Z",
- "total_verified": 208,
+ "generated_at": "2026-09-29T20:17:24Z",
+ "total_verified": 209,
  "by_platform": {
+  "instagram": 71,
   "youtube": 57,
   "facebook": 4,
   "tiktok": 19,
-  "instagram": 70,
   "x": 41,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/Dd4WrSkjTiO/",
+   "ts": "2026-09-29T19:39:38.029314+00:00",
+   "caption": "Want to cut social\u2011media content creation from hours to minutes? See the exact time saved in Blueprint 01: one script turns a topic into posts for five platforms in 3 to 8 minutes "
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/1VLTEepRYFs",
@@ -221,12 +227,6 @@
    "url": "https://www.instagram.com/p/DdB2punDUAw/",
    "ts": "2026-09-08T14:20:25.521145+00:00",
    "caption": "$0/month of AI ran my business this week. Six numbers, one rule each: 1. 557 automated tasks, 92% clean \u2014 timebox every job. 2. 62 posts, 23 with a live URL \u2014 a link or it didn't h"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Dc_YmBbDdS_/",
-   "ts": "2026-09-07T15:57:54.918652+00:00",
-   "caption": "A Woodstock insurance scored 46/100 on AI search. Here's what's missing. \u2192 no name/address/phone engines can match to a listing \u2192 no sitemap.xml \u2192 reviews exist but the site doesn'"
   }
  ]
 }
