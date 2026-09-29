@@ -1,17 +1,29 @@
 {
- "generated_at": "2026-09-29T02:17:23Z",
- "total_verified": 199,
+ "generated_at": "2026-09-29T03:17:18Z",
+ "total_verified": 201,
  "by_platform": {
+  "instagram": 68,
   "tiktok": 18,
   "youtube": 56,
   "facebook": 3,
   "x": 39,
-  "instagram": 66,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/Dd1yDAIkQBA/",
+   "ts": "2026-09-29T02:40:03.493265+00:00",
+   "caption": ""
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/Dd1dffzjpJX/",
+   "ts": "2026-09-29T02:40:03.492906+00:00",
+   "caption": ""
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7690725586708319518",
@@ -215,18 +227,6 @@
    "url": "https://www.youtube.com/shorts/z_REbt5xjaA",
    "ts": "2026-09-03T18:20:20.786204+00:00",
    "caption": "An Atlanta-area beauty salon scored 32/100 on AI search. Here's why."
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Dc1Fa4rDCB-/",
-   "ts": "2026-09-03T15:05:25.710498+00:00",
-   "caption": "An Atlanta-area beauty salon scored 32/100 on AI search. Here's what's missing. \u2192 no llms.txt (AI engines have no summary to read) \u2192 no LocalBusiness schema (engines can't tell wha"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/qD-V1oD4c38",
-   "ts": "2026-09-02T20:06:01.088849+00:00",
-   "caption": "When someone asks ChatGPT for a veterinary clinic near Atlanta, who does it name? Not this one."
   }
  ]
 }
