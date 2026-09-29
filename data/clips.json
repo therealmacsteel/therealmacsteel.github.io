@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-29T14:17:28Z",
- "total_verified": 202,
+ "generated_at": "2026-09-29T15:17:24Z",
+ "total_verified": 204,
  "by_platform": {
-  "x": 40,
-  "instagram": 68,
+  "x": 41,
+  "instagram": 69,
   "tiktok": 18,
   "youtube": 56,
   "facebook": 3,
@@ -12,6 +12,18 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2104951555866714517",
+   "ts": "2026-09-29T15:09:19.361058+00:00",
+   "caption": "Did your dentist office score 30 points on the AI readiness robots.txt check? Get a 0\u2011100 AI Search Readiness score, see the 8 technical checks and what to fix first, all emailed a"
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/Dd37QT3Ebib/",
+   "ts": "2026-09-29T14:20:21.071508+00:00",
+   "caption": "$0/month of AI ran my business this week. Six numbers, one rule each: 1. 451 automated tasks, 93% clean \u2014 timebox every job. 2. 52 posts, 28 with a live URL \u2014 a link or it didn't h"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2104906239096353111",
@@ -215,18 +227,6 @@
    "url": "https://www.instagram.com/p/Dc3qNdsDVg8/",
    "ts": "2026-09-04T15:05:21.827708+00:00",
    "caption": "An Atlanta law firm scored 26/100 on AI search. Here's what's missing. \u2192 no llms.txt (AI engines have no summary to read) \u2192 no LocalBusiness schema (engines can't tell what or wher"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/FvTOC6epgwE",
-   "ts": "2026-09-03T20:06:00.809998+00:00",
-   "caption": "When someone asks ChatGPT for a beauty salon near the Atlanta area, who does it name? Not this one."
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2095577565255606688",
-   "ts": "2026-09-03T18:20:26.475577+00:00",
-   "caption": "1 post(s) published to social platforms. My autonomous AI fleet runs this end-to-end \u2014 no human in the loop. What would you hand your AI first?"
   }
  ]
 }
