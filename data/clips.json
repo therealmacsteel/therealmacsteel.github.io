@@ -1,17 +1,29 @@
 {
- "generated_at": "2026-09-29T16:17:19Z",
- "total_verified": 205,
+ "generated_at": "2026-09-29T17:17:22Z",
+ "total_verified": 207,
  "by_platform": {
+  "facebook": 4,
+  "tiktok": 19,
   "instagram": 70,
   "x": 41,
-  "tiktok": 18,
   "youtube": 56,
-  "facebook": 3,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/1910938239453952",
+   "ts": "2026-09-29T17:01:09.272152+00:00",
+   "caption": "See how one Python script turns a topic into posts for 5 platforms in 3\u20118 minutes. You get 5 ready\u2011made blueprints that run on Python 3.9+ and give you step\u2011by\u2011step commands, expec"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7690997951069441310",
+   "ts": "2026-09-29T16:41:41.381654+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/Dd4CSdXDVsT/",
@@ -215,18 +227,6 @@
    "url": "https://www.instagram.com/p/Dc8zzP0jMbA/",
    "ts": "2026-09-06T15:57:49.191164+00:00",
    "caption": "An Atlanta-area beauty salon scored 39/100 on AI search. Here's what's missing. \u2192 no name/address/phone engines can match to a listing \u2192 reviews exist but the site doesn't show the"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Dc6PBB1iBcU/",
-   "ts": "2026-09-05T15:39:27.641450+00:00",
-   "caption": "An Atlanta-area beauty salon scored 52/100 on AI search. Here's what's missing. \u2192 no name/address/phone engines can match to a listing \u2192 reviews exist but the site doesn't show the"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/26wFJrMBGR0",
-   "ts": "2026-09-04T18:32:11.478943+00:00",
-   "caption": "An Atlanta law firm scored 26/100 on AI search. Here's what's missing."
   }
  ]
 }
