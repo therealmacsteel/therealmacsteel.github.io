@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-29T01:17:20Z",
- "total_verified": 198,
+ "generated_at": "2026-09-29T02:17:23Z",
+ "total_verified": 199,
  "by_platform": {
+  "tiktok": 18,
   "youtube": 56,
-  "tiktok": 17,
   "facebook": 3,
   "x": 39,
   "instagram": 66,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7690725586708319518",
+   "ts": "2026-09-29T01:39:30.259540+00:00",
+   "caption": "Did you know a single robots.txt fix can boost your AI discoverability by 30 points? If you\u2019re a dentist, salon, law firm, clinic, or contractor, the AI Search Readiness Audit give"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/TpGrYmSQhck",
@@ -221,12 +227,6 @@
    "url": "https://www.youtube.com/shorts/qD-V1oD4c38",
    "ts": "2026-09-02T20:06:01.088849+00:00",
    "caption": "When someone asks ChatGPT for a veterinary clinic near Atlanta, who does it name? Not this one."
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2095217726633521246",
-   "ts": "2026-09-02T18:30:32.903591+00:00",
-   "caption": "2 post(s) published to social platforms. My autonomous AI fleet runs this end-to-end \u2014 no human in the loop. What would you hand your AI first?"
   }
  ]
 }
