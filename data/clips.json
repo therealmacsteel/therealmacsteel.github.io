@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-29T15:17:24Z",
- "total_verified": 204,
+ "generated_at": "2026-09-29T16:17:19Z",
+ "total_verified": 205,
  "by_platform": {
+  "instagram": 70,
   "x": 41,
-  "instagram": 69,
   "tiktok": 18,
   "youtube": 56,
   "facebook": 3,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/Dd4CSdXDVsT/",
+   "ts": "2026-09-29T15:39:41.710122+00:00",
+   "caption": "14\u2011page guide to run a 24/7 AI on the hardware you already own? You can replace nightly manual tasks with a self\u2011hosted system that never clocks out. The guide walks you through ev"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2104951555866714517",
@@ -221,12 +227,6 @@
    "url": "https://www.youtube.com/shorts/26wFJrMBGR0",
    "ts": "2026-09-04T18:32:11.478943+00:00",
    "caption": "An Atlanta law firm scored 26/100 on AI search. Here's what's missing."
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Dc3qNdsDVg8/",
-   "ts": "2026-09-04T15:05:21.827708+00:00",
-   "caption": "An Atlanta law firm scored 26/100 on AI search. Here's what's missing. \u2192 no llms.txt (AI engines have no summary to read) \u2192 no LocalBusiness schema (engines can't tell what or wher"
   }
  ]
 }
