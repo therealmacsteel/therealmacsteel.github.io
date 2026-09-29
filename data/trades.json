@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-09-29T12:17:23Z",
+ "generated_at": "2026-09-29T13:17:23Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 255,
- "excluded_unmarkable": 70,
- "win_rate": 0.231,
- "avg_trade_pct": -3.2,
+ "closed_total": 257,
+ "excluded_unmarkable": 71,
+ "win_rate": 0.23,
+ "avg_trade_pct": -3.22,
  "open_total": 184,
- "open_avg_pct": 0.78,
+ "open_avg_pct": 0.81,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -20,11 +20,11 @@
   },
   {
    "lane": "Macro ETFs",
-   "closed": 60,
-   "win_rate": 0.2,
+   "closed": 62,
+   "win_rate": 0.194,
    "avg_win_pct": 10.64,
-   "avg_loss_pct": -5.65,
-   "avg_trade_pct": -2.39
+   "avg_loss_pct": -5.63,
+   "avg_trade_pct": -2.48
   },
   {
    "lane": "Shorts (simulated)",
@@ -52,6 +52,28 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "USO",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 154.12,
+   "exit": 146.07,
+   "pnl_pct": -5.22,
+   "opened": "2026-09-10",
+   "closed": "2026-09-29",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "USO",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 154.12,
+   "exit": 146.07,
+   "pnl_pct": -5.22,
+   "opened": "2026-09-10",
+   "closed": "2026-09-29",
+   "exit_reason": "stop"
+  },
   {
    "asset": "GLD",
    "lane": "Macro ETFs",
@@ -304,31 +326,17 @@
    "opened": "2026-08-18",
    "closed": "2026-09-28",
    "exit_reason": "stop"
-  },
-  {
-   "asset": "SLV",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 59.27,
-   "exit": 55.59,
-   "pnl_pct": -6.21,
-   "opened": "2026-08-17",
-   "closed": "2026-09-28",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "SLV",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 59.27,
-   "exit": 55.59,
-   "pnl_pct": -6.21,
-   "opened": "2026-08-17",
-   "closed": "2026-09-28",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "USO",
+   "pnl_pct": -5.22
+  },
+  {
+   "asset": "USO",
+   "pnl_pct": -5.22
+  },
   {
    "asset": "GLD",
    "pnl_pct": -5.03
@@ -560,14 +568,6 @@
   {
    "asset": "USO",
    "pnl_pct": -5.37
-  },
-  {
-   "asset": "UAA",
-   "pnl_pct": -5.43
-  },
-  {
-   "asset": "BTE",
-   "pnl_pct": -7.59
   }
  ],
  "best_open": [
@@ -576,8 +576,17 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 2394.18,
-   "mark": 2704.1,
-   "pnl_pct": 12.94,
+   "mark": 2738.55,
+   "pnl_pct": 14.38,
+   "opened": "2026-09-02"
+  },
+  {
+   "asset": "BTC/USD",
+   "lane": "Crypto",
+   "side": "long",
+   "entry": 76912.71,
+   "mark": 84334.26,
+   "pnl_pct": 9.65,
    "opened": "2026-09-02"
   },
   {
@@ -590,24 +599,6 @@
    "opened": "2026-09-21"
   },
   {
-   "asset": "BTC/USD",
-   "lane": "Crypto",
-   "side": "long",
-   "entry": 76912.71,
-   "mark": 83757.73,
-   "pnl_pct": 8.9,
-   "opened": "2026-09-02"
-  },
-  {
-   "asset": "GDX",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 96.47,
-   "mark": 87.91,
-   "pnl_pct": 8.87,
-   "opened": "2026-09-21"
-  },
-  {
    "asset": "WEAT",
    "lane": "Shorts (simulated)",
    "side": "short",
@@ -615,6 +606,15 @@
    "mark": 24.98,
    "pnl_pct": 8.83,
    "opened": "2026-08-31"
+  },
+  {
+   "asset": "XLRE",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 45.26,
+   "mark": 41.35,
+   "pnl_pct": 8.62,
+   "opened": "2026-08-16"
   }
  ],
  "worst_open": [
