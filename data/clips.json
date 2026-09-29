@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-09-29T11:17:21Z",
- "total_verified": 201,
+ "generated_at": "2026-09-29T12:17:21Z",
+ "total_verified": 202,
  "by_platform": {
+  "x": 40,
   "instagram": 68,
   "tiktok": 18,
   "youtube": 56,
   "facebook": 3,
-  "x": 39,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2104906239096353111",
+   "ts": "2026-09-29T12:09:13.998562+00:00",
+   "caption": "Can you automate your content in just 3 to 8 minutes? Your whole posting pipeline runs on Mac Steel\u2019s 5\u2011job schedule with phone alerts\u2014no SaaS needed, and you\u2019ll save hours each we"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/Dd1yDAIkQBA/",
@@ -221,12 +227,6 @@
    "url": "https://x.com/therealmacsteel/status/2095577565255606688",
    "ts": "2026-09-03T18:20:26.475577+00:00",
    "caption": "1 post(s) published to social platforms. My autonomous AI fleet runs this end-to-end \u2014 no human in the loop. What would you hand your AI first?"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/z_REbt5xjaA",
-   "ts": "2026-09-03T18:20:20.786204+00:00",
-   "caption": "An Atlanta-area beauty salon scored 32/100 on AI search. Here's why."
   }
  ]
 }
