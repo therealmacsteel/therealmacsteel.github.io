@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-09-30T12:17:21Z",
+ "generated_at": "2026-09-30T13:17:23Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
- "regime": "mixed_or_choppy",
+ "regime": "risk_off",
  "closed_total": 269,
  "excluded_unmarkable": 74,
  "win_rate": 0.234,
  "avg_trade_pct": -3.07,
  "open_total": 174,
- "open_avg_pct": 0.77,
+ "open_avg_pct": 0.84,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,8 +576,17 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 2394.18,
-   "mark": 2676.96,
-   "pnl_pct": 11.81,
+   "mark": 2728.73,
+   "pnl_pct": 13.97,
+   "opened": "2026-09-02"
+  },
+  {
+   "asset": "BTC/USD",
+   "lane": "Crypto",
+   "side": "long",
+   "entry": 76912.71,
+   "mark": 84800.42,
+   "pnl_pct": 10.26,
    "opened": "2026-09-02"
   },
   {
@@ -606,15 +615,6 @@
    "mark": 25.05,
    "pnl_pct": 8.58,
    "opened": "2026-08-31"
-  },
-  {
-   "asset": "IWM",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 304.9,
-   "mark": 279.25,
-   "pnl_pct": 8.41,
-   "opened": "2026-08-15"
   }
  ],
  "worst_open": [
@@ -650,8 +650,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 81.72,
-   "mark": 78.24,
-   "pnl_pct": -4.26,
+   "mark": 78.25,
+   "pnl_pct": -4.25,
    "opened": "2026-08-17"
   },
   {
@@ -659,8 +659,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 81.72,
-   "mark": 78.24,
-   "pnl_pct": -4.26,
+   "mark": 78.25,
+   "pnl_pct": -4.25,
    "opened": "2026-08-17"
   }
  ],
