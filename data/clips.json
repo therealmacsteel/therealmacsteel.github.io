@@ -1,17 +1,29 @@
 {
- "generated_at": "2026-09-29T21:17:23Z",
- "total_verified": 209,
+ "generated_at": "2026-09-30T02:48:58Z",
+ "total_verified": 211,
  "by_platform": {
+  "tiktok": 20,
+  "youtube": 58,
   "instagram": 71,
-  "youtube": 57,
   "facebook": 4,
-  "tiktok": 19,
   "x": 41,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7691143525416701215",
+   "ts": "2026-09-30T02:20:21.187770+00:00",
+   "caption": "7 prompts that keep your solo business running unattended\u2014ready to test? You\u2019ll get a Daily Status Report that stops drift, a Lead Scoring sheet that answers three narrow questions"
+  },
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/yhICb2O3T-c",
+   "ts": "2026-09-29T21:17:34.607063+00:00",
+   "caption": "Check the 7 Prompts that keep a multi\u2011agent system honest \u2013 see the Agent Identity Brief in the PDF. You can run routine work unattended with the Scheduled Task Specification from "
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/Dd4WrSkjTiO/",
@@ -215,18 +227,6 @@
    "url": "https://www.instagram.com/p/DdHG-9CDjaS/",
    "ts": "2026-09-10T16:19:30.903621+00:00",
    "caption": "An Atlanta-area painter scored 64/100 on AI search. Here's what's missing. \u2192 no name/address/phone engines can match to a listing \u2192 reviews exist but the site doesn't show them to "
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DdEiL0_DB2W/",
-   "ts": "2026-09-09T15:05:24.768123+00:00",
-   "caption": "A Marietta hair salon scored 51/100 on AI search. Here's what's missing. \u2192 no name/address/phone engines can match to a listing \u2192 reviews exist but the site doesn't show them to en"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DdB2punDUAw/",
-   "ts": "2026-09-08T14:20:25.521145+00:00",
-   "caption": "$0/month of AI ran my business this week. Six numbers, one rule each: 1. 557 automated tasks, 92% clean \u2014 timebox every job. 2. 62 posts, 23 with a live URL \u2014 a link or it didn't h"
   }
  ]
 }
