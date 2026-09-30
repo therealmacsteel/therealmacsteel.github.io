@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-09-30T15:17:24Z",
- "total_verified": 213,
+ "generated_at": "2026-09-30T16:17:19Z",
+ "total_verified": 214,
  "by_platform": {
+  "instagram": 72,
   "x": 43,
   "tiktok": 20,
   "youtube": 58,
-  "instagram": 71,
   "facebook": 4,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/Dd6m7iVDqed/",
+   "ts": "2026-09-30T15:39:45.828267+00:00",
+   "caption": "Blueprint 04 of 5 \u2013 free voice engine, no API key Converts to MP3 with free audio tools Plugs into your video pipeline automatically One concrete step: copy\u2011paste the provided comm"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2105313899998540028",
@@ -221,12 +227,6 @@
    "url": "https://www.instagram.com/p/DdO1XgEjYvS/",
    "ts": "2026-09-13T15:39:41.939728+00:00",
    "caption": "An Atlanta-area painter scored 74/100 on AI search. Here's what's missing. \u2192 no name/address/phone engines can match to a listing \u2192 no llms.txt (AI engines have no summary to read)"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DdMQkpdDBc4/",
-   "ts": "2026-09-12T15:39:34.102402+00:00",
-   "caption": "An Atlanta-area hair salon scored 25/100 on AI search. Here's what's missing. \u2192 no name/address/phone engines can match to a listing \u2192 no llms.txt (AI engines have no summary to re"
   }
  ]
 }
