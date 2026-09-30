@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-30T19:17:22Z",
- "total_verified": 214,
+ "generated_at": "2026-09-30T20:17:22Z",
+ "total_verified": 215,
  "by_platform": {
-  "instagram": 72,
+  "instagram": 73,
   "x": 43,
   "tiktok": 20,
   "youtube": 58,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/Dd67ep1CGyr/",
+   "ts": "2026-09-30T19:39:47.103129+00:00",
+   "caption": "Find out if AI can recommend your practice with a 0\u2011100 score \u2013 check your llms.txt file today Your site\u2019s technical readiness makes up half that score: 8 checks worth 100 points, "
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/Dd6m7iVDqed/",
@@ -221,12 +227,6 @@
    "url": "https://www.instagram.com/p/DdT4H6RDRBG/",
    "ts": "2026-09-15T14:20:25.478524+00:00",
    "caption": "$0/month of AI ran my business this week. Six numbers, one rule each: 1. 527 automated tasks, 93% clean \u2014 timebox every job. 2. 48 posts, 6 with a live URL \u2014 a link or it didn't ha"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DdO1XgEjYvS/",
-   "ts": "2026-09-13T15:39:41.939728+00:00",
-   "caption": "An Atlanta-area painter scored 74/100 on AI search. Here's what's missing. \u2192 no name/address/phone engines can match to a listing \u2192 no llms.txt (AI engines have no summary to read)"
   }
  ]
 }
