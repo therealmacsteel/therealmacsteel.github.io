@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-09-30T11:17:18Z",
- "total_verified": 211,
+ "generated_at": "2026-09-30T12:17:19Z",
+ "total_verified": 212,
  "by_platform": {
+  "x": 42,
   "tiktok": 20,
   "youtube": 58,
   "instagram": 71,
   "facebook": 4,
-  "x": 41,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2105268637028241805",
+   "ts": "2026-09-30T12:09:17.550625+00:00",
+   "caption": "7 prompts keep your solo business running unattended\u2014check the Daily Status Report for zero drift. Get the free 6\u2011page PDF and see why each prompt works."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7691143525416701215",
@@ -221,12 +227,6 @@
    "url": "https://www.instagram.com/p/DdJryAogtJZ/",
    "ts": "2026-09-11T16:10:42.287084+00:00",
    "caption": "An Atlanta-area hairdresser supply scored 42/100 on AI search. Here's what's missing. \u2192 phone in schema doesn't match the page \u2192 no llms.txt (AI engines have no summary to read) \u2192 "
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DdHG-9CDjaS/",
-   "ts": "2026-09-10T16:19:30.903621+00:00",
-   "caption": "An Atlanta-area painter scored 64/100 on AI search. Here's what's missing. \u2192 no name/address/phone engines can match to a listing \u2192 reviews exist but the site doesn't show them to "
   }
  ]
 }
