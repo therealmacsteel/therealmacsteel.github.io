@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T12:17:21Z",
+ "generated_at": "2026-10-01T13:17:22Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -8,7 +8,7 @@
  "win_rate": 0.238,
  "avg_trade_pct": -3.17,
  "open_total": 168,
- "open_avg_pct": 0.87,
+ "open_avg_pct": 0.89,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,8 +576,8 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 2394.18,
-   "mark": 2687.95,
-   "pnl_pct": 12.27,
+   "mark": 2703.55,
+   "pnl_pct": 12.92,
    "opened": "2026-09-02"
   },
   {
@@ -590,13 +590,13 @@
    "opened": "2026-08-16"
   },
   {
-   "asset": "SLV",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 60.02,
-   "mark": 54.52,
-   "pnl_pct": 9.18,
-   "opened": "2026-08-28"
+   "asset": "BTC/USD",
+   "lane": "Crypto",
+   "side": "long",
+   "entry": 76912.71,
+   "mark": 83872.21,
+   "pnl_pct": 9.05,
+   "opened": "2026-09-02"
   },
   {
    "asset": "XLB",
@@ -608,12 +608,12 @@
    "opened": "2026-08-21"
   },
   {
-   "asset": "GDX",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 96.47,
-   "mark": 87.81,
-   "pnl_pct": 8.98,
+   "asset": "VEEV",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 262.19,
+   "mark": 285.48,
+   "pnl_pct": 8.88,
    "opened": "2026-09-21"
   }
  ],
@@ -637,6 +637,15 @@
    "opened": "2026-09-28"
   },
   {
+   "asset": "MSFT",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 495.35,
+   "mark": 518.92,
+   "pnl_pct": -4.76,
+   "opened": "2026-08-15"
+  },
+  {
    "asset": "DIA",
    "lane": "Macro ETFs",
    "side": "long",
@@ -653,15 +662,6 @@
    "mark": 4.91,
    "pnl_pct": -4.47,
    "opened": "2026-09-21"
-  },
-  {
-   "asset": "FXI",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 35.48,
-   "mark": 33.99,
-   "pnl_pct": -4.2,
-   "opened": "2026-08-24"
   }
  ],
  "book": {
