@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-01T14:17:23Z",
- "total_verified": 217,
+ "generated_at": "2026-10-01T15:17:23Z",
+ "total_verified": 218,
  "by_platform": {
-  "x": 44,
+  "x": 45,
   "tiktok": 21,
   "instagram": 73,
   "youtube": 58,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2105676322924306525",
+   "ts": "2026-10-01T15:09:15.692610+00:00",
+   "caption": "You get 25 prompts that turn one long video into short clips, blog posts and more\u2014saving hours per video. Ready to repurpose faster?"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2105631013435277334",
@@ -221,12 +227,6 @@
    "url": "https://x.com/therealmacsteel/status/2103819088267272613",
    "ts": "2026-09-26T12:09:17.530307+00:00",
    "caption": "7 prompts keep your AI running consistent\u2014no drift, no guesswork. Your system stays honest and unattended, saving you hours each week."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7689632428196973855",
-   "ts": "2026-09-26T01:39:33.048343+00:00",
-   "caption": "Want your routine work to run unattended on job 400? Your assistant should follow the same role, output format, and hard constraint every time. Get 7 focused prompts\u2014not a 200-prom"
   }
  ]
 }
