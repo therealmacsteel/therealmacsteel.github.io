@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T20:17:24Z",
+ "generated_at": "2026-10-01T21:17:23Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -7,8 +7,8 @@
  "excluded_unmarkable": 76,
  "win_rate": 0.238,
  "avg_trade_pct": -3.14,
- "open_total": 158,
- "open_avg_pct": 1.3,
+ "open_total": 160,
+ "open_avg_pct": 1.16,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,8 +576,17 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 2394.18,
-   "mark": 2687.85,
-   "pnl_pct": 12.27,
+   "mark": 2701.75,
+   "pnl_pct": 12.85,
+   "opened": "2026-09-02"
+  },
+  {
+   "asset": "BTC/USD",
+   "lane": "Crypto",
+   "side": "long",
+   "entry": 76912.71,
+   "mark": 84809.06,
+   "pnl_pct": 10.27,
    "opened": "2026-09-02"
   },
   {
@@ -599,15 +608,6 @@
    "opened": "2026-09-28"
   },
   {
-   "asset": "BTC/USD",
-   "lane": "Crypto",
-   "side": "long",
-   "entry": 76912.71,
-   "mark": 83665.31,
-   "pnl_pct": 8.78,
-   "opened": "2026-09-02"
-  },
-  {
    "asset": "NVDA",
    "lane": "Congress disclosures",
    "side": "long",
@@ -618,6 +618,15 @@
   }
  ],
  "worst_open": [
+  {
+   "asset": "DIA",
+   "lane": "Options (simulated)",
+   "side": "long",
+   "entry": 4.36,
+   "mark": 3.39,
+   "pnl_pct": -22.16,
+   "opened": "2026-10-01"
+  },
   {
    "asset": "FXI",
    "lane": "Macro ETFs",
@@ -653,15 +662,6 @@
    "mark": 197.88,
    "pnl_pct": -4.13,
    "opened": "2026-08-16"
-  },
-  {
-   "asset": "CORN",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 19.77,
-   "mark": 19.0,
-   "pnl_pct": -3.94,
-   "opened": "2026-08-27"
   }
  ],
  "book": {
