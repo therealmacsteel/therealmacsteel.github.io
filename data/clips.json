@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-01T19:17:23Z",
- "total_verified": 220,
+ "generated_at": "2026-10-01T20:17:21Z",
+ "total_verified": 222,
  "by_platform": {
-  "facebook": 5,
-  "instagram": 74,
+  "facebook": 6,
+  "instagram": 75,
   "x": 45,
   "tiktok": 21,
   "youtube": 58,
@@ -12,6 +12,18 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/1080165284794887",
+   "ts": "2026-10-01T20:01:17.266687+00:00",
+   "caption": "25 prompts that finally show you when to use them, expected output, failure mode and fix\u2014no more guesswork. You\u2019ve spent hours tweaking prompts that still miss the mark. With this "
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/Dd9gS6NiErt/",
+   "ts": "2026-10-01T19:40:01.133058+00:00",
+   "caption": "Got 25 prompts that actually work? You\u2019ve been drowning in generic prompt packs that just dump text. With the Agent Prompt Pack you\u2019ll get 25 focused prompts, each showing when to "
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/1750770399490649",
@@ -215,18 +227,6 @@
    "url": "https://x.com/therealmacsteel/status/2104181466783752307",
    "ts": "2026-09-27T12:09:16.828293+00:00",
    "caption": "Tired of typing the same post five times? One command handles all platforms in 3\u20118 minutes. Try the 5\u2011Platform Content Pipeline now."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7689942249450261791",
-   "ts": "2026-09-26T20:26:00.651731+00:00",
-   "caption": ""
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Ddw40siiD-A/",
-   "ts": "2026-09-26T20:26:00.651143+00:00",
-   "caption": ""
   }
  ]
 }

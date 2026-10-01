@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T19:17:25Z",
+ "generated_at": "2026-10-01T20:17:24Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -8,7 +8,7 @@
  "win_rate": 0.238,
  "avg_trade_pct": -3.14,
  "open_total": 158,
- "open_avg_pct": 1.29,
+ "open_avg_pct": 1.3,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -585,8 +585,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 180.04,
-   "mark": 197.97,
-   "pnl_pct": 9.96,
+   "mark": 197.88,
+   "pnl_pct": 9.91,
    "opened": "2026-08-24"
   },
   {
@@ -594,8 +594,8 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 36.74,
-   "mark": 40.16,
-   "pnl_pct": 9.32,
+   "mark": 40.03,
+   "pnl_pct": 8.97,
    "opened": "2026-09-28"
   },
   {
@@ -612,55 +612,55 @@
    "lane": "Congress disclosures",
    "side": "long",
    "entry": 212.96,
-   "mark": 231.56,
-   "pnl_pct": 8.74,
+   "mark": 231.04,
+   "pnl_pct": 8.49,
    "opened": "2026-09-14"
   }
  ],
  "worst_open": [
   {
-   "asset": "WEAT",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 25.85,
-   "mark": 24.73,
-   "pnl_pct": -4.33,
-   "opened": "2026-09-15"
-  },
-  {
    "asset": "FXI",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 35.48,
-   "mark": 33.97,
-   "pnl_pct": -4.26,
+   "mark": 33.89,
+   "pnl_pct": -4.48,
    "opened": "2026-08-24"
   },
   {
-   "asset": "XLK",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 190.03,
-   "mark": 197.97,
-   "pnl_pct": -4.18,
-   "opened": "2026-08-16"
+   "asset": "WEAT",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 25.85,
+   "mark": 24.71,
+   "pnl_pct": -4.39,
+   "opened": "2026-09-15"
   },
   {
    "asset": "COPX",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 86.96,
-   "mark": 83.48,
-   "pnl_pct": -4.0,
+   "mark": 83.36,
+   "pnl_pct": -4.15,
    "opened": "2026-09-24"
+  },
+  {
+   "asset": "XLK",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 190.03,
+   "mark": 197.88,
+   "pnl_pct": -4.13,
+   "opened": "2026-08-16"
   },
   {
    "asset": "CORN",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 19.77,
-   "mark": 18.98,
-   "pnl_pct": -3.99,
+   "mark": 19.0,
+   "pnl_pct": -3.94,
    "opened": "2026-08-27"
   }
  ],
