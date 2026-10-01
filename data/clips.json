@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-01T02:17:21Z",
- "total_verified": 215,
+ "generated_at": "2026-10-01T03:17:21Z",
+ "total_verified": 216,
  "by_platform": {
+  "tiktok": 21,
   "instagram": 73,
   "x": 43,
-  "tiktok": 20,
   "youtube": 58,
   "facebook": 4,
   "podcast": 8,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7691514177684344094",
+   "ts": "2026-10-01T02:20:27.598914+00:00",
+   "caption": "Did you know 15 points can boost your dentist visibility? Your practice\u2019s AI Search Readiness Audit gives a 0\u2011100 score, showing exactly how AI assistants read your site, recognize"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/Dd67ep1CGyr/",
@@ -221,12 +227,6 @@
    "url": "https://therealmacsteel.github.io/podcast/weekly-2026-09-25.html",
    "ts": "2026-09-25T20:09:03.385452+00:00",
    "caption": "Week of 2026-09-18 to 2026-09-25: Book +0.65% vs SPY +0.20%"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DdT4H6RDRBG/",
-   "ts": "2026-09-15T14:20:25.478524+00:00",
-   "caption": "$0/month of AI ran my business this week. Six numbers, one rule each: 1. 527 automated tasks, 93% clean \u2014 timebox every job. 2. 48 posts, 6 with a live URL \u2014 a link or it didn't ha"
   }
  ]
 }
