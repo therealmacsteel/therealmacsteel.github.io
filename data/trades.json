@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-01T15:17:25Z",
+ "generated_at": "2026-10-01T16:17:21Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
  "closed_total": 291,
- "excluded_unmarkable": 75,
+ "excluded_unmarkable": 76,
  "win_rate": 0.241,
  "avg_trade_pct": -3.11,
  "open_total": 161,
- "open_avg_pct": 0.9,
+ "open_avg_pct": 0.94,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -581,87 +581,87 @@
    "opened": "2026-09-02"
   },
   {
-   "asset": "IWM",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 304.9,
-   "mark": 275.65,
-   "pnl_pct": 9.59,
-   "opened": "2026-08-15"
-  },
-  {
-   "asset": "VEEV",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 262.19,
-   "mark": 286.9,
-   "pnl_pct": 9.42,
-   "opened": "2026-09-21"
-  },
-  {
-   "asset": "XLF",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 58.16,
-   "mark": 52.89,
-   "pnl_pct": 9.06,
-   "opened": "2026-08-16"
-  },
-  {
    "asset": "XLK",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 180.04,
-   "mark": 196.2,
-   "pnl_pct": 8.98,
+   "mark": 196.18,
+   "pnl_pct": 8.96,
    "opened": "2026-08-24"
+  },
+  {
+   "asset": "IWM",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 304.9,
+   "mark": 277.85,
+   "pnl_pct": 8.87,
+   "opened": "2026-08-15"
+  },
+  {
+   "asset": "BTC/USD",
+   "lane": "Crypto",
+   "side": "long",
+   "entry": 76912.71,
+   "mark": 83665.31,
+   "pnl_pct": 8.78,
+   "opened": "2026-09-02"
+  },
+  {
+   "asset": "SLV",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 60.02,
+   "mark": 54.8,
+   "pnl_pct": 8.7,
+   "opened": "2026-08-28"
   }
  ],
  "worst_open": [
-  {
-   "asset": "XME",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 107.49,
-   "mark": 102.27,
-   "pnl_pct": -4.86,
-   "opened": "2026-09-16"
-  },
-  {
-   "asset": "KALU",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 149.25,
-   "mark": 142.44,
-   "pnl_pct": -4.56,
-   "opened": "2026-09-21"
-  },
   {
    "asset": "WEAT",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 25.85,
-   "mark": 24.73,
-   "pnl_pct": -4.33,
+   "mark": 24.57,
+   "pnl_pct": -4.95,
    "opened": "2026-09-15"
   },
   {
-   "asset": "COPX",
+   "asset": "UNG",
    "lane": "Macro ETFs",
    "side": "long",
-   "entry": 86.96,
-   "mark": 83.29,
-   "pnl_pct": -4.22,
-   "opened": "2026-09-24"
+   "entry": 10.74,
+   "mark": 10.23,
+   "pnl_pct": -4.75,
+   "opened": "2026-09-28"
   },
   {
-   "asset": "DIA",
+   "asset": "FXI",
    "lane": "Macro ETFs",
    "side": "long",
-   "entry": 528.03,
-   "mark": 506.01,
-   "pnl_pct": -4.17,
-   "opened": "2026-09-01"
+   "entry": 35.48,
+   "mark": 33.88,
+   "pnl_pct": -4.51,
+   "opened": "2026-08-24"
+  },
+  {
+   "asset": "ACRS",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 5.07,
+   "mark": 4.84,
+   "pnl_pct": -4.44,
+   "opened": "2026-09-28"
+  },
+  {
+   "asset": "FWONK",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 95.46,
+   "mark": 91.25,
+   "pnl_pct": -4.42,
+   "opened": "2026-09-10"
   }
  ],
  "book": {
