@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-10-02T16:17:21Z",
- "total_verified": 227,
+ "generated_at": "2026-10-02T17:17:21Z",
+ "total_verified": 228,
  "by_platform": {
+  "facebook": 7,
   "instagram": 76,
   "x": 47,
   "tiktok": 23,
-  "facebook": 6,
   "youtube": 58,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/935860039170674",
+   "ts": "2026-10-02T17:01:09.788880+00:00",
+   "caption": "Is your self-hosted AI system running 24/7 on the hardware you already own? If you are a technical"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/Dd_whaYDIRj/",
@@ -221,12 +227,6 @@
    "url": "https://www.instagram.com/p/Ddy4sdYjRzg/",
    "ts": "2026-09-28T02:40:02.779459+00:00",
    "caption": ""
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7690400242952441118",
-   "ts": "2026-09-28T02:20:20.655832+00:00",
-   "caption": "One topic, one command, five platforms. All done in under 8 minutes. Get the full blueprint pack for $10."
   }
  ]
 }
