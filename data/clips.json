@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-10-02T15:17:26Z",
- "total_verified": 226,
+ "generated_at": "2026-10-02T16:17:21Z",
+ "total_verified": 227,
  "by_platform": {
+  "instagram": 76,
   "x": 47,
   "tiktok": 23,
   "facebook": 6,
-  "instagram": 75,
   "youtube": 58,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/Dd_whaYDIRj/",
+   "ts": "2026-10-02T15:40:08.976820+00:00",
+   "caption": "Save time on routine tasks \u2013 how many hours could you reclaim each week?"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2106038704858862067",
@@ -221,12 +227,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7690400242952441118",
    "ts": "2026-09-28T02:20:20.655832+00:00",
    "caption": "One topic, one command, five platforms. All done in under 8 minutes. Get the full blueprint pack for $10."
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/3695363483950032",
-   "ts": "2026-09-27T20:01:09.415344+00:00",
-   "caption": "Got 30 points for robots.txt? See how that boosts your AI visibility. You want AI assistants to find your dentist office, salon, law firm or clinic instantly. Our AI Search Readine"
   }
  ]
 }
