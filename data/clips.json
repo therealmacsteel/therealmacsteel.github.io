@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-02T02:17:21Z",
- "total_verified": 223,
+ "generated_at": "2026-10-02T03:17:19Z",
+ "total_verified": 224,
  "by_platform": {
-  "tiktok": 22,
+  "tiktok": 23,
   "facebook": 6,
   "instagram": 75,
   "x": 45,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7691885042921983263",
+   "ts": "2026-10-02T02:20:25.659999+00:00",
+   "caption": "Blueprint 04 of 5: free voice engine, no API key Makes MP3s with free tools, auto\u2011plugs into your video pipeline Get clean voiceovers for every video, no per\u2011minute cost."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7691838620193328414",
@@ -221,12 +227,6 @@
    "url": "https://www.facebook.com/reel/1297105872440245",
    "ts": "2026-09-27T17:01:06.749740+00:00",
    "caption": "Write one topic, run one command, and get posts for five platforms in minutes. It creates the script, video, and publishes automatically. Grab all five blueprints for just $10."
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2104226786234061056",
-   "ts": "2026-09-27T15:09:19.809834+00:00",
-   "caption": "Did you know your site could earn 30 points just by fixing robots.txt? You can boost your AI Search Readiness score and get found when anyone asks an assistant for a dentist. The a"
   }
  ]
 }
