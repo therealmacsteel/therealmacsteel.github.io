@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-02T19:17:19Z",
- "total_verified": 229,
+ "generated_at": "2026-10-02T20:17:20Z",
+ "total_verified": 230,
  "by_platform": {
+  "facebook": 8,
   "youtube": 59,
-  "facebook": 7,
   "instagram": 76,
   "x": 47,
   "tiktok": 23,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/2134915977376923",
+   "ts": "2026-10-02T20:01:25.099748+00:00",
+   "caption": "What if 7 simple prompts kept your business running unattended? You get a free PDF with six pages that give you the exact Agent Identity Brief, Scheduled Task Specification, Build\u2011"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/TAPmcecSLnA",
@@ -221,12 +227,6 @@
    "url": "https://www.facebook.com/reel/2022930121695241",
    "ts": "2026-09-28T17:01:08.709872+00:00",
    "caption": "Still uploading videos by hand? Blueprint 03 of 5 eliminates browser, manual login, and automation. Two\u2011step presign, upload, post gives you the live link instantly. It runs automa"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2104543849079247281",
-   "ts": "2026-09-28T12:09:14.623019+00:00",
-   "caption": "14 top creators studied before your first line. Get the exact opening angle for free. Grab all 5 blueprints for $10."
   }
  ]
 }
