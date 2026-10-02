@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-10-02T18:17:21Z",
- "total_verified": 228,
+ "generated_at": "2026-10-02T19:17:19Z",
+ "total_verified": 229,
  "by_platform": {
+  "youtube": 59,
   "facebook": 7,
   "instagram": 76,
   "x": 47,
   "tiktok": 23,
-  "youtube": 58,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/TAPmcecSLnA",
+   "ts": "2026-10-02T18:17:31.559042+00:00",
+   "caption": "Check the 14\u2011page build guide that runs on your existing hardware 24/7 \u2013 does it fit your workflow?\" You get a complete, self\u2011hosted AI stack broken into six sections, each showing"
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/935860039170674",
@@ -221,12 +227,6 @@
    "url": "https://x.com/therealmacsteel/status/2104543849079247281",
    "ts": "2026-09-28T12:09:14.623019+00:00",
    "caption": "14 top creators studied before your first line. Get the exact opening angle for free. Grab all 5 blueprints for $10."
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Ddy4sdYjRzg/",
-   "ts": "2026-09-28T02:40:02.779459+00:00",
-   "caption": ""
   }
  ]
 }
