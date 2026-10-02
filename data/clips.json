@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-02T14:17:23Z",
- "total_verified": 225,
+ "generated_at": "2026-10-02T15:17:26Z",
+ "total_verified": 226,
  "by_platform": {
-  "x": 46,
+  "x": 47,
   "tiktok": 23,
   "facebook": 6,
   "instagram": 75,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2106038704858862067",
+   "ts": "2026-10-02T15:09:16.388172+00:00",
+   "caption": "25 prompts to cut your prompt\u2011pack headaches in half\u2014each shows when to use it, expected output, failure mode, and a fix. Good luck building your AI assistants!"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2105993390840279491",
@@ -221,12 +227,6 @@
    "url": "https://www.facebook.com/reel/3695363483950032",
    "ts": "2026-09-27T20:01:09.415344+00:00",
    "caption": "Got 30 points for robots.txt? See how that boosts your AI visibility. You want AI assistants to find your dentist office, salon, law firm or clinic instantly. Our AI Search Readine"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7690255782968937758",
-   "ts": "2026-09-27T17:39:50.427903+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: 1. Autonomous Chatbot Design for Customer Support 2. Streamlining Task Routing for Efficient Agent Performance 3. Improving Mem"
   }
  ]
 }
