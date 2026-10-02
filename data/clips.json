@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-10-02T11:17:21Z",
- "total_verified": 224,
+ "generated_at": "2026-10-02T12:17:20Z",
+ "total_verified": 225,
  "by_platform": {
+  "x": 46,
   "tiktok": 23,
   "facebook": 6,
   "instagram": 75,
-  "x": 45,
   "youtube": 58,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2105993390840279491",
+   "ts": "2026-10-02T12:09:11.328889+00:00",
+   "caption": "5\u2011job schedule included \u2013 will you finally stop forgetting to start your automations? Get the blueprint now."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7691885042921983263",
@@ -221,12 +227,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7690255782968937758",
    "ts": "2026-09-27T17:39:50.427903+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: 1. Autonomous Chatbot Design for Customer Support 2. Streamlining Task Routing for Efficient Agent Performance 3. Improving Mem"
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/1297105872440245",
-   "ts": "2026-09-27T17:01:06.749740+00:00",
-   "caption": "Write one topic, run one command, and get posts for five platforms in minutes. It creates the script, video, and publishes automatically. Grab all five blueprints for just $10."
   }
  ]
 }
