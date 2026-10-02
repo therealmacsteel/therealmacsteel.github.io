@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-10-01T23:17:17Z",
- "total_verified": 222,
+ "generated_at": "2026-10-02T00:17:20Z",
+ "total_verified": 223,
  "by_platform": {
+  "tiktok": 22,
   "facebook": 6,
   "instagram": 75,
   "x": 45,
-  "tiktok": 21,
   "youtube": 58,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7691838620193328414",
+   "ts": "2026-10-01T23:39:56.646436+00:00",
+   "caption": "7 prompts that keep your solo business running unattended \u2013 check the daily status report and never drift. Save hours by using the scheduled task spec and let a single PDF (6 pages"
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/1080165284794887",
@@ -221,12 +227,6 @@
    "url": "https://x.com/therealmacsteel/status/2104226786234061056",
    "ts": "2026-09-27T15:09:19.809834+00:00",
    "caption": "Did you know your site could earn 30 points just by fixing robots.txt? You can boost your AI Search Readiness score and get found when anyone asks an assistant for a dentist. The a"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2104181466783752307",
-   "ts": "2026-09-27T12:09:16.828293+00:00",
-   "caption": "Tired of typing the same post five times? One command handles all platforms in 3\u20118 minutes. Try the 5\u2011Platform Content Pipeline now."
   }
  ]
 }
