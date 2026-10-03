@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-03T02:17:24Z",
- "total_verified": 231,
+ "generated_at": "2026-10-03T03:17:23Z",
+ "total_verified": 232,
  "by_platform": {
-  "tiktok": 24,
+  "tiktok": 25,
   "facebook": 8,
   "youtube": 59,
   "instagram": 76,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7692256259155823902",
+   "ts": "2026-10-03T02:20:26.740918+00:00",
+   "caption": "25 prompts to turn ONE long video into dozens of posts\u2014ready to boost your channel? You\u2019ll save hours per video by instantly generating short clips, blog posts, and more. Start sca"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7692209674371878174",
@@ -221,12 +227,6 @@
    "url": "https://www.youtube.com/shorts/1caa9Fr-Ry4",
    "ts": "2026-09-28T18:17:29.704197+00:00",
    "caption": "14 top creators studied before your first line. Automated brief supplies opening line, angle, visual direction, what to avoid. Full set of 5 blueprints available for $10."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7690626838208498975",
-   "ts": "2026-09-28T17:39:53.369251+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: 1. Extract Key Moments from [YOUR VIDEO] 11. Write Email Newsletters from Video Segments 13. Summarize Video Discussions for Po"
   }
  ]
 }
