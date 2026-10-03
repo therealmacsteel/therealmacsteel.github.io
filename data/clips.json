@@ -1,17 +1,29 @@
 {
- "generated_at": "2026-10-03T19:27:18Z",
- "total_verified": 238,
+ "generated_at": "2026-10-03T20:17:19Z",
+ "total_verified": 240,
  "by_platform": {
+  "facebook": 10,
+  "instagram": 78,
   "youtube": 60,
-  "facebook": 9,
   "tiktok": 26,
-  "instagram": 77,
   "x": 49,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/1567871204589489",
+   "ts": "2026-10-03T20:01:20.024829+00:00",
+   "caption": "Have you built basic AI scripts but need to see how a full pipeline connects? If you want to tie your local AI tools"
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DeCp4t4gAHa/",
+   "ts": "2026-10-03T19:40:16.485210+00:00",
+   "caption": "See how a single Python script turns one topic into posts for five social platforms in 3 to 8 minutes \u2013 check the timing in the blueprint PDF Give you five real workflows pulled fr"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/BaKb135Dn8E",
@@ -215,18 +227,6 @@
    "url": "https://www.instagram.com/p/Dd4CSdXDVsT/",
    "ts": "2026-09-29T15:39:41.710122+00:00",
    "caption": "14\u2011page guide to run a 24/7 AI on the hardware you already own? You can replace nightly manual tasks with a self\u2011hosted system that never clocks out. The guide walks you through ev"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2104951555866714517",
-   "ts": "2026-09-29T15:09:19.361058+00:00",
-   "caption": "Did your dentist office score 30 points on the AI readiness robots.txt check? Get a 0\u2011100 AI Search Readiness score, see the 8 technical checks and what to fix first, all emailed a"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Dd37QT3Ebib/",
-   "ts": "2026-09-29T14:20:21.071508+00:00",
-   "caption": "$0/month of AI ran my business this week. Six numbers, one rule each: 1. 451 automated tasks, 93% clean \u2014 timebox every job. 2. 52 posts, 28 with a live URL \u2014 a link or it didn't h"
   }
  ]
 }
