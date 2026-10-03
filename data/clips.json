@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-10-03T11:17:18Z",
- "total_verified": 232,
+ "generated_at": "2026-10-03T12:17:18Z",
+ "total_verified": 233,
  "by_platform": {
+  "x": 48,
   "tiktok": 25,
   "facebook": 8,
   "youtube": 59,
   "instagram": 76,
-  "x": 47,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2106355796070264879",
+   "ts": "2026-10-03T12:09:14.689949+00:00",
+   "caption": "25 prompts to instantly boost your chatbot\u2019s dialogue\u2014ready to test? Upgrade your conversations with our proven pack and watch engagement soar."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7692256259155823902",
@@ -221,12 +227,6 @@
    "url": "https://www.youtube.com/shorts/TpGrYmSQhck",
    "ts": "2026-09-28T21:17:37.749988+00:00",
    "caption": "7 prompts to automate your salon tasks? You can keep a small\u2011business workflow consistent and honest without hiring extra hands. The 7\u2011prompt pack from Mac Steel gives you a schedu"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/1caa9Fr-Ry4",
-   "ts": "2026-09-28T18:17:29.704197+00:00",
-   "caption": "14 top creators studied before your first line. Automated brief supplies opening line, angle, visual direction, what to avoid. Full set of 5 blueprints available for $10."
   }
  ]
 }
