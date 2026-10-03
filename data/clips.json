@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-03T14:17:19Z",
- "total_verified": 233,
+ "generated_at": "2026-10-03T15:17:21Z",
+ "total_verified": 234,
  "by_platform": {
-  "x": 48,
+  "x": 49,
   "tiktok": 25,
   "facebook": 8,
   "youtube": 59,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2106401076048273847",
+   "ts": "2026-10-03T15:09:12.373597+00:00",
+   "caption": "Want to run a self-hosted AI system 24/7 on hardware you already own? 4. **Drafting Body"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2106355796070264879",
@@ -221,12 +227,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7690725586708319518",
    "ts": "2026-09-29T01:39:30.259540+00:00",
    "caption": "Did you know a single robots.txt fix can boost your AI discoverability by 30 points? If you\u2019re a dentist, salon, law firm, clinic, or contractor, the AI Search Readiness Audit give"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/TpGrYmSQhck",
-   "ts": "2026-09-28T21:17:37.749988+00:00",
-   "caption": "7 prompts to automate your salon tasks? You can keep a small\u2011business workflow consistent and honest without hiring extra hands. The 7\u2011prompt pack from Mac Steel gives you a schedu"
   }
  ]
 }
