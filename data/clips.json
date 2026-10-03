@@ -1,17 +1,29 @@
 {
- "generated_at": "2026-10-03T16:17:17Z",
- "total_verified": 235,
+ "generated_at": "2026-10-03T17:17:19Z",
+ "total_verified": 237,
  "by_platform": {
+  "facebook": 9,
+  "tiktok": 26,
   "instagram": 77,
   "x": 49,
-  "tiktok": 25,
-  "facebook": 8,
   "youtube": 59,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/1848182286343608",
+   "ts": "2026-10-03T17:02:29.481560+00:00",
+   "caption": "Are you getting 10 social posts out of your video content? You spend time creating long videos, but sharing them just"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7692482350986300703",
+   "ts": "2026-10-03T16:41:44.905047+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOUR VIDEO] \u2192 Write Email Newsletters from Video"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DeCVVb4kdJe/",
@@ -215,18 +227,6 @@
    "url": "https://x.com/therealmacsteel/status/2104906239096353111",
    "ts": "2026-09-29T12:09:13.998562+00:00",
    "caption": "Can you automate your content in just 3 to 8 minutes? Your whole posting pipeline runs on Mac Steel\u2019s 5\u2011job schedule with phone alerts\u2014no SaaS needed, and you\u2019ll save hours each we"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Dd1yDAIkQBA/",
-   "ts": "2026-09-29T02:40:03.493265+00:00",
-   "caption": ""
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Dd1dffzjpJX/",
-   "ts": "2026-09-29T02:40:03.492906+00:00",
-   "caption": ""
   }
  ]
 }
