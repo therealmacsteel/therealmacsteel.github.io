@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T23:17:20Z",
+ "generated_at": "2026-10-03T00:17:22Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
@@ -668,8 +668,8 @@
   "mode": "PAPER",
   "inception": "2026-09-25",
   "capital": 69769.61,
-  "nav": 58879.78,
-  "book_pct": -15.61,
+  "nav": 69555.18,
+  "book_pct": -0.31,
   "spy_pct": 0.14,
   "days": 6,
   "positions": [
@@ -721,32 +721,32 @@
    },
    {
     "date": "2026-09-28",
-    "nav": 69549.89,
+    "nav": 69549.94,
     "book_pct": -0.31,
     "spy_pct": -0.28
    },
    {
     "date": "2026-09-29",
-    "nav": 69260.69,
+    "nav": 69260.74,
     "book_pct": -0.73,
     "spy_pct": -0.49
    },
    {
     "date": "2026-09-30",
-    "nav": 69431.79,
+    "nav": 69431.84,
     "book_pct": -0.48,
     "spy_pct": -0.39
    },
    {
     "date": "2026-10-01",
-    "nav": 67312.45,
-    "book_pct": -3.52,
+    "nav": 68839.34,
+    "book_pct": -1.33,
     "spy_pct": -0.67
    },
    {
     "date": "2026-10-02",
-    "nav": 58879.78,
-    "book_pct": -15.61,
+    "nav": 69555.18,
+    "book_pct": -0.31,
     "spy_pct": 0.14
    }
   ],
@@ -792,6 +792,20 @@
     "side": "sell",
     "qty": 1.0,
     "price": 67.47
+   },
+   {
+    "date": "2026-10-02",
+    "symbol": "QQQ",
+    "side": "sell",
+    "qty": 0.99993022,
+    "price": 751.38
+   },
+   {
+    "date": "2026-10-01",
+    "symbol": "SPY",
+    "side": "sell",
+    "qty": 11.0,
+    "price": 763.38
    },
    {
     "date": "2026-10-01",
@@ -871,6 +885,13 @@
     "price": 381.58
    },
    {
+    "date": "2026-09-30",
+    "symbol": "SLV",
+    "side": "sell",
+    "qty": 28.0,
+    "price": 54.53
+   },
+   {
     "date": "2026-09-29",
     "symbol": "SSO",
     "side": "buy",
@@ -904,27 +925,6 @@
     "side": "buy",
     "qty": 1.0,
     "price": 738.66
-   },
-   {
-    "date": "2026-09-28",
-    "symbol": "SSO",
-    "side": "sell",
-    "qty": 1.0,
-    "price": 70.24
-   },
-   {
-    "date": "2026-09-25",
-    "symbol": "VNQ",
-    "side": "buy",
-    "qty": 50.0,
-    "price": 91.1
-   },
-   {
-    "date": "2026-09-25",
-    "symbol": "UUP",
-    "side": "buy",
-    "qty": 420.0,
-    "price": 28.62
    }
   ],
   "backtest": "Both pre-registered backtests FAILED the bar vs SPY (CAGR 9.32% / 14.08% vs 11.20%; Sharpe 0.58 / 0.61). The book runs to measure, not to claim."

@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-10-02T23:17:19Z",
- "total_verified": 230,
+ "generated_at": "2026-10-03T00:17:21Z",
+ "total_verified": 231,
  "by_platform": {
+  "tiktok": 24,
   "facebook": 8,
   "youtube": 59,
   "instagram": 76,
   "x": 47,
-  "tiktok": 23,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7692209674371878174",
+   "ts": "2026-10-02T23:40:10.998461+00:00",
+   "caption": "Score 0-100 on AI search readiness with the AI Search Readiness Audit \u2013 you\u2019ll see exactly how your site scores on robots.txt, sitemap, llms.txt, schema and more, plus a clear fix "
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/2134915977376923",
@@ -221,12 +227,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7690626838208498975",
    "ts": "2026-09-28T17:39:53.369251+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: 1. Extract Key Moments from [YOUR VIDEO] 11. Write Email Newsletters from Video Segments 13. Summarize Video Discussions for Po"
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/2022930121695241",
-   "ts": "2026-09-28T17:01:08.709872+00:00",
-   "caption": "Still uploading videos by hand? Blueprint 03 of 5 eliminates browser, manual login, and automation. Two\u2011step presign, upload, post gives you the live link instantly. It runs automa"
   }
  ]
 }
