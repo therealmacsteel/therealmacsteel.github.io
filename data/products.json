@@ -1,7 +1,14 @@
 {
- "generated_at": "2026-10-03T01:17:25Z",
+ "generated_at": "2026-10-03T02:17:26Z",
  "store": "https://macsmacpro.gumroad.com",
  "items": [
+  {
+   "slug": "inner-circle",
+   "name": "Mac Steel \u2014 Build Log + Scripts Vault",
+   "url": "https://macsmacpro.gumroad.com/l/lzcfw",
+   "description": "One-time download, no membership. Inside: the build log of an AI agent system (6 trading-strategy tests with the rules written before each run, all failed, w...",
+   "image": null
+  },
   {
    "slug": "agent-stack",
    "name": "Build Your Own Agent Stack",
