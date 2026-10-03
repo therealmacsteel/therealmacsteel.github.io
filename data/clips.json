@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-10-03T18:17:23Z",
- "total_verified": 237,
+ "generated_at": "2026-10-03T19:27:18Z",
+ "total_verified": 238,
  "by_platform": {
+  "youtube": 60,
   "facebook": 9,
   "tiktok": 26,
   "instagram": 77,
   "x": 49,
-  "youtube": 59,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/BaKb135Dn8E",
+   "ts": "2026-10-03T18:17:24.811034+00:00",
+   "caption": "Are you wasting time making content from your long videos? You can get 10 or more posts from a long video without starting from"
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/1848182286343608",
@@ -221,12 +227,6 @@
    "url": "https://www.instagram.com/p/Dd37QT3Ebib/",
    "ts": "2026-09-29T14:20:21.071508+00:00",
    "caption": "$0/month of AI ran my business this week. Six numbers, one rule each: 1. 451 automated tasks, 93% clean \u2014 timebox every job. 2. 52 posts, 28 with a live URL \u2014 a link or it didn't h"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2104906239096353111",
-   "ts": "2026-09-29T12:09:13.998562+00:00",
-   "caption": "Can you automate your content in just 3 to 8 minutes? Your whole posting pipeline runs on Mac Steel\u2019s 5\u2011job schedule with phone alerts\u2014no SaaS needed, and you\u2019ll save hours each we"
   }
  ]
 }
