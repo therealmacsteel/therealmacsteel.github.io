@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T08:17:22Z",
+ "generated_at": "2026-10-03T09:17:21Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
@@ -576,8 +576,8 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 2394.18,
-   "mark": 2668.81,
-   "pnl_pct": 11.47,
+   "mark": 2686.01,
+   "pnl_pct": 12.19,
    "opened": "2026-09-02"
   },
   {
@@ -585,8 +585,8 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 76912.71,
-   "mark": 84504.55,
-   "pnl_pct": 9.87,
+   "mark": 84658.91,
+   "pnl_pct": 10.07,
    "opened": "2026-09-02"
   },
   {
