@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-03T21:17:21Z",
- "total_verified": 240,
+ "generated_at": "2026-10-03T22:17:19Z",
+ "total_verified": 241,
  "by_platform": {
+  "youtube": 61,
   "facebook": 10,
   "instagram": 78,
-  "youtube": 60,
   "tiktok": 26,
   "x": 49,
   "podcast": 8,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/74oG9BepWho",
+   "ts": "2026-10-03T21:17:31.465470+00:00",
+   "caption": "You\u2019ve seen how one topic can become five ready\u2011to\u2011post social updates in just 3 to 8 minutes. Want to run that whole flow on your own schedule, no subscription needed? Check the l"
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/1567871204589489",
@@ -221,12 +227,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7690997951069441310",
    "ts": "2026-09-29T16:41:41.381654+00:00",
    "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Dd4CSdXDVsT/",
-   "ts": "2026-09-29T15:39:41.710122+00:00",
-   "caption": "14\u2011page guide to run a 24/7 AI on the hardware you already own? You can replace nightly manual tasks with a self\u2011hosted system that never clocks out. The guide walks you through ev"
   }
  ]
 }
