@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-04T16:17:20Z",
- "total_verified": 246,
+ "generated_at": "2026-10-04T17:17:21Z",
+ "total_verified": 247,
  "by_platform": {
+  "tiktok": 29,
   "instagram": 79,
   "x": 51,
-  "tiktok": 28,
   "youtube": 61,
   "facebook": 10,
   "podcast": 8,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7692853448810712351",
+   "ts": "2026-10-04T16:41:49.213471+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DeE6HY3CHwL/",
@@ -221,12 +227,6 @@
    "url": "https://x.com/therealmacsteel/status/2105268637028241805",
    "ts": "2026-09-30T12:09:17.550625+00:00",
    "caption": "7 prompts keep your solo business running unattended\u2014check the Daily Status Report for zero drift. Get the free 6\u2011page PDF and see why each prompt works."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7691143525416701215",
-   "ts": "2026-09-30T02:20:21.187770+00:00",
-   "caption": "7 prompts that keep your solo business running unattended\u2014ready to test? You\u2019ll get a Daily Status Report that stops drift, a Lead Scoring sheet that answers three narrow questions"
   }
  ]
 }
