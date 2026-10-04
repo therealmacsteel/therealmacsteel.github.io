@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-10-03T23:17:18Z",
- "total_verified": 241,
+ "generated_at": "2026-10-04T00:17:21Z",
+ "total_verified": 242,
  "by_platform": {
+  "tiktok": 27,
   "youtube": 61,
   "facebook": 10,
   "instagram": 78,
-  "tiktok": 26,
   "x": 49,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7692580710648925471",
+   "ts": "2026-10-03T23:40:20.133756+00:00",
+   "caption": "5\u2011job schedule ready to copy\u2011paste. Phone alerts when a job fails. Get the full set for $10."
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/74oG9BepWho",
@@ -221,12 +227,6 @@
    "url": "https://www.facebook.com/reel/1910938239453952",
    "ts": "2026-09-29T17:01:09.272152+00:00",
    "caption": "See how one Python script turns a topic into posts for 5 platforms in 3\u20118 minutes. You get 5 ready\u2011made blueprints that run on Python 3.9+ and give you step\u2011by\u2011step commands, expec"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7690997951069441310",
-   "ts": "2026-09-29T16:41:41.381654+00:00",
-   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
   }
  ]
 }
