@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-04T14:17:19Z",
- "total_verified": 244,
+ "generated_at": "2026-10-04T15:17:19Z",
+ "total_verified": 245,
  "by_platform": {
-  "x": 50,
+  "x": 51,
   "tiktok": 28,
   "youtube": 61,
   "facebook": 10,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2106763493579899140",
+   "ts": "2026-10-04T15:09:19.751766+00:00",
+   "caption": "Still buying prompt packs that say \"good luck\"? Your AI assistant fails in ways nobody warned you about. Each of the 25 prompts here ships with 4 things: when to use it, what good "
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2106718189929582774",
@@ -221,12 +227,6 @@
    "url": "https://www.youtube.com/shorts/yhICb2O3T-c",
    "ts": "2026-09-29T21:17:34.607063+00:00",
    "caption": "Check the 7 Prompts that keep a multi\u2011agent system honest \u2013 see the Agent Identity Brief in the PDF. You can run routine work unattended with the Scheduled Task Specification from "
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Dd4WrSkjTiO/",
-   "ts": "2026-09-29T19:39:38.029314+00:00",
-   "caption": "Want to cut social\u2011media content creation from hours to minutes? See the exact time saved in Blueprint 01: one script turns a topic into posts for five platforms in 3 to 8 minutes "
   }
  ]
 }
