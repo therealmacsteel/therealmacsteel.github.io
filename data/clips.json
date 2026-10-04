@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-10-04T15:17:19Z",
- "total_verified": 245,
+ "generated_at": "2026-10-04T16:17:20Z",
+ "total_verified": 246,
  "by_platform": {
+  "instagram": 79,
   "x": 51,
   "tiktok": 28,
   "youtube": 61,
   "facebook": 10,
-  "instagram": 78,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DeE6HY3CHwL/",
+   "ts": "2026-10-04T15:40:20.039917+00:00",
+   "caption": "Ever wonder why your AI assistant says everything is fine while nothing works? One health check reported healthy. The browser held zero session cookies and couldn't load a single a"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2106763493579899140",
@@ -221,12 +227,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7691143525416701215",
    "ts": "2026-09-30T02:20:21.187770+00:00",
    "caption": "7 prompts that keep your solo business running unattended\u2014ready to test? You\u2019ll get a Daily Status Report that stops drift, a Lead Scoring sheet that answers three narrow questions"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/yhICb2O3T-c",
-   "ts": "2026-09-29T21:17:34.607063+00:00",
-   "caption": "Check the 7 Prompts that keep a multi\u2011agent system honest \u2013 see the Agent Identity Brief in the PDF. You can run routine work unattended with the Scheduled Task Specification from "
   }
  ]
 }
