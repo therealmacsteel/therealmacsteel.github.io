@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-04T19:17:34Z",
- "total_verified": 248,
+ "generated_at": "2026-10-04T20:17:21Z",
+ "total_verified": 249,
  "by_platform": {
+  "instagram": 80,
   "youtube": 62,
   "tiktok": 29,
-  "instagram": 79,
   "x": 51,
   "facebook": 10,
   "podcast": 8,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DeFOrnBAOec/",
+   "ts": "2026-10-04T19:40:20.323184+00:00",
+   "caption": "Is your chatbot answering questions but killing the conversation? Most bots reply like a form, not a person. Your visitors feel it, and they leave. The fix is in your prompts, not "
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/FHNkdYZWU-0",
@@ -221,12 +227,6 @@
    "url": "https://www.instagram.com/p/Dd6m7iVDqed/",
    "ts": "2026-09-30T15:39:45.828267+00:00",
    "caption": "Blueprint 04 of 5 \u2013 free voice engine, no API key Converts to MP3 with free audio tools Plugs into your video pipeline automatically One concrete step: copy\u2011paste the provided comm"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2105313899998540028",
-   "ts": "2026-09-30T15:09:07.163690+00:00",
-   "caption": "blueprint 04 of 5 Free voiceover for every video, no API key Get the blueprint"
   }
  ]
 }
