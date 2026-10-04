@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-10-04T11:17:19Z",
- "total_verified": 243,
+ "generated_at": "2026-10-04T12:17:18Z",
+ "total_verified": 244,
  "by_platform": {
+  "x": 50,
   "tiktok": 28,
   "youtube": 61,
   "facebook": 10,
   "instagram": 78,
-  "x": 49,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2106718189929582774",
+   "ts": "2026-10-04T12:09:17.914098+00:00",
+   "caption": "One long video = 25 posts you haven't written yet. Your best clips, blog posts and more are already sitting in your footage. Mac Steel's Repurposing Pack gives you 25 prompts that "
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7692627658957409566",
@@ -221,12 +227,6 @@
    "url": "https://www.instagram.com/p/Dd4WrSkjTiO/",
    "ts": "2026-09-29T19:39:38.029314+00:00",
    "caption": "Want to cut social\u2011media content creation from hours to minutes? See the exact time saved in Blueprint 01: one script turns a topic into posts for five platforms in 3 to 8 minutes "
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/1VLTEepRYFs",
-   "ts": "2026-09-29T18:17:32.064673+00:00",
-   "caption": "Get a 100\u2011point AI readiness score for your dentist practice? You\u2019ll know if AI assistants can read your site, recognize you as a dentist, and recommend you. Our audit checks 8 tec"
   }
  ]
 }
