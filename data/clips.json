@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-04T02:17:21Z",
- "total_verified": 242,
+ "generated_at": "2026-10-04T03:17:18Z",
+ "total_verified": 243,
  "by_platform": {
-  "tiktok": 27,
+  "tiktok": 28,
   "youtube": 61,
   "facebook": 10,
   "instagram": 78,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7692627658957409566",
+   "ts": "2026-10-04T02:40:05.242766+00:00",
+   "caption": ""
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7692580710648925471",
@@ -221,12 +227,6 @@
    "url": "https://www.youtube.com/shorts/1VLTEepRYFs",
    "ts": "2026-09-29T18:17:32.064673+00:00",
    "caption": "Get a 100\u2011point AI readiness score for your dentist practice? You\u2019ll know if AI assistants can read your site, recognize you as a dentist, and recommend you. Our audit checks 8 tec"
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/1910938239453952",
-   "ts": "2026-09-29T17:01:09.272152+00:00",
-   "caption": "See how one Python script turns a topic into posts for 5 platforms in 3\u20118 minutes. You get 5 ready\u2011made blueprints that run on Python 3.9+ and give you step\u2011by\u2011step commands, expec"
   }
  ]
 }
