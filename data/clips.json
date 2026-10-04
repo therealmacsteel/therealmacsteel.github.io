@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-10-04T18:17:20Z",
- "total_verified": 247,
+ "generated_at": "2026-10-04T19:17:34Z",
+ "total_verified": 248,
  "by_platform": {
+  "youtube": 62,
   "tiktok": 29,
   "instagram": 79,
   "x": 51,
-  "youtube": 61,
   "facebook": 10,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/FHNkdYZWU-0",
+   "ts": "2026-10-04T18:17:27.892141+00:00",
+   "caption": "Want 25 proven prompts to make your chatbot sound human? Try the exact step-by-step guide in llms.txt to boost conversation quality and watch engagement rise. Use these prompts tod"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7692853448810712351",
@@ -221,12 +227,6 @@
    "url": "https://x.com/therealmacsteel/status/2105313899998540028",
    "ts": "2026-09-30T15:09:07.163690+00:00",
    "caption": "blueprint 04 of 5 Free voiceover for every video, no API key Get the blueprint"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2105268637028241805",
-   "ts": "2026-09-30T12:09:17.550625+00:00",
-   "caption": "7 prompts keep your solo business running unattended\u2014check the Daily Status Report for zero drift. Get the free 6\u2011page PDF and see why each prompt works."
   }
  ]
 }
