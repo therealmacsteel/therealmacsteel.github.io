@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-05T14:17:22Z",
- "total_verified": 252,
+ "generated_at": "2026-10-05T15:17:20Z",
+ "total_verified": 253,
  "by_platform": {
-  "x": 52,
+  "x": 53,
   "tiktok": 31,
   "instagram": 80,
   "youtube": 62,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2107125862755602881",
+   "ts": "2026-10-05T15:09:14.240375+00:00",
+   "caption": "What keeps your AI assistant consistent on job 400, not just job 1? The 7 prompts behind Mac Steel's live system: identity briefs, unattended scheduling, self-heal diagnostics, dai"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2107080594853450043",
@@ -221,12 +227,6 @@
    "url": "https://x.com/therealmacsteel/status/2105676322924306525",
    "ts": "2026-10-01T15:09:15.692610+00:00",
    "caption": "You get 25 prompts that turn one long video into short clips, blog posts and more\u2014saving hours per video. Ready to repurpose faster?"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2105631013435277334",
-   "ts": "2026-10-01T12:09:13.011491+00:00",
-   "caption": "10 ways your dentist office can boost AI search scores \u2013 start with the robots.txt check worth 30 points and watch your AI readiness score climb. Get a detailed 0\u2011100 audit so AI a"
   }
  ]
 }
