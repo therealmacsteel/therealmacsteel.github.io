@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-05T02:17:21Z",
- "total_verified": 250,
+ "generated_at": "2026-10-05T03:17:20Z",
+ "total_verified": 251,
  "by_platform": {
-  "tiktok": 30,
+  "tiktok": 31,
   "instagram": 80,
   "youtube": 62,
   "x": 51,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7692998290459151647",
+   "ts": "2026-10-05T02:40:04.122913+00:00",
+   "caption": ""
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7692952071468780831",
@@ -221,12 +227,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7691514177684344094",
    "ts": "2026-10-01T02:20:27.598914+00:00",
    "caption": "Did you know 15 points can boost your dentist visibility? Your practice\u2019s AI Search Readiness Audit gives a 0\u2011100 score, showing exactly how AI assistants read your site, recognize"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Dd67ep1CGyr/",
-   "ts": "2026-09-30T19:39:47.103129+00:00",
-   "caption": "Find out if AI can recommend your practice with a 0\u2011100 score \u2013 check your llms.txt file today Your site\u2019s technical readiness makes up half that score: 8 checks worth 100 points, "
   }
  ]
 }
