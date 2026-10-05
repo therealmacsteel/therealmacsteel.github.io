@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-10-05T11:17:22Z",
- "total_verified": 251,
+ "generated_at": "2026-10-05T12:17:19Z",
+ "total_verified": 252,
  "by_platform": {
+  "x": 52,
   "tiktok": 31,
   "instagram": 80,
   "youtube": 62,
-  "x": 51,
   "facebook": 10,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2107080594853450043",
+   "ts": "2026-10-05T12:09:22.145450+00:00",
+   "caption": "Is your chatbot losing people after one reply? Your chatbot can hold real conversations. You get 25 proven prompts for crafting engaging chatbot dialogue, so every visitor gets a r"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7692998290459151647",
@@ -221,12 +227,6 @@
    "url": "https://x.com/therealmacsteel/status/2105631013435277334",
    "ts": "2026-10-01T12:09:13.011491+00:00",
    "caption": "10 ways your dentist office can boost AI search scores \u2013 start with the robots.txt check worth 30 points and watch your AI readiness score climb. Get a detailed 0\u2011100 audit so AI a"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7691514177684344094",
-   "ts": "2026-10-01T02:20:27.598914+00:00",
-   "caption": "Did you know 15 points can boost your dentist visibility? Your practice\u2019s AI Search Readiness Audit gives a 0\u2011100 score, showing exactly how AI assistants read your site, recognize"
   }
  ]
 }
