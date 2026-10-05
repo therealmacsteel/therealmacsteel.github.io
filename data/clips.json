@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-05T19:17:21Z",
- "total_verified": 255,
+ "generated_at": "2026-10-05T20:17:19Z",
+ "total_verified": 256,
  "by_platform": {
-  "facebook": 11,
+  "facebook": 12,
   "tiktok": 32,
   "x": 53,
   "instagram": 80,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/4371030523146979",
+   "ts": "2026-10-05T20:01:18.757278+00:00",
+   "caption": "Ready to cut 3\u20118 minutes off turning one idea into posts for five platforms? You get five real\u2011world blueprints pulled from Mac Steel\u2019s own agent system\u2014each with exact steps, copy"
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/1080346707957995",
@@ -221,12 +227,6 @@
    "url": "https://www.instagram.com/p/Dd9gS6NiErt/",
    "ts": "2026-10-01T19:40:01.133058+00:00",
    "caption": "Got 25 prompts that actually work? You\u2019ve been drowning in generic prompt packs that just dump text. With the Agent Prompt Pack you\u2019ll get 25 focused prompts, each showing when to "
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/1750770399490649",
-   "ts": "2026-10-01T17:01:15.783926+00:00",
-   "caption": "5\u2011job schedule included \u2013 no more manual starts. Get failure alerts on your phone. All 5 blueprints for $10, full docs & commands. Secure the package now."
   }
  ]
 }

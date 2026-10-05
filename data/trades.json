@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T19:17:22Z",
+ "generated_at": "2026-10-05T20:17:21Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
@@ -8,7 +8,7 @@
  "win_rate": 0.255,
  "avg_trade_pct": -2.76,
  "open_total": 169,
- "open_avg_pct": 1.38,
+ "open_avg_pct": 1.27,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -594,8 +594,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 185.8,
-   "mark": 201.23,
-   "pnl_pct": 8.3,
+   "mark": 200.96,
+   "pnl_pct": 8.16,
    "opened": "2026-08-27"
   },
   {
@@ -603,18 +603,18 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 60.02,
-   "mark": 55.27,
-   "pnl_pct": 7.93,
+   "mark": 55.13,
+   "pnl_pct": 8.15,
    "opened": "2026-08-28"
   },
   {
-   "asset": "DUOL",
+   "asset": "VEEV",
    "lane": "Equity factor model",
    "side": "long",
-   "entry": 136.88,
-   "mark": 147.03,
-   "pnl_pct": 7.41,
-   "opened": "2026-09-28"
+   "entry": 262.19,
+   "mark": 283.27,
+   "pnl_pct": 8.04,
+   "opened": "2026-09-21"
   }
  ],
  "worst_open": [
@@ -641,8 +641,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 95.43,
-   "mark": 99.34,
-   "pnl_pct": -4.1,
+   "mark": 99.3,
+   "pnl_pct": -4.05,
    "opened": "2026-08-27"
   },
   {
@@ -650,8 +650,8 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 34.2,
-   "mark": 32.87,
-   "pnl_pct": -3.89,
+   "mark": 32.88,
+   "pnl_pct": -3.85,
    "opened": "2026-10-05"
   },
   {
@@ -659,8 +659,8 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 5.38,
-   "mark": 5.18,
-   "pnl_pct": -3.62,
+   "mark": 5.17,
+   "pnl_pct": -3.81,
    "opened": "2026-09-21"
   }
  ],
