@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T20:17:21Z",
+ "generated_at": "2026-10-05T21:17:21Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
@@ -8,7 +8,7 @@
  "win_rate": 0.255,
  "avg_trade_pct": -2.76,
  "open_total": 169,
- "open_avg_pct": 1.27,
+ "open_avg_pct": 1.51,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -572,12 +572,30 @@
  ],
  "best_open": [
   {
+   "asset": "DIA",
+   "lane": "Options (simulated)",
+   "side": "long",
+   "entry": 4.59,
+   "mark": 5.46,
+   "pnl_pct": 19.06,
+   "opened": "2026-10-05"
+  },
+  {
+   "asset": "IWM",
+   "lane": "Options (simulated)",
+   "side": "long",
+   "entry": 4.71,
+   "mark": 5.53,
+   "pnl_pct": 17.53,
+   "opened": "2026-10-05"
+  },
+  {
    "asset": "ETH/USD",
    "lane": "Crypto",
    "side": "long",
    "entry": 2394.18,
-   "mark": 2717.33,
-   "pnl_pct": 13.5,
+   "mark": 2712.12,
+   "pnl_pct": 13.28,
    "opened": "2026-09-02"
   },
   {
@@ -585,8 +603,8 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 76912.71,
-   "mark": 85961.95,
-   "pnl_pct": 11.77,
+   "mark": 85782.62,
+   "pnl_pct": 11.53,
    "opened": "2026-09-02"
   },
   {
@@ -597,36 +615,9 @@
    "mark": 200.96,
    "pnl_pct": 8.16,
    "opened": "2026-08-27"
-  },
-  {
-   "asset": "SLV",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 60.02,
-   "mark": 55.13,
-   "pnl_pct": 8.15,
-   "opened": "2026-08-28"
-  },
-  {
-   "asset": "VEEV",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 262.19,
-   "mark": 283.27,
-   "pnl_pct": 8.04,
-   "opened": "2026-09-21"
   }
  ],
  "worst_open": [
-  {
-   "asset": "IWM",
-   "lane": "Options (simulated)",
-   "side": "long",
-   "entry": 4.71,
-   "mark": 4.45,
-   "pnl_pct": -5.42,
-   "opened": "2026-10-05"
-  },
   {
    "asset": "CORN",
    "lane": "Macro ETFs",
@@ -662,6 +653,15 @@
    "mark": 5.17,
    "pnl_pct": -3.81,
    "opened": "2026-09-21"
+  },
+  {
+   "asset": "IOT",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 44.02,
+   "mark": 42.41,
+   "pnl_pct": -3.66,
+   "opened": "2026-10-05"
   }
  ],
  "book": {
