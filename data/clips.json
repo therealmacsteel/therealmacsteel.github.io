@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-06T16:17:17Z",
- "total_verified": 260,
+ "generated_at": "2026-10-06T17:17:20Z",
+ "total_verified": 262,
  "by_platform": {
-  "tiktok": 35,
+  "facebook": 13,
+  "tiktok": 36,
   "instagram": 81,
-  "facebook": 12,
   "x": 53,
   "youtube": 62,
   "podcast": 8,
@@ -12,6 +12,18 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/2509556716097582",
+   "ts": "2026-10-06T17:01:11.838611+00:00",
+   "caption": "25 prompts to supercharge your chatbot\u2019s dialogue\u2014ready to see the difference? You\u2019ll notice smoother turns, fewer dead\u2011ends, and more satisfied users in just a few conversations. "
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7693595568068627742",
+   "ts": "2026-10-06T16:41:48.462525+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7693542186083732767",
@@ -215,18 +227,6 @@
    "url": "https://www.instagram.com/p/Dd_whaYDIRj/",
    "ts": "2026-10-02T15:40:08.976820+00:00",
    "caption": "Save time on routine tasks \u2013 how many hours could you reclaim each week?"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2106038704858862067",
-   "ts": "2026-10-02T15:09:16.388172+00:00",
-   "caption": "25 prompts to cut your prompt\u2011pack headaches in half\u2014each shows when to use it, expected output, failure mode, and a fix. Good luck building your AI assistants!"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2105993390840279491",
-   "ts": "2026-10-02T12:09:11.328889+00:00",
-   "caption": "5\u2011job schedule included \u2013 will you finally stop forgetting to start your automations? Get the blueprint now."
   }
  ]
 }
