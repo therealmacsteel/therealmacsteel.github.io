@@ -1,17 +1,35 @@
 {
- "generated_at": "2026-10-06T02:17:19Z",
- "total_verified": 256,
+ "generated_at": "2026-10-06T03:17:20Z",
+ "total_verified": 259,
  "by_platform": {
+  "instagram": 81,
+  "tiktok": 34,
   "facebook": 12,
-  "tiktok": 32,
   "x": 53,
-  "instagram": 80,
   "youtube": 62,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DeHe6T5jo03/",
+   "ts": "2026-10-06T02:40:03.749692+00:00",
+   "caption": ""
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7693369565757148447",
+   "ts": "2026-10-06T02:40:03.749623+00:00",
+   "caption": ""
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7693322860017798430",
+   "ts": "2026-10-06T02:40:03.749420+00:00",
+   "caption": ""
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/4371030523146979",
@@ -209,24 +227,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7691885042921983263",
    "ts": "2026-10-02T02:20:25.659999+00:00",
    "caption": "Blueprint 04 of 5: free voice engine, no API key Makes MP3s with free tools, auto\u2011plugs into your video pipeline Get clean voiceovers for every video, no per\u2011minute cost."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7691838620193328414",
-   "ts": "2026-10-01T23:39:56.646436+00:00",
-   "caption": "7 prompts that keep your solo business running unattended \u2013 check the daily status report and never drift. Save hours by using the scheduled task spec and let a single PDF (6 pages"
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/1080165284794887",
-   "ts": "2026-10-01T20:01:17.266687+00:00",
-   "caption": "25 prompts that finally show you when to use them, expected output, failure mode and fix\u2014no more guesswork. You\u2019ve spent hours tweaking prompts that still miss the mark. With this "
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Dd9gS6NiErt/",
-   "ts": "2026-10-01T19:40:01.133058+00:00",
-   "caption": "Got 25 prompts that actually work? You\u2019ve been drowning in generic prompt packs that just dump text. With the Agent Prompt Pack you\u2019ll get 25 focused prompts, each showing when to "
   }
  ]
 }
