@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-06T19:17:25Z",
+ "generated_at": "2026-10-06T20:17:24Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
- "closed_total": 317,
+ "closed_total": 318,
  "excluded_unmarkable": 86,
- "win_rate": 0.256,
- "avg_trade_pct": -2.74,
- "open_total": 171,
- "open_avg_pct": 1.82,
+ "win_rate": 0.255,
+ "avg_trade_pct": -2.75,
+ "open_total": 170,
+ "open_avg_pct": 1.81,
  "lanes": [
   {
    "lane": "Equity factor model",
-   "closed": 152,
-   "win_rate": 0.237,
+   "closed": 153,
+   "win_rate": 0.235,
    "avg_win_pct": 11.81,
    "avg_loss_pct": -6.26,
-   "avg_trade_pct": -1.98
+   "avg_trade_pct": -2.01
   },
   {
    "lane": "Macro ETFs",
@@ -52,6 +52,17 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "IOT",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 44.02,
+   "exit": 41.73,
+   "pnl_pct": -5.21,
+   "opened": "2026-10-05",
+   "closed": "2026-10-06",
+   "exit_reason": "stop"
+  },
   {
    "asset": "AVGO",
    "lane": "Congress disclosures",
@@ -315,20 +326,13 @@
    "opened": "2026-09-28",
    "closed": "2026-10-01",
    "exit_reason": "stop"
-  },
-  {
-   "asset": "FWONK",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 95.46,
-   "exit": 90.62,
-   "pnl_pct": -5.06,
-   "opened": "2026-09-10",
-   "closed": "2026-10-01",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "IOT",
+   "pnl_pct": -5.21
+  },
   {
    "asset": "AVGO",
    "pnl_pct": 11.17
@@ -564,10 +568,6 @@
   {
    "asset": "ASML",
    "pnl_pct": -5.17
-  },
-  {
-   "asset": "MSCI",
-   "pnl_pct": -5.56
   }
  ],
  "best_open": [
@@ -612,28 +612,19 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 753.46,
-   "mark": 827.01,
-   "pnl_pct": 9.76,
+   "mark": 824.75,
+   "pnl_pct": 9.46,
    "opened": "2026-09-07"
   }
  ],
  "worst_open": [
   {
-   "asset": "IOT",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 44.02,
-   "mark": 42.06,
-   "pnl_pct": -4.45,
-   "opened": "2026-10-05"
-  },
-  {
    "asset": "EWJ",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 95.43,
-   "mark": 99.5,
-   "pnl_pct": -4.26,
+   "mark": 99.32,
+   "pnl_pct": -4.08,
    "opened": "2026-08-27"
   },
   {
@@ -641,8 +632,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 731.01,
-   "mark": 760.76,
-   "pnl_pct": -4.07,
+   "mark": 760.0,
+   "pnl_pct": -3.97,
    "opened": "2026-08-16"
   },
   {
@@ -655,12 +646,21 @@
    "opened": "2026-10-06"
   },
   {
+   "asset": "ZETA",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 34.2,
+   "mark": 32.96,
+   "pnl_pct": -3.61,
+   "opened": "2026-10-05"
+  },
+  {
    "asset": "SH",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 32.88,
-   "mark": 31.71,
-   "pnl_pct": -3.56,
+   "mark": 31.73,
+   "pnl_pct": -3.5,
    "opened": "2026-09-10"
   }
  ],

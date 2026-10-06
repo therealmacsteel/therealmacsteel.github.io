@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-06T19:17:23Z",
- "total_verified": 263,
+ "generated_at": "2026-10-06T20:17:22Z",
+ "total_verified": 264,
  "by_platform": {
+  "facebook": 14,
   "youtube": 63,
-  "facebook": 13,
   "tiktok": 36,
   "instagram": 81,
   "x": 53,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/28442175292033855",
+   "ts": "2026-10-06T20:01:23.692838+00:00",
+   "caption": "Build your own agent stack that runs 24/7 on the hardware you already own. The guide is 14 pages across six sections, starting with the real daily jobs your system does right now. "
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/d3Twxs4_7VA",
@@ -221,12 +227,6 @@
    "url": "https://www.youtube.com/shorts/TAPmcecSLnA",
    "ts": "2026-10-02T18:17:31.559042+00:00",
    "caption": "Check the 14\u2011page build guide that runs on your existing hardware 24/7 \u2013 does it fit your workflow?\" You get a complete, self\u2011hosted AI stack broken into six sections, each showing"
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/935860039170674",
-   "ts": "2026-10-02T17:01:09.788880+00:00",
-   "caption": "Is your self-hosted AI system running 24/7 on the hardware you already own? If you are a technical"
   }
  ]
 }
