@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-10-06T18:17:21Z",
- "total_verified": 262,
+ "generated_at": "2026-10-06T19:17:23Z",
+ "total_verified": 263,
  "by_platform": {
+  "youtube": 63,
   "facebook": 13,
   "tiktok": 36,
   "instagram": 81,
   "x": 53,
-  "youtube": 62,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/d3Twxs4_7VA",
+   "ts": "2026-10-06T18:17:19.431430+00:00",
+   "caption": "Want 25 prompts to make your chatbot sound human? You can boost your bot\u2019s dialogue quality instantly with the 25 proven prompts designed for engaging conversational AI. Just copy "
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/2509556716097582",
@@ -221,12 +227,6 @@
    "url": "https://www.facebook.com/reel/935860039170674",
    "ts": "2026-10-02T17:01:09.788880+00:00",
    "caption": "Is your self-hosted AI system running 24/7 on the hardware you already own? If you are a technical"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Dd_whaYDIRj/",
-   "ts": "2026-10-02T15:40:08.976820+00:00",
-   "caption": "Save time on routine tasks \u2013 how many hours could you reclaim each week?"
   }
  ]
 }
