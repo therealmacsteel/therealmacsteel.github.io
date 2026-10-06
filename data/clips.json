@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-06T12:17:20Z",
- "total_verified": 259,
+ "generated_at": "2026-10-06T13:17:19Z",
+ "total_verified": 260,
  "by_platform": {
+  "tiktok": 35,
   "instagram": 81,
-  "tiktok": 34,
   "facebook": 12,
   "x": 53,
   "youtube": 62,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7693542186083732767",
+   "ts": "2026-10-06T13:14:45.513761+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOU"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DeHe6T5jo03/",
@@ -221,12 +227,6 @@
    "url": "https://x.com/therealmacsteel/status/2105993390840279491",
    "ts": "2026-10-02T12:09:11.328889+00:00",
    "caption": "5\u2011job schedule included \u2013 will you finally stop forgetting to start your automations? Get the blueprint now."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7691885042921983263",
-   "ts": "2026-10-02T02:20:25.659999+00:00",
-   "caption": "Blueprint 04 of 5: free voice engine, no API key Makes MP3s with free tools, auto\u2011plugs into your video pipeline Get clean voiceovers for every video, no per\u2011minute cost."
   }
  ]
 }

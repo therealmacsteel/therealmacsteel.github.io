@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-06T12:17:22Z",
+ "generated_at": "2026-10-06T13:17:21Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
- "closed_total": 314,
+ "closed_total": 316,
  "excluded_unmarkable": 85,
- "win_rate": 0.255,
- "avg_trade_pct": -2.76,
- "open_total": 169,
- "open_avg_pct": 1.51,
+ "win_rate": 0.253,
+ "avg_trade_pct": -2.78,
+ "open_total": 171,
+ "open_avg_pct": 1.54,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -20,11 +20,11 @@
   },
   {
    "lane": "Macro ETFs",
-   "closed": 78,
-   "win_rate": 0.205,
+   "closed": 80,
+   "win_rate": 0.2,
    "avg_win_pct": 11.43,
    "avg_loss_pct": -5.56,
-   "avg_trade_pct": -2.08
+   "avg_trade_pct": -2.16
   },
   {
    "lane": "Shorts (simulated)",
@@ -52,6 +52,28 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "USO",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 148.7,
+   "exit": 140.64,
+   "pnl_pct": -5.42,
+   "opened": "2026-09-21",
+   "closed": "2026-10-06",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "USO",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 148.7,
+   "exit": 140.64,
+   "pnl_pct": -5.42,
+   "opened": "2026-09-21",
+   "closed": "2026-10-06",
+   "exit_reason": "stop"
+  },
   {
    "asset": "FNKO",
    "lane": "Equity factor model",
@@ -304,31 +326,17 @@
    "opened": "2026-09-28",
    "closed": "2026-10-01",
    "exit_reason": "stop"
-  },
-  {
-   "asset": "CWH",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.26,
-   "exit": 4.88,
-   "pnl_pct": -7.31,
-   "opened": "2026-09-28",
-   "closed": "2026-10-01",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "GDX",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 96.47,
-   "exit": 86.54,
-   "pnl_pct": 10.29,
-   "opened": "2026-09-21",
-   "closed": "2026-10-01",
-   "exit_reason": "target"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "USO",
+   "pnl_pct": -5.42
+  },
+  {
+   "asset": "USO",
+   "pnl_pct": -5.42
+  },
   {
    "asset": "FNKO",
    "pnl_pct": 11.46
@@ -560,14 +568,6 @@
   {
    "asset": "USO",
    "pnl_pct": -5.22
-  },
-  {
-   "asset": "USO",
-   "pnl_pct": -5.22
-  },
-  {
-   "asset": "GLD",
-   "pnl_pct": -5.03
   }
  ],
  "best_open": [
@@ -594,8 +594,8 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 2394.18,
-   "mark": 2713.59,
-   "pnl_pct": 13.34,
+   "mark": 2715.07,
+   "pnl_pct": 13.4,
    "opened": "2026-09-02"
   },
   {
@@ -603,8 +603,8 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 76912.71,
-   "mark": 85922.46,
-   "pnl_pct": 11.71,
+   "mark": 86242.52,
+   "pnl_pct": 12.13,
    "opened": "2026-09-02"
   },
   {
@@ -618,6 +618,24 @@
   }
  ],
  "worst_open": [
+  {
+   "asset": "USO",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 147.17,
+   "mark": 140.64,
+   "pnl_pct": -4.44,
+   "opened": "2026-09-30"
+  },
+  {
+   "asset": "USO",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 147.17,
+   "mark": 140.64,
+   "pnl_pct": -4.44,
+   "opened": "2026-09-30"
+  },
   {
    "asset": "CORN",
    "lane": "Macro ETFs",
@@ -637,31 +655,13 @@
    "opened": "2026-08-27"
   },
   {
-   "asset": "ZETA",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 34.2,
-   "mark": 32.88,
-   "pnl_pct": -3.85,
-   "opened": "2026-10-05"
-  },
-  {
-   "asset": "GAB",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.38,
-   "mark": 5.17,
-   "pnl_pct": -3.81,
-   "opened": "2026-09-21"
-  },
-  {
-   "asset": "IOT",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 44.02,
-   "mark": 42.41,
-   "pnl_pct": -3.66,
-   "opened": "2026-10-05"
+   "asset": "QQQ",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 731.01,
+   "mark": 760.46,
+   "pnl_pct": -4.03,
+   "opened": "2026-08-16"
   }
  ],
  "book": {
