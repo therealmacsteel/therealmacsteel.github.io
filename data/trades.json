@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T17:17:21Z",
+ "generated_at": "2026-10-06T18:17:23Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
@@ -612,8 +612,8 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 753.46,
-   "mark": 827.06,
-   "pnl_pct": 9.77,
+   "mark": 826.56,
+   "pnl_pct": 9.7,
    "opened": "2026-09-07"
   }
  ],
@@ -623,8 +623,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 95.43,
-   "mark": 99.66,
-   "pnl_pct": -4.43,
+   "mark": 99.62,
+   "pnl_pct": -4.39,
    "opened": "2026-08-27"
   },
   {
@@ -632,9 +632,27 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 731.01,
-   "mark": 761.22,
-   "pnl_pct": -4.13,
+   "mark": 761.49,
+   "pnl_pct": -4.17,
    "opened": "2026-08-16"
+  },
+  {
+   "asset": "IOT",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 44.02,
+   "mark": 42.27,
+   "pnl_pct": -3.96,
+   "opened": "2026-10-05"
+  },
+  {
+   "asset": "ZETA",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 34.2,
+   "mark": 32.91,
+   "pnl_pct": -3.76,
+   "opened": "2026-10-05"
   },
   {
    "asset": "AAPL",
@@ -644,24 +662,6 @@
    "mark": 3.87,
    "pnl_pct": -3.74,
    "opened": "2026-10-06"
-  },
-  {
-   "asset": "SH",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 32.88,
-   "mark": 31.67,
-   "pnl_pct": -3.68,
-   "opened": "2026-09-10"
-  },
-  {
-   "asset": "IOT",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 44.02,
-   "mark": 42.47,
-   "pnl_pct": -3.52,
-   "opened": "2026-10-05"
   }
  ],
  "book": {
