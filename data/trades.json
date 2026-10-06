@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T20:17:24Z",
+ "generated_at": "2026-10-06T21:17:23Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
@@ -8,7 +8,7 @@
  "win_rate": 0.255,
  "avg_trade_pct": -2.75,
  "open_total": 170,
- "open_avg_pct": 1.81,
+ "open_avg_pct": 1.59,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,17 +576,8 @@
    "lane": "Options (simulated)",
    "side": "long",
    "entry": 4.59,
-   "mark": 6.21,
-   "pnl_pct": 35.19,
-   "opened": "2026-10-05"
-  },
-  {
-   "asset": "IWM",
-   "lane": "Options (simulated)",
-   "side": "long",
-   "entry": 4.71,
-   "mark": 5.92,
-   "pnl_pct": 25.93,
+   "mark": 6.35,
+   "pnl_pct": 38.34,
    "opened": "2026-10-05"
   },
   {
@@ -594,8 +585,8 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 2394.18,
-   "mark": 2717.2,
-   "pnl_pct": 13.49,
+   "mark": 2693.57,
+   "pnl_pct": 12.51,
    "opened": "2026-09-02"
   },
   {
@@ -603,8 +594,8 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 76912.71,
-   "mark": 86310.5,
-   "pnl_pct": 12.22,
+   "mark": 85610.75,
+   "pnl_pct": 11.31,
    "opened": "2026-09-02"
   },
   {
@@ -615,9 +606,27 @@
    "mark": 824.75,
    "pnl_pct": 9.46,
    "opened": "2026-09-07"
+  },
+  {
+   "asset": "XLK",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 185.8,
+   "mark": 201.97,
+   "pnl_pct": 8.7,
+   "opened": "2026-08-27"
   }
  ],
  "worst_open": [
+  {
+   "asset": "IWM",
+   "lane": "Options (simulated)",
+   "side": "long",
+   "entry": 4.71,
+   "mark": 4.17,
+   "pnl_pct": -11.26,
+   "opened": "2026-10-05"
+  },
   {
    "asset": "EWJ",
    "lane": "Shorts (simulated)",
@@ -632,8 +641,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 731.01,
-   "mark": 760.0,
-   "pnl_pct": -3.97,
+   "mark": 760.12,
+   "pnl_pct": -3.98,
    "opened": "2026-08-16"
   },
   {
@@ -653,15 +662,6 @@
    "mark": 32.96,
    "pnl_pct": -3.61,
    "opened": "2026-10-05"
-  },
-  {
-   "asset": "SH",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 32.88,
-   "mark": 31.73,
-   "pnl_pct": -3.5,
-   "opened": "2026-09-10"
   }
  ],
  "book": {
