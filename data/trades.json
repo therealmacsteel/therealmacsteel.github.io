@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-07T12:17:22Z",
+ "generated_at": "2026-10-07T13:17:25Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
- "closed_total": 318,
- "excluded_unmarkable": 86,
- "win_rate": 0.255,
- "avg_trade_pct": -2.75,
- "open_total": 170,
- "open_avg_pct": 1.56,
+ "closed_total": 319,
+ "excluded_unmarkable": 88,
+ "win_rate": 0.257,
+ "avg_trade_pct": -2.7,
+ "open_total": 171,
+ "open_avg_pct": 1.39,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -28,11 +28,11 @@
   },
   {
    "lane": "Shorts (simulated)",
-   "closed": 53,
-   "win_rate": 0.358,
-   "avg_win_pct": 10.92,
+   "closed": 54,
+   "win_rate": 0.37,
+   "avg_win_pct": 10.9,
    "avg_loss_pct": -6.33,
-   "avg_trade_pct": -0.14
+   "avg_trade_pct": 0.05
   },
   {
    "lane": "Congress disclosures",
@@ -52,6 +52,17 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "SLV",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 60.02,
+   "exit": 53.81,
+   "pnl_pct": 10.35,
+   "opened": "2026-08-28",
+   "closed": "2026-10-07",
+   "exit_reason": "target"
+  },
   {
    "asset": "IOT",
    "lane": "Equity factor model",
@@ -315,20 +326,13 @@
    "opened": "2026-09-14",
    "closed": "2026-10-02",
    "exit_reason": "target"
-  },
-  {
-   "asset": "UNG",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 10.74,
-   "exit": 10.15,
-   "pnl_pct": -5.45,
-   "opened": "2026-09-28",
-   "closed": "2026-10-01",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "SLV",
+   "pnl_pct": 10.35
+  },
   {
    "asset": "IOT",
    "pnl_pct": -5.21
@@ -564,10 +568,6 @@
   {
    "asset": "CCL",
    "pnl_pct": 11.48
-  },
-  {
-   "asset": "ASML",
-   "pnl_pct": -5.17
   }
  ],
  "best_open": [
@@ -590,24 +590,6 @@
    "opened": "2026-09-07"
   },
   {
-   "asset": "BTC/USD",
-   "lane": "Crypto",
-   "side": "long",
-   "entry": 76912.71,
-   "mark": 83944.33,
-   "pnl_pct": 9.14,
-   "opened": "2026-09-02"
-  },
-  {
-   "asset": "ETH/USD",
-   "lane": "Crypto",
-   "side": "long",
-   "entry": 2394.18,
-   "mark": 2609.55,
-   "pnl_pct": 9.0,
-   "opened": "2026-09-02"
-  },
-  {
    "asset": "XLK",
    "lane": "Macro ETFs",
    "side": "long",
@@ -615,6 +597,24 @@
    "mark": 201.97,
    "pnl_pct": 8.7,
    "opened": "2026-08-27"
+  },
+  {
+   "asset": "IWM",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 304.9,
+   "mark": 278.71,
+   "pnl_pct": 8.59,
+   "opened": "2026-08-15"
+  },
+  {
+   "asset": "BTC/USD",
+   "lane": "Crypto",
+   "side": "long",
+   "entry": 76912.71,
+   "mark": 83486.99,
+   "pnl_pct": 8.55,
+   "opened": "2026-09-02"
   }
  ],
  "worst_open": [
@@ -637,22 +637,13 @@
    "opened": "2026-08-27"
   },
   {
-   "asset": "QQQ",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 731.01,
-   "mark": 760.1,
-   "pnl_pct": -3.98,
-   "opened": "2026-08-16"
-  },
-  {
-   "asset": "AAPL",
-   "lane": "Options (simulated)",
+   "asset": "GDX",
+   "lane": "Macro ETFs",
    "side": "long",
-   "entry": 4.02,
-   "mark": 3.87,
-   "pnl_pct": -3.74,
-   "opened": "2026-10-06"
+   "entry": 88.72,
+   "mark": 85.45,
+   "pnl_pct": -3.69,
+   "opened": "2026-09-28"
   },
   {
    "asset": "ZETA",
@@ -662,6 +653,15 @@
    "mark": 32.96,
    "pnl_pct": -3.61,
    "opened": "2026-10-05"
+  },
+  {
+   "asset": "INTC",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 116.12,
+   "mark": 112.17,
+   "pnl_pct": -3.4,
+   "opened": "2026-09-28"
   }
  ],
  "book": {
