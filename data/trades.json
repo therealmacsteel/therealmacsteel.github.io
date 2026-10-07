@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T19:17:23Z",
+ "generated_at": "2026-10-07T20:17:23Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
@@ -8,7 +8,7 @@
  "win_rate": 0.258,
  "avg_trade_pct": -2.68,
  "open_total": 168,
- "open_avg_pct": 0.67,
+ "open_avg_pct": 0.63,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,18 +576,9 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 277.85,
-   "pnl_pct": 8.87,
+   "mark": 277.79,
+   "pnl_pct": 8.89,
    "opened": "2026-08-15"
-  },
-  {
-   "asset": "VEEV",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 262.19,
-   "mark": 283.98,
-   "pnl_pct": 8.31,
-   "opened": "2026-09-21"
   },
   {
    "asset": "BTC/USD",
@@ -603,17 +594,26 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 185.8,
-   "mark": 201.12,
-   "pnl_pct": 8.25,
+   "mark": 201.18,
+   "pnl_pct": 8.28,
    "opened": "2026-08-27"
+  },
+  {
+   "asset": "VEEV",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 262.19,
+   "mark": 282.48,
+   "pnl_pct": 7.73,
+   "opened": "2026-09-21"
   },
   {
    "asset": "XLF",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 58.16,
-   "mark": 53.73,
-   "pnl_pct": 7.63,
+   "mark": 53.74,
+   "pnl_pct": 7.59,
    "opened": "2026-08-16"
   }
  ],
@@ -641,8 +641,8 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 363.09,
-   "mark": 346.52,
-   "pnl_pct": -4.56,
+   "mark": 348.19,
+   "pnl_pct": -4.11,
    "opened": "2026-09-07"
   },
   {
@@ -650,18 +650,18 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 86.96,
-   "mark": 83.45,
-   "pnl_pct": -4.03,
+   "mark": 83.58,
+   "pnl_pct": -3.89,
    "opened": "2026-09-24"
   },
   {
-   "asset": "GAB",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.38,
-   "mark": 5.18,
-   "pnl_pct": -3.72,
-   "opened": "2026-09-21"
+   "asset": "QQQ",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 731.01,
+   "mark": 757.82,
+   "pnl_pct": -3.67,
+   "opened": "2026-08-16"
   }
  ],
  "book": {
