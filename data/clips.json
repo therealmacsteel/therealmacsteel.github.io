@@ -1,17 +1,29 @@
 {
- "generated_at": "2026-10-07T16:17:20Z",
- "total_verified": 268,
+ "generated_at": "2026-10-07T17:17:20Z",
+ "total_verified": 270,
  "by_platform": {
+  "facebook": 15,
+  "tiktok": 38,
   "x": 54,
   "instagram": 83,
-  "tiktok": 37,
-  "facebook": 14,
   "youtube": 63,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/28242348745434829",
+   "ts": "2026-10-07T17:01:30.857104+00:00",
+   "caption": "One long video can become 10 posts. Do you know the 25 prompts? You already have the footage. What you don't have is the time to cut it, write it, and post it everywhere. Mac Steel"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7693966620733099294",
+   "ts": "2026-10-07T16:41:44.004997+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Error Handling and Recovery Strategies for Robust Agent Operation \u2192 Autonomous Agent Security Measures for Data Protection \u2192 "
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2107805456345530535",
@@ -215,18 +227,6 @@
    "url": "https://www.instagram.com/p/DeCVVb4kdJe/",
    "ts": "2026-10-03T15:40:18.808323+00:00",
    "caption": "What if one video could become 10 posts without you writing any of them from scratch? You already did the hard part. You filmed the long video, said the smart things, gave the valu"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2106401076048273847",
-   "ts": "2026-10-03T15:09:12.373597+00:00",
-   "caption": "Want to run a self-hosted AI system 24/7 on hardware you already own? 4. **Drafting Body"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2106355796070264879",
-   "ts": "2026-10-03T12:09:14.689949+00:00",
-   "caption": "25 prompts to instantly boost your chatbot\u2019s dialogue\u2014ready to test? Upgrade your conversations with our proven pack and watch engagement soar."
   }
  ]
 }
