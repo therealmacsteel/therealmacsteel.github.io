@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-10-07T11:17:22Z",
- "total_verified": 267,
+ "generated_at": "2026-10-07T12:17:21Z",
+ "total_verified": 268,
  "by_platform": {
+  "x": 54,
   "instagram": 83,
   "tiktok": 37,
   "facebook": 14,
   "youtube": 63,
-  "x": 53,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2107805456345530535",
+   "ts": "2026-10-07T12:09:42.746946+00:00",
+   "caption": "One long video can become 10+ posts. You save hours per video with 25 repurposing prompts. Want the pack?"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DeKDsELjSXn/",
@@ -221,12 +227,6 @@
    "url": "https://x.com/therealmacsteel/status/2106355796070264879",
    "ts": "2026-10-03T12:09:14.689949+00:00",
    "caption": "25 prompts to instantly boost your chatbot\u2019s dialogue\u2014ready to test? Upgrade your conversations with our proven pack and watch engagement soar."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7692256259155823902",
-   "ts": "2026-10-03T02:20:26.740918+00:00",
-   "caption": "25 prompts to turn ONE long video into dozens of posts\u2014ready to boost your channel? You\u2019ll save hours per video by instantly generating short clips, blog posts, and more. Start sca"
   }
  ]
 }
