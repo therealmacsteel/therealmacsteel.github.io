@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-10-07T18:17:25Z",
- "total_verified": 270,
+ "generated_at": "2026-10-07T19:17:21Z",
+ "total_verified": 271,
  "by_platform": {
+  "youtube": 64,
   "facebook": 15,
   "tiktok": 38,
   "x": 54,
   "instagram": 83,
-  "youtube": 63,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/hO__qHcZpPQ",
+   "ts": "2026-10-07T18:18:07.030000+00:00",
+   "caption": "What if one long video could become 10 posts before your next upload? Your best ideas are already recorded. You just need a repeatable way to pull them out. This repurposing pack g"
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/28242348745434829",
@@ -221,12 +227,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7692482350986300703",
    "ts": "2026-10-03T16:41:44.905047+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOUR VIDEO] \u2192 Write Email Newsletters from Video"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DeCVVb4kdJe/",
-   "ts": "2026-10-03T15:40:18.808323+00:00",
-   "caption": "What if one video could become 10 posts without you writing any of them from scratch? You already did the hard part. You filmed the long video, said the smart things, gave the valu"
   }
  ]
 }
