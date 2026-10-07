@@ -1,17 +1,35 @@
 {
- "generated_at": "2026-10-07T02:17:22Z",
- "total_verified": 264,
+ "generated_at": "2026-10-07T03:17:20Z",
+ "total_verified": 267,
  "by_platform": {
+  "instagram": 83,
+  "tiktok": 37,
   "facebook": 14,
   "youtube": 63,
-  "tiktok": 36,
-  "instagram": 81,
   "x": 53,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DeKDsELjSXn/",
+   "ts": "2026-10-07T02:40:12.099860+00:00",
+   "caption": ""
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DeJ81BCEd1L/",
+   "ts": "2026-10-07T02:40:12.099797+00:00",
+   "caption": ""
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7693694236335639839",
+   "ts": "2026-10-07T02:40:12.099604+00:00",
+   "caption": ""
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/28442175292033855",
@@ -209,24 +227,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7692256259155823902",
    "ts": "2026-10-03T02:20:26.740918+00:00",
    "caption": "25 prompts to turn ONE long video into dozens of posts\u2014ready to boost your channel? You\u2019ll save hours per video by instantly generating short clips, blog posts, and more. Start sca"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7692209674371878174",
-   "ts": "2026-10-02T23:40:10.998461+00:00",
-   "caption": "Score 0-100 on AI search readiness with the AI Search Readiness Audit \u2013 you\u2019ll see exactly how your site scores on robots.txt, sitemap, llms.txt, schema and more, plus a clear fix "
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/2134915977376923",
-   "ts": "2026-10-02T20:01:25.099748+00:00",
-   "caption": "What if 7 simple prompts kept your business running unattended? You get a free PDF with six pages that give you the exact Agent Identity Brief, Scheduled Task Specification, Build\u2011"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/TAPmcecSLnA",
-   "ts": "2026-10-02T18:17:31.559042+00:00",
-   "caption": "Check the 14\u2011page build guide that runs on your existing hardware 24/7 \u2013 does it fit your workflow?\" You get a complete, self\u2011hosted AI stack broken into six sections, each showing"
   }
  ]
 }
