@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-07T21:17:25Z",
- "total_verified": 271,
+ "generated_at": "2026-10-07T22:17:21Z",
+ "total_verified": 272,
  "by_platform": {
+  "tiktok": 39,
   "youtube": 64,
   "facebook": 15,
-  "tiktok": 38,
   "x": 54,
   "instagram": 83,
   "podcast": 8,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7694043944732167454",
+   "ts": "2026-10-07T21:41:38.305153+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/hO__qHcZpPQ",
@@ -221,12 +227,6 @@
    "url": "https://www.facebook.com/reel/1848182286343608",
    "ts": "2026-10-03T17:02:29.481560+00:00",
    "caption": "Are you getting 10 social posts out of your video content? You spend time creating long videos, but sharing them just"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7692482350986300703",
-   "ts": "2026-10-03T16:41:44.905047+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOUR VIDEO] \u2192 Write Email Newsletters from Video"
   }
  ]
 }
