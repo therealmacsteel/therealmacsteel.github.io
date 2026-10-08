@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-08T22:17:27Z",
- "total_verified": 280,
+ "generated_at": "2026-10-08T23:17:19Z",
+ "total_verified": 281,
  "by_platform": {
-  "tiktok": 42,
+  "tiktok": 43,
   "youtube": 66,
   "facebook": 17,
   "instagram": 84,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7694436203642359070",
+   "ts": "2026-10-08T23:03:20.446574+00:00",
+   "caption": "Ready to boost your chatbot with 25 proven prompts? Turn those generic replies into lively conversations that keep users hooked. Use the 25\u2011prompt guide and watch your response qua"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7694415048168443166",
@@ -221,12 +227,6 @@
    "url": "https://www.instagram.com/p/DeE6HY3CHwL/",
    "ts": "2026-10-04T15:40:20.039917+00:00",
    "caption": "Ever wonder why your AI assistant says everything is fine while nothing works? One health check reported healthy. The browser held zero session cookies and couldn't load a single a"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2106763493579899140",
-   "ts": "2026-10-04T15:09:19.751766+00:00",
-   "caption": "Still buying prompt packs that say \"good luck\"? Your AI assistant fails in ways nobody warned you about. Each of the 25 prompts here ships with 4 things: when to use it, what good "
   }
  ]
 }
