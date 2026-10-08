@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-08T21:17:31Z",
- "total_verified": 278,
+ "generated_at": "2026-10-08T22:17:27Z",
+ "total_verified": 280,
  "by_platform": {
+  "tiktok": 42,
+  "youtube": 66,
   "facebook": 17,
-  "youtube": 65,
-  "tiktok": 41,
   "instagram": 84,
   "x": 54,
   "podcast": 8,
@@ -12,6 +12,18 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7694415048168443166",
+   "ts": "2026-10-08T21:41:39.073087+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Real-Time Feedback for Improved Decision-Making \u2192 Autonomous Agent Conflict Resolution for Resolving Human-H"
+  },
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/OFHVH6uf6rA",
+   "ts": "2026-10-08T21:17:31.069819+00:00",
+   "caption": "14\u2011page guide shows how your AI can run 24/7 on the servers you already own. You\u2019ll see exactly what daily jobs your stack handles today, then copy the architecture layer\u2011by\u2011layer "
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/1599988711967191",
@@ -215,18 +227,6 @@
    "url": "https://x.com/therealmacsteel/status/2106763493579899140",
    "ts": "2026-10-04T15:09:19.751766+00:00",
    "caption": "Still buying prompt packs that say \"good luck\"? Your AI assistant fails in ways nobody warned you about. Each of the 25 prompts here ships with 4 things: when to use it, what good "
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2106718189929582774",
-   "ts": "2026-10-04T12:09:17.914098+00:00",
-   "caption": "One long video = 25 posts you haven't written yet. Your best clips, blog posts and more are already sitting in your footage. Mac Steel's Repurposing Pack gives you 25 prompts that "
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7692627658957409566",
-   "ts": "2026-10-04T02:40:05.242766+00:00",
-   "caption": ""
   }
  ]
 }
