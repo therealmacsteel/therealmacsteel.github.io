@@ -1,17 +1,29 @@
 {
- "generated_at": "2026-10-08T02:17:28Z",
- "total_verified": 272,
+ "generated_at": "2026-10-08T03:17:19Z",
+ "total_verified": 274,
  "by_platform": {
-  "tiktok": 39,
+  "instagram": 84,
+  "tiktok": 40,
   "youtube": 64,
   "facebook": 15,
   "x": 54,
-  "instagram": 83,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DeMpAyYCOSf/",
+   "ts": "2026-10-08T02:40:04.453631+00:00",
+   "caption": ""
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7694065394973150495",
+   "ts": "2026-10-08T02:40:04.453439+00:00",
+   "caption": ""
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7694043944732167454",
@@ -215,18 +227,6 @@
    "url": "https://www.instagram.com/p/DeCp4t4gAHa/",
    "ts": "2026-10-03T19:40:16.485210+00:00",
    "caption": "See how a single Python script turns one topic into posts for five social platforms in 3 to 8 minutes \u2013 check the timing in the blueprint PDF Give you five real workflows pulled fr"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/BaKb135Dn8E",
-   "ts": "2026-10-03T18:17:24.811034+00:00",
-   "caption": "Are you wasting time making content from your long videos? You can get 10 or more posts from a long video without starting from"
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/1848182286343608",
-   "ts": "2026-10-03T17:02:29.481560+00:00",
-   "caption": "Are you getting 10 social posts out of your video content? You spend time creating long videos, but sharing them just"
   }
  ]
 }
