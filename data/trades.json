@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-08T15:17:26Z",
+ "generated_at": "2026-10-08T16:17:21Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 327,
+ "closed_total": 328,
  "excluded_unmarkable": 93,
- "win_rate": 0.254,
- "avg_trade_pct": -2.85,
+ "win_rate": 0.253,
+ "avg_trade_pct": -2.86,
  "open_total": 165,
- "open_avg_pct": 0.75,
+ "open_avg_pct": 0.77,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -20,11 +20,11 @@
   },
   {
    "lane": "Macro ETFs",
-   "closed": 80,
-   "win_rate": 0.2,
+   "closed": 81,
+   "win_rate": 0.198,
    "avg_win_pct": 11.43,
-   "avg_loss_pct": -5.56,
-   "avg_trade_pct": -2.16
+   "avg_loss_pct": -5.57,
+   "avg_trade_pct": -2.21
   },
   {
    "lane": "Shorts (simulated)",
@@ -52,6 +52,17 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "COPX",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 86.96,
+   "exit": 81.6,
+   "pnl_pct": -6.16,
+   "opened": "2026-09-24",
+   "closed": "2026-10-08",
+   "exit_reason": "stop"
+  },
   {
    "asset": "GSIT",
    "lane": "Equity factor model",
@@ -315,20 +326,13 @@
    "opened": "2026-09-02",
    "closed": "2026-10-05",
    "exit_reason": "stop"
-  },
-  {
-   "asset": "LWLG",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.12,
-   "exit": 5.73,
-   "pnl_pct": 11.91,
-   "opened": "2026-09-28",
-   "closed": "2026-10-02",
-   "exit_reason": "target"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "COPX",
+   "pnl_pct": -6.16
+  },
   {
    "asset": "GSIT",
    "pnl_pct": -5.89
@@ -564,10 +568,6 @@
   {
    "asset": "AMAT",
    "pnl_pct": 10.44
-  },
-  {
-   "asset": "DKNG",
-   "pnl_pct": -6.08
   }
  ],
  "best_open": [
@@ -576,8 +576,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 276.13,
-   "pnl_pct": 9.44,
+   "mark": 275.35,
+   "pnl_pct": 9.69,
    "opened": "2026-08-15"
   },
   {
@@ -585,17 +585,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 49.76,
-   "mark": 45.55,
-   "pnl_pct": 8.45,
-   "opened": "2026-08-27"
-  },
-  {
-   "asset": "XLK",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 185.8,
-   "mark": 200.17,
-   "pnl_pct": 7.73,
+   "mark": 45.38,
+   "pnl_pct": 8.79,
    "opened": "2026-08-27"
   },
   {
@@ -603,18 +594,27 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 58.16,
-   "mark": 53.81,
-   "pnl_pct": 7.48,
+   "mark": 53.73,
+   "pnl_pct": 7.62,
    "opened": "2026-08-16"
   },
   {
-   "asset": "MSFT",
-   "lane": "Congress disclosures",
+   "asset": "XLK",
+   "lane": "Macro ETFs",
    "side": "long",
-   "entry": 495.35,
-   "mark": 531.06,
-   "pnl_pct": 7.21,
-   "opened": "2026-08-15"
+   "entry": 185.8,
+   "mark": 199.94,
+   "pnl_pct": 7.61,
+   "opened": "2026-08-27"
+  },
+  {
+   "asset": "VEEV",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 262.19,
+   "mark": 282.07,
+   "pnl_pct": 7.58,
+   "opened": "2026-09-21"
   }
  ],
  "worst_open": [
@@ -628,40 +628,40 @@
    "opened": "2026-10-08"
   },
   {
-   "asset": "COPX",
-   "lane": "Macro ETFs",
+   "asset": "LAR",
+   "lane": "Equity factor model",
    "side": "long",
-   "entry": 86.96,
-   "mark": 82.71,
+   "entry": 5.53,
+   "mark": 5.25,
    "pnl_pct": -4.89,
-   "opened": "2026-09-24"
+   "opened": "2026-10-05"
   },
   {
    "asset": "INDA",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 47.69,
-   "mark": 45.55,
-   "pnl_pct": -4.49,
+   "mark": 45.38,
+   "pnl_pct": -4.84,
    "opened": "2026-09-15"
   },
   {
-   "asset": "LAR",
+   "asset": "ORC",
    "lane": "Equity factor model",
    "side": "long",
-   "entry": 5.53,
-   "mark": 5.28,
-   "pnl_pct": -4.43,
+   "entry": 5.09,
+   "mark": 4.87,
+   "pnl_pct": -4.42,
    "opened": "2026-10-05"
   },
   {
-   "asset": "CORN",
+   "asset": "EWG",
    "lane": "Macro ETFs",
    "side": "long",
-   "entry": 19.77,
-   "mark": 18.96,
-   "pnl_pct": -4.12,
-   "opened": "2026-08-27"
+   "entry": 42.16,
+   "mark": 40.34,
+   "pnl_pct": -4.32,
+   "opened": "2026-09-20"
   }
  ],
  "book": {
