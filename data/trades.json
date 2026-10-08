@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T20:17:25Z",
+ "generated_at": "2026-10-08T21:17:33Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -7,8 +7,8 @@
  "excluded_unmarkable": 93,
  "win_rate": 0.252,
  "avg_trade_pct": -2.87,
- "open_total": 164,
- "open_avg_pct": 0.95,
+ "open_total": 165,
+ "open_avg_pct": 1.12,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -572,6 +572,15 @@
  ],
  "best_open": [
   {
+   "asset": "DIA",
+   "lane": "Options (simulated)",
+   "side": "long",
+   "entry": 4.73,
+   "mark": 5.46,
+   "pnl_pct": 15.54,
+   "opened": "2026-10-08"
+  },
+  {
    "asset": "IWM",
    "lane": "Shorts (simulated)",
    "side": "short",
@@ -606,27 +615,9 @@
    "mark": 5.95,
    "pnl_pct": 7.69,
    "opened": "2026-10-05"
-  },
-  {
-   "asset": "URA",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 41.65,
-   "mark": 38.48,
-   "pnl_pct": 7.61,
-   "opened": "2026-09-20"
   }
  ],
  "worst_open": [
-  {
-   "asset": "IWM",
-   "lane": "Options (simulated)",
-   "side": "long",
-   "entry": 4.92,
-   "mark": 3.92,
-   "pnl_pct": -20.35,
-   "opened": "2026-10-08"
-  },
   {
    "asset": "ESP",
    "lane": "Equity factor model",
@@ -662,6 +653,15 @@
    "mark": 24.78,
    "pnl_pct": -4.14,
    "opened": "2026-09-15"
+  },
+  {
+   "asset": "CORN",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 19.77,
+   "mark": 18.98,
+   "pnl_pct": -4.02,
+   "opened": "2026-08-27"
   }
  ],
  "book": {
