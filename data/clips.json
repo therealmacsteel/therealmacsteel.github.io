@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-10-08T18:17:23Z",
- "total_verified": 276,
+ "generated_at": "2026-10-08T19:17:23Z",
+ "total_verified": 277,
  "by_platform": {
+  "youtube": 65,
   "facebook": 16,
   "tiktok": 41,
   "instagram": 84,
-  "youtube": 64,
   "x": 54,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/vMYH30EScOs",
+   "ts": "2026-10-08T18:17:36.483233+00:00",
+   "caption": "25 prompts to finally stop guessing which prompt works for your AI assistant\u2014ready to see the difference? You\u2019ll cut the trial\u2011and\u2011error time dramatically. Each prompt comes with W"
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/1252973997010345",
@@ -221,12 +227,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7692580710648925471",
    "ts": "2026-10-03T23:40:20.133756+00:00",
    "caption": "5\u2011job schedule ready to copy\u2011paste. Phone alerts when a job fails. Get the full set for $10."
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/74oG9BepWho",
-   "ts": "2026-10-03T21:17:31.465470+00:00",
-   "caption": "You\u2019ve seen how one topic can become five ready\u2011to\u2011post social updates in just 3 to 8 minutes. Want to run that whole flow on your own schedule, no subscription needed? Check the l"
   }
  ]
 }

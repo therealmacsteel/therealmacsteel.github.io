@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-08T18:17:25Z",
+ "generated_at": "2026-10-08T19:17:25Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 329,
+ "closed_total": 330,
  "excluded_unmarkable": 93,
  "win_rate": 0.252,
- "avg_trade_pct": -2.86,
+ "avg_trade_pct": -2.87,
  "open_total": 164,
- "open_avg_pct": 0.88,
+ "open_avg_pct": 0.91,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -36,11 +36,11 @@
   },
   {
    "lane": "Congress disclosures",
-   "closed": 19,
-   "win_rate": 0.421,
+   "closed": 20,
+   "win_rate": 0.4,
    "avg_win_pct": 11.25,
-   "avg_loss_pct": -5.86,
-   "avg_trade_pct": 1.35
+   "avg_loss_pct": -5.81,
+   "avg_trade_pct": 1.02
   },
   {
    "lane": "Options (simulated)",
@@ -52,6 +52,17 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "AVGO",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 377.92,
+   "exit": 358.08,
+   "pnl_pct": -5.25,
+   "opened": "2026-10-06",
+   "closed": "2026-10-08",
+   "exit_reason": "stop"
+  },
   {
    "asset": "LAR",
    "lane": "Equity factor model",
@@ -315,20 +326,13 @@
    "opened": "2026-09-14",
    "closed": "2026-10-05",
    "exit_reason": "target"
-  },
-  {
-   "asset": "CHRW",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 152.59,
-   "exit": 141.67,
-   "pnl_pct": -7.16,
-   "opened": "2026-09-10",
-   "closed": "2026-10-05",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "AVGO",
+   "pnl_pct": -5.25
+  },
   {
    "asset": "LAR",
    "pnl_pct": -5.52
@@ -564,10 +568,6 @@
   {
    "asset": "TBT",
    "pnl_pct": 10.35
-  },
-  {
-   "asset": "RCL",
-   "pnl_pct": 11.52
   }
  ],
  "best_open": [
@@ -576,45 +576,45 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 277.26,
-   "pnl_pct": 9.06,
+   "mark": 277.18,
+   "pnl_pct": 9.09,
    "opened": "2026-08-15"
-  },
-  {
-   "asset": "INDA",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 49.76,
-   "mark": 45.47,
-   "pnl_pct": 8.61,
-   "opened": "2026-08-27"
-  },
-  {
-   "asset": "EWY",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 190.98,
-   "mark": 174.75,
-   "pnl_pct": 8.5,
-   "opened": "2026-09-08"
-  },
-  {
-   "asset": "URA",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 41.65,
-   "mark": 38.16,
-   "pnl_pct": 8.38,
-   "opened": "2026-09-20"
   },
   {
    "asset": "VEEV",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 262.19,
-   "mark": 283.48,
-   "pnl_pct": 8.12,
+   "mark": 284.73,
+   "pnl_pct": 8.59,
    "opened": "2026-09-21"
+  },
+  {
+   "asset": "INDA",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 49.76,
+   "mark": 45.51,
+   "pnl_pct": 8.54,
+   "opened": "2026-08-27"
+  },
+  {
+   "asset": "URA",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 41.65,
+   "mark": 38.17,
+   "pnl_pct": 8.34,
+   "opened": "2026-09-20"
+  },
+  {
+   "asset": "EWY",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 190.98,
+   "mark": 175.86,
+   "pnl_pct": 7.92,
+   "opened": "2026-09-08"
   }
  ],
  "worst_open": [
@@ -628,39 +628,39 @@
    "opened": "2026-10-08"
   },
   {
-   "asset": "ZETA",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 34.2,
-   "mark": 32.5,
-   "pnl_pct": -4.96,
-   "opened": "2026-10-05"
-  },
-  {
    "asset": "INDA",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 47.69,
-   "mark": 45.47,
-   "pnl_pct": -4.66,
+   "mark": 45.51,
+   "pnl_pct": -4.58,
    "opened": "2026-09-15"
   },
   {
-   "asset": "AVGO",
-   "lane": "Congress disclosures",
+   "asset": "ESP",
+   "lane": "Equity factor model",
    "side": "long",
-   "entry": 377.92,
-   "mark": 360.72,
-   "pnl_pct": -4.55,
-   "opened": "2026-10-06"
+   "entry": 63.05,
+   "mark": 60.2,
+   "pnl_pct": -4.51,
+   "opened": "2026-08-24"
+  },
+  {
+   "asset": "AAPL",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 326.65,
+   "mark": 341.17,
+   "pnl_pct": -4.45,
+   "opened": "2026-07-20"
   },
   {
    "asset": "WEAT",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 25.85,
-   "mark": 24.8,
-   "pnl_pct": -4.06,
+   "mark": 24.79,
+   "pnl_pct": -4.1,
    "opened": "2026-09-15"
   }
  ],
