@@ -1,17 +1,29 @@
 {
- "generated_at": "2026-10-08T16:17:19Z",
- "total_verified": 274,
+ "generated_at": "2026-10-08T17:17:21Z",
+ "total_verified": 276,
  "by_platform": {
+  "facebook": 16,
+  "tiktok": 41,
   "instagram": 84,
-  "tiktok": 40,
   "youtube": 64,
-  "facebook": 15,
   "x": 54,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/1252973997010345",
+   "ts": "2026-10-08T17:01:11.441351+00:00",
+   "caption": "Most prompt packs hand you text and wish you luck. Here's what 25 prompts should actually come with. You paste a prompt into your assistant, the output looks fine, and then it quie"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7694337748257262878",
+   "ts": "2026-10-08T16:41:44.166874+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DeMpAyYCOSf/",
@@ -215,18 +227,6 @@
    "url": "https://www.youtube.com/shorts/74oG9BepWho",
    "ts": "2026-10-03T21:17:31.465470+00:00",
    "caption": "You\u2019ve seen how one topic can become five ready\u2011to\u2011post social updates in just 3 to 8 minutes. Want to run that whole flow on your own schedule, no subscription needed? Check the l"
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/1567871204589489",
-   "ts": "2026-10-03T20:01:20.024829+00:00",
-   "caption": "Have you built basic AI scripts but need to see how a full pipeline connects? If you want to tie your local AI tools"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DeCp4t4gAHa/",
-   "ts": "2026-10-03T19:40:16.485210+00:00",
-   "caption": "See how a single Python script turns one topic into posts for five social platforms in 3 to 8 minutes \u2013 check the timing in the blueprint PDF Give you five real workflows pulled fr"
   }
  ]
 }
