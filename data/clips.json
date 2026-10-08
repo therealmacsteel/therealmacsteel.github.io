@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-08T19:17:23Z",
- "total_verified": 277,
+ "generated_at": "2026-10-08T20:17:23Z",
+ "total_verified": 278,
  "by_platform": {
+  "facebook": 17,
   "youtube": 65,
-  "facebook": 16,
   "tiktok": 41,
   "instagram": 84,
   "x": 54,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/1599988711967191",
+   "ts": "2026-10-08T20:01:24.428570+00:00",
+   "caption": "14 pages to get your AI running 24/7 on the hardware you already own? You\u2019ve got the servers\u2014now you can turn them into a nonstop assistant that handles daily jobs, routes tasks to"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/vMYH30EScOs",
@@ -221,12 +227,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7692627658957409566",
    "ts": "2026-10-04T02:40:05.242766+00:00",
    "caption": ""
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7692580710648925471",
-   "ts": "2026-10-03T23:40:20.133756+00:00",
-   "caption": "5\u2011job schedule ready to copy\u2011paste. Phone alerts when a job fails. Get the full set for $10."
   }
  ]
 }

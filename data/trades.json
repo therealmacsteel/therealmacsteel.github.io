@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T19:17:25Z",
+ "generated_at": "2026-10-08T20:17:25Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -8,7 +8,7 @@
  "win_rate": 0.252,
  "avg_trade_pct": -2.87,
  "open_total": 164,
- "open_avg_pct": 0.91,
+ "open_avg_pct": 0.95,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,8 +576,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 277.18,
-   "pnl_pct": 9.09,
+   "mark": 277.81,
+   "pnl_pct": 8.88,
    "opened": "2026-08-15"
   },
   {
@@ -585,8 +585,8 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 262.19,
-   "mark": 284.73,
-   "pnl_pct": 8.59,
+   "mark": 284.63,
+   "pnl_pct": 8.56,
    "opened": "2026-09-21"
   },
   {
@@ -594,27 +594,27 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 49.76,
-   "mark": 45.51,
-   "pnl_pct": 8.54,
+   "mark": 45.57,
+   "pnl_pct": 8.41,
    "opened": "2026-08-27"
+  },
+  {
+   "asset": "FLO",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 5.53,
+   "mark": 5.95,
+   "pnl_pct": 7.69,
+   "opened": "2026-10-05"
   },
   {
    "asset": "URA",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 41.65,
-   "mark": 38.17,
-   "pnl_pct": 8.34,
+   "mark": 38.48,
+   "pnl_pct": 7.61,
    "opened": "2026-09-20"
-  },
-  {
-   "asset": "EWY",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 190.98,
-   "mark": 175.86,
-   "pnl_pct": 7.92,
-   "opened": "2026-09-08"
   }
  ],
  "worst_open": [
@@ -628,15 +628,6 @@
    "opened": "2026-10-08"
   },
   {
-   "asset": "INDA",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 47.69,
-   "mark": 45.51,
-   "pnl_pct": -4.58,
-   "opened": "2026-09-15"
-  },
-  {
    "asset": "ESP",
    "lane": "Equity factor model",
    "side": "long",
@@ -646,12 +637,21 @@
    "opened": "2026-08-24"
   },
   {
+   "asset": "INDA",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 47.69,
+   "mark": 45.57,
+   "pnl_pct": -4.45,
+   "opened": "2026-09-15"
+  },
+  {
    "asset": "AAPL",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 326.65,
-   "mark": 341.17,
-   "pnl_pct": -4.45,
+   "mark": 340.43,
+   "pnl_pct": -4.22,
    "opened": "2026-07-20"
   },
   {
@@ -659,8 +659,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 25.85,
-   "mark": 24.79,
-   "pnl_pct": -4.1,
+   "mark": 24.78,
+   "pnl_pct": -4.14,
    "opened": "2026-09-15"
   }
  ],
