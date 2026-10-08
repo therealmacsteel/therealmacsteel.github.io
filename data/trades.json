@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-08T12:17:27Z",
+ "generated_at": "2026-10-08T13:17:23Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
  "closed_total": 323,
- "excluded_unmarkable": 90,
+ "excluded_unmarkable": 93,
  "win_rate": 0.257,
  "avg_trade_pct": -2.81,
- "open_total": 169,
- "open_avg_pct": 0.83,
+ "open_total": 167,
+ "open_avg_pct": 0.87,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -590,15 +590,6 @@
    "opened": "2026-08-27"
   },
   {
-   "asset": "BTC/USD",
-   "lane": "Crypto",
-   "side": "long",
-   "entry": 76912.71,
-   "mark": 82944.82,
-   "pnl_pct": 7.84,
-   "opened": "2026-09-02"
-  },
-  {
    "asset": "VEEV",
    "lane": "Equity factor model",
    "side": "long",
@@ -615,17 +606,26 @@
    "mark": 53.74,
    "pnl_pct": 7.59,
    "opened": "2026-08-16"
+  },
+  {
+   "asset": "INDA",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 49.76,
+   "mark": 46.12,
+   "pnl_pct": 7.31,
+   "opened": "2026-08-27"
   }
  ],
  "worst_open": [
   {
-   "asset": "DIA",
-   "lane": "Options (simulated)",
+   "asset": "INTC",
+   "lane": "Congress disclosures",
    "side": "long",
-   "entry": 4.59,
-   "mark": 4.36,
-   "pnl_pct": -5.12,
-   "opened": "2026-10-05"
+   "entry": 116.12,
+   "mark": 110.46,
+   "pnl_pct": -4.87,
+   "opened": "2026-09-28"
   },
   {
    "asset": "WTS",
@@ -646,22 +646,22 @@
    "opened": "2026-09-24"
   },
   {
-   "asset": "QQQ",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 731.01,
-   "mark": 757.84,
-   "pnl_pct": -3.67,
-   "opened": "2026-08-16"
+   "asset": "SLV",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 55.27,
+   "mark": 53.26,
+   "pnl_pct": -3.64,
+   "opened": "2026-09-28"
   },
   {
-   "asset": "AROC",
-   "lane": "Equity factor model",
+   "asset": "SLV",
+   "lane": "Macro ETFs",
    "side": "long",
-   "entry": 31.23,
-   "mark": 30.1,
-   "pnl_pct": -3.62,
-   "opened": "2026-08-31"
+   "entry": 55.27,
+   "mark": 53.26,
+   "pnl_pct": -3.64,
+   "opened": "2026-09-28"
   }
  ],
  "book": {
