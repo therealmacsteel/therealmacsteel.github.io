@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T13:17:22Z",
+ "generated_at": "2026-10-09T14:17:24Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -8,7 +8,7 @@
  "win_rate": 0.252,
  "avg_trade_pct": -2.87,
  "open_total": 166,
- "open_avg_pct": 1.21,
+ "open_avg_pct": 1.34,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,48 +576,57 @@
    "lane": "Options (simulated)",
    "side": "long",
    "entry": 4.73,
-   "mark": 5.46,
-   "pnl_pct": 15.54,
+   "mark": 5.65,
+   "pnl_pct": 19.45,
    "opened": "2026-10-08"
-  },
-  {
-   "asset": "IWM",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 304.9,
-   "mark": 277.81,
-   "pnl_pct": 8.88,
-   "opened": "2026-08-15"
   },
   {
    "asset": "VEEV",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 262.19,
-   "mark": 284.63,
-   "pnl_pct": 8.56,
+   "mark": 286.46,
+   "pnl_pct": 9.25,
    "opened": "2026-09-21"
   },
   {
-   "asset": "INDA",
+   "asset": "IWM",
    "lane": "Shorts (simulated)",
    "side": "short",
-   "entry": 49.76,
-   "mark": 45.57,
-   "pnl_pct": 8.41,
-   "opened": "2026-08-27"
+   "entry": 304.9,
+   "mark": 278.71,
+   "pnl_pct": 8.59,
+   "opened": "2026-08-15"
   },
   {
-   "asset": "BTC/USD",
-   "lane": "Crypto",
+   "asset": "TW",
+   "lane": "Equity factor model",
    "side": "long",
-   "entry": 76912.71,
-   "mark": 82968.1,
-   "pnl_pct": 7.87,
-   "opened": "2026-09-02"
+   "entry": 102.6,
+   "mark": 110.88,
+   "pnl_pct": 8.07,
+   "opened": "2026-08-08"
+  },
+  {
+   "asset": "GME",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 23.8,
+   "mark": 25.7,
+   "pnl_pct": 7.98,
+   "opened": "2026-09-28"
   }
  ],
  "worst_open": [
+  {
+   "asset": "IWM",
+   "lane": "Options (simulated)",
+   "side": "long",
+   "entry": 4.92,
+   "mark": 4.58,
+   "pnl_pct": -6.92,
+   "opened": "2026-10-08"
+  },
   {
    "asset": "ESP",
    "lane": "Equity factor model",
@@ -628,22 +637,13 @@
    "opened": "2026-08-24"
   },
   {
-   "asset": "INDA",
-   "lane": "Macro ETFs",
+   "asset": "OLLI",
+   "lane": "Equity factor model",
    "side": "long",
-   "entry": 47.69,
-   "mark": 45.57,
-   "pnl_pct": -4.45,
-   "opened": "2026-09-15"
-  },
-  {
-   "asset": "AAPL",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 326.65,
-   "mark": 340.43,
-   "pnl_pct": -4.22,
-   "opened": "2026-07-20"
+   "entry": 88.99,
+   "mark": 85.02,
+   "pnl_pct": -4.47,
+   "opened": "2026-10-05"
   },
   {
    "asset": "WEAT",
@@ -668,10 +668,10 @@
   "mode": "PAPER",
   "inception": "2026-09-25",
   "capital": 69769.61,
-  "nav": 69888.21,
-  "book_pct": 0.17,
-  "spy_pct": 0.68,
-  "days": 10,
+  "nav": 70155.05,
+  "book_pct": 0.55,
+  "spy_pct": 0.9,
+  "days": 11,
   "positions": [
    {
     "symbol": "DBC",
@@ -703,7 +703,7 @@
    },
    {
     "symbol": "UUP",
-    "qty": 542.0
+    "qty": 544.0
    }
   ],
   "sleeves": {
@@ -711,7 +711,7 @@
    "T": "15-ETF trend (3/6/9/12m), inverse-vol, 15% vol target, gross <= 1.8, 25% cap"
   },
   "risk": "daily loss -4%: no increases; drawdown -15%: halve; -25%: flat + halt",
-  "shadow_costs": 146.92,
+  "shadow_costs": 146.98,
   "curve": [
    {
     "date": "2026-09-25",
@@ -772,9 +772,22 @@
     "nav": 69888.21,
     "book_pct": 0.17,
     "spy_pct": 0.68
+   },
+   {
+    "date": "2026-10-09",
+    "nav": 70155.05,
+    "book_pct": 0.55,
+    "spy_pct": 0.9
    }
   ],
   "fills": [
+   {
+    "date": "2026-10-09",
+    "symbol": "UUP",
+    "side": "buy",
+    "qty": 2.0,
+    "price": 29.05
+   },
    {
     "date": "2026-10-08",
     "symbol": "UUP",
@@ -942,13 +955,6 @@
     "side": "sell",
     "qty": 0.99993022,
     "price": 751.38
-   },
-   {
-    "date": "2026-10-01",
-    "symbol": "SPY",
-    "side": "sell",
-    "qty": 11.0,
-    "price": 763.38
    }
   ],
   "backtest": "Both pre-registered backtests FAILED the bar vs SPY (CAGR 9.32% / 14.08% vs 11.20%; Sharpe 0.58 / 0.61). The book runs to measure, not to claim."
