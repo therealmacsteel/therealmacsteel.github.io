@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-09T01:17:21Z",
- "total_verified": 281,
+ "generated_at": "2026-10-09T02:17:22Z",
+ "total_verified": 282,
  "by_platform": {
-  "tiktok": 43,
+  "tiktok": 44,
   "youtube": 66,
   "facebook": 17,
   "instagram": 84,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7694483001505254687",
+   "ts": "2026-10-09T02:04:47.183854+00:00",
+   "caption": "14\u2011page guide shows how your shop runs AI 24/7 on gear you already have You get a clear .env file, role definitions in IDENTITY.md, and a step\u2011by\u2011step scheduling plan so jobs never"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7694436203642359070",
@@ -221,12 +227,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7692853448810712351",
    "ts": "2026-10-04T16:41:49.213471+00:00",
    "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DeE6HY3CHwL/",
-   "ts": "2026-10-04T15:40:20.039917+00:00",
-   "caption": "Ever wonder why your AI assistant says everything is fine while nothing works? One health check reported healthy. The browser held zero session cookies and couldn't load a single a"
   }
  ]
 }
