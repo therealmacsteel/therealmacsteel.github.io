@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-09T14:17:22Z",
- "total_verified": 283,
+ "generated_at": "2026-10-09T15:17:25Z",
+ "total_verified": 284,
  "by_platform": {
-  "instagram": 85,
+  "instagram": 86,
   "tiktok": 44,
   "youtube": 66,
   "facebook": 17,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DeRyGMKjIiL/",
+   "ts": "2026-10-09T15:02:18.006198+00:00",
+   "caption": "14 pages, six sections\u2014your DIY AI that runs 24/7 on the hardware you already own. You\u2019ll see daily tasks automated without a single extra server, cutting manual check\u2011ins by hours"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DePh2t5DpE_/",
@@ -221,12 +227,6 @@
    "url": "https://www.instagram.com/p/DeFOrnBAOec/",
    "ts": "2026-10-04T19:40:20.323184+00:00",
    "caption": "Is your chatbot answering questions but killing the conversation? Most bots reply like a form, not a person. Your visitors feel it, and they leave. The fix is in your prompts, not "
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/FHNkdYZWU-0",
-   "ts": "2026-10-04T18:17:27.892141+00:00",
-   "caption": "Want 25 proven prompts to make your chatbot sound human? Try the exact step-by-step guide in llms.txt to boost conversation quality and watch engagement rise. Use these prompts tod"
   }
  ]
 }
