@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-10-09T02:17:22Z",
- "total_verified": 282,
+ "generated_at": "2026-10-09T03:17:21Z",
+ "total_verified": 283,
  "by_platform": {
+  "instagram": 85,
   "tiktok": 44,
   "youtube": 66,
   "facebook": 17,
-  "instagram": 84,
   "x": 54,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DePh2t5DpE_/",
+   "ts": "2026-10-09T02:40:04.369474+00:00",
+   "caption": ""
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7694483001505254687",
@@ -221,12 +227,6 @@
    "url": "https://www.youtube.com/shorts/FHNkdYZWU-0",
    "ts": "2026-10-04T18:17:27.892141+00:00",
    "caption": "Want 25 proven prompts to make your chatbot sound human? Try the exact step-by-step guide in llms.txt to boost conversation quality and watch engagement rise. Use these prompts tod"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7692853448810712351",
-   "ts": "2026-10-04T16:41:49.213471+00:00",
-   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
   }
  ]
 }
