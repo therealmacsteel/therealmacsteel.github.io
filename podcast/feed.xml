@@ -13,11 +13,19 @@
     <ns1:category text="Technology" />
     <ns1:category text="Business" />
     <item>
-      <title>Week of 2026-09-18 to 2026-09-25: Book +0.65% vs SPY +0.20%</title>
-      <description>Since the book started on 2026-09-25, the Steel Trades book is up +0.65% after costs, while SPY is up +0.20%, a difference of +0.45 points. One position to note: SSO, 496 shares, average cost $70.13, last $70.96, up +1.18%, the best performer this period. The agents' shadow lane this week recorded 44 closed trades, 10 wins, a win rate of 22.7%, with an average loss of -2.12% per trade; the best shadow trade was GME +15.42% and the worst was RCL -9.74%. A core rule from the strategy: SSO when SPY is above its 200-day average, else BIL. Remember, every trade and every loss is on the Steel Trades Paper account, not advice. Every trade: https://therealmacsteel.github.io/trades/</description>
+      <title>Steel Trades Weekly: Book +1.19% vs SPY +1.02%</title>
+      <description>Welcome to the Steel Trades weekly recap. This week the paper book posted a +1.19% return compared with SPY’s +1.02%. Our standout position was SSO, up +2.85% over the period. In the agents’ shadow lane we logged 41 closed trades, a 39.0% win rate, with the best trade EWZ jumping +17.07% and the worst IWM down -43.25%. A key rule to remember is "after a 4% down day the book adds no new exposure" – it keeps risk in check. Every trade and every loss is on the Steel Trades page. Paper account, not advice. Every trade: https://therealmacsteel.github.io/trades/</description>
+      <link>https://therealmacsteel.github.io/podcast/weekly-2026-10-09.html</link>
+      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/weekly-2026-10-09.html</guid>
+      <pubDate>Fri, 09 Oct 2026 20:40:16 +0000</pubDate>
+      <enclosure url="https://therealmacsteel.github.io/podcast/audio/weekly-2026-10-09.mp3" length="391855" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Weekly 2026 09 25</title>
+      <description>Steel Pod episode from Mac Steel.</description>
       <link>https://therealmacsteel.github.io/podcast/weekly-2026-09-25.html</link>
       <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/weekly-2026-09-25.html</guid>
-      <pubDate>Fri, 25 Sep 2026 20:09:02 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 20:06:37 +0000</pubDate>
       <enclosure url="https://therealmacsteel.github.io/podcast/audio/weekly-2026-09-25.mp3" length="571476" type="audio/mpeg" />
     </item>
     <item>
