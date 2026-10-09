@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-10-09T20:17:22Z",
- "total_verified": 289,
+ "generated_at": "2026-10-09T21:17:30Z",
+ "total_verified": 290,
  "by_platform": {
+  "podcast": 9,
   "facebook": 19,
   "youtube": 67,
   "instagram": 87,
   "tiktok": 45,
   "x": 54,
-  "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "podcast",
+   "url": "https://therealmacsteel.github.io/podcast/weekly-2026-10-09.html",
+   "ts": "2026-10-09T20:40:18.082817+00:00",
+   "caption": "Steel Trades Weekly: Book +1.19% vs SPY +1.02%"
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/1638978071066819",
@@ -221,12 +227,6 @@
    "url": "https://www.facebook.com/reel/1080346707957995",
    "ts": "2026-10-05T17:01:08.077315+00:00",
    "caption": "Run your small business with 7 free prompts that keep your workflow steady\u2014like a dentist\u2019s daily status report that stops drift. See how it works."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7693224456600194334",
-   "ts": "2026-10-05T16:41:43.673978+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Agent Self-Improvement through Feedback Loops \u2192 Caching Strategies for Improved Performance and Scalability \u2192 Designing a Dis"
   }
  ]
 }
