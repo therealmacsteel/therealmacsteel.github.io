@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-09T19:17:21Z",
- "total_verified": 288,
+ "generated_at": "2026-10-09T20:17:22Z",
+ "total_verified": 289,
  "by_platform": {
+  "facebook": 19,
   "youtube": 67,
   "instagram": 87,
-  "facebook": 18,
   "tiktok": 45,
   "x": 54,
   "podcast": 8,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/1638978071066819",
+   "ts": "2026-10-09T20:01:35.915240+00:00",
+   "caption": "What if one video could fill your content calendar for weeks? You already did the hard part: filming a long video. But if it only lives as one upload, you're leaving reach on the t"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/zSOrwCXb4VA",
@@ -221,12 +227,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7693224456600194334",
    "ts": "2026-10-05T16:41:43.673978+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Agent Self-Improvement through Feedback Loops \u2192 Caching Strategies for Improved Performance and Scalability \u2192 Designing a Dis"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2107125862755602881",
-   "ts": "2026-10-05T15:09:14.240375+00:00",
-   "caption": "What keeps your AI assistant consistent on job 400, not just job 1? The 7 prompts behind Mac Steel's live system: identity briefs, unattended scheduling, self-heal diagnostics, dai"
   }
  ]
 }
