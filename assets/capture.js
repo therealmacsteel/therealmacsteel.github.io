@@ -14,20 +14,17 @@
    (The retired endpoint is named in the repo history, not here — this file is
    served to visitors.)
 
-   Mac Steel has no lead API of its own yet. Rather than invent an endpoint or
-   point at something unverified, this hands the visitor off to a real inbox:
-   their mail client opens with the message prefilled, and they can see it
-   leave. Nothing is claimed to have been received that has not been.
-
-   WHEN A REAL ENDPOINT EXISTS: set ENDPOINT below and the original POST path
-   comes back — but only wire it to a worker on a Mac Steel account, and only
-   after confirming it returns ok on a real submission. */
+   2026-10-09 — Mac Steel now has its own lead endpoint: the macsteel-leads
+   worker on Mac Steel's own Cloudflare account, live-tested before wiring.
+   A submission counts as received only when the worker answers ok. Any
+   failure hands the visitor to a real inbox instead, with the message they
+   can send themselves. Nothing is claimed that has not been received. */
 
 (function () {
   "use strict";
 
-  // No Mac Steel lead endpoint yet. Empty means "hand off to email".
-  var ENDPOINT = "";
+  // Mac Steel lead endpoint. Empty would mean "hand off to email".
+  var ENDPOINT = "https://macsteel-leads.macsteel.workers.dev/api/lead";
   var INBOX = "macsmacpro@gmail.com";
 
   function note(form, text, ok) {
