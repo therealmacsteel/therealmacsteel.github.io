@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-09T17:17:22Z",
- "total_verified": 286,
+ "generated_at": "2026-10-09T18:17:21Z",
+ "total_verified": 287,
  "by_platform": {
+  "instagram": 87,
   "facebook": 18,
   "tiktok": 45,
-  "instagram": 86,
   "youtube": 66,
   "x": 54,
   "podcast": 8,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DeSGqCHDLGh/",
+   "ts": "2026-10-09T18:01:36.817615+00:00",
+   "caption": "Your chatbot answers questions. But does it actually hold a conversation? Most bots sound robotic because the prompts behind them are. A stiff prompt gets you a stiff reply, and yo"
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/1792292928487144",
@@ -221,12 +227,6 @@
    "url": "https://x.com/therealmacsteel/status/2107080594853450043",
    "ts": "2026-10-05T12:09:22.145450+00:00",
    "caption": "Is your chatbot losing people after one reply? Your chatbot can hold real conversations. You get 25 proven prompts for crafting engaging chatbot dialogue, so every visitor gets a r"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7692998290459151647",
-   "ts": "2026-10-05T02:40:04.122913+00:00",
-   "caption": ""
   }
  ]
 }
