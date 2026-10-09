@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-09T21:17:30Z",
- "total_verified": 290,
+ "generated_at": "2026-10-09T22:17:20Z",
+ "total_verified": 291,
  "by_platform": {
+  "youtube": 68,
   "podcast": 9,
   "facebook": 19,
-  "youtube": 67,
   "instagram": 87,
   "tiktok": 45,
   "x": 54,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/SRq0uAQWpQY",
+   "ts": "2026-10-09T21:17:28.698679+00:00",
+   "caption": "Your next long video could become 10 posts before you finish lunch. You already did the hard part: recording it. Mac Steel's Repurposing Pack gives you 25 prompts that turn that on"
+  },
   {
    "platform": "podcast",
    "url": "https://therealmacsteel.github.io/podcast/weekly-2026-10-09.html",
@@ -221,12 +227,6 @@
    "url": "https://www.facebook.com/reel/4371030523146979",
    "ts": "2026-10-05T20:01:18.757278+00:00",
    "caption": "Ready to cut 3\u20118 minutes off turning one idea into posts for five platforms? You get five real\u2011world blueprints pulled from Mac Steel\u2019s own agent system\u2014each with exact steps, copy"
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/1080346707957995",
-   "ts": "2026-10-05T17:01:08.077315+00:00",
-   "caption": "Run your small business with 7 free prompts that keep your workflow steady\u2014like a dentist\u2019s daily status report that stops drift. See how it works."
   }
  ]
 }
