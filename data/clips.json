@@ -1,17 +1,29 @@
 {
- "generated_at": "2026-10-09T16:17:20Z",
- "total_verified": 284,
+ "generated_at": "2026-10-09T17:17:22Z",
+ "total_verified": 286,
  "by_platform": {
+  "facebook": 18,
+  "tiktok": 45,
   "instagram": 86,
-  "tiktok": 44,
   "youtube": 66,
-  "facebook": 17,
   "x": 54,
   "podcast": 8,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/1792292928487144",
+   "ts": "2026-10-09T17:01:11.495300+00:00",
+   "caption": "Want your chatbot to hold a conversation people actually enjoy? Most chatbots reply. Few connect. If yours sounds flat, the fix is not a new tool, it is better prompts. Mac Steel's"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7694708820332875038",
+   "ts": "2026-10-09T16:41:39.238441+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Vid"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DeRyGMKjIiL/",
@@ -215,18 +227,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7692998290459151647",
    "ts": "2026-10-05T02:40:04.122913+00:00",
    "caption": ""
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7692952071468780831",
-   "ts": "2026-10-04T23:43:22.336640+00:00",
-   "caption": "Did you know the 14\u2011page guide shows exactly how to run your own AI jobs 24/7 on the hardware you already have? Follow the six\u2011section build guide, set up the routing logic in sect"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DeFOrnBAOec/",
-   "ts": "2026-10-04T19:40:20.323184+00:00",
-   "caption": "Is your chatbot answering questions but killing the conversation? Most bots reply like a form, not a person. Your visitors feel it, and they leave. The fix is in your prompts, not "
   }
  ]
 }
