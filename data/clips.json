@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-10-10T14:17:21Z",
- "total_verified": 293,
+ "generated_at": "2026-10-10T15:17:20Z",
+ "total_verified": 294,
  "by_platform": {
+  "instagram": 88,
   "tiktok": 47,
   "youtube": 68,
   "podcast": 9,
   "facebook": 19,
-  "instagram": 87,
   "x": 54,
   "facebook_reels": 3,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DeUW6mCCPfA/",
+   "ts": "2026-10-10T15:01:51.324290+00:00",
+   "caption": "Are you tired of prompt packs that just give you raw text and wish you luck? When you build AI assistants for"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7694854147283127583",
@@ -220,12 +226,6 @@
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DeHe6T5jo03/",
    "ts": "2026-10-06T02:40:03.749692+00:00",
-   "caption": ""
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7693369565757148447",
-   "ts": "2026-10-06T02:40:03.749623+00:00",
    "caption": ""
   }
  ]
