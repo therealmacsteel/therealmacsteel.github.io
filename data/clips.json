@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-10T21:17:20Z",
- "total_verified": 297,
+ "generated_at": "2026-10-10T22:17:21Z",
+ "total_verified": 298,
  "by_platform": {
+  "tiktok": 49,
   "youtube": 69,
   "instagram": 89,
-  "tiktok": 48,
   "podcast": 9,
   "facebook": 19,
   "x": 54,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7695157206865530142",
+   "ts": "2026-10-10T21:41:38.540332+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Write Email Newsletters from Video Segments \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes fo"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/EJyLSizY0Wc",
@@ -221,12 +227,6 @@
    "url": "https://www.youtube.com/shorts/d3Twxs4_7VA",
    "ts": "2026-10-06T18:17:19.431430+00:00",
    "caption": "Want 25 prompts to make your chatbot sound human? You can boost your bot\u2019s dialogue quality instantly with the 25 proven prompts designed for engaging conversational AI. Just copy "
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/2509556716097582",
-   "ts": "2026-10-06T17:01:11.838611+00:00",
-   "caption": "25 prompts to supercharge your chatbot\u2019s dialogue\u2014ready to see the difference? You\u2019ll notice smoother turns, fewer dead\u2011ends, and more satisfied users in just a few conversations. "
   }
  ]
 }
