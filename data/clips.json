@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-10T22:17:21Z",
- "total_verified": 298,
+ "generated_at": "2026-10-10T23:17:20Z",
+ "total_verified": 299,
  "by_platform": {
-  "tiktok": 49,
+  "tiktok": 50,
   "youtube": 69,
   "instagram": 89,
   "podcast": 9,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7695178496422726943",
+   "ts": "2026-10-10T23:03:42.447230+00:00",
+   "caption": "Want a 14\u2011page guide to run AI 24/7 on your own hardware? You\u2019ll get a step\u2011by\u2011step build that runs on the servers you already own, with scheduling commands that prevent overload a"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7695157206865530142",
@@ -221,12 +227,6 @@
    "url": "https://www.facebook.com/reel/28442175292033855",
    "ts": "2026-10-06T20:01:23.692838+00:00",
    "caption": "Build your own agent stack that runs 24/7 on the hardware you already own. The guide is 14 pages across six sections, starting with the real daily jobs your system does right now. "
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/d3Twxs4_7VA",
-   "ts": "2026-10-06T18:17:19.431430+00:00",
-   "caption": "Want 25 prompts to make your chatbot sound human? You can boost your bot\u2019s dialogue quality instantly with the 25 proven prompts designed for engaging conversational AI. Just copy "
   }
  ]
 }
