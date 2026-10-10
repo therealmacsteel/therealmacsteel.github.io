@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-10T01:17:21Z",
- "total_verified": 292,
+ "generated_at": "2026-10-10T02:17:22Z",
+ "total_verified": 293,
  "by_platform": {
-  "tiktok": 46,
+  "tiktok": 47,
   "youtube": 68,
   "podcast": 9,
   "facebook": 19,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7694854147283127583",
+   "ts": "2026-10-10T02:05:03.062562+00:00",
+   "caption": "Tired of prompt packs that hand you text and wish you luck? You paste the prompt, the output looks fine, and then it quietly fails where it matters. A health check reported healthy"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7694807280176434463",
@@ -220,12 +226,6 @@
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7693369565757148447",
    "ts": "2026-10-06T02:40:03.749623+00:00",
-   "caption": ""
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7693322860017798430",
-   "ts": "2026-10-06T02:40:03.749420+00:00",
    "caption": ""
   }
  ]
