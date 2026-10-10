@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-10T18:17:21Z",
- "total_verified": 296,
+ "generated_at": "2026-10-10T19:17:22Z",
+ "total_verified": 297,
  "by_platform": {
+  "youtube": 69,
   "instagram": 89,
   "tiktok": 48,
-  "youtube": 68,
   "podcast": 9,
   "facebook": 19,
   "x": 54,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/EJyLSizY0Wc",
+   "ts": "2026-10-10T18:17:24.515310+00:00",
+   "caption": "Build Your Own Agent Stack gives you a 14\u2011page, six\u2011section guide that runs on the hardware you already own, 24/7. Section 2 shows you the exact .env file to create for routing log"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DeUrdIrkY5I/",
@@ -221,12 +227,6 @@
    "url": "https://www.facebook.com/reel/2509556716097582",
    "ts": "2026-10-06T17:01:11.838611+00:00",
    "caption": "25 prompts to supercharge your chatbot\u2019s dialogue\u2014ready to see the difference? You\u2019ll notice smoother turns, fewer dead\u2011ends, and more satisfied users in just a few conversations. "
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7693595568068627742",
-   "ts": "2026-10-06T16:41:48.462525+00:00",
-   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
   }
  ]
 }
