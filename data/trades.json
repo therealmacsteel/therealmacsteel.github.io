@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T08:17:20Z",
+ "generated_at": "2026-10-10T09:17:23Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
@@ -8,7 +8,7 @@
  "win_rate": 0.257,
  "avg_trade_pct": -2.77,
  "open_total": 163,
- "open_avg_pct": 1.52,
+ "open_avg_pct": 1.53,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -585,8 +585,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 279.02,
-   "pnl_pct": 8.49,
+   "mark": 279.11,
+   "pnl_pct": 8.46,
    "opened": "2026-08-15"
   },
   {
@@ -623,8 +623,8 @@
    "lane": "Congress disclosures",
    "side": "long",
    "entry": 109.94,
-   "mark": 104.76,
-   "pnl_pct": -4.71,
+   "mark": 104.47,
+   "pnl_pct": -4.98,
    "opened": "2026-10-08"
   },
   {
