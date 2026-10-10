@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-10T17:17:20Z",
- "total_verified": 295,
+ "generated_at": "2026-10-10T18:17:21Z",
+ "total_verified": 296,
  "by_platform": {
+  "instagram": 89,
   "tiktok": 48,
-  "instagram": 88,
   "youtube": 68,
   "podcast": 9,
   "facebook": 19,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DeUrdIrkY5I/",
+   "ts": "2026-10-10T18:01:27.638682+00:00",
+   "caption": "Want to run a self-hosted AI system 24/7 on hardware you already own? Your business needs continuous operations without paying"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7695079899740130590",
@@ -221,12 +227,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7693595568068627742",
    "ts": "2026-10-06T16:41:48.462525+00:00",
    "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7693542186083732767",
-   "ts": "2026-10-06T13:14:45.513761+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOU"
   }
  ]
 }
