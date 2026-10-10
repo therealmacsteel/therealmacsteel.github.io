@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-10T16:17:18Z",
- "total_verified": 294,
+ "generated_at": "2026-10-10T17:17:20Z",
+ "total_verified": 295,
  "by_platform": {
+  "tiktok": 48,
   "instagram": 88,
-  "tiktok": 47,
   "youtube": 68,
   "podcast": 9,
   "facebook": 19,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7695079899740130590",
+   "ts": "2026-10-10T16:41:39.936278+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Streamlining Task Routing for Efficient Agent Performance \u2192 Improving Memory Systems for Long-Term Information Retention \u2192 In"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DeUW6mCCPfA/",
@@ -221,12 +227,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7693542186083732767",
    "ts": "2026-10-06T13:14:45.513761+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOU"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DeHe6T5jo03/",
-   "ts": "2026-10-06T02:40:03.749692+00:00",
-   "caption": ""
   }
  ]
 }
