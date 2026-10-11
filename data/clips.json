@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-11T22:17:22Z",
- "total_verified": 304,
+ "generated_at": "2026-10-11T23:17:17Z",
+ "total_verified": 305,
  "by_platform": {
+  "tiktok": 52,
   "youtube": 71,
   "instagram": 91,
-  "tiktok": 51,
   "podcast": 9,
   "facebook": 19,
   "x": 54,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7695549484545232158",
+   "ts": "2026-10-11T23:03:21.341159+00:00",
+   "caption": "Your long video is hiding 10 short posts. Mac Steel's Repurposing Pack gives you 25 prompts to turn one long video into short clips, blog posts and more, so you save hours per vide"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/WnjuTQLCOmk",
@@ -221,12 +227,6 @@
    "url": "https://www.facebook.com/reel/28242348745434829",
    "ts": "2026-10-07T17:01:30.857104+00:00",
    "caption": "One long video can become 10 posts. Do you know the 25 prompts? You already have the footage. What you don't have is the time to cut it, write it, and post it everywhere. Mac Steel"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7693966620733099294",
-   "ts": "2026-10-07T16:41:44.004997+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Error Handling and Recovery Strategies for Robust Agent Operation \u2192 Autonomous Agent Security Measures for Data Protection \u2192 "
   }
  ]
 }
