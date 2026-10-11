@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-11T18:17:23Z",
- "total_verified": 302,
+ "generated_at": "2026-10-11T19:17:29Z",
+ "total_verified": 303,
  "by_platform": {
+  "youtube": 70,
   "instagram": 91,
   "tiktok": 51,
-  "youtube": 69,
   "podcast": 9,
   "facebook": 19,
   "x": 54,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/GZlL0rGNpVA",
+   "ts": "2026-10-11T18:17:36.641873+00:00",
+   "caption": "Are you still publishing one long video and calling it done? Every long video you record is sitting on hours of unused material you already made. Here is how to stretch it: 25 prom"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DeXQPxMlcDq/",
@@ -221,12 +227,6 @@
    "url": "https://x.com/therealmacsteel/status/2107805456345530535",
    "ts": "2026-10-07T12:09:42.746946+00:00",
    "caption": "One long video can become 10+ posts. You save hours per video with 25 repurposing prompts. Want the pack?"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DeKDsELjSXn/",
-   "ts": "2026-10-07T02:40:12.099860+00:00",
-   "caption": ""
   }
  ]
 }
