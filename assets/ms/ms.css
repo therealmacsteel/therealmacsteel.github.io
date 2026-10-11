@@ -278,3 +278,36 @@ footer a{text-decoration:none;overflow-wrap:anywhere}footer a:hover{color:var(--
 .more a{display:block;padding:1rem 1.1rem;border:1px solid var(--line);border-radius:var(--r);background:var(--card);text-decoration:none}
 .more a:hover{border-color:var(--line2)}
 .more small{display:block;font:500 .7rem/1.3 var(--mono);color:var(--molten);letter-spacing:.12em;text-transform:uppercase;margin-bottom:.35rem}
+
+/* ---- shop upgrade 2026-10-11 (verdict 20261011-162851-fcff): every rule scoped to .shop2, the /shop/ page only ---- */
+.shop2 [id]{scroll-margin-top:5.5rem}
+.shop2 .jumps{display:flex;flex-wrap:wrap;gap:0.5rem 1.25rem;margin-top:1.375rem;font:500 0.8125rem/1.4 var(--mono)}
+.shop2 .jumps a{color:var(--muted);text-decoration:none;border-bottom:1px solid var(--line2);padding-bottom:2px}
+.shop2 .jumps a:hover,.shop2 .jumps a:focus-visible{color:var(--text);border-color:var(--molten)}
+.shop2 .start{padding-top:0}
+.shop2 .startcard{display:grid;border-radius:var(--r2);overflow:hidden;background:var(--card);border:1px solid rgba(255,91,31,.4)}
+.shop2 .startcard .img{position:relative;aspect-ratio:16/10;background:#101216}
+.shop2 .startcard .img img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:left center}
+.shop2 .startcard .txt{display:flex;flex-direction:column;justify-content:center;gap:0.875rem;padding:clamp(1.25rem,3.2vw,2.75rem)}
+.shop2 .startcard .tag{align-self:flex-start;font:700 0.6875rem/1 var(--mono);letter-spacing:.14em;text-transform:uppercase;padding:0.4375rem 0.625rem;border-radius:0.5rem;background:rgba(255,91,31,.12);color:var(--molten2)}
+.shop2 .startcard h2{font-size:clamp(1.75rem,4vw,2.75rem);line-height:1.05}
+.shop2 .startcard p{color:var(--muted);max-width:60ch}
+.shop2 .acts{display:flex;flex-wrap:wrap;align-items:center;gap:0.75rem 1.25rem}
+.shop2 .acts .jump{color:var(--muted);font:500 0.875rem/1.4 var(--mono);text-decoration:none}
+.shop2 .acts .jump:hover,.shop2 .acts .jump:focus-visible{color:var(--text)}
+.shop2 .startcard .fine{font-size:0.8125rem;color:var(--muted)}
+@media(max-width:1023px){.shop2 .startcard .txt{order:-1}}
+@media(max-width:639px){.shop2 .startcard .btn{width:100%}.shop2 .startcard .rest{display:none}}
+@media(min-width:1024px){.shop2 .startcard{grid-template-columns:5fr 7fr}.shop2 .startcard .img{aspect-ratio:auto;min-height:100%}}
+.shop2 .shelf{padding-top:clamp(2.25rem,5vw,4rem)}
+.shop2 .shelf .lede{color:var(--muted);margin-top:0.75rem;max-width:62ch}
+.shop2 .prods.shelf4,.shop2 .prods.shelf2{grid-template-columns:1fr}
+@media(min-width:640px){.shop2 .prods.shelf4,.shop2 .prods.shelf2{grid-template-columns:repeat(2,1fr)}}
+@media(min-width:1024px){.shop2 .prods.shelf4{grid-template-columns:repeat(4,1fr)}.shop2 .prods.shelf2{grid-template-columns:repeat(2,1fr)}}
+.shop2 .prod .kick{font:600 0.6875rem/1.3 var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.shop2 .prod .sub{color:var(--text);opacity:.8;font-size:0.9375rem;line-height:1.35;margin-top:-0.25rem}
+.shop2 .prod p.desc{display:block;-webkit-line-clamp:unset;overflow:visible}
+.shop2 .endband{padding-top:clamp(2.5rem,6vw,4.5rem)}
+.shop2 .endcard{display:flex;flex-direction:column;align-items:flex-start;gap:1rem;padding:clamp(1.5rem,4vw,3rem);border-radius:var(--r2);border:1px solid var(--line);background:linear-gradient(135deg,rgba(255,91,31,.10),var(--card) 55%)}
+.shop2 .endcard h2{font-size:clamp(1.75rem,4vw,2.75rem)}
+.shop2 .endcard p{color:var(--muted)}

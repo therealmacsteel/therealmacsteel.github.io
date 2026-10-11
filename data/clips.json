@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-11T21:17:23Z",
- "total_verified": 303,
+ "generated_at": "2026-10-11T21:19:20Z",
+ "total_verified": 304,
  "by_platform": {
-  "youtube": 70,
+  "youtube": 71,
   "instagram": 91,
   "tiktok": 51,
   "podcast": 9,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/WnjuTQLCOmk",
+   "ts": "2026-10-11T21:17:28.598934+00:00",
+   "caption": "Can 25 prompts completely transform your chatbot conversations? When your users interact with your chatbot, bland replies kill engagement. You need dialogue that feels natural, hel"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/GZlL0rGNpVA",
@@ -221,12 +227,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7693966620733099294",
    "ts": "2026-10-07T16:41:44.004997+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Error Handling and Recovery Strategies for Robust Agent Operation \u2192 Autonomous Agent Security Measures for Data Protection \u2192 "
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2107805456345530535",
-   "ts": "2026-10-07T12:09:42.746946+00:00",
-   "caption": "One long video can become 10+ posts. You save hours per video with 25 repurposing prompts. Want the pack?"
   }
  ]
 }
