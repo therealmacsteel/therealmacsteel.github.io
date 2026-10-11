@@ -174,11 +174,11 @@ audio{width:100%;height:2.5rem;color-scheme:dark}
 /* footer */
 footer{border-top:1px solid var(--line);padding:3.5rem 0 6.875rem;color:var(--muted);font-size:0.875rem}
 @media(min-width:880px){footer{padding-bottom:3.5rem}}
-.fgrid{display:grid;gap:1.75rem;grid-template-columns:repeat(2,1fr)}
+.fgrid{display:grid;gap:1.75rem;grid-template-columns:repeat(2,minmax(0,1fr))}
 @media(min-width:880px){.fgrid{grid-template-columns:2fr 1fr 1fr 1fr}}
 footer h4{font:600 0.75rem/1 var(--mono);letter-spacing:.16em;text-transform:uppercase;color:var(--dim);margin:0 0 0.875rem}
 footer ul{list-style:none;margin:0;padding:0;display:grid;gap:0.5rem}
-footer a{text-decoration:none}footer a:hover{color:var(--text)}
+footer a{text-decoration:none;overflow-wrap:anywhere}footer a:hover{color:var(--text)}
 .socials{display:flex;gap:0.625rem;margin-top:1rem}
 .socials a{width:2.625rem;height:2.625rem;display:grid;place-items:center;border-radius:0.75rem;border:1px solid var(--line2)}
 .socials a:hover{background:rgba(255,255,255,.06)}
@@ -226,7 +226,7 @@ footer a{text-decoration:none}footer a:hover{color:var(--text)}
 .ti{width:1.1em;height:1.1em;vertical-align:-.15em;stroke:currentColor;fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
 .tile .k{display:inline-flex;align-items:center;gap:0.5rem}
 .clip .thumb img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
-.prod .img .tag{position:absolute;left:0.75rem;bottom:0.75rem;font:700 0.6875rem/1 var(--mono);letter-spacing:.14em;text-transform:uppercase;padding:0.4375rem 0.625rem;border-radius:0.5rem;background:rgba(0,0,0,.65);color:var(--molten2)}
+.prod .img .tag{position:absolute;right:0.75rem;top:0.75rem;font:700 0.6875rem/1 var(--mono);letter-spacing:.14em;text-transform:uppercase;padding:0.4375rem 0.625rem;border-radius:0.5rem;background:rgba(0,0,0,.65);color:var(--molten2)}
 .prod .img{padding:0}
 .chart{margin:0.875rem 0 0;border:1px solid var(--line);border-radius:var(--r);overflow:hidden;background:var(--card)}
 .chart img{width:100%;height:auto}
