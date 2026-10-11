@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-11T14:17:19Z",
- "total_verified": 300,
+ "generated_at": "2026-10-11T15:17:20Z",
+ "total_verified": 301,
  "by_platform": {
+  "instagram": 90,
   "tiktok": 51,
   "youtube": 69,
-  "instagram": 89,
   "podcast": 9,
   "facebook": 19,
   "x": 54,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DeW7rkeDPgS/",
+   "ts": "2026-10-11T15:01:32.567153+00:00",
+   "caption": "How do you get 10 posts out of your long video? You spend so much time creating great content, but uploading it once is not enough. You can turn your video into short clips, blog p"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7695225335993912606",
@@ -220,12 +226,6 @@
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DeJ81BCEd1L/",
    "ts": "2026-10-07T02:40:12.099797+00:00",
-   "caption": ""
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7693694236335639839",
-   "ts": "2026-10-07T02:40:12.099604+00:00",
    "caption": ""
   }
  ]
