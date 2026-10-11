@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-11T17:17:19Z",
- "total_verified": 301,
+ "generated_at": "2026-10-11T18:17:23Z",
+ "total_verified": 302,
  "by_platform": {
-  "instagram": 90,
+  "instagram": 91,
   "tiktok": 51,
   "youtube": 69,
   "podcast": 9,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DeXQPxMlcDq/",
+   "ts": "2026-10-11T18:01:26.595067+00:00",
+   "caption": "Is your chatbot failing to keep your users engaged? Stiff and robotic replies can frustrate your visitors and hurt your customer relationships. You can transform any bot into an en"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DeW7rkeDPgS/",
@@ -220,12 +226,6 @@
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DeKDsELjSXn/",
    "ts": "2026-10-07T02:40:12.099860+00:00",
-   "caption": ""
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DeJ81BCEd1L/",
-   "ts": "2026-10-07T02:40:12.099797+00:00",
    "caption": ""
   }
  ]
