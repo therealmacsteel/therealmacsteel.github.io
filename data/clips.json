@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-11T01:17:20Z",
- "total_verified": 299,
+ "generated_at": "2026-10-11T02:17:20Z",
+ "total_verified": 300,
  "by_platform": {
-  "tiktok": 50,
+  "tiktok": 51,
   "youtube": 69,
   "instagram": 89,
   "podcast": 9,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7695225335993912606",
+   "ts": "2026-10-11T02:05:57.913975+00:00",
+   "caption": "Your chatbot talks like a robot and your visitors can tell. 25 proven prompts fix that. You built the bot. You wrote the script. But every conversation still feels flat, stiff, for"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7695178496422726943",
@@ -221,12 +227,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7693694236335639839",
    "ts": "2026-10-07T02:40:12.099604+00:00",
    "caption": ""
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/28442175292033855",
-   "ts": "2026-10-06T20:01:23.692838+00:00",
-   "caption": "Build your own agent stack that runs 24/7 on the hardware you already own. The guide is 14 pages across six sections, starting with the real daily jobs your system does right now. "
   }
  ]
 }
