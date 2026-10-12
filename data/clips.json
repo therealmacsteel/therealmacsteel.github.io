@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-12T14:17:23Z",
- "total_verified": 307,
+ "generated_at": "2026-10-12T15:17:24Z",
+ "total_verified": 308,
  "by_platform": {
+  "instagram": 92,
   "tiktok": 54,
   "youtube": 71,
-  "instagram": 91,
   "podcast": 9,
   "facebook": 19,
   "x": 54,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DeZge2yjVDN/",
+   "ts": "2026-10-12T15:02:07.952961+00:00",
+   "caption": "Does your assistant behave the same on job 400 as on job 1? When you run routine work with AI, small mistakes stack up. To keep your setup consistent, you need clear structure inst"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7695595873400589598",
@@ -221,12 +227,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7694065394973150495",
    "ts": "2026-10-08T02:40:04.453439+00:00",
    "caption": ""
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7694043944732167454",
-   "ts": "2026-10-07T21:41:38.305153+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video"
   }
  ]
 }

@@ -84,6 +84,8 @@ body.ms-legacy main > *{grid-column:2;min-width:0}
 .ms-legacy main .receipt dt{color:var(--muted)}
 .ms-legacy main .receipt dd{margin:0;text-align:right}
 .ms-legacy main .receipt dd.score{color:var(--molten)}
+/* prices left the pages on 2026-09-19 (owner rule); 16 product receipts kept an empty "price" row */
+.ms-legacy main .receipt dd:empty,.ms-legacy main .receipt dt:has(+ dd:empty){display:none}
 .ms-legacy main details{border:1px solid var(--line);border-radius:var(--r);background:var(--card);padding:0 1.25rem}
 .ms-legacy main details + details{margin-top:.6rem}
 .ms-legacy main summary{cursor:pointer;list-style:none;padding:1rem 0;font:600 1.05rem/1.3 var(--display);display:flex;justify-content:space-between;gap:.75rem}
