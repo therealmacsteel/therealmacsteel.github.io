@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-12T08:17:21Z",
+ "generated_at": "2026-10-12T09:17:24Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
  "closed_total": 335,
- "excluded_unmarkable": 93,
+ "excluded_unmarkable": 95,
  "win_rate": 0.257,
  "avg_trade_pct": -2.77,
- "open_total": 163,
- "open_avg_pct": 1.53,
+ "open_total": 161,
+ "open_avg_pct": 1.23,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -572,13 +572,13 @@
  ],
  "best_open": [
   {
-   "asset": "DIA",
-   "lane": "Options (simulated)",
+   "asset": "BTC/USD",
+   "lane": "Crypto",
    "side": "long",
-   "entry": 4.73,
-   "mark": 7.42,
-   "pnl_pct": 56.87,
-   "opened": "2026-10-08"
+   "entry": 76912.71,
+   "mark": 83457.17,
+   "pnl_pct": 8.51,
+   "opened": "2026-09-02"
   },
   {
    "asset": "IWM",
@@ -608,13 +608,13 @@
    "opened": "2026-08-15"
   },
   {
-   "asset": "BTC/USD",
-   "lane": "Crypto",
-   "side": "long",
-   "entry": 76912.71,
-   "mark": 83019.54,
-   "pnl_pct": 7.94,
-   "opened": "2026-09-02"
+   "asset": "CORN",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 20.0,
+   "mark": 18.44,
+   "pnl_pct": 7.82,
+   "opened": "2026-08-27"
   }
  ],
  "worst_open": [
