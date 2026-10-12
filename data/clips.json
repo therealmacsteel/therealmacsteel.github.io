@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-11T23:17:17Z",
- "total_verified": 305,
+ "generated_at": "2026-10-12T00:17:21Z",
+ "total_verified": 306,
  "by_platform": {
-  "tiktok": 52,
+  "tiktok": 53,
   "youtube": 71,
   "instagram": 91,
   "podcast": 9,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7695451020540808478",
+   "ts": "2026-10-11T23:46:29.643084+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7695549484545232158",
@@ -221,12 +227,6 @@
    "url": "https://www.youtube.com/shorts/hO__qHcZpPQ",
    "ts": "2026-10-07T18:18:07.030000+00:00",
    "caption": "What if one long video could become 10 posts before your next upload? Your best ideas are already recorded. You just need a repeatable way to pull them out. This repurposing pack g"
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/28242348745434829",
-   "ts": "2026-10-07T17:01:30.857104+00:00",
-   "caption": "One long video can become 10 posts. Do you know the 25 prompts? You already have the footage. What you don't have is the time to cut it, write it, and post it everywhere. Mac Steel"
   }
  ]
 }
