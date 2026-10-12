@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-10-12T21:17:25Z",
- "total_verified": 311,
+ "generated_at": "2026-10-12T22:17:22Z",
+ "total_verified": 313,
  "by_platform": {
-  "youtube": 72,
+  "tiktok": 56,
+  "youtube": 73,
   "instagram": 93,
-  "tiktok": 55,
   "podcast": 9,
   "facebook": 22,
   "x": 54,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7695899433799519519",
+   "ts": "2026-10-12T21:41:42.427601+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/eNZK8dXr5QU",
+   "ts": "2026-10-12T21:17:30.713914+00:00",
+   "caption": "You already run AI workflows, but can you publish on a schedule without paying for another SaaS? You have the pieces. What you may be missing is the layer that ties them together: "
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/JeQ9YtG9f4A",
@@ -214,18 +226,6 @@
    "url": "https://www.facebook.com/reel/1599988711967191",
    "ts": "2026-10-08T20:01:24.428570+00:00",
    "caption": "14 pages to get your AI running 24/7 on the hardware you already own? You\u2019ve got the servers\u2014now you can turn them into a nonstop assistant that handles daily jobs, routes tasks to"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/vMYH30EScOs",
-   "ts": "2026-10-08T18:17:36.483233+00:00",
-   "caption": "25 prompts to finally stop guessing which prompt works for your AI assistant\u2014ready to see the difference? You\u2019ll cut the trial\u2011and\u2011error time dramatically. Each prompt comes with W"
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/1252973997010345",
-   "ts": "2026-10-08T17:01:11.441351+00:00",
-   "caption": "Most prompt packs hand you text and wish you luck. Here's what 25 prompts should actually come with. You paste a prompt into your assistant, the output looks fine, and then it quie"
   }
  ]
 }
