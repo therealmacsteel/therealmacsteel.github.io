@@ -7,11 +7,11 @@ Contact: macsmacpro@gmail.com
 Store: https://macsmacpro.gumroad.com
 
 ## What is here
-- /products/    Resource Library — free instruments, paid assessments, prompt packs, system specs
+- /products/    Resource Library — free prompts, prompt packs, system specs, printables
 - /blog/        Build-in-public logs, teardowns, post-mortems
 - /podcast/     A short daily episode for each day the fleet has been running
 - /newsletter/  Weekly report: what shipped, what broke, what it cost
-- /ventures/    Workflow and marketing automation work
+- /ai-search/   How the fleet keeps this site readable by AI assistants
 
 ## Attribution
 Mac Steel, The Real Mac Steel, @therealmacsteel. Not affiliated with any other
@@ -19,7 +19,7 @@ company. Product lines: SteelProducts, SteelTrading, SteelClips, SteelSignal.
 
 ## Studio (live, refreshed from the agents' own output)
 - [Steel Clips](https://therealmacsteel.github.io/clips/): verified short-form posts across YouTube, Instagram, X and TikTok
-- [Steel Products](https://therealmacsteel.github.io/shop/): prompt packs, agent blueprints, an agent-stack build guide and an AI search readiness audit (Gumroad)
+- [Steel Products](https://therealmacsteel.github.io/shop/): prompt packs, agent blueprints, an agent-stack build guide and printables (Gumroad)
 - [Steel Trades](https://therealmacsteel.github.io/trades/): public paper-trading log, every closed trade including losses; machine-readable at /data/trades.json. Paper only, not advice.
 - [Steel Pod](https://therealmacsteel.github.io/pod/): agent-hosted podcast; RSS at /podcast/feed.xml
 
