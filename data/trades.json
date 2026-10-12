@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-12T19:17:26Z",
+ "generated_at": "2026-10-12T20:17:27Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
- "closed_total": 339,
+ "closed_total": 340,
  "excluded_unmarkable": 96,
- "win_rate": 0.257,
- "avg_trade_pct": -2.76,
- "open_total": 181,
- "open_avg_pct": 1.03,
+ "win_rate": 0.256,
+ "avg_trade_pct": -2.77,
+ "open_total": 180,
+ "open_avg_pct": 1.07,
  "lanes": [
   {
    "lane": "Equity factor model",
-   "closed": 165,
-   "win_rate": 0.242,
+   "closed": 166,
+   "win_rate": 0.241,
    "avg_win_pct": 11.68,
-   "avg_loss_pct": -6.24,
-   "avg_trade_pct": -1.89
+   "avg_loss_pct": -6.23,
+   "avg_trade_pct": -1.91
   },
   {
    "lane": "Macro ETFs",
@@ -52,6 +52,17 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "DCH",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 5.67,
+   "exit": 5.38,
+   "pnl_pct": -5.11,
+   "opened": "2026-10-05",
+   "closed": "2026-10-12",
+   "exit_reason": "stop"
+  },
   {
    "asset": "BW",
    "lane": "Equity factor model",
@@ -315,20 +326,13 @@
    "opened": "2026-09-21",
    "closed": "2026-10-06",
    "exit_reason": "stop"
-  },
-  {
-   "asset": "USO",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 148.7,
-   "exit": 140.64,
-   "pnl_pct": -5.42,
-   "opened": "2026-09-21",
-   "closed": "2026-10-06",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "DCH",
+   "pnl_pct": -5.11
+  },
   {
    "asset": "BW",
    "pnl_pct": -6.34
@@ -564,20 +568,25 @@
   {
    "asset": "DIA",
    "pnl_pct": -36.46
-  },
-  {
-   "asset": "IWM",
-   "pnl_pct": -40.2
   }
  ],
  "best_open": [
+  {
+   "asset": "FLO",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 5.53,
+   "mark": 6.05,
+   "pnl_pct": 9.59,
+   "opened": "2026-10-05"
+  },
   {
    "asset": "URA",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 41.65,
-   "mark": 37.7,
-   "pnl_pct": 9.47,
+   "mark": 37.71,
+   "pnl_pct": 9.46,
    "opened": "2026-09-20"
   },
   {
@@ -585,18 +594,9 @@
    "lane": "Congress disclosures",
    "side": "long",
    "entry": 495.35,
-   "mark": 539.93,
-   "pnl_pct": 9.0,
+   "mark": 541.09,
+   "pnl_pct": 9.23,
    "opened": "2026-08-15"
-  },
-  {
-   "asset": "FLO",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.53,
-   "mark": 6.01,
-   "pnl_pct": 8.87,
-   "opened": "2026-10-05"
   },
   {
    "asset": "IWM",
@@ -608,13 +608,13 @@
    "opened": "2026-08-15"
   },
   {
-   "asset": "MSFT",
-   "lane": "Congress disclosures",
+   "asset": "SIBN",
+   "lane": "Equity factor model",
    "side": "long",
-   "entry": 500.16,
-   "mark": 539.93,
-   "pnl_pct": 7.95,
-   "opened": "2026-09-04"
+   "entry": 18.5,
+   "mark": 20.1,
+   "pnl_pct": 8.65,
+   "opened": "2026-09-07"
   }
  ],
  "worst_open": [
@@ -628,13 +628,13 @@
    "opened": "2026-10-12"
   },
   {
-   "asset": "DCH",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.67,
-   "mark": 5.41,
-   "pnl_pct": -4.59,
-   "opened": "2026-10-05"
+   "asset": "AAPL",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 326.65,
+   "mark": 341.05,
+   "pnl_pct": -4.41,
+   "opened": "2026-07-20"
   },
   {
    "asset": "GAB",
@@ -646,22 +646,22 @@
    "opened": "2026-09-21"
   },
   {
-   "asset": "LAR",
-   "lane": "Equity factor model",
+   "asset": "NVDA",
+   "lane": "Congress disclosures",
    "side": "long",
-   "entry": 5.09,
-   "mark": 4.88,
-   "pnl_pct": -4.12,
-   "opened": "2026-10-12"
+   "entry": 235.2,
+   "mark": 226.46,
+   "pnl_pct": -3.72,
+   "opened": "2026-10-02"
   },
   {
-   "asset": "AAPL",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 326.65,
-   "mark": 340.02,
-   "pnl_pct": -4.09,
-   "opened": "2026-07-20"
+   "asset": "CORN",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 19.21,
+   "mark": 18.5,
+   "pnl_pct": -3.72,
+   "opened": "2026-08-24"
   }
  ],
  "book": {
