@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-12T22:17:22Z",
- "total_verified": 313,
+ "generated_at": "2026-10-12T23:17:20Z",
+ "total_verified": 314,
  "by_platform": {
-  "tiktok": 56,
+  "tiktok": 57,
   "youtube": 73,
   "instagram": 93,
   "podcast": 9,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7695920984280304926",
+   "ts": "2026-10-12T23:04:46.359651+00:00",
+   "caption": "Your laptop can run an AI system 24/7. The guide is 14 pages. You already own the only hardware this needs. Build Your Own Agent Stack shows you exactly how, in six sections: what "
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7695899433799519519",
@@ -220,12 +226,6 @@
    "url": "https://www.youtube.com/shorts/OFHVH6uf6rA",
    "ts": "2026-10-08T21:17:31.069819+00:00",
    "caption": "14\u2011page guide shows how your AI can run 24/7 on the servers you already own. You\u2019ll see exactly what daily jobs your stack handles today, then copy the architecture layer\u2011by\u2011layer "
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/1599988711967191",
-   "ts": "2026-10-08T20:01:24.428570+00:00",
-   "caption": "14 pages to get your AI running 24/7 on the hardware you already own? You\u2019ve got the servers\u2014now you can turn them into a nonstop assistant that handles daily jobs, routes tasks to"
   }
  ]
 }
