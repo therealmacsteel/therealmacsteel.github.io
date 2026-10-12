@@ -1,0 +1,140 @@
+/* Mac Steel — legacy.css (2026-10-12). The archive (blog, resource library, newsletter, podcast, campaigns,
+   landing pages) on the studio design. Loaded AFTER ms.css, only on pages re-shelled by
+   scripts/macsteel_shell.py, and every rule is scoped to body.ms-legacy, so the studio pages never see it.
+   The old content classes keep their names; this file gives them studio tokens, type and shape.
+   Verdict 20261012-100033-af48. Source of truth: data/site-feeds/_deploy/assets/ms/legacy.css */
+body.ms-legacy{
+  /* the archive's old token names, re-pointed at studio values (pages also use var(--card-border) inline) */
+  --ink-900:var(--bg);--ink-700:var(--card);--ink-500:var(--line2);--ink-300:var(--muted);--ink-100:var(--text);
+  --signal:var(--molten);--signal-ink:#0a0a0a;--link:var(--molten2);--card-border:var(--line2);--primary:var(--molten);
+  --font-display:var(--display);--font-body:var(--body);--measure:68ch;--gutter:clamp(1rem,3vw,2rem)
+}
+/* layout: every direct child of <main> sits in one centred column with the studio side gutters, so text never
+   touches the screen edge, whether the page wrapped it in .shell or not (45 pages did not) */
+body.ms-legacy main{display:grid;grid-template-columns:minmax(var(--pad),1fr) min(100% - 2*var(--pad),72rem) minmax(var(--pad),1fr);align-content:start;overflow-wrap:break-word}
+body.ms-legacy main > *{grid-column:2;min-width:0}
+.ms-legacy main > :first-child:not(section):not(.section):not(.page-header){margin-top:clamp(2rem,6vw,4rem)}
+.ms-legacy main .shell,.ms-legacy main .container{width:100%;max-width:72rem;margin-inline:auto}
+.ms-legacy main .section,.ms-legacy main section{padding:clamp(2.25rem,6vw,4.5rem) 0}
+.ms-legacy main > .section:first-child,.ms-legacy main > section:first-child,.ms-legacy main > .page-header:first-child{padding-top:clamp(2.5rem,8vw,5.5rem)}
+.ms-legacy main .library > .section{padding:clamp(1.75rem,4vw,3rem) 0}
+.ms-legacy main .page-header{padding:clamp(2.5rem,8vw,5rem) 0 clamp(.5rem,2vw,1rem)}
+.ms-legacy main .page-intro{padding-bottom:clamp(1rem,3vw,2rem)}
+.ms-legacy main .grid{display:grid;gap:var(--gutter)}
+.ms-legacy main .grid-2{grid-template-columns:repeat(auto-fit,minmax(min(100%,20rem),1fr))}
+.ms-legacy main .grid-3{grid-template-columns:repeat(auto-fit,minmax(min(100%,15rem),1fr))}
+.ms-legacy main .stack > * + *{margin-top:var(--gutter)}
+.ms-legacy main .cluster{display:flex;flex-wrap:wrap;gap:.75rem;align-items:center}
+.ms-legacy main .flush{margin:0}
+.ms-legacy main .pad-t{padding-top:var(--gutter)}
+.ms-legacy main .prose{max-width:46rem}
+.ms-legacy main .scroll-x{overflow-x:auto}
+
+/* type */
+.ms-legacy main h1{font:700 clamp(2.4rem,7vw,4.75rem)/.98 var(--display);letter-spacing:-.04em;margin:.9rem 0 1.1rem;max-width:22ch;text-wrap:balance}
+.ms-legacy main h2{font:700 clamp(1.6rem,3.4vw,2.5rem)/1.08 var(--display);letter-spacing:-.025em;margin:2.2rem 0 .8rem;text-wrap:balance}
+.ms-legacy main h3{font:600 clamp(1.15rem,2vw,1.45rem)/1.2 var(--display);margin:1.6rem 0 .5rem}
+.ms-legacy main h2:first-child,.ms-legacy main h3:first-child{margin-top:0}
+.ms-legacy main p{margin:0 0 1em;max-width:68ch}
+.ms-legacy main li{max-width:68ch}
+.ms-legacy main ul,.ms-legacy main ol{padding-left:1.25rem;margin:0 0 1.2em}
+.ms-legacy main li + li{margin-top:.35rem}
+.ms-legacy main a:not(.btn){color:var(--text);text-decoration:underline;text-decoration-color:var(--molten);text-underline-offset:.2em;text-decoration-thickness:1px}
+.ms-legacy main a:not(.btn):hover{color:var(--molten2)}
+.ms-legacy main :is(h1,h2,h3) a:not(.btn){text-decoration:none}
+.ms-legacy main :is(h1,h2,h3) a:not(.btn):hover{color:var(--molten)}
+.ms-legacy main strong{color:var(--text)}
+.ms-legacy main .eyebrow{margin:0 0 .25rem}
+.ms-legacy main .lede,.ms-legacy main .subtitle{color:var(--muted);font-size:clamp(1.05rem,1.7vw,1.25rem);line-height:1.55;max-width:62ch}
+.ms-legacy main .mono,.ms-legacy main code,.ms-legacy main kbd,.ms-legacy main .metric{font-family:var(--mono)}
+.ms-legacy main .fine{font:500 .8125rem/1.5 var(--mono);color:var(--muted)}
+.ms-legacy main .muted{color:var(--muted)}
+.ms-legacy main .metric{font-size:clamp(1.6rem,3vw,2.4rem);color:var(--molten);display:block}
+.ms-legacy main .rule,.ms-legacy main hr{border:0;border-top:1px solid var(--line);margin:1.5rem 0}
+.ms-legacy main pre{overflow-x:auto;padding:1rem 1.1rem;border:1px solid var(--line);border-radius:var(--r);background:var(--bg2);font:400 .875rem/1.5 var(--mono)}
+.ms-legacy main blockquote{margin:1.5rem 0;padding:.2rem 0 .2rem 1.2rem;border-left:3px solid var(--molten);color:var(--text)}
+
+/* media: nothing wider than the screen */
+.ms-legacy main img,.ms-legacy main video,.ms-legacy main iframe{max-width:100%;height:auto}
+.ms-legacy main figure{margin:1.5rem 0}
+.ms-legacy main figure img{border-radius:.875rem;border:1px solid var(--line);max-width:min(100%,40rem)}
+.ms-legacy main figure.flush{margin:0}
+.ms-legacy main figcaption{color:var(--muted);font-size:.8125rem;padding-top:.6rem}
+.ms-legacy main audio{display:block;width:100%;margin:1.25rem 0;color-scheme:dark}
+.ms-legacy main .ti{width:1.1em;height:1.1em}
+.ms-legacy main .ti-lg{width:2rem;height:2rem}
+.ms-legacy main table{min-width:0;font:400 .875rem/1.45 var(--mono)}
+.ms-legacy main th,.ms-legacy main td{white-space:normal}
+
+/* buttons: the studio pill; the old variants map onto it */
+.ms-legacy main .btn{font-family:var(--body)}
+.ms-legacy main .btn-ghost,.ms-legacy main .btn-secondary{background:transparent;color:var(--text);box-shadow:inset 0 0 0 1px var(--line2)}
+.ms-legacy main .btn-ghost:hover,.ms-legacy main .btn-secondary:hover{background:rgba(255,255,255,.06);box-shadow:inset 0 0 0 1px rgba(255,255,255,.3)}
+.ms-legacy main .btn-sm{min-height:2.375rem;padding:0 .875rem;font-size:.875rem}
+.ms-legacy main .capture{display:flex;flex-wrap:wrap;gap:.75rem;align-items:center;margin-top:1rem}
+.ms-legacy main .capture-wrap{margin-bottom:2rem;padding:clamp(1.5rem,4vw,2.5rem);border-radius:var(--r2);border:1px solid var(--line);background:linear-gradient(135deg,rgba(255,91,31,.10),var(--card) 55%)}
+.ms-legacy main .capture-wrap h2{margin-top:0}
+
+/* surfaces */
+.ms-legacy main .card,.ms-legacy main .panel{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:clamp(1.1rem,3vw,1.75rem)}
+.ms-legacy main .card h3{margin-top:0}
+.ms-legacy main .card .ti{color:var(--molten)}
+.ms-legacy main .receipt{font:400 .875rem/1.5 var(--mono);border:1px dashed var(--line2);border-radius:var(--r);padding:clamp(1rem,3vw,1.5rem);background:var(--card)}
+.ms-legacy main .receipt dl{display:grid;grid-template-columns:1fr auto;gap:.4rem 1rem;margin:0}
+.ms-legacy main .receipt dt{color:var(--muted)}
+.ms-legacy main .receipt dd{margin:0;text-align:right}
+.ms-legacy main .receipt dd.score{color:var(--molten)}
+.ms-legacy main details{border:1px solid var(--line);border-radius:var(--r);background:var(--card);padding:0 1.25rem}
+.ms-legacy main details + details{margin-top:.6rem}
+.ms-legacy main summary{cursor:pointer;list-style:none;padding:1rem 0;font:600 1.05rem/1.3 var(--display);display:flex;justify-content:space-between;gap:.75rem}
+.ms-legacy main summary::-webkit-details-marker{display:none}
+.ms-legacy main summary::after{content:"+";color:var(--molten);font-size:1.3rem;line-height:1}
+.ms-legacy main details[open] > summary::after{content:"\2212"}
+.ms-legacy main details > :not(summary){color:var(--muted)}
+.ms-legacy main details > :last-child:not(summary){padding-bottom:1rem}
+.ms-legacy main footer{border-top:0;padding:1.5rem 0;font-size:.875rem}
+
+/* breadcrumb */
+.ms-legacy main .crumbs{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;padding-top:.5rem}
+.ms-legacy main .crumbs a{text-decoration:none;color:var(--muted)}
+.ms-legacy main .crumbs a:hover{color:var(--text)}
+
+/* resource library grid + cards (the studio product card shape) */
+.ms-legacy main .rgrid{display:grid;gap:.875rem;grid-template-columns:repeat(auto-fill,minmax(min(100%,17rem),1fr));align-items:stretch}
+.ms-legacy main .rcard{display:flex;flex-direction:column;min-width:0;border-radius:var(--r2);overflow:hidden;background:var(--card);border:1px solid var(--line);transition:transform .3s var(--ease),border-color .3s}
+.ms-legacy main .rcard:hover{transform:translateY(-4px);border-color:var(--line2)}
+.ms-legacy main .rcard-visual{display:block;background:var(--bg2);border-bottom:1px solid var(--line)}
+.ms-legacy main .rcard-visual img{width:100%;max-width:100%;aspect-ratio:16/10;object-fit:cover;border:0;border-radius:0}
+.ms-legacy main .rcard-body{display:flex;flex-direction:column;gap:.5rem;padding:1.125rem;flex:1 1 auto}
+.ms-legacy main .rcard-body h3{font-size:1.2rem;margin:0}
+.ms-legacy main .rcard-body h3 a{text-decoration:none}
+.ms-legacy main .rcard-body p{margin:0;color:var(--muted);font-size:.875rem;max-width:none}
+.ms-legacy main .rcard-tag{display:inline-flex;align-items:center;gap:.4rem;margin:0;font:600 .6875rem/1.2 var(--mono);text-transform:uppercase;letter-spacing:.14em;color:var(--molten2)}
+.ms-legacy main .rcard-foot{display:flex;align-items:center;justify-content:space-between;gap:.75rem;flex-wrap:wrap;padding:0 1.125rem 1.125rem}
+
+/* product template */
+.ms-legacy main .product-hero{display:grid;gap:clamp(1.25rem,4vw,3rem);align-items:center;grid-template-columns:repeat(auto-fit,minmax(min(100%,20rem),1fr))}
+.ms-legacy main .product-hero-copy{min-width:0}
+.ms-legacy main .product-hero h1{font-size:clamp(2.2rem,5.5vw,3.75rem)}
+.ms-legacy main .product-visual{margin:0;border:1px solid var(--line);border-radius:var(--r2);overflow:hidden;background:var(--bg2)}
+.ms-legacy main .product-visual img{width:100%;max-width:100%;aspect-ratio:16/10;object-fit:cover;border:0;border-radius:0}
+.ms-legacy main .product-body{align-items:start}
+.ms-legacy main .product-body h2{font-size:clamp(1.35rem,2.6vw,1.9rem)}
+.ms-legacy main .product-body h3{font-size:1.1rem}
+.ms-legacy main .stack-tight{margin:0 0 1em;padding-left:1.2rem}
+.ms-legacy main .stack-tight > * + *{margin-top:.35rem}
+.ms-legacy main ul.mono.stack-tight{list-style:none;padding-left:0;font:500 .9375rem/1.45 var(--mono)}
+.ms-legacy main ul.mono.stack-tight li{padding:.8rem 0;border-top:1px solid var(--line);margin:0;max-width:none}
+.ms-legacy main ul.mono.stack-tight .fine{display:block;margin-bottom:.2rem;color:var(--molten)}
+@media(min-width:640px){.ms-legacy main ul.mono.stack-tight li{display:flex;gap:1.25rem;align-items:baseline}
+  .ms-legacy main ul.mono.stack-tight .fine{flex:none;width:6.5rem;margin:0}}
+.ms-legacy main ul.mono.stack-tight a{text-decoration:none;font-family:var(--body);font-weight:500}
+
+/* podcast + newsletter pages written by the old publishers */
+.ms-legacy main .episode{border-top:1px solid var(--line);padding:1.5rem 0}
+.ms-legacy main .episode h3{margin:0 0 .5rem}
+.ms-legacy main .episode p{color:var(--muted)}
+.ms-legacy main .subscribe{display:flex;flex-wrap:wrap;gap:.6rem;margin:1.5rem 0 2rem}
+.ms-legacy main .subscribe a{border:1px solid var(--line2);border-radius:62rem;padding:.55rem .95rem;text-decoration:none;font-size:.875rem}
+.ms-legacy main .panel p:last-child{margin-bottom:0}
+.ms-legacy main .panel p{white-space:pre-line}
