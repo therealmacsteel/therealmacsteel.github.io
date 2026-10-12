@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-12T17:17:25Z",
- "total_verified": 309,
+ "generated_at": "2026-10-12T18:17:23Z",
+ "total_verified": 310,
  "by_platform": {
+  "instagram": 93,
   "tiktok": 55,
-  "instagram": 92,
   "youtube": 71,
   "podcast": 9,
   "facebook": 22,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DeZ1EN1DSOH/",
+   "ts": "2026-10-12T18:01:54.662597+00:00",
+   "caption": "Want your content system to run on a schedule, from topic to posted, in 3 to 8 minutes? You already automate pieces. These 5 blueprints show how your pieces connect: one Python scr"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7695822060613897502",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7694337748257262878",
    "ts": "2026-10-08T16:41:44.166874+00:00",
    "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DeMpAyYCOSf/",
-   "ts": "2026-10-08T02:40:04.453631+00:00",
-   "caption": ""
   }
  ]
 }
