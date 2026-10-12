@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-12T18:17:23Z",
- "total_verified": 310,
+ "generated_at": "2026-10-12T19:06:52Z",
+ "total_verified": 311,
  "by_platform": {
+  "youtube": 72,
   "instagram": 93,
   "tiktok": 55,
-  "youtube": 71,
   "podcast": 9,
   "facebook": 22,
   "x": 54,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/JeQ9YtG9f4A",
+   "ts": "2026-10-12T18:17:28.987577+00:00",
+   "caption": "How do you make an AI assistant behave the same on job 400 as on job 1? If your automated setups drift or fail, you do not need a 200-prompt dump. You need clear control rules for "
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DeZ1EN1DSOH/",
@@ -220,12 +226,6 @@
    "url": "https://www.facebook.com/reel/1252973997010345",
    "ts": "2026-10-08T17:01:11.441351+00:00",
    "caption": "Most prompt packs hand you text and wish you luck. Here's what 25 prompts should actually come with. You paste a prompt into your assistant, the output looks fine, and then it quie"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7694337748257262878",
-   "ts": "2026-10-08T16:41:44.166874+00:00",
-   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
   }
  ]
 }

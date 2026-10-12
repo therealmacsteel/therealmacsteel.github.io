@@ -49,6 +49,14 @@ p{margin:0}
 .btn.ghost{background:transparent;color:var(--text);box-shadow:inset 0 0 0 1px var(--line2)}
 .btn.ghost:hover{background:rgba(255,255,255,.06);box-shadow:inset 0 0 0 1px rgba(255,255,255,.3)}
 .btn.sm{min-height:2.375rem;padding:0 0.875rem;font-size:0.875rem}
+/* .btn-shimmer: pattern adapted from magicuidesign/magicui (MIT), hand-ported to CSS.
+   One button only (home hero CTA). Animates transform only; off under reduced motion. */
+.btn-shimmer{position:relative;overflow:hidden;isolation:isolate}
+.btn-shimmer::after{content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;
+  background:linear-gradient(105deg,transparent 30%,rgba(255,226,196,.6) 50%,transparent 70%);
+  transform:translateX(-130%);animation:ms-shimmer 3.4s var(--ease) 1.5s infinite}
+@keyframes ms-shimmer{0%{transform:translateX(-130%)}50%,100%{transform:translateX(130%)}}
+@media (prefers-reduced-motion:reduce){.btn-shimmer::after{animation:none;display:none}}
 .arrow{transition:transform .2s var(--ease)}a:hover .arrow{transform:translateX(3px)}
 
 /* hero */
