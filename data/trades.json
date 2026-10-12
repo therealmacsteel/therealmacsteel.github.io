@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-12T16:03:10Z",
+ "generated_at": "2026-10-12T16:17:23Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
  "closed_total": 337,
- "excluded_unmarkable": 95,
+ "excluded_unmarkable": 96,
  "win_rate": 0.258,
  "avg_trade_pct": -2.74,
  "open_total": 183,
- "open_avg_pct": 0.97,
+ "open_avg_pct": 1.01,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,26 +576,17 @@
    "lane": "Congress disclosures",
    "side": "long",
    "entry": 495.35,
-   "mark": 539.97,
-   "pnl_pct": 9.01,
+   "mark": 541.75,
+   "pnl_pct": 9.37,
    "opened": "2026-08-15"
-  },
-  {
-   "asset": "TW",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 102.6,
-   "mark": 111.82,
-   "pnl_pct": 8.99,
-   "opened": "2026-08-08"
   },
   {
    "asset": "IWM",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 278.12,
-   "pnl_pct": 8.78,
+   "mark": 278.57,
+   "pnl_pct": 8.64,
    "opened": "2026-08-15"
   },
   {
@@ -603,17 +594,26 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 41.65,
-   "mark": 38.02,
-   "pnl_pct": 8.72,
+   "mark": 38.08,
+   "pnl_pct": 8.57,
    "opened": "2026-09-20"
+  },
+  {
+   "asset": "MSFT",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 500.16,
+   "mark": 541.75,
+   "pnl_pct": 8.32,
+   "opened": "2026-09-04"
   },
   {
    "asset": "USO",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 140.64,
-   "mark": 151.92,
-   "pnl_pct": 8.02,
+   "mark": 151.85,
+   "pnl_pct": 7.97,
    "opened": "2026-10-06"
   }
  ],
@@ -628,24 +628,6 @@
    "opened": "2026-10-12"
   },
   {
-   "asset": "AAPL",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 326.65,
-   "mark": 341.89,
-   "pnl_pct": -4.67,
-   "opened": "2026-07-20"
-  },
-  {
-   "asset": "OLLI",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 88.99,
-   "mark": 84.85,
-   "pnl_pct": -4.65,
-   "opened": "2026-10-05"
-  },
-  {
    "asset": "ESP",
    "lane": "Equity factor model",
    "side": "long",
@@ -655,13 +637,31 @@
    "opened": "2026-08-24"
   },
   {
-   "asset": "CORN",
-   "lane": "Macro ETFs",
+   "asset": "AAPL",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 326.65,
+   "mark": 340.33,
+   "pnl_pct": -4.19,
+   "opened": "2026-07-20"
+  },
+  {
+   "asset": "BW",
+   "lane": "Equity factor model",
    "side": "long",
-   "entry": 19.21,
-   "mark": 18.44,
-   "pnl_pct": -4.03,
-   "opened": "2026-08-24"
+   "entry": 5.36,
+   "mark": 5.15,
+   "pnl_pct": -3.92,
+   "opened": "2026-10-12"
+  },
+  {
+   "asset": "GAB",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 5.38,
+   "mark": 5.17,
+   "pnl_pct": -3.81,
+   "opened": "2026-09-21"
   }
  ],
  "book": {
