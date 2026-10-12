@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T19:06:56Z",
+ "generated_at": "2026-10-12T19:17:26Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
@@ -8,7 +8,7 @@
  "win_rate": 0.257,
  "avg_trade_pct": -2.76,
  "open_total": 181,
- "open_avg_pct": 1.08,
+ "open_avg_pct": 1.03,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,8 +576,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 41.65,
-   "mark": 37.84,
-   "pnl_pct": 9.14,
+   "mark": 37.7,
+   "pnl_pct": 9.47,
    "opened": "2026-09-20"
   },
   {
@@ -585,17 +585,8 @@
    "lane": "Congress disclosures",
    "side": "long",
    "entry": 495.35,
-   "mark": 539.96,
+   "mark": 539.93,
    "pnl_pct": 9.0,
-   "opened": "2026-08-15"
-  },
-  {
-   "asset": "IWM",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 304.9,
-   "mark": 278.26,
-   "pnl_pct": 8.74,
    "opened": "2026-08-15"
   },
   {
@@ -603,18 +594,27 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 5.53,
-   "mark": 5.99,
-   "pnl_pct": 8.33,
+   "mark": 6.01,
+   "pnl_pct": 8.87,
    "opened": "2026-10-05"
   },
   {
-   "asset": "USO",
-   "lane": "Macro ETFs",
+   "asset": "IWM",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 304.9,
+   "mark": 277.95,
+   "pnl_pct": 8.84,
+   "opened": "2026-08-15"
+  },
+  {
+   "asset": "MSFT",
+   "lane": "Congress disclosures",
    "side": "long",
-   "entry": 140.64,
-   "mark": 152.06,
-   "pnl_pct": 8.12,
-   "opened": "2026-10-06"
+   "entry": 500.16,
+   "mark": 539.93,
+   "pnl_pct": 7.95,
+   "opened": "2026-09-04"
   }
  ],
  "worst_open": [
@@ -628,12 +628,30 @@
    "opened": "2026-10-12"
   },
   {
+   "asset": "DCH",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 5.67,
+   "mark": 5.41,
+   "pnl_pct": -4.59,
+   "opened": "2026-10-05"
+  },
+  {
+   "asset": "GAB",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 5.38,
+   "mark": 5.16,
+   "pnl_pct": -4.18,
+   "opened": "2026-09-21"
+  },
+  {
    "asset": "LAR",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 5.09,
-   "mark": 4.89,
-   "pnl_pct": -3.93,
+   "mark": 4.88,
+   "pnl_pct": -4.12,
    "opened": "2026-10-12"
   },
   {
@@ -641,27 +659,9 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 326.65,
-   "mark": 339.5,
-   "pnl_pct": -3.93,
+   "mark": 340.02,
+   "pnl_pct": -4.09,
    "opened": "2026-07-20"
-  },
-  {
-   "asset": "GAB",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.38,
-   "mark": 5.17,
-   "pnl_pct": -3.9,
-   "opened": "2026-09-21"
-  },
-  {
-   "asset": "AMD",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 613.13,
-   "mark": 589.68,
-   "pnl_pct": -3.82,
-   "opened": "2026-09-21"
   }
  ],
  "book": {
