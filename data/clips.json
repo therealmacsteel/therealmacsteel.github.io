@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-12T01:17:22Z",
- "total_verified": 306,
+ "generated_at": "2026-10-12T02:17:19Z",
+ "total_verified": 307,
  "by_platform": {
-  "tiktok": 53,
+  "tiktok": 54,
   "youtube": 71,
   "instagram": 91,
   "podcast": 9,
@@ -12,6 +12,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7695595873400589598",
+   "ts": "2026-10-12T02:03:17.318257+00:00",
+   "caption": "How do you stop your health check from reporting healthy with zero session cookies? When you build AI assistants, standard copy-paste"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7695451020540808478",
@@ -221,12 +227,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7694043944732167454",
    "ts": "2026-10-07T21:41:38.305153+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/hO__qHcZpPQ",
-   "ts": "2026-10-07T18:18:07.030000+00:00",
-   "caption": "What if one long video could become 10 posts before your next upload? Your best ideas are already recorded. You just need a repeatable way to pull them out. This repurposing pack g"
   }
  ]
 }
