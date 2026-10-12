@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T20:17:27Z",
+ "generated_at": "2026-10-12T21:17:28Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
@@ -8,7 +8,7 @@
  "win_rate": 0.256,
  "avg_trade_pct": -2.77,
  "open_total": 180,
- "open_avg_pct": 1.07,
+ "open_avg_pct": 0.99,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -603,8 +603,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 277.95,
-   "pnl_pct": 8.84,
+   "mark": 277.81,
+   "pnl_pct": 8.88,
    "opened": "2026-08-15"
   },
   {
@@ -623,8 +623,17 @@
    "lane": "Options (simulated)",
    "side": "long",
    "entry": 4.97,
-   "mark": 4.67,
-   "pnl_pct": -6.13,
+   "mark": 4.12,
+   "pnl_pct": -17.09,
+   "opened": "2026-10-12"
+  },
+  {
+   "asset": "DIA",
+   "lane": "Options (simulated)",
+   "side": "long",
+   "entry": 4.76,
+   "mark": 4.53,
+   "pnl_pct": -5.04,
    "opened": "2026-10-12"
   },
   {
@@ -653,15 +662,6 @@
    "mark": 226.46,
    "pnl_pct": -3.72,
    "opened": "2026-10-02"
-  },
-  {
-   "asset": "CORN",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 19.21,
-   "mark": 18.5,
-   "pnl_pct": -3.72,
-   "opened": "2026-08-24"
   }
  ],
  "book": {
