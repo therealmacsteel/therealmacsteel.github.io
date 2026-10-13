@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T18:17:30Z",
+ "generated_at": "2026-10-13T19:17:28Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
@@ -8,7 +8,7 @@
  "win_rate": 0.261,
  "avg_trade_pct": -2.64,
  "open_total": 174,
- "open_avg_pct": 0.84,
+ "open_avg_pct": 0.94,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,26 +576,26 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 276.52,
-   "pnl_pct": 9.31,
+   "mark": 277.07,
+   "pnl_pct": 9.13,
    "opened": "2026-08-15"
   },
   {
-   "asset": "SIBN",
-   "lane": "Equity factor model",
+   "asset": "UNG",
+   "lane": "Macro ETFs",
    "side": "long",
-   "entry": 18.5,
-   "mark": 20.03,
-   "pnl_pct": 8.27,
-   "opened": "2026-09-07"
+   "entry": 10.49,
+   "mark": 11.41,
+   "pnl_pct": 8.82,
+   "opened": "2026-10-05"
   },
   {
    "asset": "USO",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 140.64,
-   "mark": 152.27,
-   "pnl_pct": 8.27,
+   "mark": 152.54,
+   "pnl_pct": 8.46,
    "opened": "2026-10-06"
   },
   {
@@ -608,13 +608,13 @@
    "opened": "2026-09-02"
   },
   {
-   "asset": "TW",
+   "asset": "SIBN",
    "lane": "Equity factor model",
    "side": "long",
-   "entry": 102.6,
-   "mark": 110.98,
-   "pnl_pct": 8.17,
-   "opened": "2026-08-08"
+   "entry": 18.5,
+   "mark": 19.98,
+   "pnl_pct": 8.0,
+   "opened": "2026-09-07"
   }
  ],
  "worst_open": [
@@ -632,8 +632,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 64.04,
-   "mark": 66.98,
-   "pnl_pct": -4.59,
+   "mark": 67.12,
+   "pnl_pct": -4.81,
    "opened": "2026-09-16"
   },
   {
@@ -641,27 +641,27 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 572.91,
-   "mark": 596.71,
-   "pnl_pct": -4.15,
+   "mark": 598.74,
+   "pnl_pct": -4.51,
    "opened": "2026-10-13"
   },
   {
-   "asset": "XME",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 107.49,
-   "mark": 103.24,
-   "pnl_pct": -3.95,
-   "opened": "2026-09-16"
-  },
-  {
-   "asset": "GAB",
+   "asset": "LUMN",
    "lane": "Equity factor model",
    "side": "long",
-   "entry": 5.38,
-   "mark": 5.17,
-   "pnl_pct": -3.81,
-   "opened": "2026-09-21"
+   "entry": 5.17,
+   "mark": 4.97,
+   "pnl_pct": -3.96,
+   "opened": "2026-10-12"
+  },
+  {
+   "asset": "CORN",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 19.21,
+   "mark": 18.49,
+   "pnl_pct": -3.77,
+   "opened": "2026-08-24"
   }
  ],
  "book": {

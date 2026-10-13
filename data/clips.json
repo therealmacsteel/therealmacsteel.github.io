@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-13T18:17:25Z",
- "total_verified": 317,
+ "generated_at": "2026-10-13T19:17:24Z",
+ "total_verified": 318,
  "by_platform": {
+  "youtube": 74,
   "tiktok": 59,
   "instagram": 94,
-  "youtube": 73,
   "podcast": 9,
   "facebook": 22,
   "x": 54,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/YwWsra1D4lM",
+   "ts": "2026-10-13T18:17:37.698657+00:00",
+   "caption": "How do you make your chatbot feel like a real conversational partner? If your users leave conversations feeling disappointed, your chatbot dialogue needs a refresh. You can upgrade"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7696193215963139358",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DePh2t5DpE_/",
    "ts": "2026-10-09T02:40:04.369474+00:00",
    "caption": ""
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7694483001505254687",
-   "ts": "2026-10-09T02:04:47.183854+00:00",
-   "caption": "14\u2011page guide shows how your shop runs AI 24/7 on gear you already have You get a clear .env file, role definitions in IDENTITY.md, and a step\u2011by\u2011step scheduling plan so jobs never"
   }
  ]
 }
