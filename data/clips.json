@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-13T14:17:24Z",
- "total_verified": 315,
+ "generated_at": "2026-10-13T15:17:24Z",
+ "total_verified": 316,
  "by_platform": {
+  "instagram": 94,
   "tiktok": 58,
   "youtube": 73,
-  "instagram": 93,
   "podcast": 9,
   "facebook": 22,
   "x": 54,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DecFQHqivCt/",
+   "ts": "2026-10-13T15:02:08.031862+00:00",
+   "caption": "What if your chatbot's boring replies are why visitors leave without buying? You built the chatbot. It answers questions. But the conversations feel flat, and people drop off befor"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7695966545280765215",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7694436203642359070",
    "ts": "2026-10-08T23:03:20.446574+00:00",
    "caption": "Ready to boost your chatbot with 25 proven prompts? Turn those generic replies into lively conversations that keep users hooked. Use the 25\u2011prompt guide and watch your response qua"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7694415048168443166",
-   "ts": "2026-10-08T21:41:39.073087+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Real-Time Feedback for Improved Decision-Making \u2192 Autonomous Agent Conflict Resolution for Resolving Human-H"
   }
  ]
 }
