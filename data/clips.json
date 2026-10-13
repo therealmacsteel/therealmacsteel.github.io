@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-13T21:17:24Z",
- "total_verified": 318,
+ "generated_at": "2026-10-13T22:17:24Z",
+ "total_verified": 320,
  "by_platform": {
-  "youtube": 74,
-  "tiktok": 59,
+  "tiktok": 60,
+  "youtube": 75,
   "instagram": 94,
   "podcast": 9,
   "facebook": 22,
@@ -11,6 +11,18 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7696270492990311710",
+   "ts": "2026-10-13T21:41:37.245459+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOUR VIDEO] \u2192 Write Email Newsletters from Video"
+  },
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/J4sBicWJNAk",
+   "ts": "2026-10-13T21:17:35.811466+00:00",
+   "caption": "7 prompts that keep routine work running the same on job 400 as on job 1. If you run a business solo, routine work eats your week. The fix isn't a bigger budget. It's better instru"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/YwWsra1D4lM",
@@ -214,18 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7694708820332875038",
    "ts": "2026-10-09T16:41:39.238441+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Vid"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DeRyGMKjIiL/",
-   "ts": "2026-10-09T15:02:18.006198+00:00",
-   "caption": "14 pages, six sections\u2014your DIY AI that runs 24/7 on the hardware you already own. You\u2019ll see daily tasks automated without a single extra server, cutting manual check\u2011ins by hours"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DePh2t5DpE_/",
-   "ts": "2026-10-09T02:40:04.369474+00:00",
-   "caption": ""
   }
  ]
 }
