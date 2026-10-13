@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-13T22:17:24Z",
- "total_verified": 320,
+ "generated_at": "2026-10-13T23:17:21Z",
+ "total_verified": 321,
  "by_platform": {
-  "tiktok": 60,
+  "tiktok": 61,
   "youtube": 75,
   "instagram": 94,
   "podcast": 9,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7696291724401888542",
+   "ts": "2026-10-13T23:03:29.900916+00:00",
+   "caption": "Want 25 prompts to make your chatbot sound like a human? If your users leave the chat feeling like they talked to a wall, your dialogue setup needs a boost. You can turn any chatbo"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7696270492990311710",
@@ -220,12 +226,6 @@
    "url": "https://www.facebook.com/reel/1792292928487144",
    "ts": "2026-10-09T17:01:11.495300+00:00",
    "caption": "Want your chatbot to hold a conversation people actually enjoy? Most chatbots reply. Few connect. If yours sounds flat, the fix is not a new tool, it is better prompts. Mac Steel's"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7694708820332875038",
-   "ts": "2026-10-09T16:41:39.238441+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Vid"
   }
  ]
 }
