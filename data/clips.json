@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-13T16:17:23Z",
- "total_verified": 316,
+ "generated_at": "2026-10-13T17:17:24Z",
+ "total_verified": 317,
  "by_platform": {
+  "tiktok": 59,
   "instagram": 94,
-  "tiktok": 58,
   "youtube": 73,
   "podcast": 9,
   "facebook": 22,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7696193215963139358",
+   "ts": "2026-10-13T16:41:41.918879+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Caching Strategies for Improved Performance and Scalability \u2192 Designing a Distributed Ledger for Secure Data Sharing \u2192 Autono"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DecFQHqivCt/",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7694483001505254687",
    "ts": "2026-10-09T02:04:47.183854+00:00",
    "caption": "14\u2011page guide shows how your shop runs AI 24/7 on gear you already have You get a clear .env file, role definitions in IDENTITY.md, and a step\u2011by\u2011step scheduling plan so jobs never"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7694436203642359070",
-   "ts": "2026-10-08T23:03:20.446574+00:00",
-   "caption": "Ready to boost your chatbot with 25 proven prompts? Turn those generic replies into lively conversations that keep users hooked. Use the 25\u2011prompt guide and watch your response qua"
   }
  ]
 }
