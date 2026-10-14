@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T20:17:29Z",
+ "generated_at": "2026-10-14T21:17:28Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -7,8 +7,8 @@
  "excluded_unmarkable": 100,
  "win_rate": 0.249,
  "avg_trade_pct": -2.9,
- "open_total": 162,
- "open_avg_pct": 1.15,
+ "open_total": 164,
+ "open_avg_pct": 0.95,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -619,6 +619,15 @@
  ],
  "worst_open": [
   {
+   "asset": "IWM",
+   "lane": "Options (simulated)",
+   "side": "long",
+   "entry": 4.5,
+   "mark": 3.31,
+   "pnl_pct": -26.42,
+   "opened": "2026-10-14"
+  },
+  {
    "asset": "INTC",
    "lane": "Congress disclosures",
    "side": "long",
@@ -653,15 +662,6 @@
    "mark": 40.8,
    "pnl_pct": -4.32,
    "opened": "2026-10-12"
-  },
-  {
-   "asset": "EEM",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 67.26,
-   "mark": 64.37,
-   "pnl_pct": -4.3,
-   "opened": "2026-08-25"
   }
  ],
  "book": {
