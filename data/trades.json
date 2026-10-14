@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-14T15:17:31Z",
+ "generated_at": "2026-10-14T16:17:24Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 368,
+ "closed_total": 370,
  "excluded_unmarkable": 100,
- "win_rate": 0.253,
- "avg_trade_pct": -2.86,
- "open_total": 166,
- "open_avg_pct": 0.98,
+ "win_rate": 0.251,
+ "avg_trade_pct": -2.88,
+ "open_total": 164,
+ "open_avg_pct": 1.0,
  "lanes": [
   {
    "lane": "Equity factor model",
-   "closed": 176,
-   "win_rate": 0.233,
+   "closed": 178,
+   "win_rate": 0.23,
    "avg_win_pct": 11.67,
-   "avg_loss_pct": -6.21,
-   "avg_trade_pct": -2.05
+   "avg_loss_pct": -6.22,
+   "avg_trade_pct": -2.1
   },
   {
    "lane": "Macro ETFs",
@@ -52,6 +52,28 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "FIVN",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 36.61,
+   "exit": 33.56,
+   "pnl_pct": -8.33,
+   "opened": "2026-10-12",
+   "closed": "2026-10-14",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "ZETA",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 34.2,
+   "exit": 32.35,
+   "pnl_pct": -5.38,
+   "opened": "2026-10-05",
+   "closed": "2026-10-14",
+   "exit_reason": "stop"
+  },
   {
    "asset": "BNY",
    "lane": "Equity factor model",
@@ -304,31 +326,17 @@
    "opened": "2026-10-02",
    "closed": "2026-10-13",
    "exit_reason": "target"
-  },
-  {
-   "asset": "NVDA",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 235.2,
-   "exit": 223.14,
-   "pnl_pct": -5.13,
-   "opened": "2026-10-02",
-   "closed": "2026-10-13",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "AMD",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 613.13,
-   "exit": 572.91,
-   "pnl_pct": -6.56,
-   "opened": "2026-09-21",
-   "closed": "2026-10-13",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "FIVN",
+   "pnl_pct": -8.33
+  },
+  {
+   "asset": "ZETA",
+   "pnl_pct": -5.38
+  },
   {
    "asset": "BNY",
    "pnl_pct": -5.07
@@ -560,14 +568,6 @@
   {
    "asset": "OKTA",
    "pnl_pct": 10.11
-  },
-  {
-   "asset": "TSLA",
-   "pnl_pct": -5.45
-  },
-  {
-   "asset": "SPCX",
-   "pnl_pct": 11.67
   }
  ],
  "best_open": [
@@ -576,92 +576,92 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 140.64,
-   "mark": 153.97,
-   "pnl_pct": 9.48,
+   "mark": 153.87,
+   "pnl_pct": 9.41,
    "opened": "2026-10-06"
-  },
-  {
-   "asset": "TW",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 102.6,
-   "mark": 111.01,
-   "pnl_pct": 8.2,
-   "opened": "2026-08-08"
   },
   {
    "asset": "PPLT",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 15.9,
-   "mark": 14.64,
-   "pnl_pct": 7.92,
+   "mark": 14.54,
+   "pnl_pct": 8.55,
    "opened": "2026-09-14"
+  },
+  {
+   "asset": "SMH",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 621.4,
+   "mark": 568.37,
+   "pnl_pct": 8.53,
+   "opened": "2026-10-07"
+  },
+  {
+   "asset": "TW",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 102.6,
+   "mark": 110.93,
+   "pnl_pct": 8.12,
+   "opened": "2026-08-08"
   },
   {
    "asset": "CORN",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 20.0,
-   "mark": 18.44,
-   "pnl_pct": 7.82,
+   "mark": 18.4,
+   "pnl_pct": 8.02,
    "opened": "2026-08-27"
-  },
-  {
-   "asset": "BTC/USD",
-   "lane": "Crypto",
-   "side": "long",
-   "entry": 76912.71,
-   "mark": 82768.99,
-   "pnl_pct": 7.61,
-   "opened": "2026-09-02"
   }
  ],
  "worst_open": [
+  {
+   "asset": "INTC",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 103.18,
+   "mark": 98.44,
+   "pnl_pct": -4.59,
+   "opened": "2026-10-12"
+  },
+  {
+   "asset": "AROC",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 31.23,
+   "mark": 29.8,
+   "pnl_pct": -4.59,
+   "opened": "2026-08-31"
+  },
   {
    "asset": "GAB",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 5.38,
-   "mark": 5.15,
-   "pnl_pct": -4.28,
+   "mark": 5.14,
+   "pnl_pct": -4.46,
    "opened": "2026-09-21"
-  },
-  {
-   "asset": "BTG",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.16,
-   "mark": 4.94,
-   "pnl_pct": -4.17,
-   "opened": "2026-09-14"
-  },
-  {
-   "asset": "CORN",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 19.21,
-   "mark": 18.44,
-   "pnl_pct": -4.03,
-   "opened": "2026-08-24"
-  },
-  {
-   "asset": "FIVN",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 36.61,
-   "mark": 35.14,
-   "pnl_pct": -4.02,
-   "opened": "2026-10-12"
   },
   {
    "asset": "ASPN",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 5.5,
-   "mark": 5.29,
-   "pnl_pct": -4.0,
+   "mark": 5.26,
+   "pnl_pct": -4.45,
    "opened": "2026-10-12"
+  },
+  {
+   "asset": "PPLT",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 15.21,
+   "mark": 14.54,
+   "pnl_pct": -4.4,
+   "opened": "2026-09-29"
   }
  ],
  "book": {
