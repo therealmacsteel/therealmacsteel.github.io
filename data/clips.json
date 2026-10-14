@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-10-14T02:17:25Z",
- "total_verified": 322,
+ "generated_at": "2026-10-14T03:17:21Z",
+ "total_verified": 324,
  "by_platform": {
+  "instagram": 96,
   "tiktok": 62,
   "youtube": 75,
-  "instagram": 94,
   "podcast": 9,
   "facebook": 22,
   "x": 54,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DecZ2d6Chjg/",
+   "ts": "2026-10-14T02:40:04.309419+00:00",
+   "caption": ""
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/Deb-cVaCOoG/",
+   "ts": "2026-10-14T02:40:04.309282+00:00",
+   "caption": ""
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7696338467374107935",
@@ -214,18 +226,6 @@
    "url": "https://www.facebook.com/reel/1638978071066819",
    "ts": "2026-10-09T20:01:35.915240+00:00",
    "caption": "What if one video could fill your content calendar for weeks? You already did the hard part: filming a long video. But if it only lives as one upload, you're leaving reach on the t"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/zSOrwCXb4VA",
-   "ts": "2026-10-09T18:17:29.638080+00:00",
-   "caption": "Want 25 prompts to make your chatbot conversations spark? Check the llms.txt file for the exact list. Apply them today and see smoother replies in minutes."
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DeSGqCHDLGh/",
-   "ts": "2026-10-09T18:01:36.817615+00:00",
-   "caption": "Your chatbot answers questions. But does it actually hold a conversation? Most bots sound robotic because the prompts behind them are. A stiff prompt gets you a stiff reply, and yo"
   }
  ]
 }
