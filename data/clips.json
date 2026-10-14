@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-10-14T21:17:24Z",
- "total_verified": 328,
+ "generated_at": "2026-10-14T22:17:24Z",
+ "total_verified": 330,
  "by_platform": {
-  "youtube": 76,
+  "tiktok": 64,
+  "youtube": 77,
   "instagram": 98,
-  "tiktok": 63,
   "podcast": 9,
   "facebook": 22,
   "x": 54,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7696641560095591710",
+   "ts": "2026-10-14T21:41:39.665127+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Security Measures for Data Protection \u2192 Autonomous Agent Transparency and Explainability for Improved Trust "
+  },
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/q3d1EX0KaEs",
+   "ts": "2026-10-14T21:17:34.948753+00:00",
+   "caption": "7 prompts that keep your AI running routine work the same on job 400 as on job 1. You're a solo builder or small-business owner. You want routine work done reliably, not an assista"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/V9g-aXWBfGw",
@@ -214,18 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7695079899740130590",
    "ts": "2026-10-10T16:41:39.936278+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Streamlining Task Routing for Efficient Agent Performance \u2192 Improving Memory Systems for Long-Term Information Retention \u2192 In"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DeUW6mCCPfA/",
-   "ts": "2026-10-10T15:01:51.324290+00:00",
-   "caption": "Are you tired of prompt packs that just give you raw text and wish you luck? When you build AI assistants for"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7694854147283127583",
-   "ts": "2026-10-10T02:05:03.062562+00:00",
-   "caption": "Tired of prompt packs that hand you text and wish you luck? You paste the prompt, the output looks fine, and then it quietly fails where it matters. A health check reported healthy"
   }
  ]
 }
