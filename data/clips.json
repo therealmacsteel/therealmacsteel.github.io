@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-14T16:17:20Z",
- "total_verified": 325,
+ "generated_at": "2026-10-14T17:17:23Z",
+ "total_verified": 326,
  "by_platform": {
+  "tiktok": 63,
   "instagram": 97,
-  "tiktok": 62,
   "youtube": 75,
   "podcast": 9,
   "facebook": 22,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7696564311803596062",
+   "ts": "2026-10-14T16:41:48.917204+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DeeqEQxCIeq/",
@@ -220,12 +226,6 @@
    "url": "https://www.youtube.com/shorts/SRq0uAQWpQY",
    "ts": "2026-10-09T21:17:28.698679+00:00",
    "caption": "Your next long video could become 10 posts before you finish lunch. You already did the hard part: recording it. Mac Steel's Repurposing Pack gives you 25 prompts that turn that on"
-  },
-  {
-   "platform": "podcast",
-   "url": "https://therealmacsteel.github.io/podcast/weekly-2026-10-09.html",
-   "ts": "2026-10-09T20:40:18.082817+00:00",
-   "caption": "Steel Trades Weekly: Book +1.19% vs SPY +1.02%"
   }
  ]
 }
