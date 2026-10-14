@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T08:17:25Z",
+ "generated_at": "2026-10-14T09:17:26Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
@@ -7,8 +7,8 @@
  "excluded_unmarkable": 97,
  "win_rate": 0.261,
  "avg_trade_pct": -2.65,
- "open_total": 175,
- "open_avg_pct": 0.85,
+ "open_total": 176,
+ "open_avg_pct": 0.84,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -603,8 +603,8 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 76912.71,
-   "mark": 83135.51,
-   "pnl_pct": 8.09,
+   "mark": 83380.86,
+   "pnl_pct": 8.41,
    "opened": "2026-09-02"
   },
   {
