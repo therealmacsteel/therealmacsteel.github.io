@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-14T17:17:23Z",
- "total_verified": 326,
+ "generated_at": "2026-10-14T18:17:24Z",
+ "total_verified": 327,
  "by_platform": {
+  "instagram": 98,
   "tiktok": 63,
-  "instagram": 97,
   "youtube": 75,
   "podcast": 9,
   "facebook": 22,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/Dee-o3HDG3F/",
+   "ts": "2026-10-14T18:01:29.061557+00:00",
+   "caption": "What if your routine AI work ran itself, honestly, without you watching every step? Most prompt packs hand you 200 prompts you'll never use. You don't need volume. You need the 7 t"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7696564311803596062",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7694807280176434463",
    "ts": "2026-10-09T23:03:08.158140+00:00",
    "caption": "What if one long video could become 10+ posts? You film one long video, then use 25 Repurposing Prompts from Mac Steel to make short clips, blog posts and more. You save hours per "
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/SRq0uAQWpQY",
-   "ts": "2026-10-09T21:17:28.698679+00:00",
-   "caption": "Your next long video could become 10 posts before you finish lunch. You already did the hard part: recording it. Mac Steel's Repurposing Pack gives you 25 prompts that turn that on"
   }
  ]
 }
