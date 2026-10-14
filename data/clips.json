@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-14T22:17:24Z",
- "total_verified": 330,
+ "generated_at": "2026-10-14T23:17:20Z",
+ "total_verified": 331,
  "by_platform": {
-  "tiktok": 64,
+  "tiktok": 65,
   "youtube": 77,
   "instagram": 98,
   "podcast": 9,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7696662922667248926",
+   "ts": "2026-10-14T23:03:50.819191+00:00",
+   "caption": "Want to connect 5 content workflows without a SaaS subscription? If you have experimented with AI automation, see how a full system fits together. Mac Steel gives you 5 technical b"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7696641560095591710",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DeUrdIrkY5I/",
    "ts": "2026-10-10T18:01:27.638682+00:00",
    "caption": "Want to run a self-hosted AI system 24/7 on hardware you already own? Your business needs continuous operations without paying"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7695079899740130590",
-   "ts": "2026-10-10T16:41:39.936278+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Streamlining Task Routing for Efficient Agent Performance \u2192 Improving Memory Systems for Long-Term Information Retention \u2192 In"
   }
  ]
 }
