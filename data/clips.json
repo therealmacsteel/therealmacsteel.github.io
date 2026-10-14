@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-14T01:17:24Z",
- "total_verified": 321,
+ "generated_at": "2026-10-14T02:17:25Z",
+ "total_verified": 322,
  "by_platform": {
-  "tiktok": 61,
+  "tiktok": 62,
   "youtube": 75,
   "instagram": 94,
   "podcast": 9,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7696338467374107935",
+   "ts": "2026-10-14T02:04:50.663520+00:00",
+   "caption": "How do you keep an assistant consistent from job 1 to job 400? To run routine work reliably without output drift, you need clear constraints. An Agent Identity Brief defines the ro"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7696291724401888542",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DeSGqCHDLGh/",
    "ts": "2026-10-09T18:01:36.817615+00:00",
    "caption": "Your chatbot answers questions. But does it actually hold a conversation? Most bots sound robotic because the prompts behind them are. A stiff prompt gets you a stiff reply, and yo"
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/1792292928487144",
-   "ts": "2026-10-09T17:01:11.495300+00:00",
-   "caption": "Want your chatbot to hold a conversation people actually enjoy? Most chatbots reply. Few connect. If yours sounds flat, the fix is not a new tool, it is better prompts. Mac Steel's"
   }
  ]
 }
