@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-14T14:17:23Z",
- "total_verified": 324,
+ "generated_at": "2026-10-14T15:17:27Z",
+ "total_verified": 325,
  "by_platform": {
-  "instagram": 96,
+  "instagram": 97,
   "tiktok": 62,
   "youtube": 75,
   "podcast": 9,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DeeqEQxCIeq/",
+   "ts": "2026-10-14T15:02:09.150975+00:00",
+   "caption": "You have automated pieces with AI. What does the full system look like? Your content could run like this: one Python script takes a single topic and turns it into posts for five pl"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DecZ2d6Chjg/",
@@ -220,12 +226,6 @@
    "url": "https://therealmacsteel.github.io/podcast/weekly-2026-10-09.html",
    "ts": "2026-10-09T20:40:18.082817+00:00",
    "caption": "Steel Trades Weekly: Book +1.19% vs SPY +1.02%"
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/1638978071066819",
-   "ts": "2026-10-09T20:01:35.915240+00:00",
-   "caption": "What if one video could fill your content calendar for weeks? You already did the hard part: filming a long video. But if it only lives as one upload, you're leaving reach on the t"
   }
  ]
 }
