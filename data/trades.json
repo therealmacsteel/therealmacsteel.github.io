@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-15T12:17:27Z",
+ "generated_at": "2026-10-15T13:17:27Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 374,
+ "closed_total": 378,
  "excluded_unmarkable": 100,
- "win_rate": 0.249,
- "avg_trade_pct": -2.91,
- "open_total": 164,
- "open_avg_pct": 0.97,
+ "win_rate": 0.251,
+ "avg_trade_pct": -2.84,
+ "open_total": 165,
+ "open_avg_pct": 0.92,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -20,27 +20,27 @@
   },
   {
    "lane": "Macro ETFs",
-   "closed": 90,
-   "win_rate": 0.178,
+   "closed": 91,
+   "win_rate": 0.176,
    "avg_win_pct": 11.43,
-   "avg_loss_pct": -5.61,
-   "avg_trade_pct": -2.58
+   "avg_loss_pct": -5.62,
+   "avg_trade_pct": -2.62
   },
   {
    "lane": "Shorts (simulated)",
-   "closed": 61,
-   "win_rate": 0.393,
-   "avg_win_pct": 10.82,
+   "closed": 63,
+   "win_rate": 0.413,
+   "avg_win_pct": 10.87,
    "avg_loss_pct": -6.26,
-   "avg_trade_pct": 0.46
+   "avg_trade_pct": 0.81
   },
   {
    "lane": "Congress disclosures",
-   "closed": 27,
-   "win_rate": 0.37,
+   "closed": 28,
+   "win_rate": 0.357,
    "avg_win_pct": 11.1,
-   "avg_loss_pct": -5.77,
-   "avg_trade_pct": 0.48
+   "avg_loss_pct": -5.74,
+   "avg_trade_pct": 0.27
   },
   {
    "lane": "Options (simulated)",
@@ -52,6 +52,50 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "SPCX",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 156.65,
+   "exit": 148.48,
+   "pnl_pct": -5.22,
+   "opened": "2026-10-13",
+   "closed": "2026-10-15",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "EWY",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 171.09,
+   "exit": 150.83,
+   "pnl_pct": 11.84,
+   "opened": "2026-10-12",
+   "closed": "2026-10-15",
+   "exit_reason": "target"
+  },
+  {
+   "asset": "EEM",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 67.26,
+   "exit": 63.11,
+   "pnl_pct": -6.17,
+   "opened": "2026-08-25",
+   "closed": "2026-10-15",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "SMH",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 621.4,
+   "exit": 551.31,
+   "pnl_pct": 11.28,
+   "opened": "2026-10-07",
+   "closed": "2026-10-15",
+   "exit_reason": "target"
+  },
   {
    "asset": "INTC",
    "lane": "Congress disclosures",
@@ -282,53 +326,25 @@
    "opened": "2026-09-16",
    "closed": "2026-10-14",
    "exit_reason": "stop"
-  },
-  {
-   "asset": "AMD",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 572.91,
-   "exit": 605.47,
-   "pnl_pct": -5.68,
-   "opened": "2026-10-13",
-   "closed": "2026-10-13",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "SPCX",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 165.51,
-   "exit": 156.65,
-   "pnl_pct": -5.35,
-   "opened": "2026-10-05",
-   "closed": "2026-10-13",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "ASM",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.47,
-   "exit": 5.18,
-   "pnl_pct": -5.39,
-   "opened": "2026-10-05",
-   "closed": "2026-10-13",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "ABEO",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.02,
-   "exit": 4.64,
-   "pnl_pct": -7.57,
-   "opened": "2026-10-05",
-   "closed": "2026-10-13",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "SPCX",
+   "pnl_pct": -5.22
+  },
+  {
+   "asset": "EWY",
+   "pnl_pct": 11.84
+  },
+  {
+   "asset": "EEM",
+   "pnl_pct": -6.17
+  },
+  {
+   "asset": "SMH",
+   "pnl_pct": 11.28
+  },
   {
    "asset": "INTC",
    "pnl_pct": -5.27
@@ -552,22 +568,6 @@
   {
    "asset": "SLV",
    "pnl_pct": 10.35
-  },
-  {
-   "asset": "IOT",
-   "pnl_pct": -5.21
-  },
-  {
-   "asset": "AVGO",
-   "pnl_pct": 11.17
-  },
-  {
-   "asset": "USO",
-   "pnl_pct": -5.42
-  },
-  {
-   "asset": "USO",
-   "pnl_pct": -5.42
   }
  ],
  "best_open": [
@@ -576,18 +576,18 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 140.64,
-   "mark": 153.63,
-   "pnl_pct": 9.24,
+   "mark": 153.94,
+   "pnl_pct": 9.46,
    "opened": "2026-10-06"
   },
   {
-   "asset": "SMH",
+   "asset": "AMD",
    "lane": "Shorts (simulated)",
    "side": "short",
-   "entry": 621.4,
-   "mark": 565.12,
-   "pnl_pct": 9.06,
-   "opened": "2026-10-07"
+   "entry": 605.47,
+   "mark": 551.34,
+   "pnl_pct": 8.94,
+   "opened": "2026-10-13"
   },
   {
    "asset": "PPLT",
@@ -637,6 +637,15 @@
    "opened": "2026-09-29"
   },
   {
+   "asset": "EEM",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 66.12,
+   "mark": 63.11,
+   "pnl_pct": -4.55,
+   "opened": "2026-08-24"
+  },
+  {
    "asset": "GAB",
    "lane": "Equity factor model",
    "side": "long",
@@ -653,15 +662,6 @@
    "mark": 40.8,
    "pnl_pct": -4.32,
    "opened": "2026-10-12"
-  },
-  {
-   "asset": "EEM",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 67.26,
-   "mark": 64.37,
-   "pnl_pct": -4.3,
-   "opened": "2026-08-25"
   }
  ],
  "book": {
