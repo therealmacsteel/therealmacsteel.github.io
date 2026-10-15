@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-15T21:17:25Z",
- "total_verified": 334,
+ "generated_at": "2026-10-15T22:17:22Z",
+ "total_verified": 335,
  "by_platform": {
+  "tiktok": 68,
   "youtube": 78,
-  "tiktok": 67,
   "instagram": 98,
   "podcast": 9,
   "facebook": 22,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7697012689201089823",
+   "ts": "2026-10-15T21:41:40.067833+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/W9ub_BmPVbA",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7695225335993912606",
    "ts": "2026-10-11T02:05:57.913975+00:00",
    "caption": "Your chatbot talks like a robot and your visitors can tell. 25 proven prompts fix that. You built the bot. You wrote the script. But every conversation still feels flat, stiff, for"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7695178496422726943",
-   "ts": "2026-10-10T23:03:42.447230+00:00",
-   "caption": "Want a 14\u2011page guide to run AI 24/7 on your own hardware? You\u2019ll get a step\u2011by\u2011step build that runs on the servers you already own, with scheduling commands that prevent overload a"
   }
  ]
 }
