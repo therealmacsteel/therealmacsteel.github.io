@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T17:17:30Z",
+ "generated_at": "2026-10-15T18:17:30Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -8,7 +8,7 @@
  "win_rate": 0.254,
  "avg_trade_pct": -2.75,
  "open_total": 160,
- "open_avg_pct": 1.1,
+ "open_avg_pct": 1.11,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,9 +576,18 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 102.6,
-   "mark": 111.78,
-   "pnl_pct": 8.94,
+   "mark": 112.32,
+   "pnl_pct": 9.47,
    "opened": "2026-08-08"
+  },
+  {
+   "asset": "AVGO",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 369.52,
+   "mark": 338.71,
+   "pnl_pct": 8.34,
+   "opened": "2026-08-27"
   },
   {
    "asset": "PPLT",
@@ -590,15 +599,6 @@
    "opened": "2026-09-14"
   },
   {
-   "asset": "AVGO",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 369.52,
-   "mark": 339.21,
-   "pnl_pct": 8.2,
-   "opened": "2026-08-27"
-  },
-  {
    "asset": "CORN",
    "lane": "Shorts (simulated)",
    "side": "short",
@@ -608,13 +608,13 @@
    "opened": "2026-08-27"
   },
   {
-   "asset": "NWL",
+   "asset": "SIBN",
    "lane": "Equity factor model",
    "side": "long",
-   "entry": 5.34,
-   "mark": 5.75,
-   "pnl_pct": 7.58,
-   "opened": "2026-09-21"
+   "entry": 18.5,
+   "mark": 19.86,
+   "pnl_pct": 7.32,
+   "opened": "2026-09-07"
   }
  ],
  "worst_open": [
@@ -659,8 +659,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 66.12,
-   "mark": 63.66,
-   "pnl_pct": -3.73,
+   "mark": 63.65,
+   "pnl_pct": -3.74,
    "opened": "2026-08-24"
   }
  ],
