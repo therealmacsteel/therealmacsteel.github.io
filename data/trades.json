@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-15T20:17:34Z",
+ "generated_at": "2026-10-15T21:17:28Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
- "regime": "risk_off",
+ "regime": "mixed_or_choppy",
  "closed_total": 390,
  "excluded_unmarkable": 100,
  "win_rate": 0.254,
  "avg_trade_pct": -2.75,
  "open_total": 160,
- "open_avg_pct": 1.18,
+ "open_avg_pct": 1.41,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -619,15 +619,6 @@
  ],
  "worst_open": [
   {
-   "asset": "IWM",
-   "lane": "Options (simulated)",
-   "side": "long",
-   "entry": 4.5,
-   "mark": 3.39,
-   "pnl_pct": -24.75,
-   "opened": "2026-10-14"
-  },
-  {
    "asset": "CORN",
    "lane": "Macro ETFs",
    "side": "long",
@@ -661,6 +652,15 @@
    "entry": 1597.13,
    "mark": 1658.47,
    "pnl_pct": -3.84,
+   "opened": "2026-10-15"
+  },
+  {
+   "asset": "EWY",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 150.83,
+   "mark": 156.09,
+   "pnl_pct": -3.49,
    "opened": "2026-10-15"
   }
  ],
