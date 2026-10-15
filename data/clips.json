@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-15T18:17:25Z",
- "total_verified": 333,
+ "generated_at": "2026-10-15T19:17:25Z",
+ "total_verified": 334,
  "by_platform": {
+  "youtube": 78,
   "tiktok": 67,
-  "youtube": 77,
   "instagram": 98,
   "podcast": 9,
   "facebook": 22,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/W9ub_BmPVbA",
+   "ts": "2026-10-15T18:17:22.001708+00:00",
+   "caption": "How do you keep an AI assistant performing the same on job 400 as on job 1? When routine work starts drifting, your business loses consistency. You need solid prompt structures so "
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7696935369098448158",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7695178496422726943",
    "ts": "2026-10-10T23:03:42.447230+00:00",
    "caption": "Want a 14\u2011page guide to run AI 24/7 on your own hardware? You\u2019ll get a step\u2011by\u2011step build that runs on the servers you already own, with scheduling commands that prevent overload a"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7695157206865530142",
-   "ts": "2026-10-10T21:41:38.540332+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Write Email Newsletters from Video Segments \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes fo"
   }
  ]
 }
