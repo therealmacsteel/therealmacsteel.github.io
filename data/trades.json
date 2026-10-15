@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T19:17:30Z",
+ "generated_at": "2026-10-15T20:17:34Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -8,7 +8,7 @@
  "win_rate": 0.254,
  "avg_trade_pct": -2.75,
  "open_total": 160,
- "open_avg_pct": 1.17,
+ "open_avg_pct": 1.18,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,8 +576,8 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 102.6,
-   "mark": 111.82,
-   "pnl_pct": 8.99,
+   "mark": 112.06,
+   "pnl_pct": 9.22,
    "opened": "2026-08-08"
   },
   {
@@ -585,26 +585,17 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 20.0,
-   "mark": 18.39,
-   "pnl_pct": 8.07,
+   "mark": 18.32,
+   "pnl_pct": 8.42,
    "opened": "2026-08-27"
-  },
-  {
-   "asset": "PPLT",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 15.9,
-   "mark": 14.67,
-   "pnl_pct": 7.74,
-   "opened": "2026-09-14"
   },
   {
    "asset": "NWL",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 5.34,
-   "mark": 5.75,
-   "pnl_pct": 7.68,
+   "mark": 5.77,
+   "pnl_pct": 8.05,
    "opened": "2026-09-21"
   },
   {
@@ -613,8 +604,17 @@
    "side": "long",
    "entry": 26.02,
    "mark": 28.02,
-   "pnl_pct": 7.65,
+   "pnl_pct": 7.67,
    "opened": "2026-10-12"
+  },
+  {
+   "asset": "SIBN",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 18.5,
+   "mark": 19.91,
+   "pnl_pct": 7.62,
+   "opened": "2026-09-07"
   }
  ],
  "worst_open": [
@@ -632,8 +632,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 19.21,
-   "mark": 18.39,
-   "pnl_pct": -4.29,
+   "mark": 18.32,
+   "pnl_pct": -4.66,
    "opened": "2026-08-24"
   },
   {
@@ -641,8 +641,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 43.56,
-   "mark": 41.76,
-   "pnl_pct": -4.14,
+   "mark": 41.58,
+   "pnl_pct": -4.55,
    "opened": "2026-10-05"
   },
   {
@@ -655,13 +655,13 @@
    "opened": "2026-10-14"
   },
   {
-   "asset": "GAB",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.38,
-   "mark": 5.18,
-   "pnl_pct": -3.62,
-   "opened": "2026-09-21"
+   "asset": "ASML",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 1597.13,
+   "mark": 1658.47,
+   "pnl_pct": -3.84,
+   "opened": "2026-10-15"
   }
  ],
  "book": {
