@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-15T16:17:24Z",
- "total_verified": 332,
+ "generated_at": "2026-10-15T17:17:25Z",
+ "total_verified": 333,
  "by_platform": {
-  "tiktok": 66,
+  "tiktok": 67,
   "youtube": 77,
   "instagram": 98,
   "podcast": 9,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7696935369098448158",
+   "ts": "2026-10-15T16:41:40.678670+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOU"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7696709659066977566",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7695157206865530142",
    "ts": "2026-10-10T21:41:38.540332+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Write Email Newsletters from Video Segments \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes fo"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/EJyLSizY0Wc",
-   "ts": "2026-10-10T18:17:24.515310+00:00",
-   "caption": "Build Your Own Agent Stack gives you a 14\u2011page, six\u2011section guide that runs on the hardware you already own, 24/7. Section 2 shows you the exact .env file to create for routing log"
   }
  ]
 }
