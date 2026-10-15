@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-15T22:17:22Z",
- "total_verified": 335,
+ "generated_at": "2026-10-15T23:17:24Z",
+ "total_verified": 336,
  "by_platform": {
-  "tiktok": 68,
+  "tiktok": 69,
   "youtube": 78,
   "instagram": 98,
   "podcast": 9,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7697034115434040606",
+   "ts": "2026-10-15T23:04:14.045938+00:00",
+   "caption": "Your AI assistant behaves differently on job 400 than job 1. 7 prompts fixes that. You built AI into your routine work, but every lead score, every update, every scheduled report c"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7697012689201089823",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DeW7rkeDPgS/",
    "ts": "2026-10-11T15:01:32.567153+00:00",
    "caption": "How do you get 10 posts out of your long video? You spend so much time creating great content, but uploading it once is not enough. You can turn your video into short clips, blog p"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7695225335993912606",
-   "ts": "2026-10-11T02:05:57.913975+00:00",
-   "caption": "Your chatbot talks like a robot and your visitors can tell. 25 proven prompts fix that. You built the bot. You wrote the script. But every conversation still feels flat, stiff, for"
   }
  ]
 }
