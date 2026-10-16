@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-16T21:17:23Z",
- "total_verified": 341,
+ "generated_at": "2026-10-16T22:17:21Z",
+ "total_verified": 342,
  "by_platform": {
+  "youtube": 80,
   "podcast": 10,
-  "youtube": 79,
   "tiktok": 71,
   "instagram": 99,
   "facebook": 22,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/UmGC73irNSI",
+   "ts": "2026-10-16T21:17:21.178347+00:00",
+   "caption": "Discover how 6\u2011page PDF gives you 7 reliable prompts for hands\u2011free work You can run routine tasks without constant oversight using Mac Steel\u2019s 7 Prompts From a Live Agent Stack. E"
+  },
   {
    "platform": "podcast",
    "url": "https://therealmacsteel.github.io/podcast/weekly-2026-10-16.html",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7695595873400589598",
    "ts": "2026-10-12T02:03:17.318257+00:00",
    "caption": "How do you stop your health check from reporting healthy with zero session cookies? When you build AI assistants, standard copy-paste"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7695451020540808478",
-   "ts": "2026-10-11T23:46:29.643084+00:00",
-   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
   }
  ]
 }
