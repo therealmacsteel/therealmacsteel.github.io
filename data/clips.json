@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-16T16:17:25Z",
- "total_verified": 338,
+ "generated_at": "2026-10-16T17:17:24Z",
+ "total_verified": 339,
  "by_platform": {
+  "tiktok": 71,
   "instagram": 99,
-  "tiktok": 70,
   "youtube": 78,
   "podcast": 9,
   "facebook": 22,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7697306404696182047",
+   "ts": "2026-10-16T16:41:44.063713+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Conflict Resolution for Resolving Human-Human Disagreements \u2192 Autonomous Agent Predictive Maintenance for Eq"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DejzozTihmv/",
@@ -220,12 +226,6 @@
    "url": "https://www.youtube.com/shorts/WnjuTQLCOmk",
    "ts": "2026-10-11T21:17:28.598934+00:00",
    "caption": "Can 25 prompts completely transform your chatbot conversations? When your users interact with your chatbot, bland replies kill engagement. You need dialogue that feels natural, hel"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/GZlL0rGNpVA",
-   "ts": "2026-10-11T18:17:36.641873+00:00",
-   "caption": "Are you still publishing one long video and calling it done? Every long video you record is sitting on hours of unused material you already made. Here is how to stretch it: 25 prom"
   }
  ]
 }
