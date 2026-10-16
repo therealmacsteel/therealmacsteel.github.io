@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-16T15:17:28Z",
+ "generated_at": "2026-10-16T16:17:29Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
- "closed_total": 393,
+ "closed_total": 394,
  "excluded_unmarkable": 101,
  "win_rate": 0.254,
- "avg_trade_pct": -2.73,
- "open_total": 160,
- "open_avg_pct": 1.37,
+ "avg_trade_pct": -2.74,
+ "open_total": 159,
+ "open_avg_pct": 1.26,
  "lanes": [
   {
    "lane": "Equity factor model",
-   "closed": 185,
-   "win_rate": 0.232,
+   "closed": 186,
+   "win_rate": 0.231,
    "avg_win_pct": 11.63,
-   "avg_loss_pct": -6.18,
-   "avg_trade_pct": -2.04
+   "avg_loss_pct": -6.19,
+   "avg_trade_pct": -2.07
   },
   {
    "lane": "Macro ETFs",
@@ -52,6 +52,17 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "IOT",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 42.64,
+   "exit": 39.66,
+   "pnl_pct": -7.0,
+   "opened": "2026-10-12",
+   "closed": "2026-10-16",
+   "exit_reason": "stop"
+  },
   {
    "asset": "ASML",
    "lane": "Shorts (simulated)",
@@ -315,20 +326,13 @@
    "opened": "2026-10-12",
    "closed": "2026-10-14",
    "exit_reason": "stop"
-  },
-  {
-   "asset": "ZETA",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 34.2,
-   "exit": 32.35,
-   "pnl_pct": -5.38,
-   "opened": "2026-10-05",
-   "closed": "2026-10-14",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "IOT",
+   "pnl_pct": -7.0
+  },
   {
    "asset": "ASML",
    "pnl_pct": -5.1
@@ -564,20 +568,25 @@
   {
    "asset": "SNAP",
    "pnl_pct": 10.1
-  },
-  {
-   "asset": "GME",
-   "pnl_pct": 10.92
   }
  ],
  "best_open": [
+  {
+   "asset": "AVGO",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 369.52,
+   "mark": 334.33,
+   "pnl_pct": 9.52,
+   "opened": "2026-08-27"
+  },
   {
    "asset": "TW",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 102.6,
-   "mark": 112.06,
-   "pnl_pct": 9.23,
+   "mark": 112.25,
+   "pnl_pct": 9.41,
    "opened": "2026-08-08"
   },
   {
@@ -585,36 +594,27 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 20.0,
-   "mark": 18.22,
-   "pnl_pct": 8.92,
+   "mark": 18.16,
+   "pnl_pct": 9.22,
    "opened": "2026-08-27"
   },
   {
-   "asset": "AVGO",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 369.52,
-   "mark": 338.32,
-   "pnl_pct": 8.44,
-   "opened": "2026-08-27"
-  },
-  {
-   "asset": "SIBN",
-   "lane": "Equity factor model",
+   "asset": "USO",
+   "lane": "Macro ETFs",
    "side": "long",
-   "entry": 18.5,
-   "mark": 19.86,
-   "pnl_pct": 7.35,
-   "opened": "2026-09-07"
+   "entry": 147.17,
+   "mark": 158.63,
+   "pnl_pct": 7.79,
+   "opened": "2026-09-30"
   },
   {
-   "asset": "VIXY",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 17.4,
-   "mark": 16.14,
-   "pnl_pct": 7.24,
-   "opened": "2026-08-27"
+   "asset": "USO",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 147.17,
+   "mark": 158.63,
+   "pnl_pct": 7.79,
+   "opened": "2026-09-30"
   }
  ],
  "worst_open": [
@@ -632,8 +632,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 25.18,
-   "mark": 24.1,
-   "pnl_pct": -4.29,
+   "mark": 23.95,
+   "pnl_pct": -4.88,
    "opened": "2026-10-05"
   },
   {
@@ -641,8 +641,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 66.12,
-   "mark": 63.39,
-   "pnl_pct": -4.13,
+   "mark": 63.2,
+   "pnl_pct": -4.42,
    "opened": "2026-08-24"
   },
   {
@@ -650,18 +650,18 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 43.56,
-   "mark": 42.05,
-   "pnl_pct": -3.47,
+   "mark": 41.76,
+   "pnl_pct": -4.13,
    "opened": "2026-10-05"
   },
   {
-   "asset": "TBT",
-   "lane": "Macro ETFs",
+   "asset": "GAB",
+   "lane": "Equity factor model",
    "side": "long",
-   "entry": 41.62,
-   "mark": 40.23,
-   "pnl_pct": -3.33,
-   "opened": "2026-10-14"
+   "entry": 5.38,
+   "mark": 5.16,
+   "pnl_pct": -4.09,
+   "opened": "2026-09-21"
   }
  ],
  "book": {
