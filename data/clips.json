@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-16T20:17:27Z",
- "total_verified": 340,
+ "generated_at": "2026-10-16T21:17:23Z",
+ "total_verified": 341,
  "by_platform": {
+  "podcast": 10,
   "youtube": 79,
   "tiktok": 71,
   "instagram": 99,
-  "podcast": 9,
   "facebook": 22,
   "x": 54,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "podcast",
+   "url": "https://therealmacsteel.github.io/podcast/weekly-2026-10-16.html",
+   "ts": "2026-10-16T20:42:14.230847+00:00",
+   "caption": "Week 2026-10-09 to 2026-10-16: Steel Trades -2.82% vs SPY -1.71%"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/wFDlyBgEeuU",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7695451020540808478",
    "ts": "2026-10-11T23:46:29.643084+00:00",
    "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7695549484545232158",
-   "ts": "2026-10-11T23:03:21.341159+00:00",
-   "caption": "Your long video is hiding 10 short posts. Mac Steel's Repurposing Pack gives you 25 prompts to turn one long video into short clips, blog posts and more, so you save hours per vide"
   }
  ]
 }
