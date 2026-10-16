@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-16T01:17:23Z",
- "total_verified": 336,
+ "generated_at": "2026-10-16T02:17:32Z",
+ "total_verified": 337,
  "by_platform": {
-  "tiktok": 69,
+  "tiktok": 70,
   "youtube": 78,
   "instagram": 98,
   "podcast": 9,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7697080490049735966",
+   "ts": "2026-10-16T02:04:18.824133+00:00",
+   "caption": "You've automated a piece. Do you want to see how 5 scheduled workflows connect into one system? Each blueprint covers one workflow: setup steps, copy-paste commands, expected outpu"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7697034115434040606",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DeXQPxMlcDq/",
    "ts": "2026-10-11T18:01:26.595067+00:00",
    "caption": "Is your chatbot failing to keep your users engaged? Stiff and robotic replies can frustrate your visitors and hurt your customer relationships. You can transform any bot into an en"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DeW7rkeDPgS/",
-   "ts": "2026-10-11T15:01:32.567153+00:00",
-   "caption": "How do you get 10 posts out of your long video? You spend so much time creating great content, but uploading it once is not enough. You can turn your video into short clips, blog p"
   }
  ]
 }
