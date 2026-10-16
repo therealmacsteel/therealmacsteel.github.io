@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-16T14:17:23Z",
- "total_verified": 337,
+ "generated_at": "2026-10-16T15:17:24Z",
+ "total_verified": 338,
  "by_platform": {
+  "instagram": 99,
   "tiktok": 70,
   "youtube": 78,
-  "instagram": 98,
   "podcast": 9,
   "facebook": 22,
   "x": 54,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DejzozTihmv/",
+   "ts": "2026-10-16T15:01:37.625417+00:00",
+   "caption": "Want to see how a full system runs without a SaaS subscription? Check the 5\u2011blueprint set that turns one topic into posts for five social platforms in 3 to 8 minutes start to finis"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7697080490049735966",
@@ -220,12 +226,6 @@
    "url": "https://www.youtube.com/shorts/GZlL0rGNpVA",
    "ts": "2026-10-11T18:17:36.641873+00:00",
    "caption": "Are you still publishing one long video and calling it done? Every long video you record is sitting on hours of unused material you already made. Here is how to stretch it: 25 prom"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DeXQPxMlcDq/",
-   "ts": "2026-10-11T18:01:26.595067+00:00",
-   "caption": "Is your chatbot failing to keep your users engaged? Stiff and robotic replies can frustrate your visitors and hurt your customer relationships. You can transform any bot into an en"
   }
  ]
 }
