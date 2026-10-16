@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-16T18:17:34Z",
- "total_verified": 339,
+ "generated_at": "2026-10-16T19:17:25Z",
+ "total_verified": 340,
  "by_platform": {
+  "youtube": 79,
   "tiktok": 71,
   "instagram": 99,
-  "youtube": 78,
   "podcast": 9,
   "facebook": 22,
   "x": 54,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/wFDlyBgEeuU",
+   "ts": "2026-10-16T18:17:22.286984+00:00",
+   "caption": "Want to see how five ready\u2011made AI workflows fit together without a SaaS fee? Check the PDF blueprint 01 \u2013 a single Python script that turns one topic into posts for five social pl"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7697306404696182047",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7695549484545232158",
    "ts": "2026-10-11T23:03:21.341159+00:00",
    "caption": "Your long video is hiding 10 short posts. Mac Steel's Repurposing Pack gives you 25 prompts to turn one long video into short clips, blog posts and more, so you save hours per vide"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/WnjuTQLCOmk",
-   "ts": "2026-10-11T21:17:28.598934+00:00",
-   "caption": "Can 25 prompts completely transform your chatbot conversations? When your users interact with your chatbot, bland replies kill engagement. You need dialogue that feels natural, hel"
   }
  ]
 }
