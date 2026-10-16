@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-16T22:17:21Z",
- "total_verified": 342,
+ "generated_at": "2026-10-16T23:17:24Z",
+ "total_verified": 343,
  "by_platform": {
+  "tiktok": 72,
   "youtube": 80,
   "podcast": 10,
-  "tiktok": 71,
   "instagram": 99,
   "facebook": 22,
   "x": 54,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7697405143242804510",
+   "ts": "2026-10-16T23:04:10.997747+00:00",
+   "caption": "Does your AI behave the same on task 400 as it did on task 1? If not, the fix is not a bigger tool. It is 7 better prompts. Mac Steel's free PDF gives you the prompts that keep rou"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/UmGC73irNSI",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DeZge2yjVDN/",
    "ts": "2026-10-12T15:02:07.952961+00:00",
    "caption": "Does your assistant behave the same on job 400 as on job 1? When you run routine work with AI, small mistakes stack up. To keep your setup consistent, you need clear structure inst"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7695595873400589598",
-   "ts": "2026-10-12T02:03:17.318257+00:00",
-   "caption": "How do you stop your health check from reporting healthy with zero session cookies? When you build AI assistants, standard copy-paste"
   }
  ]
 }
