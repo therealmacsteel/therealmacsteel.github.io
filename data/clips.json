@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-17T22:17:22Z",
- "total_verified": 350,
+ "generated_at": "2026-10-17T23:17:21Z",
+ "total_verified": 351,
  "by_platform": {
-  "tiktok": 75,
+  "tiktok": 76,
   "youtube": 82,
   "instagram": 101,
   "podcast": 10,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7697776056962403614",
+   "ts": "2026-10-17T23:03:22.040056+00:00",
+   "caption": "Discover how a simple Python script turns one topic into five platform posts in just 3 to 8 minutes\u2014ready to test today? Discover how a simple Python script turns one topic into fi"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7697754832211283230",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DecFQHqivCt/",
    "ts": "2026-10-13T15:02:08.031862+00:00",
    "caption": "What if your chatbot's boring replies are why visitors leave without buying? You built the chatbot. It answers questions. But the conversations feel flat, and people drop off befor"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7695966545280765215",
-   "ts": "2026-10-13T02:01:49.559714+00:00",
-   "caption": "Want to turn your long video into 10 social posts? Stop wasting time starting from scratch. You can transform your long videos into short clips, blog posts, and more. Use 25 prompt"
   }
  ]
 }
