@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-17T01:17:21Z",
- "total_verified": 343,
+ "generated_at": "2026-10-17T02:17:22Z",
+ "total_verified": 344,
  "by_platform": {
-  "tiktok": 72,
+  "tiktok": 73,
   "youtube": 80,
   "podcast": 10,
   "instagram": 99,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7697451799657205022",
+   "ts": "2026-10-17T02:05:24.727216+00:00",
+   "caption": "Does your AI assistant act completely different on job 400 compared to job 1? When you run routine business tasks, drift ruins your output. Mac Steel offers 7 prompts in a 6 page P"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7697405143242804510",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7695822060613897502",
    "ts": "2026-10-12T16:41:37.165865+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Extract Key Moments from [YOUR VIDEO] \u2192 Write Email Newsletters from Video Segments \u2192 Summarize Video Discussions for Podcast"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DeZge2yjVDN/",
-   "ts": "2026-10-12T15:02:07.952961+00:00",
-   "caption": "Does your assistant behave the same on job 400 as on job 1? When you run routine work with AI, small mistakes stack up. To keep your setup consistent, you need clear structure inst"
   }
  ]
 }
