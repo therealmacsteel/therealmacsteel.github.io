@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-10-17T21:17:23Z",
- "total_verified": 348,
+ "generated_at": "2026-10-17T22:17:22Z",
+ "total_verified": 350,
  "by_platform": {
-  "youtube": 81,
+  "tiktok": 75,
+  "youtube": 82,
   "instagram": 101,
-  "tiktok": 74,
   "podcast": 10,
   "facebook": 22,
   "x": 54,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7697754832211283230",
+   "ts": "2026-10-17T21:41:41.230813+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/jtKAeWSuIQc",
+   "ts": "2026-10-17T21:17:24.326520+00:00",
+   "caption": "Can you turn a single topic into multi-platform posts in 3 to 8 minutes? If you have already done some AI automation, you can connect your scripts into a full scheduled system on y"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/3Cnw1AbhnaE",
@@ -214,18 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7695966545280765215",
    "ts": "2026-10-13T02:01:49.559714+00:00",
    "caption": "Want to turn your long video into 10 social posts? Stop wasting time starting from scratch. You can transform your long videos into short clips, blog posts, and more. Use 25 prompt"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7695920984280304926",
-   "ts": "2026-10-12T23:04:46.359651+00:00",
-   "caption": "Your laptop can run an AI system 24/7. The guide is 14 pages. You already own the only hardware this needs. Build Your Own Agent Stack shows you exactly how, in six sections: what "
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7695899433799519519",
-   "ts": "2026-10-12T21:41:42.427601+00:00",
-   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
   }
  ]
 }
