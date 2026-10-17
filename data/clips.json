@@ -1,16 +1,40 @@
 {
- "generated_at": "2026-10-17T02:17:22Z",
- "total_verified": 344,
+ "generated_at": "2026-10-17T19:05:41Z",
+ "total_verified": 348,
  "by_platform": {
-  "tiktok": 73,
-  "youtube": 80,
+  "youtube": 81,
+  "instagram": 101,
+  "tiktok": 74,
   "podcast": 10,
-  "instagram": 99,
   "facebook": 22,
   "x": 54,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/3Cnw1AbhnaE",
+   "ts": "2026-10-17T18:17:17.081229+00:00",
+   "caption": "Is your AI assistant behaving the same on job 400 as on job 1? When you rely on routine work to run your business, consistency is everything. Instead of sifting through a 200-promp"
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DemtA_qCNQt/",
+   "ts": "2026-10-17T18:01:28.030288+00:00",
+   "caption": "Want to turn one topic into posts across social platforms in 3 to 8 minutes? If you already run basic AI scripts, you can tie them into a complete system without paying for SaaS su"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7697677495314812190",
+   "ts": "2026-10-17T16:41:39.087965+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video"
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DemYdHpABf4/",
+   "ts": "2026-10-17T15:01:46.805038+00:00",
+   "caption": "Does your AI assistant behave the same on job 400 as on job 1? When you delegate routine work, consistency is what matters most. Using an Agent Identity Brief gives your setup one "
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7697451799657205022",
@@ -202,30 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7695899433799519519",
    "ts": "2026-10-12T21:41:42.427601+00:00",
    "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/eNZK8dXr5QU",
-   "ts": "2026-10-12T21:17:30.713914+00:00",
-   "caption": "You already run AI workflows, but can you publish on a schedule without paying for another SaaS? You have the pieces. What you may be missing is the layer that ties them together: "
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/JeQ9YtG9f4A",
-   "ts": "2026-10-12T18:17:28.987577+00:00",
-   "caption": "How do you make an AI assistant behave the same on job 400 as on job 1? If your automated setups drift or fail, you do not need a 200-prompt dump. You need clear control rules for "
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DeZ1EN1DSOH/",
-   "ts": "2026-10-12T18:01:54.662597+00:00",
-   "caption": "Want your content system to run on a schedule, from topic to posted, in 3 to 8 minutes? You already automate pieces. These 5 blueprints show how your pieces connect: one Python scr"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7695822060613897502",
-   "ts": "2026-10-12T16:41:37.165865+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Extract Key Moments from [YOUR VIDEO] \u2192 Write Email Newsletters from Video Segments \u2192 Summarize Video Discussions for Podcast"
   }
  ]
 }
