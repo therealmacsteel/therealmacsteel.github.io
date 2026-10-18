@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-18T01:17:23Z",
- "total_verified": 351,
+ "generated_at": "2026-10-18T02:17:22Z",
+ "total_verified": 352,
  "by_platform": {
-  "tiktok": 76,
+  "tiktok": 77,
   "youtube": 82,
   "instagram": 101,
   "podcast": 10,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7697823279024704799",
+   "ts": "2026-10-18T02:06:53.565511+00:00",
+   "caption": "Steel Trades book -2.82% vs SPY -1.71% this week. Paper account, no real money. Every trade and every loss is on the Steel Trades page. Paper account, not advice. Every trade:"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7697776056962403614",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7696193215963139358",
    "ts": "2026-10-13T16:41:41.918879+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Caching Strategies for Improved Performance and Scalability \u2192 Designing a Distributed Ledger for Secure Data Sharing \u2192 Autono"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DecFQHqivCt/",
-   "ts": "2026-10-13T15:02:08.031862+00:00",
-   "caption": "What if your chatbot's boring replies are why visitors leave without buying? You built the chatbot. It answers questions. But the conversations feel flat, and people drop off befor"
   }
  ]
 }
