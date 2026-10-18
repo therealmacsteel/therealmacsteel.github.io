@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-18T21:17:23Z",
- "total_verified": 352,
+ "generated_at": "2026-10-18T22:17:24Z",
+ "total_verified": 353,
  "by_platform": {
-  "tiktok": 77,
+  "tiktok": 78,
   "youtube": 82,
   "instagram": 101,
   "podcast": 10,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7698125889426509086",
+   "ts": "2026-10-18T21:41:35.765902+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Vid"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7697823279024704799",
@@ -220,12 +226,6 @@
    "url": "https://www.youtube.com/shorts/YwWsra1D4lM",
    "ts": "2026-10-13T18:17:37.698657+00:00",
    "caption": "How do you make your chatbot feel like a real conversational partner? If your users leave conversations feeling disappointed, your chatbot dialogue needs a refresh. You can upgrade"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7696193215963139358",
-   "ts": "2026-10-13T16:41:41.918879+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Caching Strategies for Improved Performance and Scalability \u2192 Designing a Distributed Ledger for Secure Data Sharing \u2192 Autono"
   }
  ]
 }
