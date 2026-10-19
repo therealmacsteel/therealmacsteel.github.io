@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-19T12:17:30Z",
+ "generated_at": "2026-10-19T13:17:23Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
  "closed_total": 400,
- "excluded_unmarkable": 102,
+ "excluded_unmarkable": 103,
  "win_rate": 0.26,
  "avg_trade_pct": -2.71,
  "open_total": 158,
- "open_avg_pct": 1.15,
+ "open_avg_pct": 1.18,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -594,8 +594,8 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 76912.71,
-   "mark": 82689.59,
-   "pnl_pct": 7.51,
+   "mark": 82483.16,
+   "pnl_pct": 7.24,
    "opened": "2026-09-02"
   },
   {
@@ -608,13 +608,13 @@
    "opened": "2026-09-14"
   },
   {
-   "asset": "NVDA",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 230.7,
-   "mark": 214.12,
-   "pnl_pct": 7.18,
-   "opened": "2026-10-08"
+   "asset": "VIXY",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 16.62,
+   "mark": 17.7,
+   "pnl_pct": 6.5,
+   "opened": "2026-09-28"
   }
  ],
  "worst_open": [
@@ -646,15 +646,6 @@
    "opened": "2026-10-14"
   },
   {
-   "asset": "NVDA",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 223.14,
-   "mark": 214.12,
-   "pnl_pct": -4.04,
-   "opened": "2026-10-13"
-  },
-  {
    "asset": "GAB",
    "lane": "Equity factor model",
    "side": "long",
@@ -662,6 +653,15 @@
    "mark": 5.17,
    "pnl_pct": -3.81,
    "opened": "2026-09-21"
+  },
+  {
+   "asset": "MSFT",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 549.13,
+   "mark": 529.99,
+   "pnl_pct": -3.49,
+   "opened": "2026-10-13"
   }
  ],
  "book": {
