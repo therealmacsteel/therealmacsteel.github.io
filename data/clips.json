@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-19T16:17:23Z",
- "total_verified": 356,
+ "generated_at": "2026-10-19T17:17:24Z",
+ "total_verified": 357,
  "by_platform": {
+  "tiktok": 81,
   "instagram": 102,
-  "tiktok": 80,
   "youtube": 82,
   "podcast": 10,
   "facebook": 22,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7698419667555093790",
+   "ts": "2026-10-19T16:41:44.280450+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DeriBLojXk2/",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7696338467374107935",
    "ts": "2026-10-14T02:04:50.663520+00:00",
    "caption": "How do you keep an assistant consistent from job 1 to job 400? To run routine work reliably without output drift, you need clear constraints. An Agent Identity Brief defines the ro"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7696291724401888542",
-   "ts": "2026-10-13T23:03:29.900916+00:00",
-   "caption": "Want 25 prompts to make your chatbot sound like a human? If your users leave the chat feeling like they talked to a wall, your dialogue setup needs a boost. You can turn any chatbo"
   }
  ]
 }
