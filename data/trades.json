@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T19:17:27Z",
+ "generated_at": "2026-10-19T20:17:28Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -581,6 +581,15 @@
    "opened": "2026-10-18"
   },
   {
+   "asset": "BOTZ",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 35.89,
+   "mark": 33.34,
+   "pnl_pct": 7.09,
+   "opened": "2026-09-07"
+  },
+  {
    "asset": "BTC/USD",
    "lane": "Crypto",
    "side": "long",
@@ -590,60 +599,42 @@
    "opened": "2026-09-02"
   },
   {
-   "asset": "BOTZ",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 35.89,
-   "mark": 33.36,
-   "pnl_pct": 7.05,
-   "opened": "2026-09-07"
-  },
-  {
    "asset": "VEEV",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 296.87,
-   "mark": 316.55,
-   "pnl_pct": 6.63,
+   "mark": 317.14,
+   "pnl_pct": 6.83,
    "opened": "2026-10-12"
   },
   {
-   "asset": "SIBN",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 18.5,
-   "mark": 19.71,
-   "pnl_pct": 6.54,
-   "opened": "2026-09-07"
+   "asset": "PPLT",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 15.9,
+   "mark": 14.83,
+   "pnl_pct": 6.73,
+   "opened": "2026-09-14"
   }
  ],
  "worst_open": [
   {
-   "asset": "VIXY",
-   "lane": "Macro ETFs",
+   "asset": "TKC",
+   "lane": "Equity factor model",
    "side": "long",
-   "entry": 17.7,
-   "mark": 16.95,
-   "pnl_pct": -4.21,
-   "opened": "2026-10-16"
+   "entry": 5.09,
+   "mark": 4.87,
+   "pnl_pct": -4.42,
+   "opened": "2026-09-07"
   },
   {
    "asset": "DBC",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 32.31,
-   "mark": 33.65,
-   "pnl_pct": -4.15,
+   "mark": 33.67,
+   "pnl_pct": -4.21,
    "opened": "2026-09-08"
-  },
-  {
-   "asset": "EWY",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 150.83,
-   "mark": 157.01,
-   "pnl_pct": -4.1,
-   "opened": "2026-10-15"
   },
   {
    "asset": "GAB",
@@ -651,7 +642,7 @@
    "side": "long",
    "entry": 5.38,
    "mark": 5.17,
-   "pnl_pct": -4.0,
+   "pnl_pct": -3.9,
    "opened": "2026-09-21"
   },
   {
@@ -662,6 +653,15 @@
    "mark": 53.93,
    "pnl_pct": -3.89,
    "opened": "2026-10-19"
+  },
+  {
+   "asset": "EWY",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 150.83,
+   "mark": 156.51,
+   "pnl_pct": -3.77,
+   "opened": "2026-10-15"
   }
  ],
  "book": {
