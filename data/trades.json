@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-19T15:17:25Z",
+ "generated_at": "2026-10-19T16:17:27Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 402,
+ "closed_total": 403,
  "excluded_unmarkable": 104,
- "win_rate": 0.259,
- "avg_trade_pct": -2.72,
+ "win_rate": 0.258,
+ "avg_trade_pct": -2.73,
  "open_total": 177,
- "open_avg_pct": 0.94,
+ "open_avg_pct": 1.11,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -20,11 +20,11 @@
   },
   {
    "lane": "Macro ETFs",
-   "closed": 97,
-   "win_rate": 0.196,
+   "closed": 98,
+   "win_rate": 0.194,
    "avg_win_pct": 11.3,
-   "avg_loss_pct": -5.62,
-   "avg_trade_pct": -2.3
+   "avg_loss_pct": -5.61,
+   "avg_trade_pct": -2.33
   },
   {
    "lane": "Shorts (simulated)",
@@ -52,6 +52,17 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "WEAT",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 25.18,
+   "exit": 23.87,
+   "pnl_pct": -5.2,
+   "opened": "2026-10-05",
+   "closed": "2026-10-19",
+   "exit_reason": "stop"
+  },
   {
    "asset": "IVR",
    "lane": "Equity factor model",
@@ -315,20 +326,13 @@
    "opened": "2026-09-07",
    "closed": "2026-10-15",
    "exit_reason": "stop"
-  },
-  {
-   "asset": "SPCX",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 156.65,
-   "exit": 148.48,
-   "pnl_pct": -5.22,
-   "opened": "2026-10-13",
-   "closed": "2026-10-15",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "WEAT",
+   "pnl_pct": -5.2
+  },
   {
    "asset": "IVR",
    "pnl_pct": -5.26
@@ -564,10 +568,6 @@
   {
    "asset": "AMD",
    "pnl_pct": -6.56
-  },
-  {
-   "asset": "URA",
-   "pnl_pct": 10.49
   }
  ],
  "best_open": [
@@ -576,8 +576,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 20.0,
-   "mark": 18.12,
-   "pnl_pct": 9.42,
+   "mark": 18.06,
+   "pnl_pct": 9.72,
    "opened": "2026-08-27"
   },
   {
@@ -585,8 +585,8 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 5.33,
-   "mark": 5.83,
-   "pnl_pct": 9.39,
+   "mark": 5.82,
+   "pnl_pct": 9.2,
    "opened": "2026-09-28"
   },
   {
@@ -599,13 +599,13 @@
    "opened": "2026-10-18"
   },
   {
-   "asset": "META",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 753.6,
-   "mark": 695.16,
-   "pnl_pct": 7.75,
-   "opened": "2026-09-25"
+   "asset": "SIBN",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 18.5,
+   "mark": 19.87,
+   "pnl_pct": 7.41,
+   "opened": "2026-09-07"
   },
   {
    "asset": "BTC/USD",
@@ -619,12 +619,39 @@
  ],
  "worst_open": [
   {
-   "asset": "WEAT",
+   "asset": "EWY",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 150.83,
+   "mark": 158.34,
+   "pnl_pct": -4.98,
+   "opened": "2026-10-15"
+  },
+  {
+   "asset": "VIXY",
    "lane": "Macro ETFs",
    "side": "long",
-   "entry": 25.18,
-   "mark": 23.98,
-   "pnl_pct": -4.77,
+   "entry": 17.7,
+   "mark": 16.9,
+   "pnl_pct": -4.52,
+   "opened": "2026-10-16"
+  },
+  {
+   "asset": "DBC",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 32.31,
+   "mark": 33.61,
+   "pnl_pct": -4.02,
+   "opened": "2026-09-08"
+  },
+  {
+   "asset": "EWZ",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 43.56,
+   "mark": 41.83,
+   "pnl_pct": -3.97,
    "opened": "2026-10-05"
   },
   {
@@ -632,36 +659,9 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 5.38,
-   "mark": 5.13,
-   "pnl_pct": -4.55,
+   "mark": 5.18,
+   "pnl_pct": -3.72,
    "opened": "2026-09-21"
-  },
-  {
-   "asset": "TKC",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.09,
-   "mark": 4.88,
-   "pnl_pct": -4.13,
-   "opened": "2026-09-07"
-  },
-  {
-   "asset": "EWY",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 150.83,
-   "mark": 156.98,
-   "pnl_pct": -4.08,
-   "opened": "2026-10-15"
-  },
-  {
-   "asset": "DBC",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 32.31,
-   "mark": 33.52,
-   "pnl_pct": -3.74,
-   "opened": "2026-09-08"
   }
  ],
  "book": {
