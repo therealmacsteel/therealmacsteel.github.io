@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-19T08:17:27Z",
+ "generated_at": "2026-10-19T09:17:26Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
  "closed_total": 400,
- "excluded_unmarkable": 101,
+ "excluded_unmarkable": 102,
  "win_rate": 0.26,
  "avg_trade_pct": -2.71,
- "open_total": 159,
- "open_avg_pct": 1.02,
+ "open_total": 158,
+ "open_avg_pct": 1.15,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -590,6 +590,15 @@
    "opened": "2026-09-07"
   },
   {
+   "asset": "BTC/USD",
+   "lane": "Crypto",
+   "side": "long",
+   "entry": 76912.71,
+   "mark": 82689.59,
+   "pnl_pct": 7.51,
+   "opened": "2026-09-02"
+  },
+  {
    "asset": "PPLT",
    "lane": "Shorts (simulated)",
    "side": "short",
@@ -606,27 +615,9 @@
    "mark": 214.12,
    "pnl_pct": 7.18,
    "opened": "2026-10-08"
-  },
-  {
-   "asset": "EEM",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 67.17,
-   "mark": 62.77,
-   "pnl_pct": 6.55,
-   "opened": "2026-08-27"
   }
  ],
  "worst_open": [
-  {
-   "asset": "NVDA",
-   "lane": "Options (simulated)",
-   "side": "long",
-   "entry": 4.5,
-   "mark": 3.7,
-   "pnl_pct": -17.69,
-   "opened": "2026-10-16"
-  },
   {
    "asset": "WEAT",
    "lane": "Macro ETFs",
@@ -662,6 +653,15 @@
    "mark": 214.12,
    "pnl_pct": -4.04,
    "opened": "2026-10-13"
+  },
+  {
+   "asset": "GAB",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 5.38,
+   "mark": 5.17,
+   "pnl_pct": -3.81,
+   "opened": "2026-09-21"
   }
  ],
  "book": {
