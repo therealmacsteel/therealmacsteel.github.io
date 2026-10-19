@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-19T18:17:26Z",
+ "generated_at": "2026-10-19T19:17:27Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 404,
+ "closed_total": 405,
  "excluded_unmarkable": 104,
- "win_rate": 0.26,
- "avg_trade_pct": -2.7,
- "open_total": 177,
- "open_avg_pct": 1.03,
+ "win_rate": 0.262,
+ "avg_trade_pct": -2.66,
+ "open_total": 176,
+ "open_avg_pct": 0.97,
  "lanes": [
   {
    "lane": "Equity factor model",
-   "closed": 189,
-   "win_rate": 0.233,
-   "avg_win_pct": 11.61,
+   "closed": 190,
+   "win_rate": 0.237,
+   "avg_win_pct": 11.6,
    "avg_loss_pct": -6.17,
-   "avg_trade_pct": -2.03
+   "avg_trade_pct": -1.97
   },
   {
    "lane": "Macro ETFs",
@@ -52,6 +52,17 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "RIG",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 5.33,
+   "exit": 5.92,
+   "pnl_pct": 11.17,
+   "opened": "2026-09-28",
+   "closed": "2026-10-19",
+   "exit_reason": "target"
+  },
   {
    "asset": "CORN",
    "lane": "Shorts (simulated)",
@@ -315,20 +326,13 @@
    "opened": "2026-09-29",
    "closed": "2026-10-15",
    "exit_reason": "target"
-  },
-  {
-   "asset": "HWM",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 224.22,
-   "exit": 212.54,
-   "pnl_pct": -5.21,
-   "opened": "2026-09-14",
-   "closed": "2026-10-15",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "RIG",
+   "pnl_pct": 11.17
+  },
   {
    "asset": "CORN",
    "pnl_pct": 10.05
@@ -564,22 +568,9 @@
   {
    "asset": "AMD",
    "pnl_pct": 10.68
-  },
-  {
-   "asset": "NVDA",
-   "pnl_pct": -5.13
   }
  ],
  "best_open": [
-  {
-   "asset": "RIG",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.33,
-   "mark": 5.83,
-   "pnl_pct": 9.39,
-   "opened": "2026-09-28"
-  },
   {
    "asset": "IWM",
    "lane": "Options (simulated)",
@@ -603,47 +594,65 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 35.89,
-   "mark": 33.4,
-   "pnl_pct": 6.94,
+   "mark": 33.36,
+   "pnl_pct": 7.05,
    "opened": "2026-09-07"
+  },
+  {
+   "asset": "VEEV",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 296.87,
+   "mark": 316.55,
+   "pnl_pct": 6.63,
+   "opened": "2026-10-12"
   },
   {
    "asset": "SIBN",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 18.5,
-   "mark": 19.78,
-   "pnl_pct": 6.92,
+   "mark": 19.71,
+   "pnl_pct": 6.54,
    "opened": "2026-09-07"
   }
  ],
  "worst_open": [
   {
+   "asset": "VIXY",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 17.7,
+   "mark": 16.95,
+   "pnl_pct": -4.21,
+   "opened": "2026-10-16"
+  },
+  {
    "asset": "DBC",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 32.31,
-   "mark": 33.77,
-   "pnl_pct": -4.53,
+   "mark": 33.65,
+   "pnl_pct": -4.15,
    "opened": "2026-09-08"
-  },
-  {
-   "asset": "TKC",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.09,
-   "mark": 4.88,
-   "pnl_pct": -4.13,
-   "opened": "2026-09-07"
   },
   {
    "asset": "EWY",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 150.83,
-   "mark": 157.03,
-   "pnl_pct": -4.11,
+   "mark": 157.01,
+   "pnl_pct": -4.1,
    "opened": "2026-10-15"
+  },
+  {
+   "asset": "GAB",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 5.38,
+   "mark": 5.17,
+   "pnl_pct": -4.0,
+   "opened": "2026-09-21"
   },
   {
    "asset": "ESP",
@@ -653,15 +662,6 @@
    "mark": 53.93,
    "pnl_pct": -3.89,
    "opened": "2026-10-19"
-  },
-  {
-   "asset": "GAB",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.38,
-   "mark": 5.17,
-   "pnl_pct": -3.81,
-   "opened": "2026-09-21"
   }
  ],
  "book": {
