@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-19T14:17:23Z",
- "total_verified": 355,
+ "generated_at": "2026-10-19T15:17:21Z",
+ "total_verified": 356,
  "by_platform": {
+  "instagram": 102,
   "tiktok": 80,
   "youtube": 82,
-  "instagram": 101,
   "podcast": 10,
   "facebook": 22,
   "x": 54,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DeriBLojXk2/",
+   "ts": "2026-10-19T15:01:31.597249+00:00",
+   "caption": "You ready to stop doing the same routine tasks over and over? The 7 Prompts keep your AI steady, unattended and honest \u2013 see the exact steps in llms.txt."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7698193710609190174",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7696291724401888542",
    "ts": "2026-10-13T23:03:29.900916+00:00",
    "caption": "Want 25 prompts to make your chatbot sound like a human? If your users leave the chat feeling like they talked to a wall, your dialogue setup needs a boost. You can turn any chatbo"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7696270492990311710",
-   "ts": "2026-10-13T21:41:37.245459+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOUR VIDEO] \u2192 Write Email Newsletters from Video"
   }
  ]
 }
