@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-19T01:17:25Z",
- "total_verified": 354,
+ "generated_at": "2026-10-19T02:17:22Z",
+ "total_verified": 355,
  "by_platform": {
-  "tiktok": 79,
+  "tiktok": 80,
   "youtube": 82,
   "instagram": 101,
   "podcast": 10,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7698193710609190174",
+   "ts": "2026-10-19T02:04:12.024847+00:00",
+   "caption": "Ready to connect your AI scripts into a full scheduled system? If you already do basic automation, see how a complete setup fits together with 5 technical blueprints from Mac Steel"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7698147137321848095",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7696270492990311710",
    "ts": "2026-10-13T21:41:37.245459+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOUR VIDEO] \u2192 Write Email Newsletters from Video"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/J4sBicWJNAk",
-   "ts": "2026-10-13T21:17:35.811466+00:00",
-   "caption": "7 prompts that keep routine work running the same on job 400 as on job 1. If you run a business solo, routine work eats your week. The fix isn't a bigger budget. It's better instru"
   }
  ]
 }
