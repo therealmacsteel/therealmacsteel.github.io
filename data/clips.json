@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-20T22:17:36Z",
- "total_verified": 366,
+ "generated_at": "2026-10-20T23:17:22Z",
+ "total_verified": 367,
  "by_platform": {
+  "tiktok": 83,
   "facebook": 24,
   "youtube": 83,
   "instagram": 105,
   "x": 56,
-  "tiktok": 82,
   "podcast": 10,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7698889378134838558",
+   "ts": "2026-10-20T23:03:51.666047+00:00",
+   "caption": "Your long video is sitting on 10+ posts. With Mac Steel's 25 Repurposing Prompts, you can pull them out. You already filmed the long video. Use Mac Steel's 25 Repurposing Prompts t"
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/2113842139241066",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7696709659066977566",
    "ts": "2026-10-15T02:05:20.428210+00:00",
    "caption": "Your chatbot answers questions, but does it actually hold a conversation? Most bots sound robotic because they're built on generic prompts. Your visitors feel it, and they bounce. "
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7696662922667248926",
-   "ts": "2026-10-14T23:03:50.819191+00:00",
-   "caption": "Want to connect 5 content workflows without a SaaS subscription? If you have experimented with AI automation, see how a full system fits together. Mac Steel gives you 5 technical b"
   }
  ]
 }
