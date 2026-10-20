@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-20T18:17:26Z",
- "total_verified": 364,
+ "generated_at": "2026-10-20T19:17:24Z",
+ "total_verified": 365,
  "by_platform": {
+  "youtube": 83,
   "instagram": 105,
   "facebook": 23,
   "x": 56,
   "tiktok": 82,
-  "youtube": 82,
   "podcast": 10,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/-ciK6Q5Kjqg",
+   "ts": "2026-10-20T18:17:27.527479+00:00",
+   "caption": "Can you turn one long video into 10+ posts without guessing? 25 repurposing prompts do exactly that\u2014no extra filming, no third-party tools. Each prompt pulls quotes, clips, or step"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DeubawgCoMO/",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7696641560095591710",
    "ts": "2026-10-14T21:41:39.665127+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Security Measures for Data Protection \u2192 Autonomous Agent Transparency and Explainability for Improved Trust "
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/q3d1EX0KaEs",
-   "ts": "2026-10-14T21:17:34.948753+00:00",
-   "caption": "7 prompts that keep your AI running routine work the same on job 400 as on job 1. You're a solo builder or small-business owner. You want routine work done reliably, not an assista"
   }
  ]
 }
