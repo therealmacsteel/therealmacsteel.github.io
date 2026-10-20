@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T08:17:28Z",
+ "generated_at": "2026-10-20T09:17:25Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -599,15 +599,6 @@
    "opened": "2026-09-14"
   },
   {
-   "asset": "BTC/USD",
-   "lane": "Crypto",
-   "side": "long",
-   "entry": 76912.71,
-   "mark": 81908.87,
-   "pnl_pct": 6.5,
-   "opened": "2026-09-02"
-  },
-  {
    "asset": "META",
    "lane": "Shorts (simulated)",
    "side": "short",
@@ -615,6 +606,15 @@
    "mark": 704.99,
    "pnl_pct": 6.45,
    "opened": "2026-09-25"
+  },
+  {
+   "asset": "SIBN",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 18.5,
+   "mark": 19.66,
+   "pnl_pct": 6.27,
+   "opened": "2026-09-07"
   }
  ],
  "worst_open": [
