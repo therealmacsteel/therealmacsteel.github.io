@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-20T16:17:26Z",
- "total_verified": 361,
+ "generated_at": "2026-10-20T17:17:25Z",
+ "total_verified": 362,
  "by_platform": {
+  "facebook": 23,
   "x": 56,
   "instagram": 103,
   "tiktok": 82,
   "youtube": 82,
   "podcast": 10,
-  "facebook": 22,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/28975585458720462",
+   "ts": "2026-10-20T17:02:59.127983+00:00",
+   "caption": "Got 25 ways to turn ONE video into dozens of posts? You can finally stretch every long video into short clips, blog posts, reels, and more\u2014no extra filming needed. With the 25 prov"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2112561685160693769",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/Dee-o3HDG3F/",
    "ts": "2026-10-14T18:01:29.061557+00:00",
    "caption": "What if your routine AI work ran itself, honestly, without you watching every step? Most prompt packs hand you 200 prompts you'll never use. You don't need volume. You need the 7 t"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7696564311803596062",
-   "ts": "2026-10-14T16:41:48.917204+00:00",
-   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
   }
  ]
 }
