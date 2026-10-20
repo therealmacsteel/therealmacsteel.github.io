@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-20T12:17:30Z",
+ "generated_at": "2026-10-20T13:17:35Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
  "closed_total": 405,
- "excluded_unmarkable": 104,
+ "excluded_unmarkable": 106,
  "win_rate": 0.262,
  "avg_trade_pct": -2.66,
- "open_total": 176,
- "open_avg_pct": 0.92,
+ "open_total": 174,
+ "open_avg_pct": 0.94,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -572,6 +572,15 @@
  ],
  "best_open": [
   {
+   "asset": "META",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 753.6,
+   "mark": 698.48,
+   "pnl_pct": 7.31,
+   "opened": "2026-09-25"
+  },
+  {
    "asset": "BOTZ",
    "lane": "Shorts (simulated)",
    "side": "short",
@@ -579,6 +588,15 @@
    "mark": 33.34,
    "pnl_pct": 7.09,
    "opened": "2026-09-07"
+  },
+  {
+   "asset": "UNG",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 11.08,
+   "mark": 10.32,
+   "pnl_pct": 6.86,
+   "opened": "2026-09-25"
   },
   {
    "asset": "VEEV",
@@ -590,31 +608,13 @@
    "opened": "2026-10-12"
   },
   {
-   "asset": "PPLT",
+   "asset": "EEM",
    "lane": "Shorts (simulated)",
    "side": "short",
-   "entry": 15.9,
-   "mark": 14.83,
-   "pnl_pct": 6.73,
-   "opened": "2026-09-14"
-  },
-  {
-   "asset": "META",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 753.6,
-   "mark": 704.99,
-   "pnl_pct": 6.45,
-   "opened": "2026-09-25"
-  },
-  {
-   "asset": "SIBN",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 18.5,
-   "mark": 19.66,
-   "pnl_pct": 6.27,
-   "opened": "2026-09-07"
+   "entry": 67.17,
+   "mark": 62.59,
+   "pnl_pct": 6.82,
+   "opened": "2026-08-27"
   }
  ],
  "worst_open": [
@@ -655,13 +655,13 @@
    "opened": "2026-10-19"
   },
   {
-   "asset": "EWY",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 150.83,
-   "mark": 156.51,
-   "pnl_pct": -3.77,
-   "opened": "2026-10-15"
+   "asset": "VIXY",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 17.7,
+   "mark": 17.04,
+   "pnl_pct": -3.73,
+   "opened": "2026-10-16"
   }
  ],
  "book": {
