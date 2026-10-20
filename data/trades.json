@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-20T15:17:29Z",
+ "generated_at": "2026-10-20T16:17:30Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 406,
- "excluded_unmarkable": 106,
- "win_rate": 0.264,
- "avg_trade_pct": -2.63,
- "open_total": 174,
- "open_avg_pct": 1.04,
+ "closed_total": 407,
+ "excluded_unmarkable": 107,
+ "win_rate": 0.265,
+ "avg_trade_pct": -2.59,
+ "open_total": 173,
+ "open_avg_pct": 1.21,
  "lanes": [
   {
    "lane": "Equity factor model",
-   "closed": 191,
-   "win_rate": 0.241,
-   "avg_win_pct": 11.59,
+   "closed": 192,
+   "win_rate": 0.245,
+   "avg_win_pct": 11.65,
    "avg_loss_pct": -6.17,
-   "avg_trade_pct": -1.9
+   "avg_trade_pct": -1.81
   },
   {
    "lane": "Macro ETFs",
@@ -52,6 +52,17 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "SLDB",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 5.61,
+   "exit": 6.41,
+   "pnl_pct": 14.27,
+   "opened": "2026-10-19",
+   "closed": "2026-10-20",
+   "exit_reason": "target"
+  },
   {
    "asset": "MSCI",
    "lane": "Equity factor model",
@@ -315,20 +326,13 @@
    "opened": "2026-10-09",
    "closed": "2026-10-15",
    "exit_reason": "stop"
-  },
-  {
-   "asset": "AVGO",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 358.08,
-   "exit": 336.53,
-   "pnl_pct": -6.02,
-   "opened": "2026-10-08",
-   "closed": "2026-10-15",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "SLDB",
+   "pnl_pct": 14.27
+  },
   {
    "asset": "MSCI",
    "pnl_pct": 11.41
@@ -564,95 +568,73 @@
   {
    "asset": "LAR",
    "pnl_pct": -5.79
-  },
-  {
-   "asset": "FLO",
-   "pnl_pct": 11.13
   }
  ],
  "best_open": [
-  {
-   "asset": "SLDB",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.61,
-   "mark": 6.17,
-   "pnl_pct": 9.99,
-   "opened": "2026-10-19"
-  },
   {
    "asset": "SIBN",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 18.5,
-   "mark": 20.27,
-   "pnl_pct": 9.54,
+   "mark": 20.31,
+   "pnl_pct": 9.78,
    "opened": "2026-09-07"
+  },
+  {
+   "asset": "SLS",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 10.51,
+   "mark": 11.49,
+   "pnl_pct": 9.37,
+   "opened": "2026-10-19"
   },
   {
    "asset": "META",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 753.6,
-   "mark": 684.13,
-   "pnl_pct": 9.22,
+   "mark": 690.32,
+   "pnl_pct": 8.4,
    "opened": "2026-09-25"
-  },
-  {
-   "asset": "COPX",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 84.61,
-   "mark": 78.3,
-   "pnl_pct": 7.46,
-   "opened": "2026-09-14"
   },
   {
    "asset": "VEEV",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 296.87,
-   "mark": 318.27,
-   "pnl_pct": 7.21,
+   "mark": 319.52,
+   "pnl_pct": 7.63,
+   "opened": "2026-10-12"
+  },
+  {
+   "asset": "TDOC",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 5.76,
+   "mark": 6.2,
+   "pnl_pct": 7.55,
    "opened": "2026-10-12"
   }
  ],
  "worst_open": [
   {
-   "asset": "TBT",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 41.62,
-   "mark": 39.83,
-   "pnl_pct": -4.3,
-   "opened": "2026-10-14"
-  },
-  {
-   "asset": "DBC",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 32.31,
-   "mark": 33.7,
-   "pnl_pct": -4.3,
-   "opened": "2026-09-08"
-  },
-  {
-   "asset": "DUOT",
+   "asset": "HWM",
    "lane": "Equity factor model",
    "side": "long",
-   "entry": 5.59,
-   "mark": 5.36,
-   "pnl_pct": -4.11,
+   "entry": 219.86,
+   "mark": 208.99,
+   "pnl_pct": -4.94,
    "opened": "2026-10-19"
   },
   {
-   "asset": "COPX",
+   "asset": "VIXY",
    "lane": "Macro ETFs",
    "side": "long",
-   "entry": 81.6,
-   "mark": 78.3,
-   "pnl_pct": -4.04,
-   "opened": "2026-10-08"
+   "entry": 17.7,
+   "mark": 16.88,
+   "pnl_pct": -4.63,
+   "opened": "2026-10-16"
   },
   {
    "asset": "ESP",
@@ -661,6 +643,24 @@
    "entry": 56.12,
    "mark": 53.93,
    "pnl_pct": -3.89,
+   "opened": "2026-10-19"
+  },
+  {
+   "asset": "ICL",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 5.06,
+   "mark": 4.88,
+   "pnl_pct": -3.66,
+   "opened": "2026-09-28"
+  },
+  {
+   "asset": "EME",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 727.52,
+   "mark": 701.08,
+   "pnl_pct": -3.63,
    "opened": "2026-10-19"
   }
  ],
