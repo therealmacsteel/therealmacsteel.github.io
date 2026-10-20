@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T19:17:29Z",
+ "generated_at": "2026-10-20T20:17:28Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -8,7 +8,7 @@
  "win_rate": 0.268,
  "avg_trade_pct": -2.53,
  "open_total": 170,
- "open_avg_pct": 1.22,
+ "open_avg_pct": 1.24,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,45 +576,45 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 753.6,
-   "mark": 689.03,
-   "pnl_pct": 8.57,
+   "mark": 693.91,
+   "pnl_pct": 7.92,
    "opened": "2026-09-25"
-  },
-  {
-   "asset": "IOT",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 39.37,
-   "mark": 42.3,
-   "pnl_pct": 7.47,
-   "opened": "2026-10-19"
-  },
-  {
-   "asset": "TDOC",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.76,
-   "mark": 6.18,
-   "pnl_pct": 7.38,
-   "opened": "2026-10-12"
   },
   {
    "asset": "PTON",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 5.05,
-   "mark": 5.39,
-   "pnl_pct": 6.83,
+   "mark": 5.45,
+   "pnl_pct": 7.92,
    "opened": "2026-10-12"
   },
   {
-   "asset": "BOTZ",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 35.89,
-   "mark": 33.6,
-   "pnl_pct": 6.37,
-   "opened": "2026-09-07"
+   "asset": "TDOC",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 5.76,
+   "mark": 6.21,
+   "pnl_pct": 7.73,
+   "opened": "2026-10-12"
+  },
+  {
+   "asset": "IOT",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 39.37,
+   "mark": 42.39,
+   "pnl_pct": 7.68,
+   "opened": "2026-10-19"
+  },
+  {
+   "asset": "VEEV",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 296.87,
+   "mark": 318.57,
+   "pnl_pct": 7.31,
+   "opened": "2026-10-12"
   }
  ],
  "worst_open": [
@@ -623,9 +623,18 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 41.62,
-   "mark": 39.98,
-   "pnl_pct": -3.93,
+   "mark": 39.89,
+   "pnl_pct": -4.15,
    "opened": "2026-10-14"
+  },
+  {
+   "asset": "DBC",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 32.31,
+   "mark": 33.58,
+   "pnl_pct": -3.93,
+   "opened": "2026-09-08"
   },
   {
    "asset": "ESP",
@@ -637,21 +646,12 @@
    "opened": "2026-10-19"
   },
   {
-   "asset": "DBC",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 32.31,
-   "mark": 33.55,
-   "pnl_pct": -3.84,
-   "opened": "2026-09-08"
-  },
-  {
    "asset": "ICL",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 5.06,
-   "mark": 4.88,
-   "pnl_pct": -3.56,
+   "mark": 4.87,
+   "pnl_pct": -3.75,
    "opened": "2026-09-28"
   },
   {
@@ -659,8 +659,8 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 727.52,
-   "mark": 701.81,
-   "pnl_pct": -3.53,
+   "mark": 702.14,
+   "pnl_pct": -3.49,
    "opened": "2026-10-19"
   }
  ],

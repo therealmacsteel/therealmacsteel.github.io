@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-20T19:17:24Z",
- "total_verified": 365,
+ "generated_at": "2026-10-20T20:17:23Z",
+ "total_verified": 366,
  "by_platform": {
+  "facebook": 24,
   "youtube": 83,
   "instagram": 105,
-  "facebook": 23,
   "x": 56,
   "tiktok": 82,
   "podcast": 10,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/2113842139241066",
+   "ts": "2026-10-20T20:03:00.505831+00:00",
+   "caption": "Have you built basic AI scripts but need a scheduled system without SaaS fees? If you already experiment with automation, you can connect your code into a full workflow without pay"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/-ciK6Q5Kjqg",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7696662922667248926",
    "ts": "2026-10-14T23:03:50.819191+00:00",
    "caption": "Want to connect 5 content workflows without a SaaS subscription? If you have experimented with AI automation, see how a full system fits together. Mac Steel gives you 5 technical b"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7696641560095591710",
-   "ts": "2026-10-14T21:41:39.665127+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Security Measures for Data Protection \u2192 Autonomous Agent Transparency and Explainability for Improved Trust "
   }
  ]
 }
