@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-20T11:17:22Z",
- "total_verified": 358,
+ "generated_at": "2026-10-20T12:17:26Z",
+ "total_verified": 359,
  "by_platform": {
+  "x": 55,
   "tiktok": 82,
   "instagram": 102,
   "youtube": 82,
   "podcast": 10,
   "facebook": 22,
-  "x": 54,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2112516427236171791",
+   "ts": "2026-10-20T12:09:23.019398+00:00",
+   "caption": "What if one long video became 10+ posts? You can use Mac Steel's 25 Repurposing Prompts to turn it into short clips, blog posts and more, saving hours per video."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7698518297288953118",
@@ -219,12 +225,6 @@
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DecZ2d6Chjg/",
    "ts": "2026-10-14T02:40:04.309419+00:00",
-   "caption": ""
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Deb-cVaCOoG/",
-   "ts": "2026-10-14T02:40:04.309282+00:00",
    "caption": ""
   }
  ]
