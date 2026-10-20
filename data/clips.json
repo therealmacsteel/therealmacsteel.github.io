@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-10-20T14:17:37Z",
- "total_verified": 359,
+ "generated_at": "2026-10-20T15:17:25Z",
+ "total_verified": 361,
  "by_platform": {
-  "x": 55,
+  "x": 56,
+  "instagram": 103,
   "tiktok": 82,
-  "instagram": 102,
   "youtube": 82,
   "podcast": 10,
   "facebook": 22,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2112561685160693769",
+   "ts": "2026-10-20T15:09:14.758880+00:00",
+   "caption": "Want a starter 5-job schedule for your scripts without a SaaS sub? Get Mac Steel setup steps to go from topic to posts in 3 to 8 minutes with failure alerts."
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DeuG1Z-ip19/",
+   "ts": "2026-10-20T15:01:50.558711+00:00",
+   "caption": "One long video can become 10 posts if you use these 25 prompts. Your long video already holds more than one upload. With Mac Steel's 25 Repurposing Prompts, you turn it into short "
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2112516427236171791",
@@ -214,18 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7696564311803596062",
    "ts": "2026-10-14T16:41:48.917204+00:00",
    "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DeeqEQxCIeq/",
-   "ts": "2026-10-14T15:02:09.150975+00:00",
-   "caption": "You have automated pieces with AI. What does the full system look like? Your content could run like this: one Python script takes a single topic and turns it into posts for five pl"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DecZ2d6Chjg/",
-   "ts": "2026-10-14T02:40:04.309419+00:00",
-   "caption": ""
   }
  ]
 }
