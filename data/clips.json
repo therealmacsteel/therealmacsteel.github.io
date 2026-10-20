@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-10-20T17:17:25Z",
- "total_verified": 362,
+ "generated_at": "2026-10-20T18:17:26Z",
+ "total_verified": 364,
  "by_platform": {
+  "instagram": 105,
   "facebook": 23,
   "x": 56,
-  "instagram": 103,
   "tiktok": 82,
   "youtube": 82,
   "podcast": 10,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DeubawgCoMO/",
+   "ts": "2026-10-20T18:01:27.633896+00:00",
+   "caption": "How do you turn a single topic into multi-platform posts in 3 to 8 minutes? If you already experiment with scripts, you know the real challenge is linking everything into a complet"
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DeuAATbCOGc/",
+   "ts": "2026-10-20T17:40:20.321800+00:00",
+   "caption": "$0/month of AI ran my business this week. Six numbers, one rule each: 1. 521 automated tasks, 96% clean \u2014 timebox every job. 2. 64 posts, 53 with a live URL \u2014 a link or it didn't h"
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/28975585458720462",
@@ -214,18 +226,6 @@
    "url": "https://www.youtube.com/shorts/q3d1EX0KaEs",
    "ts": "2026-10-14T21:17:34.948753+00:00",
    "caption": "7 prompts that keep your AI running routine work the same on job 400 as on job 1. You're a solo builder or small-business owner. You want routine work done reliably, not an assista"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/V9g-aXWBfGw",
-   "ts": "2026-10-14T18:17:40.341749+00:00",
-   "caption": "You've automated pieces, but can you see how a full scheduled AI system fits together without a SaaS bill? 5 blueprints from the working system at Mac Steel show you the whole chai"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Dee-o3HDG3F/",
-   "ts": "2026-10-14T18:01:29.061557+00:00",
-   "caption": "What if your routine AI work ran itself, honestly, without you watching every step? Most prompt packs hand you 200 prompts you'll never use. You don't need volume. You need the 7 t"
   }
  ]
 }
