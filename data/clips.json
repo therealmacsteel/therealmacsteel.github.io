@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-21T16:17:22Z",
- "total_verified": 369,
+ "generated_at": "2026-10-21T17:17:24Z",
+ "total_verified": 370,
  "by_platform": {
+  "tiktok": 85,
   "instagram": 106,
-  "tiktok": 84,
   "facebook": 24,
   "youtube": 83,
   "x": 56,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7699161876592200990",
+   "ts": "2026-10-21T16:41:42.219394+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Write Email Newsletters from Video Segments \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes fo"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/Dewrn86CviG/",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7697012689201089823",
    "ts": "2026-10-15T21:41:40.067833+00:00",
    "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/W9ub_BmPVbA",
-   "ts": "2026-10-15T18:17:22.001708+00:00",
-   "caption": "How do you keep an AI assistant performing the same on job 400 as on job 1? When routine work starts drifting, your business loses consistency. You need solid prompt structures so "
   }
  ]
 }
