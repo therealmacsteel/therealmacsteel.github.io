@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-21T20:17:30Z",
+ "generated_at": "2026-10-21T21:17:27Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
- "regime": "mixed_or_choppy",
+ "regime": "risk_off",
  "closed_total": 222,
  "excluded_unmarkable": 49,
  "win_rate": 0.257,
  "avg_trade_pct": -3.68,
- "open_total": 127,
- "open_avg_pct": 0.98,
+ "open_total": 131,
+ "open_avg_pct": 0.91,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -572,6 +572,15 @@
  ],
  "best_open": [
   {
+   "asset": "BTC/USD",
+   "lane": "Crypto",
+   "side": "long",
+   "entry": 76912.71,
+   "mark": 84474.97,
+   "pnl_pct": 9.83,
+   "opened": "2026-09-02"
+  },
+  {
    "asset": "DBC",
    "lane": "Macro ETFs",
    "side": "long",
@@ -599,15 +608,6 @@
    "opened": "2026-08-27"
   },
   {
-   "asset": "BTC/USD",
-   "lane": "Crypto",
-   "side": "long",
-   "entry": 76912.71,
-   "mark": 83298.0,
-   "pnl_pct": 8.3,
-   "opened": "2026-09-02"
-  },
-  {
    "asset": "MSFT",
    "lane": "Congress disclosures",
    "side": "long",
@@ -625,6 +625,15 @@
    "entry": 4.74,
    "mark": 4.19,
    "pnl_pct": -11.51,
+   "opened": "2026-10-21"
+  },
+  {
+   "asset": "IWM",
+   "lane": "Options (simulated)",
+   "side": "long",
+   "entry": 4.64,
+   "mark": 4.32,
+   "pnl_pct": -6.9,
    "opened": "2026-10-21"
   },
   {
@@ -646,22 +655,13 @@
    "opened": "2026-08-27"
   },
   {
-   "asset": "EEM",
-   "lane": "Macro ETFs",
+   "asset": "SPCX",
+   "lane": "Congress disclosures",
    "side": "long",
-   "entry": 66.12,
-   "mark": 63.61,
-   "pnl_pct": -3.8,
-   "opened": "2026-08-24"
-  },
-  {
-   "asset": "XLF",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 58.2,
-   "mark": 56.02,
-   "pnl_pct": -3.75,
-   "opened": "2026-08-24"
+   "entry": 165.34,
+   "mark": 158.74,
+   "pnl_pct": -3.99,
+   "opened": "2026-10-21"
   }
  ],
  "book": {
