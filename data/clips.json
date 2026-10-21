@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-20T23:17:22Z",
- "total_verified": 367,
+ "generated_at": "2026-10-21T00:17:25Z",
+ "total_verified": 368,
  "by_platform": {
-  "tiktok": 83,
+  "tiktok": 84,
   "facebook": 24,
   "youtube": 83,
   "instagram": 105,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7698790706449567007",
+   "ts": "2026-10-20T23:40:32.603630+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Tool Integration for Enhanced Agent Functionality \u2192 Output Formatting for Consistent and Informative Reporting \u2192 Personalizin"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7698889378134838558",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7696935369098448158",
    "ts": "2026-10-15T16:41:40.678670+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOU"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7696709659066977566",
-   "ts": "2026-10-15T02:05:20.428210+00:00",
-   "caption": "Your chatbot answers questions, but does it actually hold a conversation? Most bots sound robotic because they're built on generic prompts. Your visitors feel it, and they bounce. "
   }
  ]
 }
