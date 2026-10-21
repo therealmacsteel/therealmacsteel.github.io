@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T19:17:27Z",
+ "generated_at": "2026-10-21T20:17:30Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
@@ -8,7 +8,7 @@
  "win_rate": 0.257,
  "avg_trade_pct": -3.68,
  "open_total": 127,
- "open_avg_pct": 0.93,
+ "open_avg_pct": 0.98,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,8 +576,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 30.57,
-   "mark": 33.56,
-   "pnl_pct": 9.78,
+   "mark": 33.5,
+   "pnl_pct": 9.58,
    "opened": "2026-08-18"
   },
   {
@@ -585,8 +585,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 275.78,
-   "pnl_pct": 9.55,
+   "mark": 276.46,
+   "pnl_pct": 9.33,
    "opened": "2026-08-15"
   },
   {
@@ -594,8 +594,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 369.52,
-   "mark": 335.86,
-   "pnl_pct": 9.11,
+   "mark": 337.87,
+   "pnl_pct": 8.57,
    "opened": "2026-08-27"
   },
   {
@@ -608,13 +608,13 @@
    "opened": "2026-09-02"
   },
   {
-   "asset": "FXI",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 35.54,
-   "mark": 32.91,
-   "pnl_pct": 7.41,
-   "opened": "2026-08-27"
+   "asset": "MSFT",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 495.35,
+   "mark": 532.8,
+   "pnl_pct": 7.56,
+   "opened": "2026-08-15"
   }
  ],
  "worst_open": [
@@ -628,39 +628,39 @@
    "opened": "2026-10-21"
   },
   {
-   "asset": "SPCX",
+   "asset": "FWONK",
    "lane": "Congress disclosures",
    "side": "long",
-   "entry": 165.34,
-   "mark": 158.21,
-   "pnl_pct": -4.32,
-   "opened": "2026-10-21"
+   "entry": 95.46,
+   "mark": 91.3,
+   "pnl_pct": -4.36,
+   "opened": "2026-09-10"
+  },
+  {
+   "asset": "VIXY",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 17.4,
+   "mark": 16.68,
+   "pnl_pct": -4.14,
+   "opened": "2026-08-27"
   },
   {
    "asset": "EEM",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 66.12,
-   "mark": 63.37,
-   "pnl_pct": -4.16,
+   "mark": 63.61,
+   "pnl_pct": -3.8,
    "opened": "2026-08-24"
-  },
-  {
-   "asset": "FWONK",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 95.46,
-   "mark": 91.64,
-   "pnl_pct": -4.0,
-   "opened": "2026-09-10"
   },
   {
    "asset": "XLF",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 58.2,
-   "mark": 55.88,
-   "pnl_pct": -4.0,
+   "mark": 56.02,
+   "pnl_pct": -3.75,
    "opened": "2026-08-24"
   }
  ],
