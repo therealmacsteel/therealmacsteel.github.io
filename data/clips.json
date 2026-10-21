@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-21T14:17:25Z",
- "total_verified": 368,
+ "generated_at": "2026-10-21T15:17:27Z",
+ "total_verified": 369,
  "by_platform": {
+  "instagram": 106,
   "tiktok": 84,
   "facebook": 24,
   "youtube": 83,
-  "instagram": 105,
   "x": 56,
   "podcast": 10,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/Dewrn86CviG/",
+   "ts": "2026-10-21T15:01:44.972596+00:00",
+   "caption": "25 prompts that tell you when to use them, not just text and good luck. You already know the pattern: a pack drops 25 prompts in your lap, says good luck, and leaves you guessing w"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7698790706449567007",
@@ -220,12 +226,6 @@
    "url": "https://www.youtube.com/shorts/W9ub_BmPVbA",
    "ts": "2026-10-15T18:17:22.001708+00:00",
    "caption": "How do you keep an AI assistant performing the same on job 400 as on job 1? When routine work starts drifting, your business loses consistency. You need solid prompt structures so "
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7696935369098448158",
-   "ts": "2026-10-15T16:41:40.678670+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOU"
   }
  ]
 }
