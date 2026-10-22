@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T18:17:26Z",
+ "generated_at": "2026-10-22T19:17:33Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -8,7 +8,7 @@
  "win_rate": 0.252,
  "avg_trade_pct": -3.65,
  "open_total": 139,
- "open_avg_pct": 1.03,
+ "open_avg_pct": 1.05,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -572,49 +572,49 @@
  ],
  "best_open": [
   {
-   "asset": "IWM",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 304.9,
-   "mark": 275.35,
-   "pnl_pct": 9.69,
-   "opened": "2026-08-15"
-  },
-  {
    "asset": "MSCI",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 566.52,
-   "mark": 619.27,
-   "pnl_pct": 9.31,
+   "mark": 620.09,
+   "pnl_pct": 9.46,
    "opened": "2026-08-10"
+  },
+  {
+   "asset": "IWM",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 304.9,
+   "mark": 276.19,
+   "pnl_pct": 9.42,
+   "opened": "2026-08-15"
   },
   {
    "asset": "BOTZ",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 35.89,
-   "mark": 32.59,
-   "pnl_pct": 9.19,
+   "mark": 32.57,
+   "pnl_pct": 9.25,
    "opened": "2026-09-07"
-  },
-  {
-   "asset": "FXI",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 35.54,
-   "mark": 32.37,
-   "pnl_pct": 8.93,
-   "opened": "2026-08-27"
   },
   {
    "asset": "GRID",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 178.82,
-   "mark": 163.53,
-   "pnl_pct": 8.55,
+   "mark": 162.41,
+   "pnl_pct": 9.18,
    "opened": "2026-09-04"
+  },
+  {
+   "asset": "FXI",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 35.54,
+   "mark": 32.38,
+   "pnl_pct": 8.88,
+   "opened": "2026-08-27"
   }
  ],
  "worst_open": [
@@ -641,27 +641,27 @@
    "lane": "Congress disclosures",
    "side": "long",
    "entry": 95.46,
-   "mark": 91.36,
-   "pnl_pct": -4.29,
+   "mark": 91.22,
+   "pnl_pct": -4.44,
    "opened": "2026-09-10"
-  },
-  {
-   "asset": "DBC",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 32.31,
-   "mark": 33.6,
-   "pnl_pct": -3.99,
-   "opened": "2026-09-08"
   },
   {
    "asset": "XLP",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 86.08,
-   "mark": 89.49,
-   "pnl_pct": -3.97,
+   "mark": 89.69,
+   "pnl_pct": -4.19,
    "opened": "2026-08-16"
+  },
+  {
+   "asset": "PPLT",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 14.76,
+   "mark": 14.17,
+   "pnl_pct": -4.0,
+   "opened": "2026-10-21"
   }
  ],
  "book": {

@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-22T18:17:22Z",
- "total_verified": 379,
+ "generated_at": "2026-10-22T19:17:28Z",
+ "total_verified": 380,
  "by_platform": {
+  "youtube": 84,
   "instagram": 109,
   "facebook": 25,
   "tiktok": 88,
   "x": 58,
-  "youtube": 83,
   "podcast": 10,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/fqBXjgVTDXE",
+   "ts": "2026-10-22T18:17:45.579865+00:00",
+   "caption": "Want 25 prompts that make your chatbot sound like a real conversation partner? Your bot can ask better questions, remember context, and keep customers talking instead of bouncing a"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/Dezk_3TEegC/",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DemYdHpABf4/",
    "ts": "2026-10-17T15:01:46.805038+00:00",
    "caption": "Does your AI assistant behave the same on job 400 as on job 1? When you delegate routine work, consistency is what matters most. Using an Agent Identity Brief gives your setup one "
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7697451799657205022",
-   "ts": "2026-10-17T02:05:24.727216+00:00",
-   "caption": "Does your AI assistant act completely different on job 400 compared to job 1? When you run routine business tasks, drift ruins your output. Mac Steel offers 7 prompts in a 6 page P"
   }
  ]
 }
