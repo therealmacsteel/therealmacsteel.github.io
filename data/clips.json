@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-10-22T21:17:23Z",
- "total_verified": 381,
+ "generated_at": "2026-10-22T22:17:26Z",
+ "total_verified": 383,
  "by_platform": {
+  "tiktok": 89,
+  "youtube": 85,
   "facebook": 26,
-  "youtube": 84,
   "instagram": 109,
-  "tiktok": 88,
   "x": 58,
   "podcast": 10,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7699610272104844574",
+   "ts": "2026-10-22T21:41:38.695482+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Designing a Distributed Ledger for Secure Data Sharing \u2192 Autonomous Agent Training Data Generation \u2192 Autonomous Agent Evaluat"
+  },
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/tTWYuuYPuNA",
+   "ts": "2026-10-22T21:17:23.135353+00:00",
+   "caption": "Can your AI system run on a schedule without a SaaS subscription You get five Mac Steel blueprints, including a starter five-job schedule with failure alerts to your phone. Bluepri"
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/2334476814051812",
@@ -214,18 +226,6 @@
    "url": "https://www.youtube.com/shorts/3Cnw1AbhnaE",
    "ts": "2026-10-17T18:17:17.081229+00:00",
    "caption": "Is your AI assistant behaving the same on job 400 as on job 1? When you rely on routine work to run your business, consistency is everything. Instead of sifting through a 200-promp"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DemtA_qCNQt/",
-   "ts": "2026-10-17T18:01:28.030288+00:00",
-   "caption": "Want to turn one topic into posts across social platforms in 3 to 8 minutes? If you already run basic AI scripts, you can tie them into a complete system without paying for SaaS su"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7697677495314812190",
-   "ts": "2026-10-17T16:41:39.087965+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video"
   }
  ]
 }
