@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-22T12:17:23Z",
+ "generated_at": "2026-10-22T13:17:25Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 222,
- "excluded_unmarkable": 49,
+ "closed_total": 226,
+ "excluded_unmarkable": 50,
  "win_rate": 0.257,
- "avg_trade_pct": -3.68,
- "open_total": 131,
- "open_avg_pct": 0.86,
+ "avg_trade_pct": -3.64,
+ "open_total": 137,
+ "open_avg_pct": 0.94,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -20,19 +20,19 @@
   },
   {
    "lane": "Macro ETFs",
-   "closed": 50,
-   "win_rate": 0.2,
+   "closed": 51,
+   "win_rate": 0.196,
    "avg_win_pct": 10.42,
-   "avg_loss_pct": -7.62,
-   "avg_trade_pct": -4.01
+   "avg_loss_pct": -7.59,
+   "avg_trade_pct": -4.06
   },
   {
    "lane": "Shorts (simulated)",
-   "closed": 43,
-   "win_rate": 0.419,
-   "avg_win_pct": 13.41,
+   "closed": 44,
+   "win_rate": 0.432,
+   "avg_win_pct": 13.29,
    "avg_loss_pct": -6.36,
-   "avg_trade_pct": 1.92
+   "avg_trade_pct": 2.13
   },
   {
    "lane": "Options (simulated)",
@@ -44,14 +44,58 @@
   },
   {
    "lane": "Congress disclosures",
-   "closed": 8,
-   "win_rate": 0.25,
+   "closed": 10,
+   "win_rate": 0.2,
    "avg_win_pct": 11.71,
-   "avg_loss_pct": -7.32,
-   "avg_trade_pct": -2.56
+   "avg_loss_pct": -7.02,
+   "avg_trade_pct": -3.27
   }
  ],
  "recent_closed": [
+  {
+   "asset": "EEM",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 66.12,
+   "exit": 61.99,
+   "pnl_pct": -6.25,
+   "opened": "2026-08-24",
+   "closed": "2026-10-22",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "SPCX",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 165.34,
+   "exit": 153.96,
+   "pnl_pct": -6.89,
+   "opened": "2026-10-21",
+   "closed": "2026-10-22",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "INTC",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 93.55,
+   "exit": 88.55,
+   "pnl_pct": -5.34,
+   "opened": "2026-10-21",
+   "closed": "2026-10-22",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "AVGO",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 369.52,
+   "exit": 328.3,
+   "pnl_pct": 11.16,
+   "opened": "2026-08-27",
+   "closed": "2026-10-22",
+   "exit_reason": "target"
+  },
   {
    "asset": "GLD",
    "lane": "Macro ETFs",
@@ -282,53 +326,25 @@
    "opened": "2026-09-07",
    "closed": "2026-10-21",
    "exit_reason": "target"
-  },
-  {
-   "asset": "EME",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 753.46,
-   "exit": 702.14,
-   "pnl_pct": -6.81,
-   "opened": "2026-09-07",
-   "closed": "2026-10-21",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "DKNG",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 24.01,
-   "exit": 20.5,
-   "pnl_pct": -14.64,
-   "opened": "2026-09-07",
-   "closed": "2026-10-21",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "CW",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 566.57,
-   "exit": 495.39,
-   "pnl_pct": -12.56,
-   "opened": "2026-09-07",
-   "closed": "2026-10-21",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "NVDA",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 228.54,
-   "exit": 216.41,
-   "pnl_pct": -5.31,
-   "opened": "2026-09-03",
-   "closed": "2026-10-21",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "EEM",
+   "pnl_pct": -6.25
+  },
+  {
+   "asset": "SPCX",
+   "pnl_pct": -6.89
+  },
+  {
+   "asset": "INTC",
+   "pnl_pct": -5.34
+  },
+  {
+   "asset": "AVGO",
+   "pnl_pct": 11.16
+  },
   {
    "asset": "GLD",
    "pnl_pct": -5.07
@@ -552,25 +568,18 @@
   {
    "asset": "GLD",
    "pnl_pct": -6.78
-  },
-  {
-   "asset": "SVRA",
-   "pnl_pct": -10.76
-  },
-  {
-   "asset": "STLA",
-   "pnl_pct": -17.48
-  },
-  {
-   "asset": "VNDA",
-   "pnl_pct": -20.61
-  },
-  {
-   "asset": "SLV",
-   "pnl_pct": -12.06
   }
  ],
  "best_open": [
+  {
+   "asset": "IWM",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 304.9,
+   "mark": 274.78,
+   "pnl_pct": 9.88,
+   "opened": "2026-08-15"
+  },
   {
    "asset": "DBC",
    "lane": "Macro ETFs",
@@ -581,21 +590,21 @@
    "opened": "2026-08-18"
   },
   {
-   "asset": "IWM",
+   "asset": "FXI",
    "lane": "Shorts (simulated)",
    "side": "short",
-   "entry": 304.9,
-   "mark": 276.21,
-   "pnl_pct": 9.41,
-   "opened": "2026-08-15"
+   "entry": 35.54,
+   "mark": 32.16,
+   "pnl_pct": 9.51,
+   "opened": "2026-08-27"
   },
   {
-   "asset": "AVGO",
+   "asset": "EEM",
    "lane": "Shorts (simulated)",
    "side": "short",
-   "entry": 369.52,
-   "mark": 337.87,
-   "pnl_pct": 8.57,
+   "entry": 67.17,
+   "mark": 61.99,
+   "pnl_pct": 7.71,
    "opened": "2026-08-27"
   },
   {
@@ -603,30 +612,12 @@
    "lane": "Congress disclosures",
    "side": "long",
    "entry": 495.35,
-   "mark": 532.8,
-   "pnl_pct": 7.56,
-   "opened": "2026-08-15"
-  },
-  {
-   "asset": "FXI",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 35.54,
-   "mark": 32.93,
+   "mark": 531.71,
    "pnl_pct": 7.34,
-   "opened": "2026-08-27"
+   "opened": "2026-08-15"
   }
  ],
  "worst_open": [
-  {
-   "asset": "DIA",
-   "lane": "Options (simulated)",
-   "side": "long",
-   "entry": 4.74,
-   "mark": 4.19,
-   "pnl_pct": -11.51,
-   "opened": "2026-10-21"
-  },
   {
    "asset": "IWM",
    "lane": "Options (simulated)",
@@ -655,13 +646,22 @@
    "opened": "2026-08-27"
   },
   {
-   "asset": "SPCX",
-   "lane": "Congress disclosures",
+   "asset": "XLF",
+   "lane": "Macro ETFs",
    "side": "long",
-   "entry": 165.34,
-   "mark": 158.92,
-   "pnl_pct": -3.89,
-   "opened": "2026-10-21"
+   "entry": 58.2,
+   "mark": 56.02,
+   "pnl_pct": -3.75,
+   "opened": "2026-08-24"
+  },
+  {
+   "asset": "DBC",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 32.31,
+   "mark": 33.5,
+   "pnl_pct": -3.68,
+   "opened": "2026-09-08"
   }
  ],
  "book": {
