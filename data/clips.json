@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-22T19:17:28Z",
- "total_verified": 380,
+ "generated_at": "2026-10-22T20:17:22Z",
+ "total_verified": 381,
  "by_platform": {
+  "facebook": 26,
   "youtube": 84,
   "instagram": 109,
-  "facebook": 25,
   "tiktok": 88,
   "x": 58,
   "podcast": 10,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/2334476814051812",
+   "ts": "2026-10-22T20:01:26.329984+00:00",
+   "caption": "Skip the monthly SaaS fee. You can run 5 Mac Steel blueprints on your own schedule, starting with a Python script that turns one topic into posts for five social platforms in 3 to "
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/fqBXjgVTDXE",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7697677495314812190",
    "ts": "2026-10-17T16:41:39.087965+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DemYdHpABf4/",
-   "ts": "2026-10-17T15:01:46.805038+00:00",
-   "caption": "Does your AI assistant behave the same on job 400 as on job 1? When you delegate routine work, consistency is what matters most. Using an Agent Identity Brief gives your setup one "
   }
  ]
 }
