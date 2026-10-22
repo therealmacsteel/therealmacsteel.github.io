@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-22T01:17:23Z",
- "total_verified": 372,
+ "generated_at": "2026-10-22T02:17:21Z",
+ "total_verified": 373,
  "by_platform": {
-  "tiktok": 86,
+  "tiktok": 87,
   "instagram": 107,
   "facebook": 24,
   "youtube": 83,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7699307077302324511",
+   "ts": "2026-10-22T02:04:37.045360+00:00",
+   "caption": "Self-host AI on hardware you already own, 24/7 Line: The full build guide is 14 pages across six sections, running from a system that actually works. Line: Section 4 shows the exac"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7699260538727058719",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DejzozTihmv/",
    "ts": "2026-10-16T15:01:37.625417+00:00",
    "caption": "Want to see how a full system runs without a SaaS subscription? Check the 5\u2011blueprint set that turns one topic into posts for five social platforms in 3 to 8 minutes start to finis"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7697080490049735966",
-   "ts": "2026-10-16T02:04:18.824133+00:00",
-   "caption": "You've automated a piece. Do you want to see how 5 scheduled workflows connect into one system? Each blueprint covers one workflow: setup steps, copy-paste commands, expected outpu"
   }
  ]
 }
