@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-10-22T14:17:31Z",
- "total_verified": 374,
+ "generated_at": "2026-10-22T15:17:25Z",
+ "total_verified": 376,
  "by_platform": {
-  "x": 57,
+  "x": 58,
+  "instagram": 108,
   "tiktok": 87,
-  "instagram": 107,
   "facebook": 24,
   "youtube": 83,
   "podcast": 10,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2113286464117035501",
+   "ts": "2026-10-22T15:09:14.545676+00:00",
+   "caption": "Schedule every AI job in your business, not one off script 5 blueprints, 3 to 8 minutes start to finish, failure alerts to your phone"
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DezQaFKCNrB/",
+   "ts": "2026-10-22T15:01:38.992088+00:00",
+   "caption": "Want 25 proven prompts to make your chatbot conversations actually feel human? Better dialogue keeps customers on your site longer and cuts back-and-forth for your team. Use named "
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2113241165118189817",
@@ -214,18 +226,6 @@
    "url": "https://therealmacsteel.github.io/podcast/weekly-2026-10-16.html",
    "ts": "2026-10-16T20:42:14.230847+00:00",
    "caption": "Week 2026-10-09 to 2026-10-16: Steel Trades -2.82% vs SPY -1.71%"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/wFDlyBgEeuU",
-   "ts": "2026-10-16T18:17:22.286984+00:00",
-   "caption": "Want to see how five ready\u2011made AI workflows fit together without a SaaS fee? Check the PDF blueprint 01 \u2013 a single Python script that turns one topic into posts for five social pl"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7697306404696182047",
-   "ts": "2026-10-16T16:41:44.063713+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Conflict Resolution for Resolving Human-Human Disagreements \u2192 Autonomous Agent Predictive Maintenance for Eq"
   }
  ]
 }
