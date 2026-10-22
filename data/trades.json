@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T20:17:26Z",
+ "generated_at": "2026-10-22T21:17:26Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -7,8 +7,8 @@
  "excluded_unmarkable": 50,
  "win_rate": 0.252,
  "avg_trade_pct": -3.65,
- "open_total": 139,
- "open_avg_pct": 1.06,
+ "open_total": 144,
+ "open_avg_pct": 1.08,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -585,8 +585,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 276.55,
-   "pnl_pct": 9.3,
+   "mark": 276.5,
+   "pnl_pct": 9.31,
    "opened": "2026-08-15"
   },
   {
@@ -628,15 +628,6 @@
    "opened": "2026-10-22"
   },
   {
-   "asset": "IWM",
-   "lane": "Options (simulated)",
-   "side": "long",
-   "entry": 4.64,
-   "mark": 4.17,
-   "pnl_pct": -10.24,
-   "opened": "2026-10-21"
-  },
-  {
    "asset": "XLP",
    "lane": "Shorts (simulated)",
    "side": "short",
@@ -662,6 +653,15 @@
    "mark": 33.56,
    "pnl_pct": -3.88,
    "opened": "2026-09-08"
+  },
+  {
+   "asset": "PPLT",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 14.76,
+   "mark": 14.19,
+   "pnl_pct": -3.86,
+   "opened": "2026-10-21"
   }
  ],
  "book": {
