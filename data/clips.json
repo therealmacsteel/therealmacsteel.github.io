@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-10-22T16:17:25Z",
- "total_verified": 376,
+ "generated_at": "2026-10-22T17:17:24Z",
+ "total_verified": 378,
  "by_platform": {
+  "facebook": 25,
+  "tiktok": 88,
   "x": 58,
   "instagram": 108,
-  "tiktok": 87,
-  "facebook": 24,
   "youtube": 83,
   "podcast": 10,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/1130655693264125",
+   "ts": "2026-10-22T17:01:07.748349+00:00",
+   "caption": "Want better chatbot conversations? Try 25 proven prompts for dialogue that actually engages your customers and keeps them talking longer."
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7699532962508868895",
+   "ts": "2026-10-22T16:41:44.381029+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2113286464117035501",
@@ -214,18 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7697405143242804510",
    "ts": "2026-10-16T23:04:10.997747+00:00",
    "caption": "Does your AI behave the same on task 400 as it did on task 1? If not, the fix is not a bigger tool. It is 7 better prompts. Mac Steel's free PDF gives you the prompts that keep rou"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/UmGC73irNSI",
-   "ts": "2026-10-16T21:17:21.178347+00:00",
-   "caption": "Discover how 6\u2011page PDF gives you 7 reliable prompts for hands\u2011free work You can run routine tasks without constant oversight using Mac Steel\u2019s 7 Prompts From a Live Agent Stack. E"
-  },
-  {
-   "platform": "podcast",
-   "url": "https://therealmacsteel.github.io/podcast/weekly-2026-10-16.html",
-   "ts": "2026-10-16T20:42:14.230847+00:00",
-   "caption": "Week 2026-10-09 to 2026-10-16: Steel Trades -2.82% vs SPY -1.71%"
   }
  ]
 }
