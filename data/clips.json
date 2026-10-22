@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-22T11:17:20Z",
- "total_verified": 373,
+ "generated_at": "2026-10-22T12:17:19Z",
+ "total_verified": 374,
  "by_platform": {
+  "x": 57,
   "tiktok": 87,
   "instagram": 107,
   "facebook": 24,
   "youtube": 83,
-  "x": 56,
   "podcast": 10,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2113241165118189817",
+   "ts": "2026-10-22T12:09:17.102728+00:00",
+   "caption": "Want your chatbot to stop sounding like a script? Try the 25 proven prompts from Mac Steel and write dialogue your customers actually enjoy."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7699307077302324511",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7697306404696182047",
    "ts": "2026-10-16T16:41:44.063713+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Conflict Resolution for Resolving Human-Human Disagreements \u2192 Autonomous Agent Predictive Maintenance for Eq"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DejzozTihmv/",
-   "ts": "2026-10-16T15:01:37.625417+00:00",
-   "caption": "Want to see how a full system runs without a SaaS subscription? Check the 5\u2011blueprint set that turns one topic into posts for five social platforms in 3 to 8 minutes start to finis"
   }
  ]
 }
