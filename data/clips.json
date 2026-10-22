@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-22T22:17:26Z",
- "total_verified": 383,
+ "generated_at": "2026-10-22T23:17:20Z",
+ "total_verified": 384,
  "by_platform": {
-  "tiktok": 89,
+  "tiktok": 90,
   "youtube": 85,
   "facebook": 26,
   "instagram": 109,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7699630946349239582",
+   "ts": "2026-10-22T23:01:23.649715+00:00",
+   "caption": "25 proven prompts to make your chatbot hold better conversations for your business Stop robotic replies. Use Mac Steel\u2019s 25 proven prompts to write dialogue your customers actually"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7699610272104844574",
@@ -220,12 +226,6 @@
    "url": "https://www.youtube.com/shorts/jtKAeWSuIQc",
    "ts": "2026-10-17T21:17:24.326520+00:00",
    "caption": "Can you turn a single topic into multi-platform posts in 3 to 8 minutes? If you have already done some AI automation, you can connect your scripts into a full scheduled system on y"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/3Cnw1AbhnaE",
-   "ts": "2026-10-17T18:17:17.081229+00:00",
-   "caption": "Is your AI assistant behaving the same on job 400 as on job 1? When you rely on routine work to run your business, consistency is everything. Instead of sifting through a 200-promp"
   }
  ]
 }
