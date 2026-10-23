@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T08:17:26Z",
+ "generated_at": "2026-10-23T09:17:23Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -8,7 +8,7 @@
  "win_rate": 0.252,
  "avg_trade_pct": -3.65,
  "open_total": 144,
- "open_avg_pct": 1.08,
+ "open_avg_pct": 1.1,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -646,6 +646,15 @@
    "opened": "2026-09-10"
   },
   {
+   "asset": "INTC",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 88.55,
+   "mark": 84.75,
+   "pnl_pct": -4.29,
+   "opened": "2026-10-22"
+  },
+  {
    "asset": "DBC",
    "lane": "Shorts (simulated)",
    "side": "short",
@@ -653,15 +662,6 @@
    "mark": 33.56,
    "pnl_pct": -3.88,
    "opened": "2026-09-08"
-  },
-  {
-   "asset": "PPLT",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 14.76,
-   "mark": 14.19,
-   "pnl_pct": -3.86,
-   "opened": "2026-10-21"
   }
  ],
  "book": {
