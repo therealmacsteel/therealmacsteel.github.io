@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T18:17:37Z",
+ "generated_at": "2026-10-23T19:17:31Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -8,7 +8,7 @@
  "win_rate": 0.256,
  "avg_trade_pct": -3.51,
  "open_total": 138,
- "open_avg_pct": 1.1,
+ "open_avg_pct": 1.09,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,8 +576,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 154.12,
-   "mark": 168.51,
-   "pnl_pct": 9.34,
+   "mark": 169.22,
+   "pnl_pct": 9.8,
    "opened": "2026-09-10"
   },
   {
@@ -585,8 +585,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 154.12,
-   "mark": 168.51,
-   "pnl_pct": 9.34,
+   "mark": 169.22,
+   "pnl_pct": 9.8,
    "opened": "2026-09-10"
   },
   {
@@ -594,8 +594,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 35.54,
-   "mark": 32.31,
-   "pnl_pct": 9.09,
+   "mark": 32.33,
+   "pnl_pct": 9.05,
    "opened": "2026-08-27"
   },
   {
@@ -603,8 +603,8 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 566.52,
-   "mark": 613.8,
-   "pnl_pct": 8.35,
+   "mark": 615.17,
+   "pnl_pct": 8.59,
    "opened": "2026-08-10"
   },
   {
@@ -612,8 +612,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 1714.86,
-   "mark": 1573.14,
-   "pnl_pct": 8.26,
+   "mark": 1571.65,
+   "pnl_pct": 8.35,
    "opened": "2026-09-05"
   }
  ],
@@ -632,8 +632,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 111.45,
-   "mark": 106.19,
-   "pnl_pct": -4.72,
+   "mark": 105.95,
+   "pnl_pct": -4.93,
    "opened": "2026-08-27"
   },
   {
@@ -641,27 +641,27 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 14.76,
-   "mark": 14.12,
-   "pnl_pct": -4.37,
+   "mark": 14.07,
+   "pnl_pct": -4.67,
    "opened": "2026-10-21"
-  },
-  {
-   "asset": "GDX",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 83.75,
-   "mark": 80.45,
-   "pnl_pct": -3.94,
-   "opened": "2026-10-22"
   },
   {
    "asset": "XLF",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 58.2,
-   "mark": 55.95,
-   "pnl_pct": -3.87,
+   "mark": 55.94,
+   "pnl_pct": -3.89,
    "opened": "2026-08-24"
+  },
+  {
+   "asset": "GDX",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 83.75,
+   "mark": 80.57,
+   "pnl_pct": -3.8,
+   "opened": "2026-10-22"
   }
  ],
  "book": {

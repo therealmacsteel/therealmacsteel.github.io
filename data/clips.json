@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-23T18:17:31Z",
- "total_verified": 389,
+ "generated_at": "2026-10-23T19:17:25Z",
+ "total_verified": 390,
  "by_platform": {
+  "youtube": 86,
   "instagram": 111,
   "tiktok": 92,
   "x": 59,
-  "youtube": 85,
   "facebook": 26,
   "podcast": 10,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/2JdyIiUp9vA",
+   "ts": "2026-10-23T18:17:18.136799+00:00",
+   "caption": "25 proven prompts to turn ONE long video into multiple posts\u2014ready to boost your content? You\u2019ll get 25 ready\u2011to\u2011use prompts that slice your single video into short clips, blog pos"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/De2JzC6kWyh/",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7698193710609190174",
    "ts": "2026-10-19T02:04:12.024847+00:00",
    "caption": "Ready to connect your AI scripts into a full scheduled system? If you already do basic automation, see how a complete setup fits together with 5 technical blueprints from Mac Steel"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7698147137321848095",
-   "ts": "2026-10-18T23:03:32.621723+00:00",
-   "caption": "Does your AI assistant behave the same on job 400 as on job 1? You need strict constraints to keep routine work consistent. Mac Steel offers 7 prompts in a 6 page PDF to stop syste"
   }
  ]
 }
