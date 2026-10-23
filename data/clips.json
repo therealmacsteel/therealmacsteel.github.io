@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-23T01:17:22Z",
- "total_verified": 384,
+ "generated_at": "2026-10-23T02:17:22Z",
+ "total_verified": 385,
  "by_platform": {
-  "tiktok": 90,
+  "tiktok": 91,
   "youtube": 85,
   "facebook": 26,
   "instagram": 109,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7699678118465785118",
+   "ts": "2026-10-23T02:04:28.156363+00:00",
+   "caption": "Can your content system run on a schedule without a SaaS subscription? Mac Steel's Blueprints show 5 workflows you can check: 01 turns a topic into posts for 5 social platforms in "
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7699630946349239582",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7697754832211283230",
    "ts": "2026-10-17T21:41:41.230813+00:00",
    "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/jtKAeWSuIQc",
-   "ts": "2026-10-17T21:17:24.326520+00:00",
-   "caption": "Can you turn a single topic into multi-platform posts in 3 to 8 minutes? If you have already done some AI automation, you can connect your scripts into a full scheduled system on y"
   }
  ]
 }
