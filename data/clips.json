@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-23T17:17:27Z",
- "total_verified": 388,
+ "generated_at": "2026-10-23T18:17:31Z",
+ "total_verified": 389,
  "by_platform": {
+  "instagram": 111,
   "tiktok": 92,
-  "instagram": 110,
   "x": 59,
   "youtube": 85,
   "facebook": 26,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/De2JzC6kWyh/",
+   "ts": "2026-10-23T18:01:33.740519+00:00",
+   "caption": "25 prompts should not leave you guessing what good output looks like. If you are building AI assistants for your business, the prompt is only the start. You need to know when to us"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7699903996030487839",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7698147137321848095",
    "ts": "2026-10-18T23:03:32.621723+00:00",
    "caption": "Does your AI assistant behave the same on job 400 as on job 1? You need strict constraints to keep routine work consistent. Mac Steel offers 7 prompts in a 6 page PDF to stop syste"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7698125889426509086",
-   "ts": "2026-10-18T21:41:35.765902+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Vid"
   }
  ]
 }
