@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-23T14:17:25Z",
- "total_verified": 386,
+ "generated_at": "2026-10-23T15:17:32Z",
+ "total_verified": 387,
  "by_platform": {
+  "instagram": 110,
   "x": 59,
   "tiktok": 91,
   "youtube": 85,
   "facebook": 26,
-  "instagram": 109,
   "podcast": 10,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/De11NswDHGJ/",
+   "ts": "2026-10-23T15:01:40.698241+00:00",
+   "caption": "What if a long video could become 10+ posts for your business? You already have the footage. You just need the steps to slice it into short clips, blog posts and more without start"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2113603562261414178",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7697823279024704799",
    "ts": "2026-10-18T02:06:53.565511+00:00",
    "caption": "Steel Trades book -2.82% vs SPY -1.71% this week. Paper account, no real money. Every trade and every loss is on the Steel Trades page. Paper account, not advice. Every trade:"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7697776056962403614",
-   "ts": "2026-10-17T23:03:22.040056+00:00",
-   "caption": "Discover how a simple Python script turns one topic into five platform posts in just 3 to 8 minutes\u2014ready to test today? Discover how a simple Python script turns one topic into fi"
   }
  ]
 }
