@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-23T16:17:25Z",
- "total_verified": 387,
+ "generated_at": "2026-10-23T17:17:27Z",
+ "total_verified": 388,
  "by_platform": {
+  "tiktok": 92,
   "instagram": 110,
   "x": 59,
-  "tiktok": 91,
   "youtube": 85,
   "facebook": 26,
   "podcast": 10,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7699903996030487839",
+   "ts": "2026-10-23T16:41:43.201616+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Extract Key Moments from [YOUR VIDEO] \u2192 Write Email Newsletters from Video Segments \u2192 Summarize Video Discussions for Podcast"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/De11NswDHGJ/",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7698125889426509086",
    "ts": "2026-10-18T21:41:35.765902+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Vid"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7697823279024704799",
-   "ts": "2026-10-18T02:06:53.565511+00:00",
-   "caption": "Steel Trades book -2.82% vs SPY -1.71% this week. Paper account, no real money. Every trade and every loss is on the Steel Trades page. Paper account, not advice. Every trade:"
   }
  ]
 }
