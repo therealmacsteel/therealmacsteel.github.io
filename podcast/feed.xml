@@ -3,194 +3,202 @@
   <channel>
     <title>Steel Pod — Mac Steel</title>
     <description>Steel Pod: short audio briefings from Mac Steel on what shipped, what sold and the paper-trading book, losses included.</description>
-    <link>https://therealmacsteel.github.io/podcast/</link>
+    <link>https://steelworksintelligence.com/podcast/</link>
     <language>en-us</language>
-    <ns0:link href="https://therealmacsteel.github.io/podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <ns0:link href="https://steelworksintelligence.com/podcast/feed.xml" rel="self" type="application/rss+xml" />
     <ns1:author>Mac Steel</ns1:author>
     <ns1:email>macsmacpro@gmail.com</ns1:email>
     <ns1:explicit>false</ns1:explicit>
-    <ns1:image href="https://therealmacsteel.github.io/assets/podcast-cover.jpg" />
+    <ns1:image href="https://steelworksintelligence.com/assets/podcast-cover.jpg" />
     <ns1:category text="Technology" />
     <ns1:category text="Business" />
     <item>
+      <title>Week 4: Book -2.15% vs SPY -1.50% – DBC Gains, EEM Losses</title>
+      <description>This week the Steel Trades paper book slipped -2.15% while SPY fell -1.50%. Let’s look at the standout position: DBC posted a gain of +4.51%, the best in the basket, while EEM suffered a loss of -7.76%, the worst. The agents’ shadow lane closed 90 trades, with 26 winners, a win rate of 28.9% and an average outcome of -3.39% per trade; the top shadow trade was URA up +23.02% and the deepest loss came from USAS down -31.88%. Remember the risk rule: "after a 4% down day the book adds no new exposure." Every trade and every loss is on the Steel Trades page Paper account, not advice. Every trade: https://therealmacsteel.github.io/trades/</description>
+      <link>https://steelworksintelligence.com/podcast/weekly-2026-10-23.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/weekly-2026-10-23.html</guid>
+      <pubDate>Fri, 23 Oct 2026 20:44:33 +0000</pubDate>
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/weekly-2026-10-23.mp3" length="485664" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Week 2026-10-09 to 2026-10-16: Steel Trades -2.82% vs SPY -1.71%</title>
-      <description>This week the Steel Trades book returned -2.82% while SPY fell -1.71%. Since inception the book is down -2.29% after costs versus SPY -0.82%, a difference of -1.47 points. One notable position this week was SSO: 490 shares, average cost $70.14, last $69.28, for a -1.22% return. The agents’ shadow lane saw 70 closed trades, 21 wins, a 30.0% win rate, and an average loss of -1.94% per trade. Remember the rule: after a 4% down day the book adds no new exposure. Every trade and every loss is on the Steel Trades page. Paper account, not advice. Every trade: https://therealmacsteel.github.io/trades/</description>
-      <link>https://therealmacsteel.github.io/podcast/weekly-2026-10-16.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/weekly-2026-10-16.html</guid>
+      <description>This week the Steel Trades book returned -2.82% while SPY fell -1.71%. Since inception the book is down -2.29% after costs versus SPY -0.82%, a difference of -1.47 points. One notable position this week was SSO: 490 shar</description>
+      <link>https://steelworksintelligence.com/podcast/weekly-2026-10-16.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/weekly-2026-10-16.html</guid>
       <pubDate>Fri, 16 Oct 2026 20:42:12 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/weekly-2026-10-16.mp3" length="493300" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/weekly-2026-10-16.mp3" length="493300" type="audio/mpeg" />
     </item>
     <item>
       <title>Steel Trades Weekly: Book +1.19% vs SPY +1.02%</title>
       <description>Welcome to the Steel Trades weekly recap. This week the paper book posted a +1.19% return compared with SPY’s +1.02%. Our standout position was SSO, up +2.85% over the period. In the agents’ shadow lane we logged 41 clos</description>
-      <link>https://therealmacsteel.github.io/podcast/weekly-2026-10-09.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/weekly-2026-10-09.html</guid>
+      <link>https://steelworksintelligence.com/podcast/weekly-2026-10-09.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/weekly-2026-10-09.html</guid>
       <pubDate>Fri, 09 Oct 2026 20:40:16 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/weekly-2026-10-09.mp3" length="391855" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/weekly-2026-10-09.mp3" length="391855" type="audio/mpeg" />
     </item>
     <item>
       <title>Week of 2026-09-18 to 2026-09-25: Book +0.65% vs SPY +0.20%</title>
       <description>Since the book started on 2026-09-25, the Steel Trades book is up +0.65% after costs, while SPY is up +0.20%, a difference of +0.45 points. One position to note: SSO, 496 shares, average cost $70.13, last $70.96, up +1.1</description>
-      <link>https://therealmacsteel.github.io/podcast/weekly-2026-09-25.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/weekly-2026-09-25.html</guid>
+      <link>https://steelworksintelligence.com/podcast/weekly-2026-09-25.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/weekly-2026-09-25.html</guid>
       <pubDate>Fri, 25 Sep 2026 20:06:37 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/weekly-2026-09-25.mp3" length="571476" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/weekly-2026-09-25.mp3" length="571476" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 54 — July 4, 2026</title>
       <description>Edit Welcome back. Day 54. Here's the headline. While most people are still asking AI to write emails, businesses are now deploying AI agents that…</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-07-04.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-07-04.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-07-04.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-07-04.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-07-04.mp3" length="1771425" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-07-04.mp3" length="1771425" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 60 — July 10, 2026</title>
       <description>Day 60 — July 10, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-07-10.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-07-10.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-07-10.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-07-10.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-07-10.mp3" length="694847" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-07-10.mp3" length="694847" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 55 — July 5, 2026</title>
       <description>Edit OpenClaw Daily AI Business Update — Day 55 July 5, 2026 What's happening everyone, The Real Mac Steel here. Here's the surprising number from today. The…</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-07-05.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-07-05.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-07-05.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-07-05.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-07-05.mp3" length="2137029" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-07-05.mp3" length="2137029" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 57 — July 7, 2026</title>
       <description>Day 57 — July 7, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-07-07.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-07-07.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-07-07.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-07-07.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-07-07.mp3" length="699477" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-07-07.mp3" length="699477" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 56 — July 6, 2026</title>
       <description>Day 56. July 6, 2026. The surprising part of today? I didn't publish a single post. Zero. And the business didn't stop. That's the difference between…</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-07-06.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-07-06.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-07-06.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-07-06.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-07-06.mp3" length="2572858" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-07-06.mp3" length="2572858" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 52 — July 2, 2026</title>
       <description>Edit Daily AI Business Update: Day 52 | July 2, 2026 What's up everyone, The Real Mac Steel here. Here's today's AI business update. The biggest number from today…</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-07-02.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-07-02.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-07-02.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-07-02.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-07-02.mp3" length="1846647" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-07-02.mp3" length="1846647" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 53 — July 3, 2026</title>
       <description>Edit Welcome back. This is the Daily AI Business Update. I'm The Real Mac Steel, and today is Day 53 — July 3rd, 2026. Here's the one number that stood out today.…</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-07-03.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-07-03.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-07-03.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-07-03.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-07-03.mp3" length="1807644" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-07-03.mp3" length="1807644" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 67 — July 17, 2026</title>
       <description>Day 67 — July 17, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-07-17.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-07-17.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-07-17.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-07-17.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-07-17.mp3" length="715949" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-07-17.mp3" length="715949" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 51 — July 1, 2026</title>
       <description>Day 51 — July 1, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-07-01.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-07-01.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-07-01.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-07-01.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-07-01.mp3" length="701638" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-07-01.mp3" length="701638" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 47 — June 27, 2026</title>
       <description>Day 47 — June 27, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-06-27.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-06-27.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-06-27.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-06-27.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-06-27.mp3" length="723925" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-06-27.mp3" length="723925" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 46 — June 26, 2026</title>
       <description>Day 46 — June 26, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-06-26.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-06-26.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-06-26.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-06-26.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-06-26.mp3" length="725794" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-06-26.mp3" length="725794" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 38 — June 18, 2026</title>
       <description>Day 38 — June 18, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-06-18.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-06-18.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-06-18.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-06-18.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-06-18.mp3" length="722723" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-06-18.mp3" length="722723" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 44 — June 24, 2026</title>
       <description>Day 44 — June 24, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-06-24.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-06-24.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-06-24.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-06-24.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-06-24.mp3" length="724930" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-06-24.mp3" length="724930" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 50 — June 30, 2026</title>
       <description>Day 50 — June 30, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-06-30.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-06-30.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-06-30.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-06-30.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-06-30.mp3" length="714387" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-06-30.mp3" length="714387" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 45 — June 25, 2026</title>
       <description>Day 45 — June 25, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-06-25.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-06-25.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-06-25.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-06-25.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-06-25.mp3" length="720477" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-06-25.mp3" length="720477" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 39 — June 19, 2026</title>
       <description>Day 39 — June 19, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-06-19.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-06-19.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-06-19.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-06-19.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-06-19.mp3" length="721195" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-06-19.mp3" length="721195" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 41 — June 21, 2026</title>
       <description>Day 41 — June 21, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-06-21.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-06-21.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-06-21.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-06-21.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-06-21.mp3" length="718035" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-06-21.mp3" length="718035" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 99: While most entrepreneurs were asleep, this system published 5 posts, ran quantit</title>
       <description>Day 99 — August 18, 2026. Mac Steel.
 
 While most entrepreneurs were asleep, this system published 5 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That&amp;#x</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-08-18.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-08-18.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-08-18.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-08-18.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-08-18.mp3" length="531164" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-08-18.mp3" length="531164" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 105: While most entrepreneurs were asleep, this system published 6 posts, ran quantit</title>
       <description>Day 105 — August 24, 2026. Mac Steel.
 
 While most entrepreneurs were asleep, this system published 6 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That&amp;#</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-08-24.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-08-24.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-08-24.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-08-24.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-08-24.mp3" length="543260" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-08-24.mp3" length="543260" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 100: Here’s the surprising number from today: 331</title>
@@ -203,172 +211,172 @@ Here’s the surprising number from today: 331.
 That’s how many actionable leads with email contact the system identified.
 
 And before I go any further, one important distinction: the dash</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-08-19.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-08-19.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-08-19.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-08-19.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-08-19.mp3" length="1406252" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-08-19.mp3" length="1406252" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 40 — June 20, 2026</title>
       <description>Day 40 — June 20, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 1 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-06-20.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-06-20.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-06-20.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-06-20.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-06-20.mp3" length="713465" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-06-20.mp3" length="713465" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 42 — June 22, 2026</title>
       <description>Day 42 — June 22, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-06-22.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-06-22.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-06-22.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-06-22.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-06-22.mp3" length="723309" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-06-22.mp3" length="723309" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 43 — June 23, 2026</title>
       <description>Day 43 — June 23, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-06-23.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-06-23.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-06-23.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-06-23.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-06-23.mp3" length="721704" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-06-23.mp3" length="721704" type="audio/mpeg" />
     </item>
     <item>
       <title>Mac Steel Daily Brief — June 12, 2026</title>
       <description>Day 32 — June 12, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-06-12.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-06-12.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-06-12.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-06-12.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-06-12.mp3" length="707847" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-06-12.mp3" length="707847" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 33 — June 13, 2026</title>
       <description>Day 33 — June 13, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-06-13.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-06-13.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-06-13.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-06-13.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-06-13.mp3" length="723257" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-06-13.mp3" length="723257" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 25 — June 5, 2026</title>
       <description>Day 25. June 5th, 2026. Here's today's AI business update. The most interesting number from today isn't revenue. It's 54. Overnight, the system identified…</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-06-05.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-06-05.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-06-05.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-06-05.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-06-05.mp3" length="2521299" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-06-05.mp3" length="2521299" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 82 — August 1, 2026</title>
       <description>Day 82. August 1st, 2026. What's happening, builders. Here's the headline today. One hundred and fourteen new actionable business leads landed overnight…</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-08-01.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-08-01.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-08-01.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-08-01.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-08-01.mp3" length="2894030" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-08-01.mp3" length="2894030" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 34 — June 14, 2026</title>
       <description>Day 34 — June 14, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-06-14.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-06-14.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-06-14.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-06-14.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-06-14.mp3" length="716578" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-06-14.mp3" length="716578" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 48 — June 28, 2026</title>
       <description>Day 48 — June 28, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-06-28.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-06-28.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-06-28.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-06-28.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-06-28.mp3" length="717505" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-06-28.mp3" length="717505" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 49 — June 29, 2026</title>
       <description>Day 49 — June 29, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-06-29.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-06-29.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-06-29.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-06-29.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-06-29.mp3" length="724637" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-06-29.mp3" length="724637" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 35 — June 15, 2026</title>
       <description>Day 35 — June 15, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-06-15.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-06-15.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-06-15.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-06-15.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-06-15.mp3" length="720108" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-06-15.mp3" length="720108" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 37 — June 17, 2026</title>
       <description>Day 37 — June 17, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-06-17.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-06-17.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-06-17.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-06-17.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-06-17.mp3" length="721295" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-06-17.mp3" length="721295" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 93: While most entrepreneurs were asleep, this system published 0 posts, ran quantit</title>
       <description>Day 93 — August 12, 2026. Mac Steel.
 
 While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That&amp;#x</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-08-12.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-08-12.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-08-12.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-08-12.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-08-12.mp3" length="530157" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-08-12.mp3" length="530157" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 36 — June 16, 2026</title>
       <description>Day 36 — June 16, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-06-16.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-06-16.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-06-16.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-06-16.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-06-16.mp3" length="723040" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-06-16.mp3" length="723040" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 69 — July 19, 2026</title>
       <description>Day 69. July 19, 2026. Welcome back. Here's today's headline. The biggest AI story isn't another model launch. It's that AI agents are becoming entire…</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-07-19.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-07-19.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-07-19.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-07-19.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-07-19.mp3" length="2464461" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-07-19.mp3" length="2464461" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 68 — July 18, 2026</title>
       <description>Day 68. July 18th, 2026. What's the biggest AI story today? AI agents are no longer being sold as better chatbots. They're being deployed as coordinated…</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-07-18.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-07-18.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-07-18.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-07-18.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-07-18.mp3" length="2558713" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-07-18.mp3" length="2558713" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 74 — July 24, 2026</title>
       <description>Day 74. July 24. The biggest surprise today? I didn't publish a single post, and the business still moved forward. That's the difference between creating…</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-07-24.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-07-24.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-07-24.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-07-24.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-07-24.mp3" length="2371082" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-07-24.mp3" length="2371082" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 72 — July 22, 2026</title>
       <description>Day 72 — July 22, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-07-22.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-07-22.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-07-22.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-07-22.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-07-22.mp3" length="714936" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-07-22.mp3" length="714936" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 58 — July 8, 2026</title>
       <description>Day 58 — July 8, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline — without a single human touch. That</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-07-08.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-07-08.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-07-08.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-07-08.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-07-08.mp3" length="700728" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-07-08.mp3" length="700728" type="audio/mpeg" />
     </item>
     <item>
       <title>Day 59 — July 9, 2026</title>
       <description>Day 59. July 9, 2026. The most surprising thing today? I didn't publish a single post, and the business still moved forward. That's the whole point of…</description>
-      <link>https://therealmacsteel.github.io/podcast/daily-2026-07-09.html</link>
-      <guid isPermaLink="true">https://therealmacsteel.github.io/podcast/daily-2026-07-09.html</guid>
+      <link>https://steelworksintelligence.com/podcast/daily-2026-07-09.html</link>
+      <guid isPermaLink="true">https://steelworksintelligence.com/podcast/daily-2026-07-09.html</guid>
       <pubDate>Sat, 19 Sep 2026 23:00:41 +0000</pubDate>
-      <enclosure url="https://therealmacsteel.github.io/podcast/audio/daily-2026-07-09.mp3" length="2511305" type="audio/mpeg" />
+      <enclosure url="https://steelworksintelligence.com/podcast/audio/daily-2026-07-09.mp3" length="2511305" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
