@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-23T15:17:38Z",
+ "generated_at": "2026-10-23T16:17:30Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 241,
- "excluded_unmarkable": 53,
- "win_rate": 0.257,
- "avg_trade_pct": -3.5,
+ "closed_total": 242,
+ "excluded_unmarkable": 54,
+ "win_rate": 0.256,
+ "avg_trade_pct": -3.51,
  "open_total": 138,
- "open_avg_pct": 1.02,
+ "open_avg_pct": 1.1,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -20,11 +20,11 @@
   },
   {
    "lane": "Macro ETFs",
-   "closed": 57,
-   "win_rate": 0.211,
+   "closed": 58,
+   "win_rate": 0.207,
    "avg_win_pct": 10.39,
-   "avg_loss_pct": -7.38,
-   "avg_trade_pct": -3.64
+   "avg_loss_pct": -7.33,
+   "avg_trade_pct": -3.67
   },
   {
    "lane": "Shorts (simulated)",
@@ -52,6 +52,17 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "UNG",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 10.03,
+   "exit": 9.53,
+   "pnl_pct": -5.03,
+   "opened": "2026-10-21",
+   "closed": "2026-10-23",
+   "exit_reason": "stop"
+  },
   {
    "asset": "DBC",
    "lane": "Shorts (simulated)",
@@ -315,20 +326,13 @@
    "opened": "2026-09-10",
    "closed": "2026-10-21",
    "exit_reason": "target"
-  },
-  {
-   "asset": "AMD",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 509.24,
-   "exit": 550.04,
-   "pnl_pct": -8.01,
-   "opened": "2026-09-08",
-   "closed": "2026-10-21",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "UNG",
+   "pnl_pct": -5.03
+  },
   {
    "asset": "DBC",
    "pnl_pct": -5.04
@@ -564,47 +568,43 @@
   {
    "asset": "CORN",
    "pnl_pct": -9.53
-  },
-  {
-   "asset": "IAU",
-   "pnl_pct": 10.31
   }
  ],
  "best_open": [
+  {
+   "asset": "USO",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 154.12,
+   "mark": 168.46,
+   "pnl_pct": 9.3,
+   "opened": "2026-09-10"
+  },
+  {
+   "asset": "USO",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 154.12,
+   "mark": 168.46,
+   "pnl_pct": 9.3,
+   "opened": "2026-09-10"
+  },
   {
    "asset": "FXI",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 35.54,
-   "mark": 32.41,
-   "pnl_pct": 8.81,
+   "mark": 32.37,
+   "pnl_pct": 8.92,
    "opened": "2026-08-27"
-  },
-  {
-   "asset": "USO",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 154.12,
-   "mark": 167.4,
-   "pnl_pct": 8.62,
-   "opened": "2026-09-10"
-  },
-  {
-   "asset": "USO",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 154.12,
-   "mark": 167.4,
-   "pnl_pct": 8.62,
-   "opened": "2026-09-10"
   },
   {
    "asset": "MSCI",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 566.52,
-   "mark": 614.74,
-   "pnl_pct": 8.51,
+   "mark": 612.5,
+   "pnl_pct": 8.12,
    "opened": "2026-08-10"
   },
   {
@@ -612,8 +612,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 1714.86,
-   "mark": 1569.33,
-   "pnl_pct": 8.49,
+   "mark": 1577.52,
+   "pnl_pct": 8.01,
    "opened": "2026-09-05"
   }
  ],
@@ -628,30 +628,21 @@
    "opened": "2026-10-21"
   },
   {
-   "asset": "PPLT",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 14.76,
-   "mark": 14.1,
-   "pnl_pct": -4.47,
-   "opened": "2026-10-21"
-  },
-  {
    "asset": "XLC",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 111.45,
-   "mark": 106.53,
-   "pnl_pct": -4.41,
+   "mark": 106.48,
+   "pnl_pct": -4.46,
    "opened": "2026-08-27"
   },
   {
-   "asset": "UNG",
+   "asset": "PPLT",
    "lane": "Macro ETFs",
    "side": "long",
-   "entry": 10.03,
-   "mark": 9.63,
-   "pnl_pct": -3.94,
+   "entry": 14.76,
+   "mark": 14.17,
+   "pnl_pct": -4.0,
    "opened": "2026-10-21"
   },
   {
@@ -659,9 +650,18 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 58.2,
-   "mark": 56.12,
-   "pnl_pct": -3.59,
+   "mark": 56.06,
+   "pnl_pct": -3.69,
    "opened": "2026-08-24"
+  },
+  {
+   "asset": "GDX",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 83.75,
+   "mark": 80.89,
+   "pnl_pct": -3.41,
+   "opened": "2026-10-22"
   }
  ],
  "book": {
