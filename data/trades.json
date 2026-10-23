@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T12:17:27Z",
+ "generated_at": "2026-10-23T13:17:32Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -8,7 +8,7 @@
  "win_rate": 0.252,
  "avg_trade_pct": -3.65,
  "open_total": 144,
- "open_avg_pct": 1.1,
+ "open_avg_pct": 1.24,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -572,6 +572,15 @@
  ],
  "best_open": [
   {
+   "asset": "IWM",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 304.9,
+   "mark": 274.87,
+   "pnl_pct": 9.85,
+   "opened": "2026-08-15"
+  },
+  {
    "asset": "MSCI",
    "lane": "Equity factor model",
    "side": "long",
@@ -579,15 +588,6 @@
    "mark": 620.23,
    "pnl_pct": 9.48,
    "opened": "2026-08-10"
-  },
-  {
-   "asset": "IWM",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 304.9,
-   "mark": 276.5,
-   "pnl_pct": 9.31,
-   "opened": "2026-08-15"
   },
   {
    "asset": "ASML",
@@ -619,15 +619,6 @@
  ],
  "worst_open": [
   {
-   "asset": "DIA",
-   "lane": "Options (simulated)",
-   "side": "long",
-   "entry": 4.64,
-   "mark": 4.1,
-   "pnl_pct": -11.64,
-   "opened": "2026-10-22"
-  },
-  {
    "asset": "XLP",
    "lane": "Shorts (simulated)",
    "side": "short",
@@ -646,13 +637,13 @@
    "opened": "2026-09-10"
   },
   {
-   "asset": "INTC",
-   "lane": "Congress disclosures",
+   "asset": "UNG",
+   "lane": "Macro ETFs",
    "side": "long",
-   "entry": 88.55,
-   "mark": 84.75,
-   "pnl_pct": -4.29,
-   "opened": "2026-10-22"
+   "entry": 10.13,
+   "mark": 9.72,
+   "pnl_pct": -4.05,
+   "opened": "2026-08-24"
   },
   {
    "asset": "DBC",
@@ -662,6 +653,15 @@
    "mark": 33.56,
    "pnl_pct": -3.88,
    "opened": "2026-09-08"
+  },
+  {
+   "asset": "PPLT",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 14.76,
+   "mark": 14.19,
+   "pnl_pct": -3.86,
+   "opened": "2026-10-21"
   }
  ],
  "book": {
