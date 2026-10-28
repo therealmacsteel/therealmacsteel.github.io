@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-10-23T20:17:30Z",
- "total": 45,
+ "generated_at": "2026-10-28T15:17:30Z",
+ "total": 46,
  "feed": "/podcast/feed.xml",
  "items": [
+  {
+   "title": "Week 4: Book -2.15% vs SPY -1.50% \u2013 DBC Gains, EEM Losses",
+   "date": "2026-10-23",
+   "url": "/podcast/weekly-2026-10-23.html",
+   "audio": "/podcast/audio/weekly-2026-10-23.mp3",
+   "summary": "This week the Steel Trades paper book slipped -2.15% while SPY fell -1.50%. Let\u2019s look at the standout position: DBC posted a gain of +4.51%, the best in the basket, while EEM suffered a loss of -7.76%, the worst. The ag"
+  },
   {
    "title": "Week 2026-10-09 to 2026-10-16: Steel Trades -2.82% vs SPY -1.71%",
    "date": "2026-10-16",
@@ -205,13 +212,6 @@
    "url": "/podcast/daily-2026-06-27.html",
    "audio": "/podcast/audio/daily-2026-06-27.mp3",
    "summary": "Day 47 \u2014 June 27, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline \u2014 without a single human touch. That"
-  },
-  {
-   "title": "Day 46 \u2014 June 26, 2026 \u2014 Mac Steel Podcast",
-   "date": "2026-06-26",
-   "url": "/podcast/daily-2026-06-26.html",
-   "audio": "/podcast/audio/daily-2026-06-26.mp3",
-   "summary": "Day 46 \u2014 June 26, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline \u2014 without a single human touch. That"
   }
  ]
 }
