@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-28T20:17:31Z",
+ "generated_at": "2026-10-28T21:19:28Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
- "regime": "mixed_or_choppy",
+ "regime": "risk_off",
  "closed_total": 235,
  "excluded_unmarkable": 50,
  "win_rate": 0.264,
  "avg_trade_pct": -3.51,
- "open_total": 119,
- "open_avg_pct": 1.03,
+ "open_total": 124,
+ "open_avg_pct": 1.18,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -612,30 +612,12 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 281.3,
-   "pnl_pct": 7.74,
+   "mark": 281.61,
+   "pnl_pct": 7.64,
    "opened": "2026-08-15"
   }
  ],
  "worst_open": [
-  {
-   "asset": "SLV",
-   "lane": "Options (simulated)",
-   "side": "long",
-   "entry": 2.94,
-   "mark": 2.61,
-   "pnl_pct": -11.38,
-   "opened": "2026-10-28"
-  },
-  {
-   "asset": "SLV",
-   "lane": "Options (simulated)",
-   "side": "long",
-   "entry": 1.79,
-   "mark": 1.6,
-   "pnl_pct": -10.61,
-   "opened": "2026-10-28"
-  },
   {
    "asset": "AAPL",
    "lane": "Options (simulated)",
@@ -643,6 +625,24 @@
    "entry": 4.64,
    "mark": 4.33,
    "pnl_pct": -6.89,
+   "opened": "2026-10-28"
+  },
+  {
+   "asset": "SLV",
+   "lane": "Options (simulated)",
+   "side": "long",
+   "entry": 2.94,
+   "mark": 2.8,
+   "pnl_pct": -4.92,
+   "opened": "2026-10-28"
+  },
+  {
+   "asset": "SLV",
+   "lane": "Options (simulated)",
+   "side": "long",
+   "entry": 1.79,
+   "mark": 1.72,
+   "pnl_pct": -4.19,
    "opened": "2026-10-28"
   },
   {
