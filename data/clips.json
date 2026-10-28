@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-28T16:17:26Z",
- "total_verified": 427,
+ "generated_at": "2026-10-28T17:17:27Z",
+ "total_verified": 428,
  "by_platform": {
+  "tiktok": 110,
   "instagram": 120,
   "x": 68,
-  "tiktok": 109,
   "youtube": 87,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7701759403430612255",
+   "ts": "2026-10-28T16:41:45.437931+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DfCtK8EiI1l/",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7699981355001613599",
    "ts": "2026-10-23T21:41:41.813273+00:00",
    "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/mNHy3jMDuac",
-   "ts": "2026-10-23T21:17:22.455488+00:00",
-   "caption": "Are you tired of prompt packs that hand over text and wish you luck? Most templates dump raw text without explaining how things fail. You are left trying to fix edge cases like a h"
   }
  ]
 }
