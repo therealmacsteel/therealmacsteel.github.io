@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-28T22:17:32Z",
- "total_verified": 428,
+ "generated_at": "2026-10-28T23:17:22Z",
+ "total_verified": 429,
  "by_platform": {
-  "tiktok": 110,
+  "tiktok": 111,
   "instagram": 120,
   "x": 68,
   "youtube": 87,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7701857884237286686",
+   "ts": "2026-10-28T23:03:02.219226+00:00",
+   "caption": "Want your chatbot to hold better conversations? Try 25 proven prompts for chatbot dialogue from Mac Steel. Make every reply feel more human for your business."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7701759403430612255",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7700002946100071710",
    "ts": "2026-10-23T23:05:05.296970+00:00",
    "caption": "What if one long video could become 10 posts? You already have the footage. Mac Steel's Repurposing Pack gives you 25 prompts to turn one long video into short clips, blog posts, a"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7699981355001613599",
-   "ts": "2026-10-23T21:41:41.813273+00:00",
-   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
   }
  ]
 }
