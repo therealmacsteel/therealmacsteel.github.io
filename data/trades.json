@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-28T17:17:31Z",
+ "generated_at": "2026-10-28T18:17:28Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
- "closed_total": 228,
+ "closed_total": 230,
  "excluded_unmarkable": 50,
- "win_rate": 0.25,
- "avg_trade_pct": -3.82,
- "open_total": 124,
- "open_avg_pct": 1.2,
+ "win_rate": 0.248,
+ "avg_trade_pct": -3.84,
+ "open_total": 122,
+ "open_avg_pct": 1.35,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -20,11 +20,11 @@
   },
   {
    "lane": "Macro ETFs",
-   "closed": 53,
-   "win_rate": 0.189,
+   "closed": 55,
+   "win_rate": 0.182,
    "avg_win_pct": 10.41,
-   "avg_loss_pct": -8.93,
-   "avg_trade_pct": -5.28
+   "avg_loss_pct": -8.78,
+   "avg_trade_pct": -5.29
   },
   {
    "lane": "Shorts (simulated)",
@@ -52,6 +52,28 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "DBA",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 28.61,
+   "exit": 27.1,
+   "pnl_pct": -5.26,
+   "opened": "2026-08-26",
+   "closed": "2026-10-28",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "UNG",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 10.13,
+   "exit": 9.55,
+   "pnl_pct": -5.73,
+   "opened": "2026-08-24",
+   "closed": "2026-10-28",
+   "exit_reason": "stop"
+  },
   {
    "asset": "WTS",
    "lane": "Equity factor model",
@@ -304,31 +326,17 @@
    "opened": "2026-09-07",
    "closed": "2026-10-28",
    "exit_reason": "target"
-  },
-  {
-   "asset": "TKC",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.09,
-   "exit": 4.64,
-   "pnl_pct": -8.74,
-   "opened": "2026-09-07",
-   "closed": "2026-10-28",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "SIBN",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 18.5,
-   "exit": 21.44,
-   "pnl_pct": 15.89,
-   "opened": "2026-09-07",
-   "closed": "2026-10-28",
-   "exit_reason": "target"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "DBA",
+   "pnl_pct": -5.26
+  },
+  {
+   "asset": "UNG",
+   "pnl_pct": -5.73
+  },
   {
    "asset": "WTS",
    "pnl_pct": -5.22
@@ -560,14 +568,6 @@
   {
    "asset": "ESP",
    "pnl_pct": -13.64
-  },
-  {
-   "asset": "XME",
-   "pnl_pct": -15.8
-  },
-  {
-   "asset": "GLD",
-   "pnl_pct": -8.18
   }
  ],
  "best_open": [
@@ -576,8 +576,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 154.12,
-   "mark": 169.21,
-   "pnl_pct": 9.79,
+   "mark": 168.22,
+   "pnl_pct": 9.15,
    "opened": "2026-09-10"
   },
   {
@@ -585,8 +585,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 154.12,
-   "mark": 169.21,
-   "pnl_pct": 9.79,
+   "mark": 168.22,
+   "pnl_pct": 9.15,
    "opened": "2026-09-10"
   },
   {
@@ -594,8 +594,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 35.54,
-   "mark": 32.42,
-   "pnl_pct": 8.78,
+   "mark": 32.4,
+   "pnl_pct": 8.84,
    "opened": "2026-08-27"
   },
   {
@@ -603,18 +603,18 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 112.93,
-   "mark": 103.16,
-   "pnl_pct": 8.66,
+   "mark": 102.96,
+   "pnl_pct": 8.83,
    "opened": "2026-08-16"
   },
   {
-   "asset": "IWM",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 304.9,
-   "mark": 280.15,
-   "pnl_pct": 8.12,
-   "opened": "2026-08-15"
+   "asset": "AMD",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 524.58,
+   "mark": 570.45,
+   "pnl_pct": 8.75,
+   "opened": "2026-09-09"
   }
  ],
  "worst_open": [
@@ -646,22 +646,22 @@
    "opened": "2026-10-28"
   },
   {
-   "asset": "DBA",
+   "asset": "XLF",
    "lane": "Macro ETFs",
    "side": "long",
-   "entry": 28.61,
-   "mark": 27.21,
-   "pnl_pct": -4.88,
-   "opened": "2026-08-26"
+   "entry": 58.2,
+   "mark": 56.15,
+   "pnl_pct": -3.54,
+   "opened": "2026-08-24"
   },
   {
-   "asset": "UNG",
-   "lane": "Macro ETFs",
+   "asset": "HDSN",
+   "lane": "Equity factor model",
    "side": "long",
-   "entry": 10.13,
-   "mark": 9.64,
-   "pnl_pct": -4.84,
-   "opened": "2026-08-24"
+   "entry": 5.37,
+   "mark": 5.2,
+   "pnl_pct": -3.17,
+   "opened": "2026-08-31"
   }
  ],
  "book": {
