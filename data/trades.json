@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T08:17:25Z",
+ "generated_at": "2026-10-29T09:17:25Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -8,7 +8,7 @@
  "win_rate": 0.264,
  "avg_trade_pct": -3.51,
  "open_total": 124,
- "open_avg_pct": 1.18,
+ "open_avg_pct": 1.1,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -572,6 +572,15 @@
  ],
  "best_open": [
   {
+   "asset": "FXI",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 35.54,
+   "mark": 32.41,
+   "pnl_pct": 8.81,
+   "opened": "2026-08-27"
+  },
+  {
    "asset": "XLC",
    "lane": "Shorts (simulated)",
    "side": "short",
@@ -579,15 +588,6 @@
    "mark": 103.18,
    "pnl_pct": 8.63,
    "opened": "2026-08-16"
-  },
-  {
-   "asset": "FXI",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 35.54,
-   "mark": 32.52,
-   "pnl_pct": 8.5,
-   "opened": "2026-08-27"
   },
   {
    "asset": "USO",
@@ -646,6 +646,15 @@
    "opened": "2026-10-28"
   },
   {
+   "asset": "AVGO",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 357.83,
+   "mark": 342.84,
+   "pnl_pct": -4.19,
+   "opened": "2026-09-08"
+  },
+  {
    "asset": "XLF",
    "lane": "Macro ETFs",
    "side": "long",
@@ -653,15 +662,6 @@
    "mark": 56.12,
    "pnl_pct": -3.58,
    "opened": "2026-08-24"
-  },
-  {
-   "asset": "WAB",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 291.82,
-   "mark": 282.19,
-   "pnl_pct": -3.3,
-   "opened": "2026-08-08"
   }
  ],
  "book": {
