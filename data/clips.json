@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-29T21:17:26Z",
- "total_verified": 433,
+ "generated_at": "2026-10-29T22:17:27Z",
+ "total_verified": 434,
  "by_platform": {
-  "youtube": 88,
+  "youtube": 89,
   "instagram": 122,
   "tiktok": 112,
   "x": 68,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/BdNFaBrzIFs",
+   "ts": "2026-10-29T21:17:24.391779+00:00",
+   "caption": "Get 7 prompts that keep AI work consistent, unattended, and honest. You run your business. Let Mac Steel handle the routine tasks you do again and again. These seven prompts guide "
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/uGjllTYaq_8",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7700275123441470751",
    "ts": "2026-10-24T16:41:49.029823+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Transparency and Explainability for Improved Trust \u2192 Autonomous Agent Integration with Humans for Enhanced C"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2114011251743604779",
-   "ts": "2026-10-24T15:09:16.575279+00:00",
-   "caption": "Ready to turn your AI scripts into a fully scheduled system? Get 5 Mac Steel blueprints with a starter 5-job schedule to run your workflows in 3 to 8 minutes using Python 3.9+."
   }
  ]
 }
