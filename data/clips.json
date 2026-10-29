@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-29T22:17:27Z",
- "total_verified": 434,
+ "generated_at": "2026-10-29T23:17:23Z",
+ "total_verified": 435,
  "by_platform": {
+  "tiktok": 113,
   "youtube": 89,
   "instagram": 122,
-  "tiktok": 112,
   "x": 68,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7702229354960424222",
+   "ts": "2026-10-29T23:04:15.839838+00:00",
+   "caption": "Want to schedule five AI workflows without a monthly platform fee? The Mac Steel blueprint pack gives you five technical blueprints pulled from a working system. Blueprint 01 turns"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/BdNFaBrzIFs",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/De4ulPRDFhG/",
    "ts": "2026-10-24T18:01:16.125617+00:00",
    "caption": "01 blueprint turns one topic into 5 platform posts in minutes Your business can copy the exact setup steps, commands, and troubleshooting tables from the 5 blueprints that power Ma"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7700275123441470751",
-   "ts": "2026-10-24T16:41:49.029823+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Transparency and Explainability for Improved Trust \u2192 Autonomous Agent Integration with Humans for Enhanced C"
   }
  ]
 }
