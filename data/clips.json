@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-29T16:17:27Z",
- "total_verified": 430,
+ "generated_at": "2026-10-29T17:17:26Z",
+ "total_verified": 431,
  "by_platform": {
+  "tiktok": 112,
   "instagram": 121,
-  "tiktok": 111,
   "x": 68,
   "youtube": 87,
   "podcast": 11,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7702130567453609247",
+   "ts": "2026-10-29T16:41:38.256349+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Output Formatting for Consistent and Informative Reporting \u2192 Personalizing Agent Identities for Enhanced Engagement \u2192 Agent S"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DfFR-kriKiq/",
@@ -220,12 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2113965963703927132",
    "ts": "2026-10-24T12:09:21.230224+00:00",
    "caption": "Is your AI system running 24/7 on hardware you own? Build Your Own Agent Stack gives you a 14-page guide with the exact .env and IDENTITY.md setup across 6 sections."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7700049100514856222",
-   "ts": "2026-10-24T02:04:09.997202+00:00",
-   "caption": "Tired of 25\u2011prompt packs that just dump text? Your AI assistant builds will finally get prompts that actually work\u2014each one shows when to use it, the ideal output, the real failure"
   }
  ]
 }
