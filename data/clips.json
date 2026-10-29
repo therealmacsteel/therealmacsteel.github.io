@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-29T17:17:26Z",
- "total_verified": 431,
+ "generated_at": "2026-10-29T18:17:33Z",
+ "total_verified": 432,
  "by_platform": {
+  "instagram": 122,
   "tiktok": 112,
-  "instagram": 121,
   "x": 68,
   "youtube": 87,
   "podcast": 11,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfFmiw6CMeg/",
+   "ts": "2026-10-29T18:02:16.567621+00:00",
+   "caption": "7 prompts, not a 200-prompt dump You need routine work to run without you. Mac Steel\u2019s free PDF gives you 7 prompts that keep a real system consistent, unattended and honest. From "
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7702130567453609247",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/De4Z_3rDama/",
    "ts": "2026-10-24T15:01:23.893780+00:00",
    "caption": "14 pages, zero guesswork\u2014can your AI run 24/7 on your own server? You\u2019ll get a step\u2011by\u2011step guide that fits the hardware you already own, so you never need to rent cloud time. Sect"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2113965963703927132",
-   "ts": "2026-10-24T12:09:21.230224+00:00",
-   "caption": "Is your AI system running 24/7 on hardware you own? Build Your Own Agent Stack gives you a 14-page guide with the exact .env and IDENTITY.md setup across 6 sections."
   }
  ]
 }
