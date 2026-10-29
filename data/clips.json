@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-29T14:17:30Z",
- "total_verified": 429,
+ "generated_at": "2026-10-29T15:17:30Z",
+ "total_verified": 430,
  "by_platform": {
+  "instagram": 121,
   "tiktok": 111,
-  "instagram": 120,
   "x": 68,
   "youtube": 87,
   "podcast": 11,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfFR-kriKiq/",
+   "ts": "2026-10-29T15:01:57.646434+00:00",
+   "caption": "Want your business posting to five platforms in three to eight minutes without a monthly SaaS bill? Mac Steel blueprints give you five technical workflows from a working AI busines"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7701857884237286686",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7700049100514856222",
    "ts": "2026-10-24T02:04:09.997202+00:00",
    "caption": "Tired of 25\u2011prompt packs that just dump text? Your AI assistant builds will finally get prompts that actually work\u2014each one shows when to use it, the ideal output, the real failure"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7700002946100071710",
-   "ts": "2026-10-23T23:05:05.296970+00:00",
-   "caption": "What if one long video could become 10 posts? You already have the footage. Mac Steel's Repurposing Pack gives you 25 prompts to turn one long video into short clips, blog posts, a"
   }
  ]
 }
