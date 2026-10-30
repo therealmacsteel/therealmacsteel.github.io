@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-30T22:33:37Z",
- "total_verified": 439,
+ "generated_at": "2026-10-30T23:17:21Z",
+ "total_verified": 440,
  "by_platform": {
+  "tiktok": 116,
   "instagram": 124,
-  "tiktok": 115,
   "youtube": 89,
   "x": 68,
   "podcast": 11,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7702600177978264862",
+   "ts": "2026-10-30T23:03:28.094180+00:00",
+   "caption": "Prompt packs that just dump text and say good luck? You need 25 prompts, each with when to use it, expected output, failure mode, and tip. One health check looked fine until the br"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DfILVvKDLmo/",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/De6-zQPjso5/",
    "ts": "2026-10-25T15:01:38.443496+00:00",
    "caption": "Want 25 proven prompts to boost your chatbot conversations? You can apply these prompts today to make every reply feel natural and keep users engaged. Mac Steel\u2019s 25 proven prompts"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2114328335526568198",
-   "ts": "2026-10-25T12:09:16.926983+00:00",
-   "caption": "25 prompts to make your chatbot talk like a pro? Use Mac Steel's 25 proven prompts to boost engagement."
   }
  ]
 }
