@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-30T01:17:25Z",
- "total_verified": 435,
+ "generated_at": "2026-10-30T02:17:25Z",
+ "total_verified": 436,
  "by_platform": {
-  "tiktok": 113,
+  "tiktok": 114,
   "youtube": 89,
   "instagram": 122,
   "x": 68,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7702275463187549470",
+   "ts": "2026-10-30T02:03:23.891456+00:00",
+   "caption": "7 prompts, not a 200-prompt dump You can keep your routine work running unattended with Mac Steel's 7 Prompts. Each prompt includes why it works, and the PDF is 6 pages. This keeps"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7702229354960424222",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7700352379530661151",
    "ts": "2026-10-24T21:41:35.116952+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOUR VIDEO] \u2192 Write Email Newsletters from Video"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/De4ulPRDFhG/",
-   "ts": "2026-10-24T18:01:16.125617+00:00",
-   "caption": "01 blueprint turns one topic into 5 platform posts in minutes Your business can copy the exact setup steps, commands, and troubleshooting tables from the 5 blueprints that power Ma"
   }
  ]
 }
