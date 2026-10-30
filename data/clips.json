@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-30T14:17:29Z",
- "total_verified": 436,
+ "generated_at": "2026-10-30T15:17:27Z",
+ "total_verified": 437,
  "by_platform": {
+  "instagram": 123,
   "tiktok": 114,
   "youtube": 89,
-  "instagram": 122,
   "x": 68,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfH2xFHjgdC/",
+   "ts": "2026-10-30T15:01:35.355566+00:00",
+   "caption": "Stop paying for hosted AI. Run yours 24/7 on hardware you already own. Mac Steel Build Your Own Agent Stack is a 14 page guide in six sections, written from a system that actually "
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7702275463187549470",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7700373850218958111",
    "ts": "2026-10-24T23:04:10.096871+00:00",
    "caption": "Your hardware can run an AI system 24/7. Do you know what it should do? A 14 page guide, six sections, written from a system that runs. Section 1: the actual daily jobs. Section 2:"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7700352379530661151",
-   "ts": "2026-10-24T21:41:35.116952+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOUR VIDEO] \u2192 Write Email Newsletters from Video"
   }
  ]
 }
