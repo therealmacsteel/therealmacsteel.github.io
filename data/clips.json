@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-30T17:17:27Z",
- "total_verified": 438,
+ "generated_at": "2026-10-30T18:17:29Z",
+ "total_verified": 439,
  "by_platform": {
+  "instagram": 124,
   "tiktok": 115,
-  "instagram": 123,
   "youtube": 89,
   "x": 68,
   "podcast": 11,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfILVvKDLmo/",
+   "ts": "2026-10-30T18:01:19.287915+00:00",
+   "caption": "Tired of prompt packs that dump text and wish you luck? 25 prompts. Each one ships with when to use it, expected output, failure mode, and fix. No hypothetical failures\u2014one caught "
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7702501545614544159",
@@ -220,12 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2114328335526568198",
    "ts": "2026-10-25T12:09:16.926983+00:00",
    "caption": "25 prompts to make your chatbot talk like a pro? Use Mac Steel's 25 proven prompts to boost engagement."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7700420017464036638",
-   "ts": "2026-10-25T02:03:16.478720+00:00",
-   "caption": "5\u2011minute AI workflow you can test today? You can turn a single topic into posts for five platforms in just 3\u20118 minutes with the Python script from Mac Steel\u2019s blueprint. Copy\u2011paste"
   }
  ]
 }
