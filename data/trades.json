@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T18:17:33Z",
+ "generated_at": "2026-10-30T19:17:34Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -8,7 +8,7 @@
  "win_rate": 0.274,
  "avg_trade_pct": -3.18,
  "open_total": 136,
- "open_avg_pct": 0.94,
+ "open_avg_pct": 0.9,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -572,15 +572,6 @@
  ],
  "best_open": [
   {
-   "asset": "ASML",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 1714.86,
-   "mark": 1545.52,
-   "pnl_pct": 9.87,
-   "opened": "2026-09-05"
-  },
-  {
    "asset": "EEM",
    "lane": "Shorts (simulated)",
    "side": "short",
@@ -590,31 +581,40 @@
    "opened": "2026-08-27"
   },
   {
-   "asset": "VIXY",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 17.36,
-   "mark": 18.98,
-   "pnl_pct": 9.33,
-   "opened": "2026-10-28"
-  },
-  {
-   "asset": "VIXY",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 17.4,
-   "mark": 18.98,
-   "pnl_pct": 9.08,
-   "opened": "2026-08-27"
+   "asset": "ASML",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 1714.86,
+   "mark": 1554.57,
+   "pnl_pct": 9.35,
+   "opened": "2026-09-05"
   },
   {
    "asset": "IWM",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 278.01,
-   "pnl_pct": 8.82,
+   "mark": 278.17,
+   "pnl_pct": 8.77,
    "opened": "2026-08-15"
+  },
+  {
+   "asset": "VIXY",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 17.36,
+   "mark": 18.86,
+   "pnl_pct": 8.64,
+   "opened": "2026-10-28"
+  },
+  {
+   "asset": "GRID",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 178.82,
+   "mark": 163.69,
+   "pnl_pct": 8.46,
+   "opened": "2026-09-04"
   }
  ],
  "worst_open": [
@@ -641,8 +641,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 721.04,
-   "mark": 686.68,
-   "pnl_pct": -4.77,
+   "mark": 687.3,
+   "pnl_pct": -4.68,
    "opened": "2026-08-18"
   },
   {
@@ -650,18 +650,18 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 721.04,
-   "mark": 686.68,
-   "pnl_pct": -4.77,
+   "mark": 687.3,
+   "pnl_pct": -4.68,
    "opened": "2026-08-18"
   },
   {
-   "asset": "GLD",
+   "asset": "COPX",
    "lane": "Macro ETFs",
    "side": "long",
-   "entry": 372.31,
-   "mark": 355.5,
-   "pnl_pct": -4.51,
-   "opened": "2026-10-28"
+   "entry": 74.86,
+   "mark": 71.45,
+   "pnl_pct": -4.55,
+   "opened": "2026-10-29"
   }
  ],
  "book": {
