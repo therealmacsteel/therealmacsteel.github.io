@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-30T16:17:27Z",
- "total_verified": 437,
+ "generated_at": "2026-10-30T17:17:27Z",
+ "total_verified": 438,
  "by_platform": {
+  "tiktok": 115,
   "instagram": 123,
-  "tiktok": 114,
   "youtube": 89,
   "x": 68,
   "podcast": 11,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7702501545614544159",
+   "ts": "2026-10-30T16:41:45.444417+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Vid"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DfH2xFHjgdC/",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7700420017464036638",
    "ts": "2026-10-25T02:03:16.478720+00:00",
    "caption": "5\u2011minute AI workflow you can test today? You can turn a single topic into posts for five platforms in just 3\u20118 minutes with the Python script from Mac Steel\u2019s blueprint. Copy\u2011paste"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7700373850218958111",
-   "ts": "2026-10-24T23:04:10.096871+00:00",
-   "caption": "Your hardware can run an AI system 24/7. Do you know what it should do? A 14 page guide, six sections, written from a system that runs. Section 1: the actual daily jobs. Section 2:"
   }
  ]
 }
