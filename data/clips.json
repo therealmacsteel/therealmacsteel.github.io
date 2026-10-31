@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-31T02:17:36Z",
- "total_verified": 440,
+ "generated_at": "2026-10-31T03:17:24Z",
+ "total_verified": 441,
  "by_platform": {
-  "tiktok": 116,
+  "tiktok": 117,
   "instagram": 124,
   "youtube": 89,
   "x": 68,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7702592671017192735",
+   "ts": "2026-10-31T02:40:02.505993+00:00",
+   "caption": ""
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7702600177978264862",
@@ -220,12 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2114373627365748778",
    "ts": "2026-10-25T15:09:16.350867+00:00",
    "caption": "Want prompts that actually ship with failure modes? You get 25 prompts, each with when, expected output, failure mode, and a fix tip."
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/De6-zQPjso5/",
-   "ts": "2026-10-25T15:01:38.443496+00:00",
-   "caption": "Want 25 proven prompts to boost your chatbot conversations? You can apply these prompts today to make every reply feel natural and keep users engaged. Mac Steel\u2019s 25 proven prompts"
   }
  ]
 }
