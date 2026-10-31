@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-10-31T11:17:21Z",
- "total_verified": 441,
+ "generated_at": "2026-10-31T12:17:25Z",
+ "total_verified": 442,
  "by_platform": {
+  "x": 69,
   "tiktok": 117,
   "instagram": 124,
   "youtube": 89,
-  "x": 68,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2116502607690658036",
+   "ts": "2026-10-31T12:09:03.799728+00:00",
+   "caption": "Want 25 prompts to make your chatbot dialogues far more engaging? Turn your chatbot into a conversational partner using Mac Steel dialogue guides."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7702592671017192735",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7700646178039385374",
    "ts": "2026-10-25T16:41:42.820303+00:00",
    "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2114373627365748778",
-   "ts": "2026-10-25T15:09:16.350867+00:00",
-   "caption": "Want prompts that actually ship with failure modes? You get 25 prompts, each with when, expected output, failure mode, and a fix tip."
   }
  ]
 }
