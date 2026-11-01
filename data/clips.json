@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-01T19:17:25Z",
- "total_verified": 452,
+ "generated_at": "2026-11-01T20:17:22Z",
+ "total_verified": 453,
  "by_platform": {
+  "youtube": 90,
   "instagram": 128,
   "tiktok": 122,
   "x": 70,
-  "youtube": 89,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/uZKkorR9rB0",
+   "ts": "2026-11-01T19:17:22.519882+00:00",
+   "caption": "Are you tired of prompt packs that drop raw text and wish you good luck? When you build AI tools for your business, bare text templates leave you guessing. The Mac Steel Agent Prom"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DfNbygpiAS_/",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7701162242636696862",
    "ts": "2026-10-27T02:03:32.247624+00:00",
    "caption": "Turn one video into 10 posts instantly. Use these 25 prompts to save hours per video on your content calendar."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7701116245642382623",
-   "ts": "2026-10-26T23:05:04.993747+00:00",
-   "caption": "Cut 8 minutes off your content with the 01 blueprint. See how you can post to five platforms without a browser using direct upload APIs."
   }
  ]
 }
