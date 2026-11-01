@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-01T18:17:24Z",
- "total_verified": 450,
+ "generated_at": "2026-11-01T19:17:25Z",
+ "total_verified": 452,
  "by_platform": {
-  "instagram": 127,
-  "tiktok": 121,
+  "instagram": 128,
+  "tiktok": 122,
   "x": 70,
   "youtube": 89,
   "podcast": 11,
@@ -11,6 +11,18 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfNbygpiAS_/",
+   "ts": "2026-11-01T19:01:19.829953+00:00",
+   "caption": "Want a 24/7 AI system running on hardware you already own? Build Your Own Agent Stack gives you a 14-page guide across 6 sections to deploy a self-hosted setup that works around th"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7703259308485610783",
+   "ts": "2026-11-01T18:33:43.301832+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DfNHNurDZZr/",
@@ -214,18 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7701116245642382623",
    "ts": "2026-10-26T23:05:04.993747+00:00",
    "caption": "Cut 8 minutes off your content with the 01 blueprint. See how you can post to five platforms without a browser using direct upload APIs."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7701094635581525278",
-   "ts": "2026-10-26T21:41:44.779440+00:00",
-   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7701017286714379550",
-   "ts": "2026-10-26T16:41:40.266332+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOU"
   }
  ]
 }
