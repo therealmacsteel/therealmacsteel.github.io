@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-01T22:17:24Z",
- "total_verified": 453,
+ "generated_at": "2026-11-01T23:17:26Z",
+ "total_verified": 454,
  "by_platform": {
-  "youtube": 90,
+  "youtube": 91,
   "instagram": 128,
   "tiktok": 122,
   "x": 70,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/Hl7iQwxRN_I",
+   "ts": "2026-11-01T22:17:20.062948+00:00",
+   "caption": "Want a 14 page build guide to run an AI system 24/7 on hardware you own? You can run your own self-hosted setup that works around the clock. Build Your Own Agent Stack breaks it do"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/uZKkorR9rB0",
@@ -220,12 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2115053041171009701",
    "ts": "2026-10-27T12:09:01.650896+00:00",
    "caption": "Your assistant drifts by job 200? 7 prompts keep it consistent on job 400. Free PDF, 6 pages. Grab it here:"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7701162242636696862",
-   "ts": "2026-10-27T02:03:32.247624+00:00",
-   "caption": "Turn one video into 10 posts instantly. Use these 25 prompts to save hours per video on your content calendar."
   }
  ]
 }
