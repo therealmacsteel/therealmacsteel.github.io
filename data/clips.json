@@ -1,16 +1,52 @@
 {
- "generated_at": "2026-10-31T14:17:26Z",
- "total_verified": 442,
+ "generated_at": "2026-11-01T00:27:11Z",
+ "total_verified": 448,
  "by_platform": {
-  "x": 69,
-  "tiktok": 117,
-  "instagram": 124,
+  "tiktok": 120,
+  "instagram": 126,
+  "x": 70,
   "youtube": 89,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7702971238297210143",
+   "ts": "2026-10-31T23:03:27.012640+00:00",
+   "caption": "Can 25 prompts completely transform your chatbot conversations? If you want better dialogue for your chatbot, you need the right framework. Mac Steel offers 25 prompts for conversa"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7702950008278060319",
+   "ts": "2026-10-31T21:41:35.046057+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Write Email Newsletters from Video Segments \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes fo"
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfKwH3ujVHJ/",
+   "ts": "2026-10-31T18:01:13.956883+00:00",
+   "caption": "Can your setup turn one topic into posts across platforms in 3 to 8 minutes? If you have written basic scripts but want to see how a full scheduled system fits together, Mac Steel "
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7702872716960927006",
+   "ts": "2026-10-31T16:41:42.065756+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Training Data Generation \u2192 Autonomous Agent Evaluation Metrics for Effective Performance Assessment \u2192 Error "
+  },
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2116547910859129158",
+   "ts": "2026-10-31T15:09:05.539862+00:00",
+   "caption": "Ready to connect your AI scripts into a scheduled system? Get 5 blueprints from Mac Steel with setup steps, Python 3.9+ code, and a 5-job schedule to run workflows in 3 to 8 minute"
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfKbjvpiByz/",
+   "ts": "2026-10-31T15:01:35.493996+00:00",
+   "caption": "Are you ready to transform your chatbot with 25 prompts? If your conversational AI feels dull, you can instantly improve how it speaks to your audience. Mac Steel offers 25 prompts"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2116502607690658036",
@@ -190,42 +226,6 @@
    "url": "https://www.instagram.com/p/De9jmEaDA7C/",
    "ts": "2026-10-26T15:01:27.040888+00:00",
    "caption": "Turn one video into 10+ posts You save hours per video with this pack of 25 prompts. It turns your long content into short clips and blog posts without the extra work."
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2114373669808116141",
-   "ts": "2026-10-26T12:11:18.923548+00:00",
-   "caption": "Mac Steel's 05 blueprints show your full AI schedule Each includes steps, commands, and a 5\u2011job starter schedule with phone alerts."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7700791623726239006",
-   "ts": "2026-10-26T02:05:28.142478+00:00",
-   "caption": "25 prompts, 4 guides each\u2014your AI assistant will stop guessing and start delivering. Switch from 2,700 to 6,200 words of real failure modes and fixes, saving you hours of trial\u2011and"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7700744763787578655",
-   "ts": "2026-10-25T23:03:29.944859+00:00",
-   "caption": "Want 25 prompts that fix flat chatbot replies? Your bot talks but does it actually engage? These 25 proven prompts turn stiff scripts into real dialogue. No guesswork, just plug in"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7700723504399830303",
-   "ts": "2026-10-25T21:41:37.444081+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Predictive Maintenance for Equipment and Infrastructure \u2192 Autonomous Agent Continuous Learning for Adaptatio"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/De7TZCyjJdT/",
-   "ts": "2026-10-25T18:01:24.204504+00:00",
-   "caption": "25 prompts with when, expected output, failure mode, and fix. Your assistant workflow gets a clear playbook: each prompt tells you when to use it, what good output looks like, why "
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7700646178039385374",
-   "ts": "2026-10-25T16:41:42.820303+00:00",
-   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
   }
  ]
 }
