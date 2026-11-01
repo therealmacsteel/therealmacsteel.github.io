@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-01T15:17:26Z",
- "total_verified": 449,
+ "generated_at": "2026-11-01T16:17:23Z",
+ "total_verified": 450,
  "by_platform": {
+  "instagram": 127,
   "tiktok": 121,
-  "instagram": 126,
   "x": 70,
   "youtube": 89,
   "podcast": 11,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfNHNurDZZr/",
+   "ts": "2026-11-01T16:01:29.545977+00:00",
+   "caption": "Are you tired of prompt packs that hand over text and wish you luck? Most templates leave your workflow stranded when real edge cases hit. Think of a health check that reports heal"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7703017904945515806",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7701017286714379550",
    "ts": "2026-10-26T16:41:40.266332+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOU"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2114735955831890108",
-   "ts": "2026-10-26T15:09:02.382743+00:00",
-   "caption": "25 prompts turn one video into 10+ posts? You save hours per video and get short clips, blog posts, and more."
   }
  ]
 }
