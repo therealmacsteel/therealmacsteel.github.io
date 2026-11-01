@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-01T01:17:23Z",
- "total_verified": 448,
+ "generated_at": "2026-11-01T02:17:24Z",
+ "total_verified": 449,
  "by_platform": {
-  "tiktok": 120,
+  "tiktok": 121,
   "instagram": 126,
   "x": 70,
   "youtube": 89,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7703017904945515806",
+   "ts": "2026-11-01T02:04:32.802988+00:00",
+   "caption": "Ready to turn your basic AI scripts into 5 full scheduled workflows? See how Mac Steel structures a complete system using Python 3.9 and direct upload APIs. You get 5 technical blu"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7702971238297210143",
@@ -220,12 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2114735955831890108",
    "ts": "2026-10-26T15:09:02.382743+00:00",
    "caption": "25 prompts turn one video into 10+ posts? You save hours per video and get short clips, blog posts, and more."
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/De9jmEaDA7C/",
-   "ts": "2026-10-26T15:01:27.040888+00:00",
-   "caption": "Turn one video into 10+ posts You save hours per video with this pack of 25 prompts. It turns your long content into short clips and blog posts without the extra work."
   }
  ]
 }
