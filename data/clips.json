@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-02T12:17:23Z",
- "total_verified": 457,
+ "generated_at": "2026-11-02T13:17:25Z",
+ "total_verified": 458,
  "by_platform": {
+  "x": 71,
   "tiktok": 125,
   "youtube": 91,
   "instagram": 128,
-  "x": 70,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2117242500687753695",
+   "ts": "2026-11-02T13:09:07.569534+00:00",
+   "caption": "01 script turns your topic into 5 platform posts in 3 to 8 minutes Blueprints 02-05: creative research, API posting, free voiceover, 5-job scheduler with alerts. From Mac Steel sys"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7703336552545439007",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7701486967925607711",
    "ts": "2026-10-27T23:03:40.555481+00:00",
    "caption": "What if your lead follow-up ran 24/7 on hardware you already own? Build Your Own Agent Stack is the complete guide: 14 pages, six sections, written from a system that actually runs"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfAc-1Gjr2M/",
-   "ts": "2026-10-27T18:01:36.271490+00:00",
-   "caption": "What would 14 pages of setup actually save you? If your business runs on hardware you already own, this is the build guide: six sections on a system that runs 24/7. Section 1 shows"
   }
  ]
 }
