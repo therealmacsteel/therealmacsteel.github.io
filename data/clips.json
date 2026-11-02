@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-02T02:17:26Z",
- "total_verified": 455,
+ "generated_at": "2026-11-02T03:17:24Z",
+ "total_verified": 456,
  "by_platform": {
-  "tiktok": 123,
+  "tiktok": 124,
   "youtube": 91,
   "instagram": 128,
   "x": 70,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7703404411690716446",
+   "ts": "2026-11-02T03:04:26.351534+00:00",
+   "caption": "Can you run a self-hosted AI system 24/7 on hardware you already own? Build Your Own Agent Stack by Mac Steel gives you a 14 page guide across 6 sections. You get the exact .env se"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7703357876143721758",
@@ -220,12 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2115098347199516996",
    "ts": "2026-10-27T15:09:03.399576+00:00",
    "caption": "14 pages show your self\u2011hosted AI running 24/7 Section 3 gives you the IDENTITY.md system to define roles Runs on hardware you already own, no new servers"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfAIYnpinVn/",
-   "ts": "2026-10-27T15:01:38.639383+00:00",
-   "caption": "7 prompts keep your AI routine honest? Your daily tasks stay consistent when you use the Daily Status Report from Mac Steel's 7 Prompts. The PDF is 6 pages and each prompt includes"
   }
  ]
 }
