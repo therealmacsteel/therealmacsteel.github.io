@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-02T17:17:27Z",
- "total_verified": 460,
+ "generated_at": "2026-11-02T18:17:26Z",
+ "total_verified": 461,
  "by_platform": {
+  "tiktok": 126,
   "x": 72,
   "instagram": 129,
-  "tiktok": 125,
   "youtube": 91,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7703630294414396703",
+   "ts": "2026-11-02T17:41:37.257076+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Extract Key Moments from [YOUR VIDEO] \u2192 Write Email Newsletters from Video Segments \u2192 Summarize Video Discussions for Podcast"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2117287764882338089",
@@ -220,12 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2115415443917910192",
    "ts": "2026-10-28T12:09:05.271345+00:00",
    "caption": "Want sharper chatbot conversations for your business? Try 25 proven prompts from Mac Steel designed for engaging AI dialogue."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7701465665969900831",
-   "ts": "2026-10-28T02:40:03.036221+00:00",
-   "caption": ""
   }
  ]
 }
