@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-02T18:17:31Z",
+ "generated_at": "2026-11-02T19:17:33Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 273,
+ "closed_total": 276,
  "excluded_unmarkable": 70,
- "win_rate": 0.275,
- "avg_trade_pct": -3.24,
- "open_total": 153,
- "open_avg_pct": 0.89,
+ "win_rate": 0.272,
+ "avg_trade_pct": -3.27,
+ "open_total": 152,
+ "open_avg_pct": 0.94,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -20,27 +20,27 @@
   },
   {
    "lane": "Macro ETFs",
-   "closed": 66,
-   "win_rate": 0.182,
+   "closed": 67,
+   "win_rate": 0.179,
    "avg_win_pct": 10.4,
-   "avg_loss_pct": -8.3,
-   "avg_trade_pct": -4.9
+   "avg_loss_pct": -8.25,
+   "avg_trade_pct": -4.91
   },
   {
    "lane": "Shorts (simulated)",
-   "closed": 56,
-   "win_rate": 0.482,
+   "closed": 57,
+   "win_rate": 0.474,
    "avg_win_pct": 13.41,
-   "avg_loss_pct": -6.46,
-   "avg_trade_pct": 3.12
+   "avg_loss_pct": -6.43,
+   "avg_trade_pct": 2.97
   },
   {
    "lane": "Congress disclosures",
-   "closed": 23,
-   "win_rate": 0.261,
+   "closed": 24,
+   "win_rate": 0.25,
    "avg_win_pct": 11.37,
-   "avg_loss_pct": -7.14,
-   "avg_trade_pct": -2.31
+   "avg_loss_pct": -7.06,
+   "avg_trade_pct": -2.46
   },
   {
    "lane": "Options (simulated)",
@@ -52,6 +52,39 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "INTC",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 64.86,
+   "exit": 61.13,
+   "pnl_pct": -5.75,
+   "opened": "2026-10-30",
+   "closed": "2026-11-02",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "XLK",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 185.8,
+   "exit": 176.41,
+   "pnl_pct": -5.05,
+   "opened": "2026-08-27",
+   "closed": "2026-11-02",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "XLP",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 86.08,
+   "exit": 90.86,
+   "pnl_pct": -5.56,
+   "opened": "2026-08-16",
+   "closed": "2026-11-02",
+   "exit_reason": "stop"
+  },
   {
    "asset": "NWL",
    "lane": "Equity factor model",
@@ -293,42 +326,21 @@
    "opened": "2026-10-28",
    "closed": "2026-10-30",
    "exit_reason": "stop"
-  },
-  {
-   "asset": "TSM",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 436.88,
-   "exit": 413.51,
-   "pnl_pct": -5.35,
-   "opened": "2026-10-28",
-   "closed": "2026-10-30",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "USO",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 154.12,
-   "exit": 170.03,
-   "pnl_pct": 10.32,
-   "opened": "2026-09-10",
-   "closed": "2026-10-30",
-   "exit_reason": "target"
-  },
-  {
-   "asset": "USO",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 154.12,
-   "exit": 170.03,
-   "pnl_pct": 10.32,
-   "opened": "2026-09-10",
-   "closed": "2026-10-30",
-   "exit_reason": "target"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "INTC",
+   "pnl_pct": -5.75
+  },
+  {
+   "asset": "XLK",
+   "pnl_pct": -5.05
+  },
+  {
+   "asset": "XLP",
+   "pnl_pct": -5.56
+  },
   {
    "asset": "NWL",
    "pnl_pct": 13.93
@@ -556,46 +568,34 @@
   {
    "asset": "BWXT",
    "pnl_pct": -11.96
-  },
-  {
-   "asset": "FWONK",
-   "pnl_pct": -7.01
-  },
-  {
-   "asset": "CHRW",
-   "pnl_pct": -5.92
-  },
-  {
-   "asset": "EWZ",
-   "pnl_pct": -11.23
   }
  ],
  "best_open": [
-  {
-   "asset": "LIN",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 478.47,
-   "mark": 520.8,
-   "pnl_pct": 8.85,
-   "opened": "2026-08-17"
-  },
   {
    "asset": "ASML",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 1714.86,
-   "mark": 1570.09,
-   "pnl_pct": 8.44,
+   "mark": 1545.68,
+   "pnl_pct": 9.87,
    "opened": "2026-09-05"
+  },
+  {
+   "asset": "LIN",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 478.47,
+   "mark": 522.17,
+   "pnl_pct": 9.13,
+   "opened": "2026-08-17"
   },
   {
    "asset": "EEM",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 67.17,
-   "mark": 61.95,
-   "pnl_pct": 7.77,
+   "mark": 61.57,
+   "pnl_pct": 8.34,
    "opened": "2026-08-27"
   },
   {
@@ -603,38 +603,38 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 282.13,
-   "pnl_pct": 7.47,
+   "mark": 280.36,
+   "pnl_pct": 8.05,
    "opened": "2026-08-15"
   },
   {
-   "asset": "XLV",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 171.6,
-   "mark": 184.36,
-   "pnl_pct": 7.44,
-   "opened": "2026-08-27"
+   "asset": "SMH",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 560.14,
+   "mark": 515.09,
+   "pnl_pct": 8.04,
+   "opened": "2026-09-10"
   }
  ],
  "worst_open": [
   {
-   "asset": "XLP",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 86.08,
-   "mark": 90.28,
-   "pnl_pct": -4.88,
-   "opened": "2026-08-16"
+   "asset": "QQQ",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 721.04,
+   "mark": 687.96,
+   "pnl_pct": -4.59,
+   "opened": "2026-08-18"
   },
   {
-   "asset": "TSLA",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 394.9,
-   "mark": 412.44,
-   "pnl_pct": -4.44,
-   "opened": "2026-10-30"
+   "asset": "QQQ",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 721.04,
+   "mark": 687.96,
+   "pnl_pct": -4.59,
+   "opened": "2026-08-18"
   },
   {
    "asset": "ETH/USD",
@@ -646,22 +646,22 @@
    "opened": "2026-09-02"
   },
   {
-   "asset": "XLK",
+   "asset": "QQQ",
    "lane": "Macro ETFs",
    "side": "long",
-   "entry": 185.8,
-   "mark": 178.39,
-   "pnl_pct": -3.99,
+   "entry": 718.33,
+   "mark": 687.96,
+   "pnl_pct": -4.23,
    "opened": "2026-08-27"
   },
   {
    "asset": "QQQ",
    "lane": "Macro ETFs",
    "side": "long",
-   "entry": 721.04,
-   "mark": 693.52,
-   "pnl_pct": -3.82,
-   "opened": "2026-08-18"
+   "entry": 718.33,
+   "mark": 687.96,
+   "pnl_pct": -4.23,
+   "opened": "2026-08-27"
   }
  ],
  "book": {

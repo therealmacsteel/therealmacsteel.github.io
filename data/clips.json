@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-02T18:17:26Z",
- "total_verified": 461,
+ "generated_at": "2026-11-02T19:17:28Z",
+ "total_verified": 462,
  "by_platform": {
+  "instagram": 130,
   "tiktok": 126,
   "x": 72,
-  "instagram": 129,
   "youtube": 91,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfQAk31iqN8/",
+   "ts": "2026-11-02T19:01:14.529883+00:00",
+   "caption": "7 prompts keep your routine work consistent? Mac Steel's 7 Prompts From a Live Agent Stack gives you the exact prompts that keep routine work reliable The Scheduled Task Specificat"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7703630294414396703",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DfCtK8EiI1l/",
    "ts": "2026-10-28T15:01:33.543083+00:00",
    "caption": "Want your chatbot to actually keep people talking? Try these 25 proven prompts for conversational AI and chatbot dialogue."
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2115415443917910192",
-   "ts": "2026-10-28T12:09:05.271345+00:00",
-   "caption": "Want sharper chatbot conversations for your business? Try 25 proven prompts from Mac Steel designed for engaging AI dialogue."
   }
  ]
 }
