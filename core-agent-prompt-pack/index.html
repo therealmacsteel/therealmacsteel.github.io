@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Core Agent Prompt Pack — Mac Steel</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Orbitron:wght@500;700;900&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #00ffcc;
+            --secondary: #4a9eff;
+            --bg: #0a0a0a;
+            --bg-card: #141414;
+            --border: #222222;
+            --text: #e0e0e0;
+            --text-dim: #999999;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            background-color: var(--bg);
+            color: var(--text);
+            font-family: 'Inter', sans-serif;
+            line-height: 1.6;
+        }
+        header {
+            border-bottom: 1px solid var(--border);
+            padding: 2rem 1rem;
+            text-align: center;
+        }
+        h1, h2, h3 {
+            font-family: 'Orbitron', sans-serif;
+            color: #fff;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 4rem 2rem;
+        }
+        .hero {
+            text-align: center;
+            margin-bottom: 4rem;
+        }
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            color: var(--primary);
+        }
+        .hero p {
+            font-size: 1.25rem;
+            color: var(--text-dim);
+            max-width: 700px;
+            margin: 0 auto;
+        }
+        .pricing-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-bottom: 4rem;
+        }
+        .card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 2.5rem 2rem;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            transition: transform 0.2s, border-color 0.2s;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+            border-color: var(--primary);
+        }
+        .card.featured {
+            border-color: var(--primary);
+            box-shadow: 0 0 30px rgba(0, 255, 204, 0.1);
+        }
+        .badge {
+            position: absolute;
+            top: -12px;
+            right: 2rem;
+            background: var(--primary);
+            color: #000;
+            font-family: 'Orbitron', sans-serif;
+            font-size: 0.75rem;
+            font-weight: 700;
+            padding: 0.25rem 0.75rem;
+            border-radius: 4px;
+            text-transform: uppercase;
+        }
+        .card h3 {
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+        }
+        .price {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 2.5rem;
+            font-weight: 900;
+            color: var(--primary);
+            margin: 1.5rem 0;
+        }
+        .features {
+            list-style: none;
+            margin-bottom: 2rem;
+            flex-grow: 1;
+        }
+        .features li {
+            padding: 0.5rem 0;
+            border-bottom: 1px solid var(--border);
+            font-size: 0.95rem;
+            color: var(--text-dim);
+        }
+        .btn {
+            display: inline-block;
+            background: transparent;
+            color: var(--primary);
+            border: 2px solid var(--primary);
+            padding: 0.75rem 1.5rem;
+            text-align: center;
+            font-family: 'Orbitron', sans-serif;
+            font-weight: 700;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: background 0.2s, color 0.2s;
+        }
+        .btn:hover {
+            background: var(--primary);
+            color: #000;
+        }
+        .btn-primary {
+            background: var(--primary);
+            color: #000;
+        }
+        .btn-primary:hover {
+            background: transparent;
+            color: var(--primary);
+        }
+        footer {
+            text-align: center;
+            padding: 3rem 1rem;
+            border-top: 1px solid var(--border);
+            color: var(--text-dim);
+            font-size: 0.85rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <span style="font-family: 'Orbitron'; font-weight: 900; color: #fff; letter-spacing: 2px;">MAC STEEL INFRASTRUCTURE</span>
+    </header>
+
+    <div class="container">
+        <div class="hero">
+            <h1>Core Agent Prompt Pack</h1>
+            <p>Production-grade system prompts, operational checklists, and workflow directives engineered for autonomous agent fleets.</p>
+        </div>
+
+        <div class="pricing-grid">
+            <!-- Starter Tier -->
+            <div class="card">
+                <h3>Starter Pack</h3>
+                <div class="price">$19.99</div>
+                <ul class="features">
+                    <li>Core Agent System Prompts</li>
+                    <li>Standard Workflow Directives</li>
+                    <li>Basic Error Recovery Templates</li>
+                    <li>Community Updates for 1 Year</li>
+                </ul>
+                <a href="https://macsteel.gumroad.com/l/core-agent-starter" class="btn" target="_blank" rel="noopener noreferrer">Get Starter</a>
+            </div>
+
+            <!-- Pro Tier -->
+            <div class="card featured">
+                <span class="badge">Most Popular</span>
+                <h3>Pro Fleet</h3>
+                <div class="price">$24.99</div>
+                <ul class="features">
+                    <li>Everything in Starter</li>
+                    <li>Advanced Autonomous Guardrails</li>
+                    <li>Self-Healing Loop Playbooks</li>
+                    <li>Multi-Agent Orchestration Directives</li>
+                    <li>Priority Updates & Patches</li>
+                </ul>
+                <a href="https://macsteel.gumroad.com/l/core-agent-pro" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Get Pro Fleet</a>
+            </div>
+
+            <!-- Enterprise Tier -->
+            <div class="card">
+                <h3>Enterprise Suite</h3>
+                <div class="price">$29.99</div>
+                <ul class="features">
+                    <li>Everything in Pro Fleet</li>
+                    <li>Full OpenClaw Integration Kit</li>
+                    <li>Custom Vault & Memory Templates</li>
+                    <li>Direct Autonomous Extension Suite</li>
+                    <li>Lifetime Updates & Priority Access</li>
+                </ul>
+                <a href="https://macsteel.gumroad.com/l/core-agent-enterprise" class="btn" target="_blank" rel="noopener noreferrer">Get Enterprise</a>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Mac Steel. Built on OpenClaw open source infrastructure (MIT).</p>
+    </footer>
+</body>
+</html>
