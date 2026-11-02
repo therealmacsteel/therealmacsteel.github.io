@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-02T22:17:31Z",
- "total_verified": 462,
+ "generated_at": "2026-11-02T23:17:28Z",
+ "total_verified": 463,
  "by_platform": {
+  "tiktok": 127,
   "instagram": 130,
-  "tiktok": 126,
   "x": 72,
   "youtube": 91,
   "podcast": 11,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7703707651024227614",
+   "ts": "2026-11-02T22:41:39.877981+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DfQAk31iqN8/",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7701759403430612255",
    "ts": "2026-10-28T16:41:45.437931+00:00",
    "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfCtK8EiI1l/",
-   "ts": "2026-10-28T15:01:33.543083+00:00",
-   "caption": "Want your chatbot to actually keep people talking? Try these 25 proven prompts for conversational AI and chatbot dialogue."
   }
  ]
 }
