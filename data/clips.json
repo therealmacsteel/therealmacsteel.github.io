@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-11-02T15:17:27Z",
- "total_verified": 458,
+ "generated_at": "2026-11-02T16:17:28Z",
+ "total_verified": 460,
  "by_platform": {
-  "x": 71,
+  "x": 72,
+  "instagram": 129,
   "tiktok": 125,
   "youtube": 91,
-  "instagram": 128,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2117287764882338089",
+   "ts": "2026-11-02T16:08:59.992365+00:00",
+   "caption": "7 prompts keep your workflow consistent and unattended Agent Identity Brief locks role, format, and one hard constraint"
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfPsAlwCAfx/",
+   "ts": "2026-11-02T16:01:32.136438+00:00",
+   "caption": "01 script turns one topic into posts for five platforms in 3 to 8 minutes Your business can copy the same Python script, the creative\u2011director research that scans 14 top creators, "
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2117242500687753695",
@@ -214,18 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7701465665969900831",
    "ts": "2026-10-28T02:40:03.036221+00:00",
    "caption": ""
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfABnrTCpCU/",
-   "ts": "2026-10-27T23:41:49.120593+00:00",
-   "caption": "$0/month of AI ran my business this week. Six numbers, one rule each: 1. 515 automated tasks, 97% clean \u2014 timebox every job. 2. 77 posts, 69 with a live URL \u2014 a link or it didn't h"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7701486967925607711",
-   "ts": "2026-10-27T23:03:40.555481+00:00",
-   "caption": "What if your lead follow-up ran 24/7 on hardware you already own? Build Your Own Agent Stack is the complete guide: 14 pages, six sections, written from a system that actually runs"
   }
  ]
 }
