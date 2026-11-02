@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-01T23:17:26Z",
- "total_verified": 454,
+ "generated_at": "2026-11-02T00:17:25Z",
+ "total_verified": 455,
  "by_platform": {
+  "tiktok": 123,
   "youtube": 91,
   "instagram": 128,
-  "tiktok": 122,
   "x": 70,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7703357876143721758",
+   "ts": "2026-11-02T00:03:53.305005+00:00",
+   "caption": "Tired of copy-pasting 25 lazy prompts that break on your real workflows? Most templates just hand over text and wish your business luck. The Agent Prompt Pack from Mac Steel gives "
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/Hl7iQwxRN_I",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DfAIYnpinVn/",
    "ts": "2026-10-27T15:01:38.639383+00:00",
    "caption": "7 prompts keep your AI routine honest? Your daily tasks stay consistent when you use the Daily Status Report from Mac Steel's 7 Prompts. The PDF is 6 pages and each prompt includes"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2115053041171009701",
-   "ts": "2026-10-27T12:09:01.650896+00:00",
-   "caption": "Your assistant drifts by job 200? 7 prompts keep it consistent on job 400. Free PDF, 6 pages. Grab it here:"
   }
  ]
 }
