@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-02T03:17:24Z",
- "total_verified": 456,
+ "generated_at": "2026-11-02T04:17:25Z",
+ "total_verified": 457,
  "by_platform": {
-  "tiktok": 124,
+  "tiktok": 125,
   "youtube": 91,
   "instagram": 128,
   "x": 70,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7703336552545439007",
+   "ts": "2026-11-02T03:40:04.219618+00:00",
+   "caption": ""
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7703404411690716446",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DfAc-1Gjr2M/",
    "ts": "2026-10-27T18:01:36.271490+00:00",
    "caption": "What would 14 pages of setup actually save you? If your business runs on hardware you already own, this is the build guide: six sections on a system that runs 24/7. Section 1 shows"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2115098347199516996",
-   "ts": "2026-10-27T15:09:03.399576+00:00",
-   "caption": "14 pages show your self\u2011hosted AI running 24/7 Section 3 gives you the IDENTITY.md system to define roles Runs on hardware you already own, no new servers"
   }
  ]
 }
