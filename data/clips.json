@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-03T22:17:25Z",
- "total_verified": 469,
+ "generated_at": "2026-11-03T23:17:23Z",
+ "total_verified": 470,
  "by_platform": {
+  "tiktok": 131,
   "instagram": 132,
-  "tiktok": 130,
   "x": 73,
   "youtube": 91,
   "podcast": 11,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7704078716988591390",
+   "ts": "2026-11-03T22:41:33.776541+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOUR VIDEO] \u2192 Write Email Newsletters from Video"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DfSlX24iIGF/",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7702229354960424222",
    "ts": "2026-10-29T23:04:15.839838+00:00",
    "caption": "Want to schedule five AI workflows without a monthly platform fee? The Mac Steel blueprint pack gives you five technical blueprints pulled from a working system. Blueprint 01 turns"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/BdNFaBrzIFs",
-   "ts": "2026-10-29T21:17:24.391779+00:00",
-   "caption": "Get 7 prompts that keep AI work consistent, unattended, and honest. You run your business. Let Mac Steel handle the routine tasks you do again and again. These seven prompts guide "
   }
  ]
 }
