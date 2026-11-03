@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-03T18:17:28Z",
- "total_verified": 468,
+ "generated_at": "2026-11-03T19:17:27Z",
+ "total_verified": 469,
  "by_platform": {
+  "instagram": 132,
   "tiktok": 130,
   "x": 73,
-  "instagram": 131,
   "youtube": 91,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfSlX24iIGF/",
+   "ts": "2026-11-03T19:01:17.499545+00:00",
+   "caption": "Turn one video into 10 posts? You can use 25 prompts to turn one long video into short clips and blog posts. This saves hours per video, allowing you to post more often."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7704001386429566238",
@@ -220,12 +226,6 @@
    "url": "https://www.youtube.com/shorts/BdNFaBrzIFs",
    "ts": "2026-10-29T21:17:24.391779+00:00",
    "caption": "Get 7 prompts that keep AI work consistent, unattended, and honest. You run your business. Let Mac Steel handle the routine tasks you do again and again. These seven prompts guide "
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/uGjllTYaq_8",
-   "ts": "2026-10-29T18:17:15.467495+00:00",
-   "caption": "Want a scheduled AI system for your business without a monthly SaaS bill? Five Mac Steel blueprints show you the full setup, from one-topic posts across five platforms in 3 to 8 mi"
   }
  ]
 }
