@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-11-03T20:17:30Z",
+ "generated_at": "2026-11-03T21:17:32Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
- "closed_total": 288,
+ "closed_total": 289,
  "excluded_unmarkable": 75,
- "win_rate": 0.264,
- "avg_trade_pct": -3.3,
- "open_total": 151,
- "open_avg_pct": 1.12,
+ "win_rate": 0.263,
+ "avg_trade_pct": -3.31,
+ "open_total": 150,
+ "open_avg_pct": 1.13,
  "lanes": [
   {
    "lane": "Equity factor model",
-   "closed": 120,
-   "win_rate": 0.233,
+   "closed": 121,
+   "win_rate": 0.231,
    "avg_win_pct": 13.37,
-   "avg_loss_pct": -8.09,
-   "avg_trade_pct": -3.08
+   "avg_loss_pct": -8.06,
+   "avg_trade_pct": -3.1
   },
   {
    "lane": "Macro ETFs",
@@ -52,6 +52,17 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "GGN",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 5.24,
+   "exit": 4.96,
+   "pnl_pct": -5.34,
+   "opened": "2026-08-08",
+   "closed": "2026-11-03",
+   "exit_reason": "stop"
+  },
   {
    "asset": "CWH",
    "lane": "Equity factor model",
@@ -315,20 +326,13 @@
    "opened": "2026-10-28",
    "closed": "2026-10-30",
    "exit_reason": "target"
-  },
-  {
-   "asset": "BOTZ",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 35.89,
-   "exit": 32.06,
-   "pnl_pct": 10.66,
-   "opened": "2026-09-07",
-   "closed": "2026-10-30",
-   "exit_reason": "target"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "GGN",
+   "pnl_pct": -5.34
+  },
   {
    "asset": "CWH",
    "pnl_pct": -6.78
@@ -564,10 +568,6 @@
   {
    "asset": "DBA",
    "pnl_pct": -5.26
-  },
-  {
-   "asset": "UNG",
-   "pnl_pct": -5.73
   }
  ],
  "best_open": [
@@ -576,45 +576,45 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 67.17,
-   "mark": 60.99,
-   "pnl_pct": 9.19,
+   "mark": 61.12,
+   "pnl_pct": 9.01,
    "opened": "2026-08-27"
-  },
-  {
-   "asset": "HWM",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 206.15,
-   "mark": 223.65,
-   "pnl_pct": 8.49,
-   "opened": "2026-11-02"
   },
   {
    "asset": "IWM",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 279.95,
-   "pnl_pct": 8.18,
+   "mark": 279.61,
+   "pnl_pct": 8.29,
    "opened": "2026-08-15"
+  },
+  {
+   "asset": "HWM",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 206.15,
+   "mark": 223.01,
+   "pnl_pct": 8.18,
+   "opened": "2026-11-02"
+  },
+  {
+   "asset": "FWONK",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 88.77,
+   "mark": 95.57,
+   "pnl_pct": 7.66,
+   "opened": "2026-10-28"
   },
   {
    "asset": "SMH",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 560.14,
-   "mark": 516.95,
-   "pnl_pct": 7.71,
+   "mark": 518.43,
+   "pnl_pct": 7.45,
    "opened": "2026-09-10"
-  },
-  {
-   "asset": "URA",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 35.59,
-   "mark": 32.85,
-   "pnl_pct": 7.7,
-   "opened": "2026-10-29"
   }
  ],
  "worst_open": [
@@ -626,15 +626,6 @@
    "mark": 3.49,
    "pnl_pct": -23.21,
    "opened": "2026-11-02"
-  },
-  {
-   "asset": "GGN",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.24,
-   "mark": 4.98,
-   "pnl_pct": -4.96,
-   "opened": "2026-08-08"
   },
   {
    "asset": "ETH/USD",
@@ -650,8 +641,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 74.86,
-   "mark": 71.66,
-   "pnl_pct": -4.27,
+   "mark": 71.72,
+   "pnl_pct": -4.19,
    "opened": "2026-10-29"
   },
   {
@@ -659,8 +650,17 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 100.49,
-   "mark": 96.53,
-   "pnl_pct": -3.94,
+   "mark": 96.77,
+   "pnl_pct": -3.7,
+   "opened": "2026-10-28"
+  },
+  {
+   "asset": "GLD",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 372.31,
+   "mark": 359.28,
+   "pnl_pct": -3.5,
    "opened": "2026-10-28"
   }
  ],
