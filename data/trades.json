@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-11-03T14:17:29Z",
+ "generated_at": "2026-11-03T15:17:35Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
- "closed_total": 286,
- "excluded_unmarkable": 71,
- "win_rate": 0.266,
- "avg_trade_pct": -3.28,
- "open_total": 156,
- "open_avg_pct": 1.1,
+ "closed_total": 287,
+ "excluded_unmarkable": 74,
+ "win_rate": 0.265,
+ "avg_trade_pct": -3.29,
+ "open_total": 152,
+ "open_avg_pct": 0.97,
  "lanes": [
   {
    "lane": "Equity factor model",
-   "closed": 118,
-   "win_rate": 0.237,
+   "closed": 119,
+   "win_rate": 0.235,
    "avg_win_pct": 13.37,
-   "avg_loss_pct": -8.13,
-   "avg_trade_pct": -3.03
+   "avg_loss_pct": -8.11,
+   "avg_trade_pct": -3.05
   },
   {
    "lane": "Macro ETFs",
@@ -52,6 +52,17 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "OI",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 5.25,
+   "exit": 4.96,
+   "pnl_pct": -5.52,
+   "opened": "2026-11-02",
+   "closed": "2026-11-03",
+   "exit_reason": "stop"
+  },
   {
    "asset": "USO",
    "lane": "Macro ETFs",
@@ -315,20 +326,13 @@
    "opened": "2026-08-27",
    "closed": "2026-10-30",
    "exit_reason": "stop"
-  },
-  {
-   "asset": "NVDA",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 225.16,
-   "exit": 202.36,
-   "pnl_pct": 10.13,
-   "opened": "2026-08-15",
-   "closed": "2026-10-30",
-   "exit_reason": "target"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "OI",
+   "pnl_pct": -5.52
+  },
   {
    "asset": "USO",
    "pnl_pct": -5.21
@@ -564,29 +568,16 @@
   {
    "asset": "WTS",
    "pnl_pct": -5.22
-  },
-  {
-   "asset": "NVDA",
-   "pnl_pct": -5.09
   }
  ],
  "best_open": [
-  {
-   "asset": "LIN",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 478.47,
-   "mark": 519.68,
-   "pnl_pct": 8.61,
-   "opened": "2026-08-17"
-  },
   {
    "asset": "EEM",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 67.17,
-   "mark": 61.42,
-   "pnl_pct": 8.56,
+   "mark": 61.27,
+   "pnl_pct": 8.78,
    "opened": "2026-08-27"
   },
   {
@@ -594,84 +585,93 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 279.58,
-   "pnl_pct": 8.3,
+   "mark": 280.08,
+   "pnl_pct": 8.14,
    "opened": "2026-08-15"
   },
   {
-   "asset": "XLK",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 190.03,
-   "mark": 174.26,
-   "pnl_pct": 8.3,
-   "opened": "2026-08-16"
+   "asset": "XLV",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 171.6,
+   "mark": 184.9,
+   "pnl_pct": 7.75,
+   "opened": "2026-08-27"
   },
   {
-   "asset": "GRID",
+   "asset": "LIN",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 478.47,
+   "mark": 515.23,
+   "pnl_pct": 7.68,
+   "opened": "2026-08-17"
+  },
+  {
+   "asset": "SMH",
    "lane": "Shorts (simulated)",
    "side": "short",
-   "entry": 178.82,
-   "mark": 164.57,
-   "pnl_pct": 7.97,
-   "opened": "2026-09-04"
+   "entry": 560.14,
+   "mark": 518.53,
+   "pnl_pct": 7.43,
+   "opened": "2026-09-10"
   }
  ],
  "worst_open": [
   {
-   "asset": "GGN",
-   "lane": "Equity factor model",
+   "asset": "DIA",
+   "lane": "Options (simulated)",
    "side": "long",
-   "entry": 5.24,
-   "mark": 5.01,
-   "pnl_pct": -4.39,
-   "opened": "2026-08-08"
+   "entry": 4.54,
+   "mark": 3.49,
+   "pnl_pct": -23.21,
+   "opened": "2026-11-02"
   },
   {
    "asset": "ETH/USD",
    "lane": "Crypto",
    "side": "long",
    "entry": 2394.18,
-   "mark": 2290.74,
-   "pnl_pct": -4.32,
+   "mark": 2289.14,
+   "pnl_pct": -4.39,
    "opened": "2026-09-02"
   },
   {
-   "asset": "MSFT",
-   "lane": "Congress disclosures",
+   "asset": "GGN",
+   "lane": "Equity factor model",
    "side": "long",
-   "entry": 527.17,
-   "mark": 507.45,
-   "pnl_pct": -3.74,
+   "entry": 5.24,
+   "mark": 5.02,
+   "pnl_pct": -4.2,
+   "opened": "2026-08-08"
+  },
+  {
+   "asset": "COPX",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 74.86,
+   "mark": 72.15,
+   "pnl_pct": -3.61,
    "opened": "2026-10-29"
   },
   {
-   "asset": "XLK",
+   "asset": "DIA",
    "lane": "Macro ETFs",
    "side": "long",
-   "entry": 180.04,
-   "mark": 174.26,
+   "entry": 533.06,
+   "mark": 515.92,
    "pnl_pct": -3.21,
-   "opened": "2026-08-24"
-  },
-  {
-   "asset": "TSLA",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 394.9,
-   "mark": 406.9,
-   "pnl_pct": -3.04,
-   "opened": "2026-10-30"
+   "opened": "2026-09-03"
   }
  ],
  "book": {
   "mode": "PAPER",
   "inception": "2026-09-25",
   "capital": 69769.61,
-  "nav": 67646.96,
-  "book_pct": -3.04,
-  "spy_pct": -1.37,
-  "days": 27,
+  "nav": 66954.19,
+  "book_pct": -4.04,
+  "spy_pct": -2.08,
+  "days": 28,
   "positions": [
    {
     "symbol": "DBC",
@@ -683,7 +683,7 @@
    },
    {
     "symbol": "EFA",
-    "qty": 76.0
+    "qty": 75.0
    },
    {
     "symbol": "IWM",
@@ -699,15 +699,15 @@
    },
    {
     "symbol": "SSO",
-    "qty": 496.0
+    "qty": 499.0
    },
    {
     "symbol": "UUP",
-    "qty": 528.0
+    "qty": 520.0
    },
    {
     "symbol": "VNQ",
-    "qty": 67.0
+    "qty": 66.0
    }
   ],
   "sleeves": {
@@ -715,7 +715,7 @@
    "T": "15-ETF trend (3/6/9/12m), inverse-vol, 15% vol target, gross <= 1.8, 25% cap"
   },
   "risk": "daily loss -4%: no increases; drawdown -15%: halve; -25%: flat + halt",
-  "shadow_costs": 163.51,
+  "shadow_costs": 164.14,
   "curve": [
    {
     "date": "2026-09-25",
@@ -878,9 +878,43 @@
     "nav": 67646.96,
     "book_pct": -3.04,
     "spy_pct": -1.37
+   },
+   {
+    "date": "2026-11-03",
+    "nav": 66954.19,
+    "book_pct": -4.04,
+    "spy_pct": -2.08
    }
   ],
   "fills": [
+   {
+    "date": "2026-11-03",
+    "symbol": "SSO",
+    "side": "buy",
+    "qty": 3.0,
+    "price": 67.27
+   },
+   {
+    "date": "2026-11-03",
+    "symbol": "VNQ",
+    "side": "sell",
+    "qty": 1.0,
+    "price": 94.54
+   },
+   {
+    "date": "2026-11-03",
+    "symbol": "UUP",
+    "side": "sell",
+    "qty": 8.0,
+    "price": 28.99
+   },
+   {
+    "date": "2026-11-03",
+    "symbol": "EFA",
+    "side": "sell",
+    "qty": 1.0,
+    "price": 103.7
+   },
    {
     "date": "2026-11-02",
     "symbol": "VNQ",
@@ -1027,34 +1061,6 @@
     "side": "sell",
     "qty": 2.0,
     "price": 69.99
-   },
-   {
-    "date": "2026-10-26",
-    "symbol": "UUP",
-    "side": "buy",
-    "qty": 3.0,
-    "price": 29.02
-   },
-   {
-    "date": "2026-10-26",
-    "symbol": "DBC",
-    "side": "buy",
-    "qty": 2.0,
-    "price": 33.78
-   },
-   {
-    "date": "2026-10-26",
-    "symbol": "EFA",
-    "side": "sell",
-    "qty": 1.0,
-    "price": 103.22
-   },
-   {
-    "date": "2026-10-23",
-    "symbol": "SSO",
-    "side": "buy",
-    "qty": 2.0,
-    "price": 68.44
    }
   ],
   "backtest": "Both pre-registered backtests FAILED the bar vs SPY (CAGR 9.32% / 14.08% vs 11.20%; Sharpe 0.58 / 0.61). The book runs to measure, not to claim."
