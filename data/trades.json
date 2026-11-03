@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-03T16:17:36Z",
+ "generated_at": "2026-11-03T17:17:28Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
  "closed_total": 287,
- "excluded_unmarkable": 74,
+ "excluded_unmarkable": 75,
  "win_rate": 0.265,
  "avg_trade_pct": -3.29,
  "open_total": 152,
- "open_avg_pct": 0.97,
+ "open_avg_pct": 1.09,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,17 +576,35 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 67.17,
-   "mark": 61.27,
-   "pnl_pct": 8.78,
+   "mark": 61.2,
+   "pnl_pct": 8.89,
    "opened": "2026-08-27"
+  },
+  {
+   "asset": "HWM",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 206.15,
+   "mark": 223.02,
+   "pnl_pct": 8.19,
+   "opened": "2026-11-02"
+  },
+  {
+   "asset": "FWONK",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 88.77,
+   "mark": 95.83,
+   "pnl_pct": 7.95,
+   "opened": "2026-10-28"
   },
   {
    "asset": "IWM",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 280.08,
-   "pnl_pct": 8.14,
+   "mark": 280.96,
+   "pnl_pct": 7.85,
    "opened": "2026-08-15"
   },
   {
@@ -594,27 +612,9 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 171.6,
-   "mark": 184.9,
-   "pnl_pct": 7.75,
+   "mark": 184.84,
+   "pnl_pct": 7.72,
    "opened": "2026-08-27"
-  },
-  {
-   "asset": "LIN",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 478.47,
-   "mark": 515.23,
-   "pnl_pct": 7.68,
-   "opened": "2026-08-17"
-  },
-  {
-   "asset": "SMH",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 560.14,
-   "mark": 518.53,
-   "pnl_pct": 7.43,
-   "opened": "2026-09-10"
   }
  ],
  "worst_open": [
@@ -628,6 +628,15 @@
    "opened": "2026-11-02"
   },
   {
+   "asset": "GGN",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 5.24,
+   "mark": 4.98,
+   "pnl_pct": -4.96,
+   "opened": "2026-08-08"
+  },
+  {
    "asset": "ETH/USD",
    "lane": "Crypto",
    "side": "long",
@@ -637,31 +646,22 @@
    "opened": "2026-09-02"
   },
   {
-   "asset": "GGN",
+   "asset": "CWH",
    "lane": "Equity factor model",
    "side": "long",
-   "entry": 5.24,
-   "mark": 5.02,
-   "pnl_pct": -4.2,
-   "opened": "2026-08-08"
+   "entry": 5.31,
+   "mark": 5.09,
+   "pnl_pct": -4.05,
+   "opened": "2026-11-02"
   },
   {
    "asset": "COPX",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 74.86,
-   "mark": 72.15,
-   "pnl_pct": -3.61,
+   "mark": 71.91,
+   "pnl_pct": -3.93,
    "opened": "2026-10-29"
-  },
-  {
-   "asset": "DIA",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 533.06,
-   "mark": 515.92,
-   "pnl_pct": -3.21,
-   "opened": "2026-09-03"
   }
  ],
  "book": {
