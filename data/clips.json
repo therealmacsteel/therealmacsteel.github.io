@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-03T17:17:24Z",
- "total_verified": 467,
+ "generated_at": "2026-11-03T18:17:28Z",
+ "total_verified": 468,
  "by_platform": {
+  "tiktok": 130,
   "x": 73,
   "instagram": 131,
-  "tiktok": 129,
   "youtube": 91,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7704001386429566238",
+   "ts": "2026-11-03T17:41:36.373978+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Continuous Learning for Adaptation to Changing Environment \u2192 Autonomous Chatbot Design for Customer Support "
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2117650163078451529",
@@ -220,12 +226,6 @@
    "url": "https://www.youtube.com/shorts/uGjllTYaq_8",
    "ts": "2026-10-29T18:17:15.467495+00:00",
    "caption": "Want a scheduled AI system for your business without a monthly SaaS bill? Five Mac Steel blueprints show you the full setup, from one-topic posts across five platforms in 3 to 8 mi"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfFmiw6CMeg/",
-   "ts": "2026-10-29T18:02:16.567621+00:00",
-   "caption": "7 prompts, not a 200-prompt dump You need routine work to run without you. Mac Steel\u2019s free PDF gives you 7 prompts that keep a real system consistent, unattended and honest. From "
   }
  ]
 }
