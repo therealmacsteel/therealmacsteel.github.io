@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-11-03T15:17:31Z",
- "total_verified": 465,
+ "generated_at": "2026-11-03T16:17:31Z",
+ "total_verified": 467,
  "by_platform": {
+  "x": 73,
+  "instagram": 131,
   "tiktok": 129,
-  "instagram": 130,
-  "x": 72,
   "youtube": 91,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2117650163078451529",
+   "ts": "2026-11-03T16:09:02.799554+00:00",
+   "caption": "Want to turn your long video into 10 posts? Get 25 prompts that turn your content into short clips and blog posts to save hours per video."
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfSQ0BODPVK/",
+   "ts": "2026-11-03T16:01:34.434775+00:00",
+   "caption": "Are you tired of prompt packs that drop raw text and wish you luck? You do not need another list of generic prompts. You need to know how to handle real failure modes before your b"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7703774702354844959",
@@ -214,18 +226,6 @@
    "url": "https://www.instagram.com/p/DfFmiw6CMeg/",
    "ts": "2026-10-29T18:02:16.567621+00:00",
    "caption": "7 prompts, not a 200-prompt dump You need routine work to run without you. Mac Steel\u2019s free PDF gives you 7 prompts that keep a real system consistent, unattended and honest. From "
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7702130567453609247",
-   "ts": "2026-10-29T16:41:38.256349+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Output Formatting for Consistent and Informative Reporting \u2192 Personalizing Agent Identities for Enhanced Engagement \u2192 Agent S"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfFR-kriKiq/",
-   "ts": "2026-10-29T15:01:57.646434+00:00",
-   "caption": "Want your business posting to five platforms in three to eight minutes without a monthly SaaS bill? Mac Steel blueprints give you five technical workflows from a working AI busines"
   }
  ]
 }
