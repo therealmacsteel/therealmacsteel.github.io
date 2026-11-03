@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T19:17:32Z",
+ "generated_at": "2026-11-03T20:17:30Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
@@ -8,7 +8,7 @@
  "win_rate": 0.264,
  "avg_trade_pct": -3.3,
  "open_total": 151,
- "open_avg_pct": 1.17,
+ "open_avg_pct": 1.12,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -572,49 +572,49 @@
  ],
  "best_open": [
   {
-   "asset": "HWM",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 206.15,
-   "mark": 225.18,
-   "pnl_pct": 9.23,
-   "opened": "2026-11-02"
-  },
-  {
    "asset": "EEM",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 67.17,
-   "mark": 61.1,
-   "pnl_pct": 9.03,
+   "mark": 60.99,
+   "pnl_pct": 9.19,
    "opened": "2026-08-27"
   },
   {
-   "asset": "FWONK",
-   "lane": "Congress disclosures",
+   "asset": "HWM",
+   "lane": "Equity factor model",
    "side": "long",
-   "entry": 88.77,
-   "mark": 96.13,
-   "pnl_pct": 8.29,
-   "opened": "2026-10-28"
+   "entry": 206.15,
+   "mark": 223.65,
+   "pnl_pct": 8.49,
+   "opened": "2026-11-02"
   },
   {
    "asset": "IWM",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 281.01,
-   "pnl_pct": 7.84,
+   "mark": 279.95,
+   "pnl_pct": 8.18,
    "opened": "2026-08-15"
   },
   {
-   "asset": "XLV",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 171.6,
-   "mark": 184.94,
-   "pnl_pct": 7.77,
-   "opened": "2026-08-27"
+   "asset": "SMH",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 560.14,
+   "mark": 516.95,
+   "pnl_pct": 7.71,
+   "opened": "2026-09-10"
+  },
+  {
+   "asset": "URA",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 35.59,
+   "mark": 32.85,
+   "pnl_pct": 7.7,
+   "opened": "2026-10-29"
   }
  ],
  "worst_open": [
@@ -650,8 +650,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 74.86,
-   "mark": 71.85,
-   "pnl_pct": -4.01,
+   "mark": 71.66,
+   "pnl_pct": -4.27,
    "opened": "2026-10-29"
   },
   {
@@ -659,8 +659,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 100.49,
-   "mark": 97.03,
-   "pnl_pct": -3.44,
+   "mark": 96.53,
+   "pnl_pct": -3.94,
    "opened": "2026-10-28"
   }
  ],
