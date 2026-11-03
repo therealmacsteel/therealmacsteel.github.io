@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-03T02:17:29Z",
- "total_verified": 464,
+ "generated_at": "2026-11-03T03:17:28Z",
+ "total_verified": 465,
  "by_platform": {
-  "tiktok": 128,
+  "tiktok": 129,
   "instagram": 130,
   "x": 72,
   "youtube": 91,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7703774702354844959",
+   "ts": "2026-11-03T03:01:19.175983+00:00",
+   "caption": "Got 7 prompts that can lock your solo business workflow? You can run scheduled jobs, get daily status reports, and self\u2011heal errors without lifting a finger. The guide is a free 6\u2011"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7703729120311512351",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DfFR-kriKiq/",
    "ts": "2026-10-29T15:01:57.646434+00:00",
    "caption": "Want your business posting to five platforms in three to eight minutes without a monthly SaaS bill? Mac Steel blueprints give you five technical workflows from a working AI busines"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7701857884237286686",
-   "ts": "2026-10-28T23:03:02.219226+00:00",
-   "caption": "Want your chatbot to hold better conversations? Try 25 proven prompts for chatbot dialogue from Mac Steel. Make every reply feel more human for your business."
   }
  ]
 }
