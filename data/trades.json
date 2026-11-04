@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T21:17:32Z",
+ "generated_at": "2026-11-04T22:17:31Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
@@ -7,8 +7,8 @@
  "excluded_unmarkable": 80,
  "win_rate": 0.257,
  "avg_trade_pct": -3.29,
- "open_total": 143,
- "open_avg_pct": 1.58,
+ "open_total": 144,
+ "open_avg_pct": 1.54,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -572,6 +572,15 @@
  ],
  "best_open": [
   {
+   "asset": "SPY",
+   "lane": "Options (simulated)",
+   "side": "long",
+   "entry": 4.91,
+   "mark": 5.78,
+   "pnl_pct": 17.62,
+   "opened": "2026-11-04"
+  },
+  {
    "asset": "LIN",
    "lane": "Equity factor model",
    "side": "long",
@@ -606,18 +615,18 @@
    "mark": 188.28,
    "pnl_pct": 8.86,
    "opened": "2026-08-31"
-  },
-  {
-   "asset": "VIXY",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 17.92,
-   "mark": 16.38,
-   "pnl_pct": 8.59,
-   "opened": "2026-11-02"
   }
  ],
  "worst_open": [
+  {
+   "asset": "IWM",
+   "lane": "Options (simulated)",
+   "side": "long",
+   "entry": 4.84,
+   "mark": 3.48,
+   "pnl_pct": -28.1,
+   "opened": "2026-11-04"
+  },
   {
    "asset": "DBC",
    "lane": "Macro ETFs",
@@ -653,15 +662,6 @@
    "mark": 122.3,
    "pnl_pct": -3.46,
    "opened": "2026-08-17"
-  },
-  {
-   "asset": "IAU",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 73.86,
-   "mark": 76.36,
-   "pnl_pct": -3.38,
-   "opened": "2026-10-30"
   }
  ],
  "book": {
