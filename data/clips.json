@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-04T02:17:21Z",
- "total_verified": 470,
+ "generated_at": "2026-11-04T03:17:24Z",
+ "total_verified": 471,
  "by_platform": {
-  "tiktok": 131,
+  "tiktok": 132,
   "instagram": 132,
   "x": 73,
   "youtube": 91,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7704146741213302047",
+   "ts": "2026-11-04T03:05:16.515462+00:00",
+   "caption": "Want 25 fresh posts from a single video? Your long video can become short clips, blog posts and more with Mac Steel\u2019s 25 repurposing prompts, saving you hours per video while keepi"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7704078716988591390",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7702275463187549470",
    "ts": "2026-10-30T02:03:23.891456+00:00",
    "caption": "7 prompts, not a 200-prompt dump You can keep your routine work running unattended with Mac Steel's 7 Prompts. Each prompt includes why it works, and the PDF is 6 pages. This keeps"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7702229354960424222",
-   "ts": "2026-10-29T23:04:15.839838+00:00",
-   "caption": "Want to schedule five AI workflows without a monthly platform fee? The Mac Steel blueprint pack gives you five technical blueprints pulled from a working system. Blueprint 01 turns"
   }
  ]
 }
