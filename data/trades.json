@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T20:17:28Z",
+ "generated_at": "2026-11-04T21:17:32Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
@@ -7,8 +7,8 @@
  "excluded_unmarkable": 80,
  "win_rate": 0.257,
  "avg_trade_pct": -3.29,
- "open_total": 142,
- "open_avg_pct": 1.59,
+ "open_total": 143,
+ "open_avg_pct": 1.58,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -572,49 +572,49 @@
  ],
  "best_open": [
   {
-   "asset": "MSFT",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 507.59,
-   "mark": 558.3,
-   "pnl_pct": 9.99,
-   "opened": "2026-11-02"
-  },
-  {
    "asset": "LIN",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 478.47,
-   "mark": 525.19,
-   "pnl_pct": 9.76,
+   "mark": 524.85,
+   "pnl_pct": 9.69,
    "opened": "2026-08-17"
+  },
+  {
+   "asset": "MSFT",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 507.59,
+   "mark": 556.07,
+   "pnl_pct": 9.55,
+   "opened": "2026-11-02"
   },
   {
    "asset": "GRID",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 178.82,
-   "mark": 162.17,
+   "mark": 162.18,
    "pnl_pct": 9.31,
    "opened": "2026-09-04"
-  },
-  {
-   "asset": "VIXY",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 17.92,
-   "mark": 16.36,
-   "pnl_pct": 8.71,
-   "opened": "2026-11-02"
   },
   {
    "asset": "ENSG",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 172.96,
-   "mark": 187.47,
-   "pnl_pct": 8.39,
+   "mark": 188.28,
+   "pnl_pct": 8.86,
    "opened": "2026-08-31"
+  },
+  {
+   "asset": "VIXY",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 17.92,
+   "mark": 16.38,
+   "pnl_pct": 8.59,
+   "opened": "2026-11-02"
   }
  ],
  "worst_open": [
@@ -623,8 +623,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 32.8,
-   "mark": 31.25,
-   "pnl_pct": -4.74,
+   "mark": 31.27,
+   "pnl_pct": -4.65,
    "opened": "2026-11-02"
   },
   {
@@ -632,8 +632,8 @@
    "lane": "Congress disclosures",
    "side": "long",
    "entry": 413.51,
-   "mark": 394.61,
-   "pnl_pct": -4.57,
+   "mark": 395.57,
+   "pnl_pct": -4.34,
    "opened": "2026-10-30"
   },
   {
@@ -641,27 +641,27 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 41.8,
-   "mark": 43.43,
-   "pnl_pct": -3.9,
+   "mark": 43.49,
+   "pnl_pct": -4.06,
    "opened": "2026-10-29"
-  },
-  {
-   "asset": "XLP",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 88.96,
-   "mark": 92.14,
-   "pnl_pct": -3.57,
-   "opened": "2026-11-03"
   },
   {
    "asset": "XLY",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 118.2,
-   "mark": 122.38,
-   "pnl_pct": -3.53,
+   "mark": 122.3,
+   "pnl_pct": -3.46,
    "opened": "2026-08-17"
+  },
+  {
+   "asset": "IAU",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 73.86,
+   "mark": 76.36,
+   "pnl_pct": -3.38,
+   "opened": "2026-10-30"
   }
  ],
  "book": {
