@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-04T12:17:25Z",
- "total_verified": 472,
+ "generated_at": "2026-11-04T13:17:25Z",
+ "total_verified": 473,
  "by_platform": {
+  "x": 74,
   "instagram": 133,
   "tiktok": 132,
-  "x": 73,
   "youtube": 91,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2117967253622927430",
+   "ts": "2026-11-04T13:09:02.484058+00:00",
+   "caption": "Want better chatbot conversations? Try 25 proven prompts for dialogue that keeps people talking."
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DfSKAEOiCRM/",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7702501545614544159",
    "ts": "2026-10-30T16:41:45.444417+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Vid"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfH2xFHjgdC/",
-   "ts": "2026-10-30T15:01:35.355566+00:00",
-   "caption": "Stop paying for hosted AI. Run yours 24/7 on hardware you already own. Mac Steel Build Your Own Agent Stack is a 14 page guide in six sections, written from a system that actually "
   }
  ]
 }
