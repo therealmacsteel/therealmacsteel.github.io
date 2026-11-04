@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-04T03:17:24Z",
- "total_verified": 471,
+ "generated_at": "2026-11-04T04:17:23Z",
+ "total_verified": 472,
  "by_platform": {
+  "instagram": 133,
   "tiktok": 132,
-  "instagram": 132,
   "x": 73,
   "youtube": 91,
   "podcast": 11,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfSKAEOiCRM/",
+   "ts": "2026-11-04T03:40:02.753172+00:00",
+   "caption": ""
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7704146741213302047",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DfH2xFHjgdC/",
    "ts": "2026-10-30T15:01:35.355566+00:00",
    "caption": "Stop paying for hosted AI. Run yours 24/7 on hardware you already own. Mac Steel Build Your Own Agent Stack is a 14 page guide in six sections, written from a system that actually "
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7702275463187549470",
-   "ts": "2026-10-30T02:03:23.891456+00:00",
-   "caption": "7 prompts, not a 200-prompt dump You can keep your routine work running unattended with Mac Steel's 7 Prompts. Each prompt includes why it works, and the PDF is 6 pages. This keeps"
   }
  ]
 }
