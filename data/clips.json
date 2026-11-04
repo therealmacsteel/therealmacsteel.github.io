@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-04T18:17:25Z",
- "total_verified": 475,
+ "generated_at": "2026-11-04T19:17:24Z",
+ "total_verified": 476,
  "by_platform": {
+  "instagram": 135,
   "tiktok": 133,
-  "instagram": 134,
   "x": 74,
   "youtube": 91,
   "podcast": 11,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfVKLW_CMRV/",
+   "ts": "2026-11-04T19:01:33.448592+00:00",
+   "caption": "7 prompts, not a 200-prompt dump. Want your assistant to behave the same on job 400 as on job 1? Your routine work can run unattended and honest with Mac Steel's 7 Prompts. One har"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7704372571617168671",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7702592671017192735",
    "ts": "2026-10-31T02:40:02.505993+00:00",
    "caption": ""
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7702600177978264862",
-   "ts": "2026-10-30T23:03:28.094180+00:00",
-   "caption": "Prompt packs that just dump text and say good luck? You need 25 prompts, each with when to use it, expected output, failure mode, and tip. One health check looked fine until the br"
   }
  ]
 }
