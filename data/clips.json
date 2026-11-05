@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-05T12:17:23Z",
- "total_verified": 478,
+ "generated_at": "2026-11-05T13:17:24Z",
+ "total_verified": 479,
  "by_platform": {
+  "x": 75,
   "tiktok": 135,
   "instagram": 135,
-  "x": 74,
   "youtube": 91,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2118329660060631165",
+   "ts": "2026-11-05T13:09:14.186954+00:00",
+   "caption": "Want to turn your next video into 10 social posts? Get 25 prompts that turn a long video into short clips and blog posts to save hours per video."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7704517765998152991",
@@ -220,12 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2116547910859129158",
    "ts": "2026-10-31T15:09:05.539862+00:00",
    "caption": "Ready to connect your AI scripts into a scheduled system? Get 5 blueprints from Mac Steel with setup steps, Python 3.9+ code, and a 5-job schedule to run workflows in 3 to 8 minute"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfKbjvpiByz/",
-   "ts": "2026-10-31T15:01:35.493996+00:00",
-   "caption": "Are you ready to transform your chatbot with 25 prompts? If your conversational AI feels dull, you can instantly improve how it speaks to your audience. Mac Steel offers 25 prompts"
   }
  ]
 }
