@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-05T18:17:25Z",
- "total_verified": 482,
+ "generated_at": "2026-11-05T19:17:26Z",
+ "total_verified": 483,
  "by_platform": {
+  "instagram": 137,
   "tiktok": 136,
   "x": 76,
-  "instagram": 136,
   "youtube": 91,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfXu-VPFQrd/",
+   "ts": "2026-11-05T19:01:10.180149+00:00",
+   "caption": "7 prompts keep your routine work consistent? You can copy the same seven prompts that power a real system and run them unattended. Each prompt locks in a role, output format, and a"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7704743679302405406",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7702971238297210143",
    "ts": "2026-10-31T23:03:27.012640+00:00",
    "caption": "Can 25 prompts completely transform your chatbot conversations? If you want better dialogue for your chatbot, you need the right framework. Mac Steel offers 25 prompts for conversa"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7702950008278060319",
-   "ts": "2026-10-31T21:41:35.046057+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Write Email Newsletters from Video Segments \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes fo"
   }
  ]
 }
