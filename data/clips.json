@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-05T17:17:25Z",
- "total_verified": 481,
+ "generated_at": "2026-11-05T18:17:25Z",
+ "total_verified": 482,
  "by_platform": {
+  "tiktok": 136,
   "x": 76,
   "instagram": 136,
-  "tiktok": 135,
   "youtube": 91,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7704743679302405406",
+   "ts": "2026-11-05T17:41:56.083923+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOU"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2118374950331646027",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7702950008278060319",
    "ts": "2026-10-31T21:41:35.046057+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Write Email Newsletters from Video Segments \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes fo"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfKwH3ujVHJ/",
-   "ts": "2026-10-31T18:01:13.956883+00:00",
-   "caption": "Can your setup turn one topic into posts across platforms in 3 to 8 minutes? If you have written basic scripts but want to see how a full scheduled system fits together, Mac Steel "
   }
  ]
 }
