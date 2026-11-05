@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-05T22:17:29Z",
- "total_verified": 483,
+ "generated_at": "2026-11-05T23:17:27Z",
+ "total_verified": 484,
  "by_platform": {
+  "tiktok": 137,
   "instagram": 137,
-  "tiktok": 136,
   "x": 76,
   "youtube": 91,
   "podcast": 11,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7704820938642132254",
+   "ts": "2026-11-05T22:41:43.507239+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DfXu-VPFQrd/",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7703017904945515806",
    "ts": "2026-11-01T02:04:32.802988+00:00",
    "caption": "Ready to turn your basic AI scripts into 5 full scheduled workflows? See how Mac Steel structures a complete system using Python 3.9 and direct upload APIs. You get 5 technical blu"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7702971238297210143",
-   "ts": "2026-10-31T23:03:27.012640+00:00",
-   "caption": "Can 25 prompts completely transform your chatbot conversations? If you want better dialogue for your chatbot, you need the right framework. Mac Steel offers 25 prompts for conversa"
   }
  ]
 }
