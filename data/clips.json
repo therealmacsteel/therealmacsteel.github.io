@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-05T02:17:25Z",
- "total_verified": 477,
+ "generated_at": "2026-11-05T03:17:25Z",
+ "total_verified": 478,
  "by_platform": {
-  "tiktok": 134,
+  "tiktok": 135,
   "instagram": 135,
   "x": 74,
   "youtube": 91,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7704517765998152991",
+   "ts": "2026-11-05T03:04:49.572676+00:00",
+   "caption": "Want 7 prompts that run your routine work unattended, job after job? Use them for identity, scheduling, scoring, healing, routing, and daily status. Stop rebuilding prompts every t"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7704471073873480991",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DfKbjvpiByz/",
    "ts": "2026-10-31T15:01:35.493996+00:00",
    "caption": "Are you ready to transform your chatbot with 25 prompts? If your conversational AI feels dull, you can instantly improve how it speaks to your audience. Mac Steel offers 25 prompts"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2116502607690658036",
-   "ts": "2026-10-31T12:09:03.799728+00:00",
-   "caption": "Want 25 prompts to make your chatbot dialogues far more engaging? Turn your chatbot into a conversational partner using Mac Steel dialogue guides."
   }
  ]
 }
