@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-05T21:17:32Z",
+ "generated_at": "2026-11-05T22:17:33Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
- "regime": "mixed_or_choppy",
+ "regime": "risk_off",
  "closed_total": 347,
  "excluded_unmarkable": 80,
  "win_rate": 0.277,
  "avg_trade_pct": -2.79,
- "open_total": 134,
- "open_avg_pct": 0.7,
+ "open_total": 140,
+ "open_avg_pct": 0.57,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,9 +576,18 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 68.23,
-   "mark": 61.69,
-   "pnl_pct": 9.59,
+   "mark": 61.63,
+   "pnl_pct": 9.67,
    "opened": "2026-10-28"
+  },
+  {
+   "asset": "PSQ",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 26.05,
+   "mark": 28.36,
+   "pnl_pct": 8.87,
+   "opened": "2026-09-01"
   },
   {
    "asset": "EWY",
@@ -588,15 +597,6 @@
    "mark": 132.45,
    "pnl_pct": 8.85,
    "opened": "2026-11-05"
-  },
-  {
-   "asset": "PSQ",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 26.05,
-   "mark": 28.31,
-   "pnl_pct": 8.68,
-   "opened": "2026-09-01"
   },
   {
    "asset": "DBA",
@@ -637,12 +637,21 @@
    "opened": "2026-11-04"
   },
   {
+   "asset": "ETH/USD",
+   "lane": "Crypto",
+   "side": "long",
+   "entry": 2394.18,
+   "mark": 2226.81,
+   "pnl_pct": -6.99,
+   "opened": "2026-09-02"
+  },
+  {
    "asset": "SPY",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 767.99,
-   "mark": 732.3,
-   "pnl_pct": -4.65,
+   "mark": 731.0,
+   "pnl_pct": -4.82,
    "opened": "2026-11-04"
   },
   {
@@ -650,17 +659,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 767.93,
-   "mark": 732.3,
-   "pnl_pct": -4.64,
-   "opened": "2026-11-04"
-  },
-  {
-   "asset": "SPY",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 767.93,
-   "mark": 732.3,
-   "pnl_pct": -4.64,
+   "mark": 731.0,
+   "pnl_pct": -4.81,
    "opened": "2026-11-04"
   }
  ],
