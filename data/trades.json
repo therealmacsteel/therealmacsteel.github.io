@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-05T13:17:29Z",
+ "generated_at": "2026-11-05T14:17:34Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
- "closed_total": 307,
+ "closed_total": 310,
  "excluded_unmarkable": 80,
- "win_rate": 0.257,
- "avg_trade_pct": -3.29,
+ "win_rate": 0.258,
+ "avg_trade_pct": -3.27,
  "open_total": 144,
- "open_avg_pct": 1.54,
+ "open_avg_pct": 1.55,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -28,19 +28,19 @@
   },
   {
    "lane": "Shorts (simulated)",
-   "closed": 62,
-   "win_rate": 0.468,
-   "avg_win_pct": 13.21,
+   "closed": 63,
+   "win_rate": 0.476,
+   "avg_win_pct": 13.12,
    "avg_loss_pct": -6.36,
-   "avg_trade_pct": 2.8
+   "avg_trade_pct": 2.92
   },
   {
    "lane": "Congress disclosures",
-   "closed": 28,
-   "win_rate": 0.25,
+   "closed": 30,
+   "win_rate": 0.233,
    "avg_win_pct": 11.24,
-   "avg_loss_pct": -6.9,
-   "avg_trade_pct": -2.36
+   "avg_loss_pct": -6.82,
+   "avg_trade_pct": -2.6
   },
   {
    "lane": "Options (simulated)",
@@ -52,6 +52,39 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "MU",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 798.0,
+   "exit": 755.48,
+   "pnl_pct": -5.33,
+   "opened": "2026-11-04",
+   "closed": "2026-11-05",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "TSM",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 413.51,
+   "exit": 386.22,
+   "pnl_pct": -6.6,
+   "opened": "2026-10-30",
+   "closed": "2026-11-05",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "EWY",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 162.7,
+   "exit": 145.31,
+   "pnl_pct": 10.69,
+   "opened": "2026-10-28",
+   "closed": "2026-11-05",
+   "exit_reason": "target"
+  },
   {
    "asset": "MU",
    "lane": "Congress disclosures",
@@ -293,42 +326,21 @@
    "opened": "2026-10-28",
    "closed": "2026-11-03",
    "exit_reason": "stop"
-  },
-  {
-   "asset": "USO",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 163.62,
-   "exit": 155.1,
-   "pnl_pct": -5.21,
-   "opened": "2026-10-28",
-   "closed": "2026-11-03",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "EWZ",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 33.61,
-   "exit": 31.8,
-   "pnl_pct": -5.39,
-   "opened": "2026-10-28",
-   "closed": "2026-11-03",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "ACCO",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.78,
-   "exit": 5.45,
-   "pnl_pct": -5.71,
-   "opened": "2026-11-02",
-   "closed": "2026-11-02",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "MU",
+   "pnl_pct": -5.33
+  },
+  {
+   "asset": "TSM",
+   "pnl_pct": -6.6
+  },
+  {
+   "asset": "EWY",
+   "pnl_pct": 10.69
+  },
   {
    "asset": "MU",
    "pnl_pct": -5.14
@@ -556,18 +568,6 @@
   {
    "asset": "TSM",
    "pnl_pct": -5.35
-  },
-  {
-   "asset": "USO",
-   "pnl_pct": 10.32
-  },
-  {
-   "asset": "USO",
-   "pnl_pct": 10.32
-  },
-  {
-   "asset": "INTC",
-   "pnl_pct": -5.52
   }
  ],
  "best_open": [
@@ -594,9 +594,18 @@
    "lane": "Congress disclosures",
    "side": "long",
    "entry": 507.59,
-   "mark": 556.07,
-   "pnl_pct": 9.55,
+   "mark": 556.68,
+   "pnl_pct": 9.67,
    "opened": "2026-11-02"
+  },
+  {
+   "asset": "EEM",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 67.17,
+   "mark": 60.77,
+   "pnl_pct": 9.53,
+   "opened": "2026-08-27"
   },
   {
    "asset": "GRID",
@@ -606,15 +615,6 @@
    "mark": 162.18,
    "pnl_pct": 9.31,
    "opened": "2026-09-04"
-  },
-  {
-   "asset": "ENSG",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 172.96,
-   "mark": 188.28,
-   "pnl_pct": 8.86,
-   "opened": "2026-08-31"
   }
  ],
  "worst_open": [
@@ -637,30 +637,30 @@
    "opened": "2026-11-02"
   },
   {
-   "asset": "EWG",
+   "asset": "XLP",
    "lane": "Shorts (simulated)",
    "side": "short",
-   "entry": 41.8,
-   "mark": 43.49,
-   "pnl_pct": -4.06,
-   "opened": "2026-10-29"
+   "entry": 88.96,
+   "mark": 93.03,
+   "pnl_pct": -4.58,
+   "opened": "2026-11-03"
   },
   {
-   "asset": "TSM",
+   "asset": "NVDA",
    "lane": "Congress disclosures",
    "side": "long",
-   "entry": 413.51,
-   "mark": 397.01,
-   "pnl_pct": -3.99,
+   "entry": 205.9,
+   "mark": 196.52,
+   "pnl_pct": -4.56,
    "opened": "2026-10-30"
   },
   {
-   "asset": "META",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 610.55,
-   "mark": 633.33,
-   "pnl_pct": -3.73,
+   "asset": "SPCX",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 137.99,
+   "mark": 131.92,
+   "pnl_pct": -4.4,
    "opened": "2026-10-30"
   }
  ],
