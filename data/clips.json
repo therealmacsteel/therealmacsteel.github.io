@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-11-05T15:17:26Z",
- "total_verified": 479,
+ "generated_at": "2026-11-05T16:17:29Z",
+ "total_verified": 481,
  "by_platform": {
-  "x": 75,
+  "x": 76,
+  "instagram": 136,
   "tiktok": 135,
-  "instagram": 135,
   "youtube": 91,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2118374950331646027",
+   "ts": "2026-11-05T16:09:05.679804+00:00",
+   "caption": "7 prompts keep your AI work consistent? Mac Steel\u2019s free PDF gives you the exact prompts for identity, scheduling, lead scoring, self\u2011heal, routing, and daily status."
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfXaZrWDGy4/",
+   "ts": "2026-11-05T16:02:03.828395+00:00",
+   "caption": "Want to get 10 posts out of your next video? When you put hard work into producing a long video, publishing it a single time is not enough. You can easily turn your footage into sh"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2118329660060631165",
@@ -214,18 +226,6 @@
    "url": "https://www.instagram.com/p/DfKwH3ujVHJ/",
    "ts": "2026-10-31T18:01:13.956883+00:00",
    "caption": "Can your setup turn one topic into posts across platforms in 3 to 8 minutes? If you have written basic scripts but want to see how a full scheduled system fits together, Mac Steel "
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7702872716960927006",
-   "ts": "2026-10-31T16:41:42.065756+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Training Data Generation \u2192 Autonomous Agent Evaluation Metrics for Effective Performance Assessment \u2192 Error "
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2116547910859129158",
-   "ts": "2026-10-31T15:09:05.539862+00:00",
-   "caption": "Ready to connect your AI scripts into a scheduled system? Get 5 blueprints from Mac Steel with setup steps, Python 3.9+ code, and a 5-job schedule to run workflows in 3 to 8 minute"
   }
  ]
 }
