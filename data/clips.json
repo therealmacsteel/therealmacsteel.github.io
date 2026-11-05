@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-04T23:17:30Z",
- "total_verified": 476,
+ "generated_at": "2026-11-05T00:17:25Z",
+ "total_verified": 477,
  "by_platform": {
+  "tiktok": 134,
   "instagram": 135,
-  "tiktok": 133,
   "x": 74,
   "youtube": 91,
   "podcast": 11,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7704471073873480991",
+   "ts": "2026-11-05T00:03:32.989352+00:00",
+   "caption": "Your chatbot answers fast, but does it actually keep people talking? Use Mac Steel's 25 proven prompts for chatbot dialogue to make every reply feel human and helpful. Write warmer"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DfVKLW_CMRV/",
@@ -220,12 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2116502607690658036",
    "ts": "2026-10-31T12:09:03.799728+00:00",
    "caption": "Want 25 prompts to make your chatbot dialogues far more engaging? Turn your chatbot into a conversational partner using Mac Steel dialogue guides."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7702592671017192735",
-   "ts": "2026-10-31T02:40:02.505993+00:00",
-   "caption": ""
   }
  ]
 }
