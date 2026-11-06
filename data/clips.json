@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-05T23:17:27Z",
- "total_verified": 484,
+ "generated_at": "2026-11-06T00:17:24Z",
+ "total_verified": 485,
  "by_platform": {
-  "tiktok": 137,
+  "tiktok": 138,
   "instagram": 137,
   "x": 76,
   "youtube": 91,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7704842635826990367",
+   "ts": "2026-11-06T00:05:21.362029+00:00",
+   "caption": "Want to turn long videos into 10 social posts? Stop wasting time editing from scratch. You can use 25 repurposing prompts to turn your long videos into short clips, blog posts, and"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7704820938642132254",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DfNHNurDZZr/",
    "ts": "2026-11-01T16:01:29.545977+00:00",
    "caption": "Are you tired of prompt packs that hand over text and wish you luck? Most templates leave your workflow stranded when real edge cases hit. Think of a health check that reports heal"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7703017904945515806",
-   "ts": "2026-11-01T02:04:32.802988+00:00",
-   "caption": "Ready to turn your basic AI scripts into 5 full scheduled workflows? See how Mac Steel structures a complete system using Python 3.9 and direct upload APIs. You get 5 technical blu"
   }
  ]
 }
