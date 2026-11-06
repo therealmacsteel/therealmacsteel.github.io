@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-06T17:17:25Z",
- "total_verified": 489,
+ "generated_at": "2026-11-06T18:17:27Z",
+ "total_verified": 490,
  "by_platform": {
+  "tiktok": 140,
   "x": 78,
   "instagram": 138,
-  "tiktok": 139,
   "youtube": 91,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7705114637410241823",
+   "ts": "2026-11-06T17:41:35.275192+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Personalizing Agent Identities for Enhanced Engagement \u2192 Agent Self-Improvement through Feedback Loops \u2192 Caching Strategies f"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2118737318760923532",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7703357876143721758",
    "ts": "2026-11-02T00:03:53.305005+00:00",
    "caption": "Tired of copy-pasting 25 lazy prompts that break on your real workflows? Most templates just hand over text and wish your business luck. The Agent Prompt Pack from Mac Steel gives "
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/Hl7iQwxRN_I",
-   "ts": "2026-11-01T22:17:20.062948+00:00",
-   "caption": "Want a 14 page build guide to run an AI system 24/7 on hardware you own? You can run your own self-hosted setup that works around the clock. Build Your Own Agent Stack breaks it do"
   }
  ]
 }
