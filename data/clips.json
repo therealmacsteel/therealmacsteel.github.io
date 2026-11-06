@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-06T12:17:24Z",
- "total_verified": 486,
+ "generated_at": "2026-11-06T13:17:26Z",
+ "total_verified": 487,
  "by_platform": {
+  "x": 77,
   "tiktok": 139,
   "instagram": 137,
-  "x": 76,
   "youtube": 91,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2118692596533084483",
+   "ts": "2026-11-06T13:11:17.867728+00:00",
+   "caption": "Want 25 proven prompts to make your chatbot sound human? Your conversations will engage more users with Mac Steel's 25 Proven Prompts."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7704888494962871583",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DfNbygpiAS_/",
    "ts": "2026-11-01T19:01:19.829953+00:00",
    "caption": "Want a 24/7 AI system running on hardware you already own? Build Your Own Agent Stack gives you a 14-page guide across 6 sections to deploy a self-hosted setup that works around th"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7703259308485610783",
-   "ts": "2026-11-01T18:33:43.301832+00:00",
-   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
   }
  ]
 }
