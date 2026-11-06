@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-11-06T15:17:27Z",
- "total_verified": 487,
+ "generated_at": "2026-11-06T16:17:27Z",
+ "total_verified": 489,
  "by_platform": {
-  "x": 77,
+  "x": 78,
+  "instagram": 138,
   "tiktok": 139,
-  "instagram": 137,
   "youtube": 91,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2118737318760923532",
+   "ts": "2026-11-06T16:09:02.444883+00:00",
+   "caption": "You need 7 prompts for reliable work. Get the Agent Identity Brief that keeps your assistant consistent from job 1 to job 400."
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfZ_MoCjXUR/",
+   "ts": "2026-11-06T16:01:33.481767+00:00",
+   "caption": "25 prompts to turn your chatbot into a conversation pro You\u2019ve built the logic, but the dialogue still feels stiff. Mac Steel\u2019s 25 proven prompts give you ready-to-use patterns for"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2118692596533084483",
@@ -214,18 +226,6 @@
    "url": "https://www.youtube.com/shorts/Hl7iQwxRN_I",
    "ts": "2026-11-01T22:17:20.062948+00:00",
    "caption": "Want a 14 page build guide to run an AI system 24/7 on hardware you own? You can run your own self-hosted setup that works around the clock. Build Your Own Agent Stack breaks it do"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/uZKkorR9rB0",
-   "ts": "2026-11-01T19:17:22.519882+00:00",
-   "caption": "Are you tired of prompt packs that drop raw text and wish you good luck? When you build AI tools for your business, bare text templates leave you guessing. The Mac Steel Agent Prom"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfNbygpiAS_/",
-   "ts": "2026-11-01T19:01:19.829953+00:00",
-   "caption": "Want a 24/7 AI system running on hardware you already own? Build Your Own Agent Stack gives you a 14-page guide across 6 sections to deploy a self-hosted setup that works around th"
   }
  ]
 }
