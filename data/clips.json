@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-06T02:17:25Z",
- "total_verified": 485,
+ "generated_at": "2026-11-06T03:17:24Z",
+ "total_verified": 486,
  "by_platform": {
-  "tiktok": 138,
+  "tiktok": 139,
   "instagram": 137,
   "x": 76,
   "youtube": 91,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7704888494962871583",
+   "ts": "2026-11-06T03:03:57.432676+00:00",
+   "caption": "7 prompts keep your routine work consistent? You get a 6\u2011page PDF from Mac Steel that shows each prompt and why it works. Copy the 7 prompts into your workflow and watch the drift "
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7704842635826990367",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7703259308485610783",
    "ts": "2026-11-01T18:33:43.301832+00:00",
    "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfNHNurDZZr/",
-   "ts": "2026-11-01T16:01:29.545977+00:00",
-   "caption": "Are you tired of prompt packs that hand over text and wish you luck? Most templates leave your workflow stranded when real edge cases hit. Think of a health check that reports heal"
   }
  ]
 }
