@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-06T18:17:27Z",
- "total_verified": 490,
+ "generated_at": "2026-11-06T19:17:23Z",
+ "total_verified": 491,
  "by_platform": {
+  "instagram": 139,
   "tiktok": 140,
   "x": 78,
-  "instagram": 138,
   "youtube": 91,
   "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfaUZjCihnK/",
+   "ts": "2026-11-06T19:06:54.835358+00:00",
+   "caption": "7 prompts that keep your solo business running unattended \u2013 ready to test? You can set a Scheduled Task Specification so a routine runs without you lifting a finger, and the Daily "
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7705114637410241823",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7703404411690716446",
    "ts": "2026-11-02T03:04:26.351534+00:00",
    "caption": "Can you run a self-hosted AI system 24/7 on hardware you already own? Build Your Own Agent Stack by Mac Steel gives you a 14 page guide across 6 sections. You get the exact .env se"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7703357876143721758",
-   "ts": "2026-11-02T00:03:53.305005+00:00",
-   "caption": "Tired of copy-pasting 25 lazy prompts that break on your real workflows? Most templates just hand over text and wish your business luck. The Agent Prompt Pack from Mac Steel gives "
   }
  ]
 }
