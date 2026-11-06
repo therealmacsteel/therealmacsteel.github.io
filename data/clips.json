@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-06T22:17:24Z",
- "total_verified": 491,
+ "generated_at": "2026-11-06T23:17:27Z",
+ "total_verified": 492,
  "by_platform": {
+  "podcast": 12,
   "instagram": 139,
   "tiktok": 140,
   "x": 78,
   "youtube": 91,
-  "podcast": 11,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "podcast",
+   "url": "https://therealmacsteel.github.io/podcast/weekly-2026-11-06.html",
+   "ts": "2026-11-06T22:52:50.910974+00:00",
+   "caption": "Steel Trades Weekly: Book -5.12% vs SPY -3.31%"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DfaUZjCihnK/",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7703336552545439007",
    "ts": "2026-11-02T03:40:04.219618+00:00",
    "caption": ""
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7703404411690716446",
-   "ts": "2026-11-02T03:04:26.351534+00:00",
-   "caption": "Can you run a self-hosted AI system 24/7 on hardware you already own? Build Your Own Agent Stack by Mac Steel gives you a 14 page guide across 6 sections. You get the exact .env se"
   }
  ]
 }

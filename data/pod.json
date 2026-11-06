@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-11-06T22:17:29Z",
- "total": 46,
+ "generated_at": "2026-11-06T23:17:31Z",
+ "total": 47,
  "feed": "/podcast/feed.xml",
  "items": [
+  {
+   "title": "Steel Trades Weekly: Book -5.12% vs SPY -3.31%",
+   "date": "2026-11-06",
+   "url": "/podcast/weekly-2026-11-06.html",
+   "audio": "/podcast/audio/weekly-2026-11-06.mp3",
+   "summary": "This week the Steel Trades paper book was -5.12% versus SPY at -3.31%. The SSO position sits at 495 shares, average cost $70.10, now $63.85, a loss of 8.92%. In the agents' shadow lane we closed 106 trades, 31 were "
+  },
   {
    "title": "Week 4: Book -2.15% vs SPY -1.50% \u2013 DBC Gains, EEM Losses",
    "date": "2026-10-23",
@@ -205,13 +212,6 @@
    "url": "/podcast/daily-2026-06-28.html",
    "audio": "/podcast/audio/daily-2026-06-28.mp3",
    "summary": "Day 48 \u2014 June 28, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline \u2014 without a single human touch. That"
-  },
-  {
-   "title": "Day 47 \u2014 June 27, 2026 \u2014 Mac Steel Podcast",
-   "date": "2026-06-27",
-   "url": "/podcast/daily-2026-06-27.html",
-   "audio": "/podcast/audio/daily-2026-06-27.mp3",
-   "summary": "Day 47 \u2014 June 27, 2026. Mac Steel. While most entrepreneurs were asleep, this system published 0 posts, ran quantitative market analysis, and built a lead pipeline \u2014 without a single human touch. That"
   }
  ]
 }
