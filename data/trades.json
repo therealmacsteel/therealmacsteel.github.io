@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-06T13:17:30Z",
+ "generated_at": "2026-11-06T14:17:29Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
  "closed_total": 347,
- "excluded_unmarkable": 80,
+ "excluded_unmarkable": 82,
  "win_rate": 0.277,
  "avg_trade_pct": -2.79,
  "open_total": 140,
- "open_avg_pct": 0.57,
+ "open_avg_pct": 0.89,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -581,15 +581,6 @@
    "opened": "2026-10-28"
   },
   {
-   "asset": "PSQ",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 26.05,
-   "mark": 28.39,
-   "pnl_pct": 8.98,
-   "opened": "2026-09-01"
-  },
-  {
    "asset": "DBA",
    "lane": "Shorts (simulated)",
    "side": "short",
@@ -599,15 +590,6 @@
    "opened": "2026-08-27"
   },
   {
-   "asset": "EWY",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 145.31,
-   "mark": 133.0,
-   "pnl_pct": 8.47,
-   "opened": "2026-11-05"
-  },
-  {
    "asset": "COPX",
    "lane": "Shorts (simulated)",
    "side": "short",
@@ -615,43 +597,61 @@
    "mark": 70.3,
    "pnl_pct": 8.32,
    "opened": "2026-10-28"
+  },
+  {
+   "asset": "XME",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 98.16,
+   "mark": 90.5,
+   "pnl_pct": 7.8,
+   "opened": "2026-10-30"
+  },
+  {
+   "asset": "EWJ",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 95.43,
+   "mark": 88.31,
+   "pnl_pct": 7.46,
+   "opened": "2026-08-27"
   }
  ],
  "worst_open": [
-  {
-   "asset": "IWM",
-   "lane": "Options (simulated)",
-   "side": "long",
-   "entry": 4.84,
-   "mark": 3.83,
-   "pnl_pct": -20.87,
-   "opened": "2026-11-04"
-  },
-  {
-   "asset": "SPY",
-   "lane": "Options (simulated)",
-   "side": "long",
-   "entry": 4.91,
-   "mark": 4.04,
-   "pnl_pct": -17.82,
-   "opened": "2026-11-04"
-  },
   {
    "asset": "ETH/USD",
    "lane": "Crypto",
    "side": "long",
    "entry": 2394.18,
-   "mark": 2236.86,
-   "pnl_pct": -6.57,
+   "mark": 2231.48,
+   "pnl_pct": -6.8,
    "opened": "2026-09-02"
+  },
+  {
+   "asset": "WAB",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 291.82,
+   "mark": 278.49,
+   "pnl_pct": -4.57,
+   "opened": "2026-08-08"
+  },
+  {
+   "asset": "COPX",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 73.64,
+   "mark": 70.3,
+   "pnl_pct": -4.54,
+   "opened": "2026-11-02"
   },
   {
    "asset": "SPY",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 767.99,
-   "mark": 730.52,
-   "pnl_pct": -4.88,
+   "mark": 733.76,
+   "pnl_pct": -4.46,
    "opened": "2026-11-04"
   },
   {
@@ -659,8 +659,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 767.93,
-   "mark": 730.52,
-   "pnl_pct": -4.87,
+   "mark": 733.76,
+   "pnl_pct": -4.45,
    "opened": "2026-11-04"
   }
  ],
