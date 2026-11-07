@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-07T22:20:51Z",
- "total_verified": 498,
+ "generated_at": "2026-11-07T23:17:29Z",
+ "total_verified": 499,
  "by_platform": {
+  "tiktok": 144,
   "instagram": 141,
-  "tiktok": 143,
   "x": 79,
   "podcast": 12,
   "youtube": 91,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7705563143753190687",
+   "ts": "2026-11-07T22:41:48.881234+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Evaluation Metrics for Effective Performance Assessment \u2192 Error Handling and Recovery Strategies for Robust "
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/Dfc4jROCl2_/",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7703729120311512351",
    "ts": "2026-11-03T00:04:22.215116+00:00",
    "caption": "How does 05 blueprints connect into one scheduled system without SaaS? You've done some AI automation. Now you want the scheduling layer, upload APIs, and voiceover engine wired to"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7703707651024227614",
-   "ts": "2026-11-02T22:41:39.877981+00:00",
-   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
   }
  ]
 }
