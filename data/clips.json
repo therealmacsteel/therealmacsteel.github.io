@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-07T00:17:25Z",
- "total_verified": 492,
+ "generated_at": "2026-11-07T01:17:28Z",
+ "total_verified": 493,
  "by_platform": {
+  "tiktok": 141,
   "podcast": 12,
   "instagram": 139,
-  "tiktok": 140,
   "x": 78,
   "youtube": 91,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7705191966098640158",
+   "ts": "2026-11-07T00:34:34.336891+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video"
+  },
   {
    "platform": "podcast",
    "url": "https://therealmacsteel.github.io/podcast/weekly-2026-11-06.html",
@@ -220,12 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2117242500687753695",
    "ts": "2026-11-02T13:09:07.569534+00:00",
    "caption": "01 script turns your topic into 5 platform posts in 3 to 8 minutes Blueprints 02-05: creative research, API posting, free voiceover, 5-job scheduler with alerts. From Mac Steel sys"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7703336552545439007",
-   "ts": "2026-11-02T03:40:04.219618+00:00",
-   "caption": ""
   }
  ]
 }
