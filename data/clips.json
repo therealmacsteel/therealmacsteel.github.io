@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-07T18:17:29Z",
- "total_verified": 497,
+ "generated_at": "2026-11-07T19:17:27Z",
+ "total_verified": 498,
  "by_platform": {
+  "instagram": 141,
   "tiktok": 143,
-  "instagram": 140,
   "x": 79,
   "podcast": 12,
   "youtube": 91,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/Dfc4jROCl2_/",
+   "ts": "2026-11-07T19:01:05.857900+00:00",
+   "caption": "7 prompts to keep your solo business running reliably\u2014no guesswork You get a PDF of 6 pages that shows each prompt and why it works. The Daily Status Report stops your workflow fro"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7705485775411891486",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7703707651024227614",
    "ts": "2026-11-02T22:41:39.877981+00:00",
    "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfQAk31iqN8/",
-   "ts": "2026-11-02T19:01:14.529883+00:00",
-   "caption": "7 prompts keep your routine work consistent? Mac Steel's 7 Prompts From a Live Agent Stack gives you the exact prompts that keep routine work reliable The Scheduled Task Specificat"
   }
  ]
 }
