@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-07T12:17:22Z",
- "total_verified": 494,
+ "generated_at": "2026-11-07T13:17:24Z",
+ "total_verified": 495,
  "by_platform": {
+  "x": 79,
   "tiktok": 142,
   "podcast": 12,
   "instagram": 139,
-  "x": 78,
   "youtube": 91,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2119054428414361840",
+   "ts": "2026-11-07T13:09:04.864631+00:00",
+   "caption": "What if 25 prompts turned your long video into 10+ posts? You get 25 ready-to-use prompts that slice one video into short clips, blog posts, and more."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7705259692666178846",
@@ -220,12 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2117287764882338089",
    "ts": "2026-11-02T16:08:59.992365+00:00",
    "caption": "7 prompts keep your workflow consistent and unattended Agent Identity Brief locks role, format, and one hard constraint"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfPsAlwCAfx/",
-   "ts": "2026-11-02T16:01:32.136438+00:00",
-   "caption": "01 script turns one topic into posts for five platforms in 3 to 8 minutes Your business can copy the same Python script, the creative\u2011director research that scans 14 top creators, "
   }
  ]
 }
