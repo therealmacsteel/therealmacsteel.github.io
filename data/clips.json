@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-07T17:17:24Z",
- "total_verified": 496,
+ "generated_at": "2026-11-07T18:17:29Z",
+ "total_verified": 497,
  "by_platform": {
+  "tiktok": 143,
   "instagram": 140,
   "x": 79,
-  "tiktok": 142,
   "podcast": 12,
   "youtube": 91,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7705485775411891486",
+   "ts": "2026-11-07T17:41:40.041678+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/Dfcj_PUAL88/",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DfQAk31iqN8/",
    "ts": "2026-11-02T19:01:14.529883+00:00",
    "caption": "7 prompts keep your routine work consistent? Mac Steel's 7 Prompts From a Live Agent Stack gives you the exact prompts that keep routine work reliable The Scheduled Task Specificat"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7703630294414396703",
-   "ts": "2026-11-02T17:41:37.257076+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Extract Key Moments from [YOUR VIDEO] \u2192 Write Email Newsletters from Video Segments \u2192 Summarize Video Discussions for Podcast"
   }
  ]
 }
