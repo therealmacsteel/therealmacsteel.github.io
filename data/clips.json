@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-07T02:17:28Z",
- "total_verified": 493,
+ "generated_at": "2026-11-07T03:17:27Z",
+ "total_verified": 494,
  "by_platform": {
-  "tiktok": 141,
+  "tiktok": 142,
   "podcast": 12,
   "instagram": 139,
   "x": 78,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7705259692666178846",
+   "ts": "2026-11-07T03:03:39.930450+00:00",
+   "caption": "7 prompts can lock consistency across job 400 and job 1\u2014curious? You can let a solo builder run scheduled tasks unattended with the Scheduled Task Specification and get a Daily Sta"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7705191966098640158",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DfPsAlwCAfx/",
    "ts": "2026-11-02T16:01:32.136438+00:00",
    "caption": "01 script turns one topic into posts for five platforms in 3 to 8 minutes Your business can copy the same Python script, the creative\u2011director research that scans 14 top creators, "
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2117242500687753695",
-   "ts": "2026-11-02T13:09:07.569534+00:00",
-   "caption": "01 script turns your topic into 5 platform posts in 3 to 8 minutes Blueprints 02-05: creative research, API posting, free voiceover, 5-job scheduler with alerts. From Mac Steel sys"
   }
  ]
 }
