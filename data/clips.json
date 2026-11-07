@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-07T15:17:23Z",
- "total_verified": 495,
+ "generated_at": "2026-11-07T16:17:25Z",
+ "total_verified": 496,
  "by_platform": {
+  "instagram": 140,
   "x": 79,
   "tiktok": 142,
   "podcast": 12,
-  "instagram": 139,
   "youtube": 91,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/Dfcj_PUAL88/",
+   "ts": "2026-11-07T16:02:03.117888+00:00",
+   "caption": "25 prompts turn one video into 10+ posts? You get 25 ready\u2011to\u2011use prompts that slice a long video into shorts, blogs and more. You save hours per video and keep your content pipeli"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2119054428414361840",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7703630294414396703",
    "ts": "2026-11-02T17:41:37.257076+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Extract Key Moments from [YOUR VIDEO] \u2192 Write Email Newsletters from Video Segments \u2192 Summarize Video Discussions for Podcast"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2117287764882338089",
-   "ts": "2026-11-02T16:08:59.992365+00:00",
-   "caption": "7 prompts keep your workflow consistent and unattended Agent Identity Brief locks role, format, and one hard constraint"
   }
  ]
 }
