@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T09:17:28Z",
+ "generated_at": "2026-11-07T10:17:29Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -7,8 +7,8 @@
  "excluded_unmarkable": 83,
  "win_rate": 0.277,
  "avg_trade_pct": -2.77,
- "open_total": 141,
- "open_avg_pct": 0.71,
+ "open_total": 142,
+ "open_avg_pct": 0.73,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,8 +576,8 @@
    "lane": "Congress disclosures",
    "side": "long",
    "entry": 123.36,
-   "mark": 135.15,
-   "pnl_pct": 9.56,
+   "mark": 135.13,
+   "pnl_pct": 9.54,
    "opened": "2026-11-05"
   },
   {
@@ -608,13 +608,13 @@
    "opened": "2026-08-27"
   },
   {
-   "asset": "PSQ",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 26.05,
-   "mark": 27.94,
-   "pnl_pct": 7.26,
-   "opened": "2026-09-01"
+   "asset": "DBC",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 33.98,
+   "mark": 31.52,
+   "pnl_pct": 7.24,
+   "opened": "2026-10-28"
   }
  ],
  "worst_open": [
@@ -632,8 +632,8 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 2394.18,
-   "mark": 2226.75,
-   "pnl_pct": -6.99,
+   "mark": 2244.55,
+   "pnl_pct": -6.25,
    "opened": "2026-09-02"
   },
   {
@@ -650,8 +650,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 767.99,
-   "mark": 735.96,
-   "pnl_pct": -4.17,
+   "mark": 736.07,
+   "pnl_pct": -4.16,
    "opened": "2026-11-04"
   },
   {
@@ -659,8 +659,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 767.93,
-   "mark": 735.96,
-   "pnl_pct": -4.16,
+   "mark": 736.07,
+   "pnl_pct": -4.15,
    "opened": "2026-11-04"
   }
  ],
