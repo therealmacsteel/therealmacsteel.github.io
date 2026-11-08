@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-08T22:17:55Z",
- "total_verified": 511,
+ "generated_at": "2026-11-08T23:17:50Z",
+ "total_verified": 512,
  "by_platform": {
+  "tiktok": 152,
   "youtube": 92,
   "instagram": 143,
-  "tiktok": 151,
   "x": 81,
   "podcast": 12,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7705934155695000862",
+   "ts": "2026-11-08T22:41:38.362135+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/KpvDKHnlV6o",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7704471073873480991",
    "ts": "2026-11-05T00:03:32.989352+00:00",
    "caption": "Your chatbot answers fast, but does it actually keep people talking? Use Mac Steel's 25 proven prompts for chatbot dialogue to make every reply feel human and helpful. Write warmer"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfVKLW_CMRV/",
-   "ts": "2026-11-04T19:01:33.448592+00:00",
-   "caption": "7 prompts, not a 200-prompt dump. Want your assistant to behave the same on job 400 as on job 1? Your routine work can run unattended and honest with Mac Steel's 7 Prompts. One har"
   }
  ]
 }
