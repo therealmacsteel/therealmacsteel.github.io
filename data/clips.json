@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-07T23:17:29Z",
- "total_verified": 499,
+ "generated_at": "2026-11-08T00:17:26Z",
+ "total_verified": 500,
  "by_platform": {
-  "tiktok": 144,
+  "tiktok": 145,
   "instagram": 141,
   "x": 79,
   "podcast": 12,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7705584227026226463",
+   "ts": "2026-11-08T00:03:13.063459+00:00",
+   "caption": "What if 25 prompts turned one video into 10+ posts? You get short clips, blog posts, and more from every upload. It saves hours per video."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7705563143753190687",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7703774702354844959",
    "ts": "2026-11-03T03:01:19.175983+00:00",
    "caption": "Got 7 prompts that can lock your solo business workflow? You can run scheduled jobs, get daily status reports, and self\u2011heal errors without lifting a finger. The guide is a free 6\u2011"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7703729120311512351",
-   "ts": "2026-11-03T00:04:22.215116+00:00",
-   "caption": "How does 05 blueprints connect into one scheduled system without SaaS? You've done some AI automation. Now you want the scheduling layer, upload APIs, and voiceover engine wired to"
   }
  ]
 }
