@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-08T17:17:22Z",
- "total_verified": 508,
+ "generated_at": "2026-11-08T18:17:25Z",
+ "total_verified": 509,
  "by_platform": {
-  "tiktok": 150,
+  "tiktok": 151,
   "x": 81,
   "instagram": 142,
   "podcast": 12,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7705856837911842078",
+   "ts": "2026-11-08T17:41:36.013665+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Vid"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7705213218377026847",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DfU1nETiFeZ/",
    "ts": "2026-11-04T16:01:40.065400+00:00",
    "caption": "Want your chatbot to hold real conversations instead of dead ends? You get 25 proven prompts to write dialogue your customers actually want to keep reading. Use them on your site, "
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2117967253622927430",
-   "ts": "2026-11-04T13:09:02.484058+00:00",
-   "caption": "Want better chatbot conversations? Try 25 proven prompts for dialogue that keeps people talking."
   }
  ]
 }
