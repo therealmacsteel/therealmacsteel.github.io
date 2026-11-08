@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-08T19:17:27Z",
- "total_verified": 510,
+ "generated_at": "2026-11-08T20:17:22Z",
+ "total_verified": 511,
  "by_platform": {
+  "youtube": 92,
   "instagram": 143,
   "tiktok": 151,
   "x": 81,
   "podcast": 12,
-  "youtube": 91,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/KpvDKHnlV6o",
+   "ts": "2026-11-08T19:17:38.119296+00:00",
+   "caption": "Want 25 prompts to make your chatbot sound human? You\u2019re about to unlock a set of 25 proven prompts that transform any chatbot into an engaging conversational partner, so your user"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DffdW9qEWGa/",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DfVKLW_CMRV/",
    "ts": "2026-11-04T19:01:33.448592+00:00",
    "caption": "7 prompts, not a 200-prompt dump. Want your assistant to behave the same on job 400 as on job 1? Your routine work can run unattended and honest with Mac Steel's 7 Prompts. One har"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7704372571617168671",
-   "ts": "2026-11-04T17:41:50.908919+00:00",
-   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
   }
  ]
 }
