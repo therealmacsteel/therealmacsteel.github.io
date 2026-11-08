@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-08T02:17:24Z",
- "total_verified": 500,
+ "generated_at": "2026-11-08T03:17:25Z",
+ "total_verified": 501,
  "by_platform": {
-  "tiktok": 145,
+  "tiktok": 146,
   "instagram": 141,
   "x": 79,
   "podcast": 12,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7705630808693919007",
+   "ts": "2026-11-08T03:04:00.696115+00:00",
+   "caption": "7 prompts keep your routine work on track? Your Daily Status Report stops drift and keeps output consistent. Mac Steel\u2019s 7 Prompts give you the exact prompts used in a live multi\u2011a"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7705584227026226463",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DfSQ0BODPVK/",
    "ts": "2026-11-03T16:01:34.434775+00:00",
    "caption": "Are you tired of prompt packs that drop raw text and wish you luck? You do not need another list of generic prompts. You need to know how to handle real failure modes before your b"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7703774702354844959",
-   "ts": "2026-11-03T03:01:19.175983+00:00",
-   "caption": "Got 7 prompts that can lock your solo business workflow? You can run scheduled jobs, get daily status reports, and self\u2011heal errors without lifting a finger. The guide is a free 6\u2011"
   }
  ]
 }
