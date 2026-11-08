@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://therealmacsteel.github.io/pod/</loc><lastmod>2026-09-24</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://therealmacsteel.github.io/trades/</loc><lastmod>2026-09-24</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
@@ -12,10 +12,6 @@
   <url><loc>https://therealmacsteel.github.io/funnels/ai-prompt-pack-v1/</loc><lastmod>2026-09-19</lastmod><priority>0.8</priority></url>
   <url><loc>https://therealmacsteel.github.io/funnels/ai-prompt-pack-v1/offer.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
   <url><loc>https://therealmacsteel.github.io/newsletter/week-014.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
-  <url><loc>https://therealmacsteel.github.io/podcast/daily-2026-08-12.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
-  <url><loc>https://therealmacsteel.github.io/podcast/daily-2026-08-18.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
-  <url><loc>https://therealmacsteel.github.io/podcast/daily-2026-08-19.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
-  <url><loc>https://therealmacsteel.github.io/podcast/daily-2026-08-24.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
   <url><loc>https://therealmacsteel.github.io/podcast/</loc><lastmod>2026-09-19</lastmod><priority>0.8</priority></url>
   <url><loc>https://therealmacsteel.github.io/products/agent-prompts-pack.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
   <url><loc>https://therealmacsteel.github.io/products/ai-automation-prompt-templates-v2.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
