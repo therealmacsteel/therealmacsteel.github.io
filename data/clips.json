@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-08T18:17:25Z",
- "total_verified": 509,
+ "generated_at": "2026-11-08T19:17:27Z",
+ "total_verified": 510,
  "by_platform": {
+  "instagram": 143,
   "tiktok": 151,
   "x": 81,
-  "instagram": 142,
   "podcast": 12,
   "youtube": 91,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DffdW9qEWGa/",
+   "ts": "2026-11-08T19:01:08.625773+00:00",
+   "caption": "7 prompts keep your routine work consistent Your daily tasks stay on track with Mac Steel's 7 Prompts, each delivered in a 6\u2011page PDF that explains why it works. You get a self\u2011hea"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7705856837911842078",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7704372571617168671",
    "ts": "2026-11-04T17:41:50.908919+00:00",
    "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfU1nETiFeZ/",
-   "ts": "2026-11-04T16:01:40.065400+00:00",
-   "caption": "Want your chatbot to hold real conversations instead of dead ends? You get 25 proven prompts to write dialogue your customers actually want to keep reading. Use them on your site, "
   }
  ]
 }
