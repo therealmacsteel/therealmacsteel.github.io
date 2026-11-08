@@ -1,16 +1,40 @@
 {
- "generated_at": "2026-11-08T16:17:26Z",
- "total_verified": 504,
+ "generated_at": "2026-11-08T17:17:22Z",
+ "total_verified": 508,
  "by_platform": {
+  "tiktok": 150,
   "x": 81,
   "instagram": 142,
-  "tiktok": 146,
   "podcast": 12,
   "youtube": 91,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7705213218377026847",
+   "ts": "2026-11-08T17:14:48.294587+00:00",
+   "caption": "Want to boost your chatbot with 25 proven prompts? You\u2019ll transform bland replies into natural, flowing dialogue that keeps customers coming back. Just load the 25 prompts from our"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7704100027215498526",
+   "ts": "2026-11-08T17:14:48.279330+00:00",
+   "caption": "Are you tired of prompt packs that drop raw text and wish you luck? When you build workflows, raw text leaves your business guessing. You need context and real failure modes to pre"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7693740721580297503",
+   "ts": "2026-11-08T17:14:48.244891+00:00",
+   "caption": "Your chatbot answers questions but the conversations feel dead. 25 prompts can fix that. Each prompt is built to make your chatbot sound natural, keep people engaged, and move chat"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7691467490789985567",
+   "ts": "2026-11-08T17:13:16.150310+00:00",
+   "caption": "14 top creators studied before your first line. Auto brief gives opening line, angle, visuals, avoidances. All 5 blueprints for $10."
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2119462166201868775",
@@ -202,30 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2117967253622927430",
    "ts": "2026-11-04T13:09:02.484058+00:00",
    "caption": "Want better chatbot conversations? Try 25 proven prompts for dialogue that keeps people talking."
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfSKAEOiCRM/",
-   "ts": "2026-11-04T03:40:02.753172+00:00",
-   "caption": ""
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7704146741213302047",
-   "ts": "2026-11-04T03:05:16.515462+00:00",
-   "caption": "Want 25 fresh posts from a single video? Your long video can become short clips, blog posts and more with Mac Steel\u2019s 25 repurposing prompts, saving you hours per video while keepi"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7704078716988591390",
-   "ts": "2026-11-03T22:41:33.776541+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOUR VIDEO] \u2192 Write Email Newsletters from Video"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfSlX24iIGF/",
-   "ts": "2026-11-03T19:01:17.499545+00:00",
-   "caption": "Turn one video into 10 posts? You can use 25 prompts to turn one long video into short clips and blog posts. This saves hours per video, allowing you to post more often."
   }
  ]
 }
