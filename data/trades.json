@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-08T09:17:25Z",
+ "generated_at": "2026-11-08T10:17:25Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
  "closed_total": 350,
- "excluded_unmarkable": 83,
+ "excluded_unmarkable": 85,
  "win_rate": 0.277,
  "avg_trade_pct": -2.77,
- "open_total": 142,
- "open_avg_pct": 0.73,
+ "open_total": 140,
+ "open_avg_pct": 0.83,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -619,21 +619,12 @@
  ],
  "worst_open": [
   {
-   "asset": "IWM",
-   "lane": "Options (simulated)",
-   "side": "long",
-   "entry": 4.36,
-   "mark": 3.75,
-   "pnl_pct": -14.11,
-   "opened": "2026-11-06"
-  },
-  {
    "asset": "ETH/USD",
    "lane": "Crypto",
    "side": "long",
    "entry": 2394.18,
-   "mark": 2244.55,
-   "pnl_pct": -6.25,
+   "mark": 2232.99,
+   "pnl_pct": -6.73,
    "opened": "2026-09-02"
   },
   {
@@ -652,6 +643,15 @@
    "entry": 767.99,
    "mark": 736.07,
    "pnl_pct": -4.16,
+   "opened": "2026-11-04"
+  },
+  {
+   "asset": "SPY",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 767.93,
+   "mark": 736.07,
+   "pnl_pct": -4.15,
    "opened": "2026-11-04"
   },
   {
