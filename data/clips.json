@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-08T12:17:21Z",
- "total_verified": 501,
+ "generated_at": "2026-11-08T13:17:23Z",
+ "total_verified": 502,
  "by_platform": {
+  "x": 80,
   "tiktok": 146,
   "instagram": 141,
-  "x": 79,
   "podcast": 12,
   "youtube": 91,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2119416841458319775",
+   "ts": "2026-11-08T13:09:10.164556+00:00",
+   "caption": "Want 25 prompts to make your chatbot talk like a pro? Use them to boost engagement and cut response time."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7705630808693919007",
@@ -220,12 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2117650163078451529",
    "ts": "2026-11-03T16:09:02.799554+00:00",
    "caption": "Want to turn your long video into 10 posts? Get 25 prompts that turn your content into short clips and blog posts to save hours per video."
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfSQ0BODPVK/",
-   "ts": "2026-11-03T16:01:34.434775+00:00",
-   "caption": "Are you tired of prompt packs that drop raw text and wish you luck? You do not need another list of generic prompts. You need to know how to handle real failure modes before your b"
   }
  ]
 }
