@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-09T21:17:30Z",
+ "generated_at": "2026-11-09T22:17:32Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
- "regime": "mixed_or_choppy",
+ "regime": "risk_off",
  "closed_total": 241,
  "excluded_unmarkable": 46,
  "win_rate": 0.274,
  "avg_trade_pct": -4.13,
- "open_total": 113,
- "open_avg_pct": 1.31,
+ "open_total": 133,
+ "open_avg_pct": 0.98,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -594,8 +594,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 67.17,
-   "mark": 61.03,
-   "pnl_pct": 9.14,
+   "mark": 60.96,
+   "pnl_pct": 9.25,
    "opened": "2026-08-27"
   },
   {
@@ -618,6 +618,15 @@
   }
  ],
  "worst_open": [
+  {
+   "asset": "ETH/USD",
+   "lane": "Crypto",
+   "side": "long",
+   "entry": 2394.18,
+   "mark": 2127.64,
+   "pnl_pct": -11.13,
+   "opened": "2026-09-02"
+  },
   {
    "asset": "SPCX",
    "lane": "Congress disclosures",
@@ -653,15 +662,6 @@
    "mark": 508.68,
    "pnl_pct": -3.03,
    "opened": "2026-09-09"
-  },
-  {
-   "asset": "VEL",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 18.28,
-   "mark": 17.77,
-   "pnl_pct": -2.76,
-   "opened": "2026-08-10"
   }
  ],
  "book": {
