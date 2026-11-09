@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T20:17:33Z",
+ "generated_at": "2026-11-09T21:17:30Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "mixed_or_choppy",
@@ -7,8 +7,8 @@
  "excluded_unmarkable": 46,
  "win_rate": 0.274,
  "avg_trade_pct": -4.13,
- "open_total": 98,
- "open_avg_pct": 1.55,
+ "open_total": 113,
+ "open_avg_pct": 1.31,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,35 +576,17 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 171.6,
-   "mark": 188.73,
-   "pnl_pct": 9.98,
+   "mark": 188.38,
+   "pnl_pct": 9.78,
    "opened": "2026-08-27"
-  },
-  {
-   "asset": "MSFT",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 500.16,
-   "mark": 547.74,
-   "pnl_pct": 9.51,
-   "opened": "2026-09-04"
-  },
-  {
-   "asset": "LIN",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 478.47,
-   "mark": 522.64,
-   "pnl_pct": 9.23,
-   "opened": "2026-08-17"
   },
   {
    "asset": "XLI",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 186.52,
-   "mark": 169.61,
-   "pnl_pct": 9.07,
+   "mark": 168.85,
+   "pnl_pct": 9.47,
    "opened": "2026-08-16"
   },
   {
@@ -612,9 +594,27 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 67.17,
-   "mark": 61.12,
-   "pnl_pct": 9.01,
+   "mark": 61.03,
+   "pnl_pct": 9.14,
    "opened": "2026-08-27"
+  },
+  {
+   "asset": "MSFT",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 500.16,
+   "mark": 544.49,
+   "pnl_pct": 8.86,
+   "opened": "2026-09-04"
+  },
+  {
+   "asset": "LIN",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 478.47,
+   "mark": 520.55,
+   "pnl_pct": 8.79,
+   "opened": "2026-08-17"
   }
  ],
  "worst_open": [
@@ -623,26 +623,17 @@
    "lane": "Congress disclosures",
    "side": "long",
    "entry": 148.21,
-   "mark": 141.49,
-   "pnl_pct": -4.53,
+   "mark": 142.12,
+   "pnl_pct": -4.11,
    "opened": "2026-09-10"
-  },
-  {
-   "asset": "VEL",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 18.28,
-   "mark": 17.6,
-   "pnl_pct": -3.72,
-   "opened": "2026-08-10"
   },
   {
    "asset": "XLC",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 111.45,
-   "mark": 107.62,
-   "pnl_pct": -3.44,
+   "mark": 107.32,
+   "pnl_pct": -3.71,
    "opened": "2026-08-27"
   },
   {
@@ -650,18 +641,27 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 49.76,
-   "mark": 51.45,
-   "pnl_pct": -3.41,
+   "mark": 51.41,
+   "pnl_pct": -3.33,
    "opened": "2026-08-27"
   },
   {
-   "asset": "XLY",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 118.2,
-   "mark": 121.75,
-   "pnl_pct": -3.0,
-   "opened": "2026-08-17"
+   "asset": "AMD",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 524.58,
+   "mark": 508.68,
+   "pnl_pct": -3.03,
+   "opened": "2026-09-09"
+  },
+  {
+   "asset": "VEL",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 18.28,
+   "mark": 17.77,
+   "pnl_pct": -2.76,
+   "opened": "2026-08-10"
   }
  ],
  "book": {
