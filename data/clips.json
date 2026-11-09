@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-09T22:17:27Z",
- "total_verified": 515,
+ "generated_at": "2026-11-09T23:17:27Z",
+ "total_verified": 516,
  "by_platform": {
-  "tiktok": 153,
+  "tiktok": 154,
   "instagram": 144,
   "x": 82,
   "youtube": 92,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7706305248335301918",
+   "ts": "2026-11-09T22:41:40.322527+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Write Email Newsletters from Video Segments \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes fo"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7706227900923612447",
@@ -220,12 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2118374950331646027",
    "ts": "2026-11-05T16:09:05.679804+00:00",
    "caption": "7 prompts keep your AI work consistent? Mac Steel\u2019s free PDF gives you the exact prompts for identity, scheduling, lead scoring, self\u2011heal, routing, and daily status."
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfXaZrWDGy4/",
-   "ts": "2026-11-05T16:02:03.828395+00:00",
-   "caption": "Want to get 10 posts out of your next video? When you put hard work into producing a long video, publishing it a single time is not enough. You can easily turn your footage into sh"
   }
  ]
 }
