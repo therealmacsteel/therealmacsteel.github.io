@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-09T15:17:25Z",
- "total_verified": 513,
+ "generated_at": "2026-11-09T16:17:23Z",
+ "total_verified": 514,
  "by_platform": {
+  "instagram": 144,
   "x": 82,
   "tiktok": 152,
   "youtube": 92,
-  "instagram": 143,
   "podcast": 12,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/Dfhtn9yDC7h/",
+   "ts": "2026-11-09T16:01:55.289452+00:00",
+   "caption": "25 prompts turn one video into 10+ posts? You can turn a single long video into short clips, blog posts, and more with 25 ready\u2011to\u2011use prompts. It saves you hours per video and kee"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2119779250647486899",
@@ -220,12 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2118329660060631165",
    "ts": "2026-11-05T13:09:14.186954+00:00",
    "caption": "Want to turn your next video into 10 social posts? Get 25 prompts that turn a long video into short clips and blog posts to save hours per video."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7704517765998152991",
-   "ts": "2026-11-05T03:04:49.572676+00:00",
-   "caption": "Want 7 prompts that run your routine work unattended, job after job? Use them for identity, scheduling, scoring, healing, routing, and daily status. Stop rebuilding prompts every t"
   }
  ]
 }
