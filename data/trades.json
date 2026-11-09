@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-09T13:17:28Z",
+ "generated_at": "2026-11-09T14:17:31Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 350,
- "excluded_unmarkable": 86,
- "win_rate": 0.277,
- "avg_trade_pct": -2.77,
+ "closed_total": 355,
+ "excluded_unmarkable": 87,
+ "win_rate": 0.279,
+ "avg_trade_pct": -2.72,
  "open_total": 141,
- "open_avg_pct": 0.77,
+ "open_avg_pct": 0.75,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -20,27 +20,27 @@
   },
   {
    "lane": "Macro ETFs",
-   "closed": 89,
-   "win_rate": 0.169,
-   "avg_win_pct": 10.37,
+   "closed": 90,
+   "win_rate": 0.178,
+   "avg_win_pct": 10.36,
    "avg_loss_pct": -7.54,
-   "avg_trade_pct": -4.52
+   "avg_trade_pct": -4.36
   },
   {
    "lane": "Shorts (simulated)",
-   "closed": 81,
-   "win_rate": 0.531,
+   "closed": 84,
+   "win_rate": 0.512,
    "avg_win_pct": 12.38,
-   "avg_loss_pct": -6.36,
-   "avg_trade_pct": 3.59
+   "avg_loss_pct": -6.34,
+   "avg_trade_pct": 3.24
   },
   {
    "lane": "Congress disclosures",
-   "closed": 39,
-   "win_rate": 0.179,
-   "avg_win_pct": 11.24,
+   "closed": 40,
+   "win_rate": 0.2,
+   "avg_win_pct": 11.21,
    "avg_loss_pct": -6.6,
-   "avg_trade_pct": -3.4
+   "avg_trade_pct": -3.04
   },
   {
    "lane": "Options (simulated)",
@@ -52,6 +52,61 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "GDX",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 84.63,
+   "exit": 90.02,
+   "pnl_pct": -6.37,
+   "opened": "2026-11-06",
+   "closed": "2026-11-09",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "UNG",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 8.95,
+   "exit": 9.87,
+   "pnl_pct": 10.28,
+   "opened": "2026-10-30",
+   "closed": "2026-11-09",
+   "exit_reason": "target"
+  },
+  {
+   "asset": "UNG",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 9.21,
+   "exit": 9.87,
+   "pnl_pct": -7.17,
+   "opened": "2026-10-29",
+   "closed": "2026-11-09",
+   "exit_reason": "stop"
+  },
+  {
+   "asset": "SPCX",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 123.36,
+   "exit": 136.86,
+   "pnl_pct": 10.94,
+   "opened": "2026-11-05",
+   "closed": "2026-11-09",
+   "exit_reason": "target"
+  },
+  {
+   "asset": "AMD",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 441.03,
+   "exit": 463.13,
+   "pnl_pct": -5.01,
+   "opened": "2026-11-05",
+   "closed": "2026-11-09",
+   "exit_reason": "stop"
+  },
   {
    "asset": "NVDA",
    "lane": "Shorts (simulated)",
@@ -271,64 +326,29 @@
    "opened": "2026-10-28",
    "closed": "2026-11-05",
    "exit_reason": "stop"
-  },
-  {
-   "asset": "QQQ",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 731.01,
-   "exit": 654.91,
-   "pnl_pct": 10.41,
-   "opened": "2026-08-16",
-   "closed": "2026-11-05",
-   "exit_reason": "target"
-  },
-  {
-   "asset": "IWM",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 304.9,
-   "exit": 273.19,
-   "pnl_pct": 10.4,
-   "opened": "2026-08-15",
-   "closed": "2026-11-05",
-   "exit_reason": "target"
-  },
-  {
-   "asset": "MU",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 755.48,
-   "exit": 712.34,
-   "pnl_pct": -5.71,
-   "opened": "2026-11-05",
-   "closed": "2026-11-05",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "INTC",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 57.73,
-   "exit": 53.76,
-   "pnl_pct": -6.88,
-   "opened": "2026-11-04",
-   "closed": "2026-11-05",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "TNXP",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.09,
-   "exit": 4.78,
-   "pnl_pct": -6.09,
-   "opened": "2026-11-02",
-   "closed": "2026-11-05",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "GDX",
+   "pnl_pct": -6.37
+  },
+  {
+   "asset": "UNG",
+   "pnl_pct": 10.28
+  },
+  {
+   "asset": "UNG",
+   "pnl_pct": -7.17
+  },
+  {
+   "asset": "SPCX",
+   "pnl_pct": 10.94
+  },
+  {
+   "asset": "AMD",
+   "pnl_pct": -5.01
+  },
   {
    "asset": "NVDA",
    "pnl_pct": -5.54
@@ -548,37 +568,17 @@
   {
    "asset": "FWONK",
    "pnl_pct": 10.51
-  },
-  {
-   "asset": "AROC",
-   "pnl_pct": -7.06
-  },
-  {
-   "asset": "EME",
-   "pnl_pct": -5.71
-  },
-  {
-   "asset": "BWXT",
-   "pnl_pct": -7.05
-  },
-  {
-   "asset": "VIXY",
-   "pnl_pct": -5.11
-  },
-  {
-   "asset": "MSFT",
-   "pnl_pct": -6.39
   }
  ],
  "best_open": [
   {
-   "asset": "SPCX",
-   "lane": "Congress disclosures",
+   "asset": "UNG",
+   "lane": "Macro ETFs",
    "side": "long",
-   "entry": 123.36,
-   "mark": 135.13,
+   "entry": 9.01,
+   "mark": 9.87,
    "pnl_pct": 9.54,
-   "opened": "2026-11-05"
+   "opened": "2026-11-02"
   },
   {
    "asset": "DBA",
@@ -623,8 +623,8 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 2394.18,
-   "mark": 2100.66,
-   "pnl_pct": -12.26,
+   "mark": 2114.58,
+   "pnl_pct": -11.68,
    "opened": "2026-09-02"
   },
   {
@@ -637,31 +637,31 @@
    "opened": "2026-11-05"
   },
   {
-   "asset": "SPY",
+   "asset": "XLI",
    "lane": "Macro ETFs",
    "side": "long",
-   "entry": 767.99,
-   "mark": 736.07,
-   "pnl_pct": -4.16,
-   "opened": "2026-11-04"
+   "entry": 169.7,
+   "mark": 162.68,
+   "pnl_pct": -4.14,
+   "opened": "2026-11-02"
   },
   {
-   "asset": "SPY",
+   "asset": "DIA",
    "lane": "Macro ETFs",
    "side": "long",
-   "entry": 767.93,
-   "mark": 736.07,
-   "pnl_pct": -4.15,
-   "opened": "2026-11-04"
+   "entry": 533.06,
+   "mark": 512.21,
+   "pnl_pct": -3.91,
+   "opened": "2026-09-03"
   },
   {
-   "asset": "SPY",
+   "asset": "DBC",
    "lane": "Macro ETFs",
    "side": "long",
-   "entry": 767.93,
-   "mark": 736.07,
-   "pnl_pct": -4.15,
-   "opened": "2026-11-04"
+   "entry": 32.8,
+   "mark": 31.52,
+   "pnl_pct": -3.9,
+   "opened": "2026-11-02"
   }
  ],
  "book": {
