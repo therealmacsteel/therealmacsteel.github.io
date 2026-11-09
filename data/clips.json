@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-09T12:17:24Z",
- "total_verified": 512,
+ "generated_at": "2026-11-09T13:17:24Z",
+ "total_verified": 513,
  "by_platform": {
+  "x": 82,
   "tiktok": 152,
   "youtube": 92,
   "instagram": 143,
-  "x": 81,
   "podcast": 12,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2119779250647486899",
+   "ts": "2026-11-09T13:09:16.181304+00:00",
+   "caption": "Want 25 prompts to turn one video into many posts? You\u2019ll save hours per video and get 10+ ready\u2011to\u2011publish pieces."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7705934155695000862",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7704517765998152991",
    "ts": "2026-11-05T03:04:49.572676+00:00",
    "caption": "Want 7 prompts that run your routine work unattended, job after job? Use them for identity, scheduling, scoring, healing, routing, and daily status. Stop rebuilding prompts every t"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7704471073873480991",
-   "ts": "2026-11-05T00:03:32.989352+00:00",
-   "caption": "Your chatbot answers fast, but does it actually keep people talking? Use Mac Steel's 25 proven prompts for chatbot dialogue to make every reply feel human and helpful. Write warmer"
   }
  ]
 }
