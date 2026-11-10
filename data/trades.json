@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T09:17:25Z",
+ "generated_at": "2026-11-10T10:17:27Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -7,8 +7,8 @@
  "excluded_unmarkable": 46,
  "win_rate": 0.274,
  "avg_trade_pct": -4.13,
- "open_total": 133,
- "open_avg_pct": 0.98,
+ "open_total": 135,
+ "open_avg_pct": 0.96,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -603,8 +603,8 @@
    "lane": "Congress disclosures",
    "side": "long",
    "entry": 500.16,
-   "mark": 544.49,
-   "pnl_pct": 8.86,
+   "mark": 544.59,
+   "pnl_pct": 8.88,
    "opened": "2026-09-04"
   },
   {
@@ -623,8 +623,8 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 2394.18,
-   "mark": 2127.64,
-   "pnl_pct": -11.13,
+   "mark": 2095.63,
+   "pnl_pct": -12.47,
    "opened": "2026-09-02"
   },
   {
@@ -646,6 +646,15 @@
    "opened": "2026-08-27"
   },
   {
+   "asset": "BTC/USD",
+   "lane": "Crypto",
+   "side": "long",
+   "entry": 76912.71,
+   "mark": 74269.62,
+   "pnl_pct": -3.44,
+   "opened": "2026-09-02"
+  },
+  {
    "asset": "INDA",
    "lane": "Shorts (simulated)",
    "side": "short",
@@ -653,15 +662,6 @@
    "mark": 51.41,
    "pnl_pct": -3.33,
    "opened": "2026-08-27"
-  },
-  {
-   "asset": "AMD",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 524.58,
-   "mark": 508.68,
-   "pnl_pct": -3.03,
-   "opened": "2026-09-09"
   }
  ],
  "book": {
