@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-10T20:17:28Z",
+ "generated_at": "2026-11-10T21:17:28Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 253,
+ "closed_total": 254,
  "excluded_unmarkable": 50,
- "win_rate": 0.273,
- "avg_trade_pct": -4.3,
+ "win_rate": 0.276,
+ "avg_trade_pct": -4.24,
  "open_total": 134,
- "open_avg_pct": 0.61,
+ "open_avg_pct": 0.6,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -20,11 +20,11 @@
   },
   {
    "lane": "Macro ETFs",
-   "closed": 57,
-   "win_rate": 0.158,
-   "avg_win_pct": 10.37,
+   "closed": 58,
+   "win_rate": 0.172,
+   "avg_win_pct": 10.34,
    "avg_loss_pct": -9.1,
-   "avg_trade_pct": -6.03
+   "avg_trade_pct": -5.75
   },
   {
    "lane": "Shorts (simulated)",
@@ -52,6 +52,17 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "XLV",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 171.6,
+   "exit": 188.9,
+   "pnl_pct": 10.08,
+   "opened": "2026-08-27",
+   "closed": "2026-11-10",
+   "exit_reason": "target"
+  },
   {
    "asset": "VEL",
    "lane": "Equity factor model",
@@ -315,20 +326,13 @@
    "opened": "2026-09-08",
    "closed": "2026-11-09",
    "exit_reason": "target"
-  },
-  {
-   "asset": "AVGO",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 357.83,
-   "exit": 319.11,
-   "pnl_pct": -10.82,
-   "opened": "2026-09-08",
-   "closed": "2026-11-09",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "XLV",
+   "pnl_pct": 10.08
+  },
   {
    "asset": "VEL",
    "pnl_pct": -5.42
@@ -564,29 +568,16 @@
   {
    "asset": "IAU",
    "pnl_pct": 10.68
-  },
-  {
-   "asset": "CORN",
-   "pnl_pct": 14.52
   }
  ],
  "best_open": [
-  {
-   "asset": "XLV",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 171.6,
-   "mark": 188.46,
-   "pnl_pct": 9.83,
-   "opened": "2026-08-27"
-  },
   {
    "asset": "LIN",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 478.47,
-   "mark": 521.59,
-   "pnl_pct": 9.01,
+   "mark": 521.76,
+   "pnl_pct": 9.05,
    "opened": "2026-08-17"
   },
   {
@@ -595,7 +586,7 @@
    "side": "short",
    "entry": 28.61,
    "mark": 26.27,
-   "pnl_pct": 8.18,
+   "pnl_pct": 8.15,
    "opened": "2026-08-27"
   },
   {
@@ -603,8 +594,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 280.08,
-   "pnl_pct": 8.14,
+   "mark": 280.65,
+   "pnl_pct": 7.95,
    "opened": "2026-08-15"
   },
   {
@@ -612,9 +603,18 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 731.01,
-   "mark": 673.03,
-   "pnl_pct": 7.93,
+   "mark": 675.4,
+   "pnl_pct": 7.61,
    "opened": "2026-08-16"
+  },
+  {
+   "asset": "ENSG",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 172.96,
+   "mark": 185.15,
+   "pnl_pct": 7.05,
+   "opened": "2026-08-31"
   }
  ],
  "worst_open": [
@@ -637,22 +637,22 @@
    "opened": "2026-09-02"
   },
   {
-   "asset": "INDA",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 49.76,
-   "mark": 51.72,
-   "pnl_pct": -3.95,
-   "opened": "2026-08-27"
-  },
-  {
    "asset": "AVGO",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 319.11,
-   "mark": 331.64,
-   "pnl_pct": -3.93,
+   "mark": 332.07,
+   "pnl_pct": -4.06,
    "opened": "2026-11-09"
+  },
+  {
+   "asset": "INDA",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 49.76,
+   "mark": 51.69,
+   "pnl_pct": -3.89,
+   "opened": "2026-08-27"
   },
   {
    "asset": "BTC/USD",

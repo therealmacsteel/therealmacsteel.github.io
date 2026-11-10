@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-10T20:17:24Z",
+ "generated_at": "2026-11-10T21:17:23Z",
  "total_verified": 524,
  "by_platform": {
+  "facebook": 27,
   "youtube": 93,
   "instagram": 147,
-  "facebook": 27,
   "tiktok": 155,
   "x": 84,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/1130432476168916",
+   "ts": "2026-11-10T21:01:27.392151+00:00",
+   "caption": "7 prompts that keep your solo business running without a hitch You can stop the guesswork and let Mac Steel\u2019s 7 Prompts From a Live Agent Stack do the routine work for you. The Age"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/QEhOWe66rDE",
@@ -22,12 +28,6 @@
    "url": "https://www.instagram.com/p/Dfkm9qYFYS3/",
    "ts": "2026-11-10T19:01:27.491372+00:00",
    "caption": "Ready to automate with just 7 prompts? You can give your solo\u2011business workflow a reliable upgrade with Mac Steel\u2019s 7\u2011prompt set\u2014free, packed in a tidy 6\u2011page PDF. The Agent Identi"
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/1130432476168916",
-   "ts": "2026-11-10T18:01:09.671185+00:00",
-   "caption": "Want 25 proven prompts to make your chatbot converse naturally? You get 25 ready\u2011to\u2011use prompts from Mac Steel that turn any bot into an engaging partner. Apply them to your flow a"
   },
   {
    "platform": "tiktok",
