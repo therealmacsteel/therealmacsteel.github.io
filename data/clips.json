@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-11-10T17:17:25Z",
- "total_verified": 520,
+ "generated_at": "2026-11-10T18:17:25Z",
+ "total_verified": 522,
  "by_platform": {
+  "facebook": 27,
+  "tiktok": 155,
   "x": 84,
   "instagram": 146,
-  "tiktok": 154,
   "youtube": 92,
   "podcast": 12,
-  "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/1130432476168916",
+   "ts": "2026-11-10T18:01:09.671185+00:00",
+   "caption": "Want 25 proven prompts to make your chatbot converse naturally? You get 25 ready\u2011to\u2011use prompts from Mac Steel that turn any bot into an engaging partner. Apply them to your flow a"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7706599025243376926",
+   "ts": "2026-11-10T17:41:53.280158+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2120186936363286575",
@@ -214,18 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2118692596533084483",
    "ts": "2026-11-06T13:11:17.867728+00:00",
    "caption": "Want 25 proven prompts to make your chatbot sound human? Your conversations will engage more users with Mac Steel's 25 Proven Prompts."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7704888494962871583",
-   "ts": "2026-11-06T03:03:57.432676+00:00",
-   "caption": "7 prompts keep your routine work consistent? You get a 6\u2011page PDF from Mac Steel that shows each prompt and why it works. Copy the 7 prompts into your workflow and watch the drift "
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7704842635826990367",
-   "ts": "2026-11-06T00:05:21.362029+00:00",
-   "caption": "Want to turn long videos into 10 social posts? Stop wasting time editing from scratch. You can use 25 repurposing prompts to turn your long videos into short clips, blog posts, and"
   }
  ]
 }
