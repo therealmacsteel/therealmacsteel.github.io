@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T19:17:32Z",
+ "generated_at": "2026-11-10T20:17:28Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -8,7 +8,7 @@
  "win_rate": 0.273,
  "avg_trade_pct": -4.3,
  "open_total": 134,
- "open_avg_pct": 0.6,
+ "open_avg_pct": 0.61,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,8 +576,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 171.6,
-   "mark": 188.34,
-   "pnl_pct": 9.75,
+   "mark": 188.46,
+   "pnl_pct": 9.83,
    "opened": "2026-08-27"
   },
   {
@@ -585,8 +585,8 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 478.47,
-   "mark": 521.67,
-   "pnl_pct": 9.03,
+   "mark": 521.59,
+   "pnl_pct": 9.01,
    "opened": "2026-08-17"
   },
   {
@@ -594,8 +594,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 28.61,
-   "mark": 26.22,
-   "pnl_pct": 8.34,
+   "mark": 26.27,
+   "pnl_pct": 8.18,
    "opened": "2026-08-27"
   },
   {
@@ -603,8 +603,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 279.98,
-   "pnl_pct": 8.17,
+   "mark": 280.08,
+   "pnl_pct": 8.14,
    "opened": "2026-08-15"
   },
   {
@@ -612,8 +612,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 731.01,
-   "mark": 671.61,
-   "pnl_pct": 8.13,
+   "mark": 673.03,
+   "pnl_pct": 7.93,
    "opened": "2026-08-16"
   }
  ],
@@ -637,22 +637,22 @@
    "opened": "2026-09-02"
   },
   {
-   "asset": "XLC",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 111.45,
-   "mark": 107.09,
-   "pnl_pct": -3.91,
-   "opened": "2026-08-27"
-  },
-  {
    "asset": "INDA",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 49.76,
-   "mark": 51.67,
-   "pnl_pct": -3.85,
+   "mark": 51.72,
+   "pnl_pct": -3.95,
    "opened": "2026-08-27"
+  },
+  {
+   "asset": "AVGO",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 319.11,
+   "mark": 331.64,
+   "pnl_pct": -3.93,
+   "opened": "2026-11-09"
   },
   {
    "asset": "BTC/USD",

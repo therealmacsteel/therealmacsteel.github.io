@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-10T19:17:27Z",
- "total_verified": 523,
+ "generated_at": "2026-11-10T20:17:24Z",
+ "total_verified": 524,
  "by_platform": {
+  "youtube": 93,
   "instagram": 147,
   "facebook": 27,
   "tiktok": 155,
   "x": 84,
-  "youtube": 92,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/QEhOWe66rDE",
+   "ts": "2026-11-10T19:17:47.775965+00:00",
+   "caption": "Want 25 prompts that make your chatbot talk like a pro? Use the 25 proven prompts to turn any chatbot into an engaging conversational partner for your customers."
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/Dfkm9qYFYS3/",
@@ -220,12 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2118737318760923532",
    "ts": "2026-11-06T16:09:02.444883+00:00",
    "caption": "You need 7 prompts for reliable work. Get the Agent Identity Brief that keeps your assistant consistent from job 1 to job 400."
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfZ_MoCjXUR/",
-   "ts": "2026-11-06T16:01:33.481767+00:00",
-   "caption": "25 prompts to turn your chatbot into a conversation pro You\u2019ve built the logic, but the dialogue still feels stiff. Mac Steel\u2019s 25 proven prompts give you ready-to-use patterns for"
   }
  ]
 }
