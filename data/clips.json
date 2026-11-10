@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-10T12:17:22Z",
- "total_verified": 516,
+ "generated_at": "2026-11-10T13:17:23Z",
+ "total_verified": 517,
  "by_platform": {
+  "x": 83,
   "tiktok": 154,
   "instagram": 144,
-  "x": 82,
   "youtube": 92,
   "podcast": 12,
   "facebook": 26,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2120141666510344582",
+   "ts": "2026-11-10T13:10:08.763718+00:00",
+   "caption": "Want a chatbot that feels human? Try the 25 proven prompts for richer dialogue. You\u2019ll see conversation flow improve instantly, boosting engagement for your users."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7706305248335301918",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7704743679302405406",
    "ts": "2026-11-05T17:41:56.083923+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOU"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2118374950331646027",
-   "ts": "2026-11-05T16:09:05.679804+00:00",
-   "caption": "7 prompts keep your AI work consistent? Mac Steel\u2019s free PDF gives you the exact prompts for identity, scheduling, lead scoring, self\u2011heal, routing, and daily status."
   }
  ]
 }
