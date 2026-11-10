@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-11-10T18:17:29Z",
+ "generated_at": "2026-11-10T19:17:32Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 252,
+ "closed_total": 253,
  "excluded_unmarkable": 50,
- "win_rate": 0.274,
+ "win_rate": 0.273,
  "avg_trade_pct": -4.3,
- "open_total": 135,
- "open_avg_pct": 0.57,
+ "open_total": 134,
+ "open_avg_pct": 0.6,
  "lanes": [
   {
    "lane": "Equity factor model",
-   "closed": 112,
-   "win_rate": 0.232,
+   "closed": 113,
+   "win_rate": 0.23,
    "avg_win_pct": 14.5,
-   "avg_loss_pct": -8.42,
-   "avg_trade_pct": -3.1
+   "avg_loss_pct": -8.39,
+   "avg_trade_pct": -3.12
   },
   {
    "lane": "Macro ETFs",
@@ -52,6 +52,17 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "VEL",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 18.28,
+   "exit": 17.29,
+   "pnl_pct": -5.42,
+   "opened": "2026-08-10",
+   "closed": "2026-11-10",
+   "exit_reason": "stop"
+  },
   {
    "asset": "GDX",
    "lane": "Macro ETFs",
@@ -315,20 +326,13 @@
    "opened": "2026-09-08",
    "closed": "2026-11-09",
    "exit_reason": "stop"
-  },
-  {
-   "asset": "GSIT",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 5.36,
-   "exit": 3.08,
-   "pnl_pct": -42.63,
-   "opened": "2026-09-07",
-   "closed": "2026-11-09",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "VEL",
+   "pnl_pct": -5.42
+  },
   {
    "asset": "GDX",
    "pnl_pct": -5.82
@@ -564,10 +568,6 @@
   {
    "asset": "CORN",
    "pnl_pct": 14.52
-  },
-  {
-   "asset": "COPX",
-   "pnl_pct": 21.82
   }
  ],
  "best_open": [
@@ -576,8 +576,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 171.6,
-   "mark": 187.96,
-   "pnl_pct": 9.53,
+   "mark": 188.34,
+   "pnl_pct": 9.75,
    "opened": "2026-08-27"
   },
   {
@@ -585,36 +585,36 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 478.47,
-   "mark": 522.13,
-   "pnl_pct": 9.13,
+   "mark": 521.67,
+   "pnl_pct": 9.03,
    "opened": "2026-08-17"
-  },
-  {
-   "asset": "MSFT",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 500.16,
-   "mark": 543.02,
-   "pnl_pct": 8.57,
-   "opened": "2026-09-04"
-  },
-  {
-   "asset": "IWM",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 304.9,
-   "mark": 279.19,
-   "pnl_pct": 8.43,
-   "opened": "2026-08-15"
   },
   {
    "asset": "DBA",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 28.61,
-   "mark": 26.24,
-   "pnl_pct": 8.27,
+   "mark": 26.22,
+   "pnl_pct": 8.34,
    "opened": "2026-08-27"
+  },
+  {
+   "asset": "IWM",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 304.9,
+   "mark": 279.98,
+   "pnl_pct": 8.17,
+   "opened": "2026-08-15"
+  },
+  {
+   "asset": "QQQ",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 731.01,
+   "mark": 671.61,
+   "pnl_pct": 8.13,
+   "opened": "2026-08-16"
   }
  ],
  "worst_open": [
@@ -637,31 +637,31 @@
    "opened": "2026-09-02"
   },
   {
-   "asset": "INDA",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 49.76,
-   "mark": 51.7,
-   "pnl_pct": -3.9,
-   "opened": "2026-08-27"
-  },
-  {
    "asset": "XLC",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 111.45,
-   "mark": 107.12,
-   "pnl_pct": -3.89,
+   "mark": 107.09,
+   "pnl_pct": -3.91,
    "opened": "2026-08-27"
   },
   {
-   "asset": "COPX",
-   "lane": "Macro ETFs",
+   "asset": "INDA",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 49.76,
+   "mark": 51.67,
+   "pnl_pct": -3.85,
+   "opened": "2026-08-27"
+  },
+  {
+   "asset": "BTC/USD",
+   "lane": "Crypto",
    "side": "long",
-   "entry": 75.26,
-   "mark": 72.35,
-   "pnl_pct": -3.87,
-   "opened": "2026-11-09"
+   "entry": 76912.71,
+   "mark": 73963.72,
+   "pnl_pct": -3.83,
+   "opened": "2026-09-02"
   }
  ],
  "book": {

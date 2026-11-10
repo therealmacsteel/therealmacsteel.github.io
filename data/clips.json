@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-10T18:17:25Z",
- "total_verified": 522,
+ "generated_at": "2026-11-10T19:17:27Z",
+ "total_verified": 523,
  "by_platform": {
+  "instagram": 147,
   "facebook": 27,
   "tiktok": 155,
   "x": 84,
-  "instagram": 146,
   "youtube": 92,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/Dfkm9qYFYS3/",
+   "ts": "2026-11-10T19:01:27.491372+00:00",
+   "caption": "Ready to automate with just 7 prompts? You can give your solo\u2011business workflow a reliable upgrade with Mac Steel\u2019s 7\u2011prompt set\u2014free, packed in a tidy 6\u2011page PDF. The Agent Identi"
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/1130432476168916",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DfZ_MoCjXUR/",
    "ts": "2026-11-06T16:01:33.481767+00:00",
    "caption": "25 prompts to turn your chatbot into a conversation pro You\u2019ve built the logic, but the dialogue still feels stiff. Mac Steel\u2019s 25 proven prompts give you ready-to-use patterns for"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2118692596533084483",
-   "ts": "2026-11-06T13:11:17.867728+00:00",
-   "caption": "Want 25 proven prompts to make your chatbot sound human? Your conversations will engage more users with Mac Steel's 25 Proven Prompts."
   }
  ]
 }
