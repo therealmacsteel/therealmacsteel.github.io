@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-11T18:17:24Z",
- "total_verified": 532,
+ "generated_at": "2026-11-11T19:17:22Z",
+ "total_verified": 533,
  "by_platform": {
+  "instagram": 149,
   "facebook": 28,
   "tiktok": 159,
   "x": 86,
-  "instagram": 148,
   "youtube": 93,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfnLxHqjJyt/",
+   "ts": "2026-11-11T19:01:19.675726+00:00",
+   "caption": "7 prompts to keep your solo business running smoothly\u2014no drift, no guesswork. You\u2019ll get a Daily Status Report that stops your workflow from wandering off course, so you can focus "
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/2559805037840363",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/Dfc4jROCl2_/",
    "ts": "2026-11-07T19:01:05.857900+00:00",
    "caption": "7 prompts to keep your solo business running reliably\u2014no guesswork You get a PDF of 6 pages that shows each prompt and why it works. The Daily Status Report stops your workflow fro"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7705485775411891486",
-   "ts": "2026-11-07T17:41:40.041678+00:00",
-   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
   }
  ]
 }
