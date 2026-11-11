@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-11T19:17:26Z",
+ "generated_at": "2026-11-11T20:17:25Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 260,
+ "closed_total": 261,
  "excluded_unmarkable": 54,
- "win_rate": 0.277,
+ "win_rate": 0.276,
  "avg_trade_pct": -4.16,
  "open_total": 137,
- "open_avg_pct": 0.69,
+ "open_avg_pct": 0.74,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -20,10 +20,10 @@
   },
   {
    "lane": "Macro ETFs",
-   "closed": 59,
-   "win_rate": 0.169,
+   "closed": 60,
+   "win_rate": 0.167,
    "avg_win_pct": 10.34,
-   "avg_loss_pct": -9.04,
+   "avg_loss_pct": -8.97,
    "avg_trade_pct": -5.75
   },
   {
@@ -52,6 +52,17 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "VIXY",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 18.0,
+   "exit": 16.97,
+   "pnl_pct": -5.72,
+   "opened": "2026-09-10",
+   "closed": "2026-11-11",
+   "exit_reason": "stop"
+  },
   {
    "asset": "AMD",
    "lane": "Shorts (simulated)",
@@ -315,20 +326,13 @@
    "opened": "2026-09-10",
    "closed": "2026-11-09",
    "exit_reason": "stop"
-  },
-  {
-   "asset": "LTH",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 41.47,
-   "exit": 46.96,
-   "pnl_pct": 13.24,
-   "opened": "2026-09-10",
-   "closed": "2026-11-09",
-   "exit_reason": "target"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "VIXY",
+   "pnl_pct": -5.72
+  },
   {
    "asset": "AMD",
    "pnl_pct": -5.2
@@ -564,10 +568,6 @@
   {
    "asset": "SLV",
    "pnl_pct": 20.6
-  },
-  {
-   "asset": "CORN",
-   "pnl_pct": -13.53
   }
  ],
  "best_open": [
@@ -576,44 +576,44 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 478.47,
-   "mark": 523.92,
-   "pnl_pct": 9.5,
+   "mark": 526.27,
+   "pnl_pct": 9.99,
    "opened": "2026-08-17"
-  },
-  {
-   "asset": "OKTA",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 170.57,
-   "mark": 184.93,
-   "pnl_pct": 8.42,
-   "opened": "2026-09-07"
-  },
-  {
-   "asset": "DBA",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 28.61,
-   "mark": 26.34,
-   "pnl_pct": 7.94,
-   "opened": "2026-08-27"
   },
   {
    "asset": "VIXY",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 18.5,
-   "mark": 17.13,
-   "pnl_pct": 7.43,
+   "mark": 16.97,
+   "pnl_pct": 8.3,
    "opened": "2026-11-09"
+  },
+  {
+   "asset": "DBA",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 28.61,
+   "mark": 26.36,
+   "pnl_pct": 7.85,
+   "opened": "2026-08-27"
+  },
+  {
+   "asset": "OKTA",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 170.57,
+   "mark": 183.55,
+   "pnl_pct": 7.61,
+   "opened": "2026-09-07"
   },
   {
    "asset": "IWM",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 283.25,
-   "pnl_pct": 7.1,
+   "mark": 282.99,
+   "pnl_pct": 7.19,
    "opened": "2026-08-15"
   }
  ],
@@ -637,15 +637,6 @@
    "opened": "2026-09-02"
   },
   {
-   "asset": "VIXY",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 18.0,
-   "mark": 17.13,
-   "pnl_pct": -4.83,
-   "opened": "2026-09-10"
-  },
-  {
    "asset": "BTC/USD",
    "lane": "Crypto",
    "side": "long",
@@ -655,12 +646,21 @@
    "opened": "2026-09-02"
   },
   {
+   "asset": "XLE",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 60.51,
+   "mark": 63.16,
+   "pnl_pct": -4.39,
+   "opened": "2026-11-10"
+  },
+  {
    "asset": "FXI",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 35.48,
-   "mark": 33.92,
-   "pnl_pct": -4.4,
+   "mark": 33.96,
+   "pnl_pct": -4.28,
    "opened": "2026-08-24"
   }
  ],

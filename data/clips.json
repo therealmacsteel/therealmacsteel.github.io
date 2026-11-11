@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-11T19:17:22Z",
- "total_verified": 533,
+ "generated_at": "2026-11-11T20:17:21Z",
+ "total_verified": 534,
  "by_platform": {
+  "youtube": 94,
   "instagram": 149,
   "facebook": 28,
   "tiktok": 159,
   "x": 86,
-  "youtube": 93,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/lXZoVq9xzeU",
+   "ts": "2026-11-11T19:17:35.209271+00:00",
+   "caption": "Want more from every long video you publish? Use 25 prompts to turn one video into short clips, blog posts and more. It saves hours per video. Mac Steel repurposing pack helps you "
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DfnLxHqjJyt/",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7705563143753190687",
    "ts": "2026-11-07T22:41:48.881234+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Evaluation Metrics for Effective Performance Assessment \u2192 Error Handling and Recovery Strategies for Robust "
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Dfc4jROCl2_/",
-   "ts": "2026-11-07T19:01:05.857900+00:00",
-   "caption": "7 prompts to keep your solo business running reliably\u2014no guesswork You get a PDF of 6 pages that shows each prompt and why it works. The Daily Status Report stops your workflow fro"
   }
  ]
 }
