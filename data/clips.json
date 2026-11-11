@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-10T23:17:22Z",
- "total_verified": 525,
+ "generated_at": "2026-11-11T00:17:23Z",
+ "total_verified": 526,
  "by_platform": {
-  "tiktok": 156,
+  "tiktok": 157,
   "facebook": 27,
   "youtube": 93,
   "instagram": 147,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7706697467437354270",
+   "ts": "2026-11-11T00:03:00.132533+00:00",
+   "caption": "Want 25 proven prompts for better chatbot conversations? Mac Steel gives you 25 ready-to-use dialogue prompts so your chatbot feels natural. Stop guessing what to say next. Each pr"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7706676312215162143",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DfaUZjCihnK/",
    "ts": "2026-11-06T19:06:54.835358+00:00",
    "caption": "7 prompts that keep your solo business running unattended \u2013 ready to test? You can set a Scheduled Task Specification so a routine runs without you lifting a finger, and the Daily "
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7705114637410241823",
-   "ts": "2026-11-06T17:41:35.275192+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Personalizing Agent Identities for Enhanced Engagement \u2192 Agent Self-Improvement through Feedback Loops \u2192 Caching Strategies f"
   }
  ]
 }

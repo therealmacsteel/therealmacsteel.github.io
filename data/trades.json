@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T23:17:27Z",
+ "generated_at": "2026-11-11T00:17:27Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -8,7 +8,7 @@
  "win_rate": 0.276,
  "avg_trade_pct": -4.24,
  "open_total": 137,
- "open_avg_pct": 0.6,
+ "open_avg_pct": 0.59,
  "lanes": [
   {
    "lane": "Equity factor model",
