@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-11-11T17:17:24Z",
- "total_verified": 530,
+ "generated_at": "2026-11-11T18:17:24Z",
+ "total_verified": 532,
  "by_platform": {
+  "facebook": 28,
+  "tiktok": 159,
   "x": 86,
   "instagram": 148,
-  "tiktok": 158,
-  "facebook": 27,
   "youtube": 93,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/2559805037840363",
+   "ts": "2026-11-11T18:01:11.102113+00:00",
+   "caption": "Get 25 prompts that turn one long video into short clips, blog posts and more You can save hours per video by repurposing what you already filmed instead of starting from scratch. "
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7706970136338566431",
+   "ts": "2026-11-11T17:41:42.370379+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Extract Key Moments from [YOUR VIDEO] \u2192 Write Email Newsletters from Video Segments \u2192 Summarize Video Discussions for Podcast"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2120549318482657515",
@@ -214,18 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7705485775411891486",
    "ts": "2026-11-07T17:41:40.041678+00:00",
    "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Dfcj_PUAL88/",
-   "ts": "2026-11-07T16:02:03.117888+00:00",
-   "caption": "25 prompts turn one video into 10+ posts? You get 25 ready\u2011to\u2011use prompts that slice a long video into shorts, blogs and more. You save hours per video and keep your content pipeli"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2119054428414361840",
-   "ts": "2026-11-07T13:09:04.864631+00:00",
-   "caption": "What if 25 prompts turned your long video into 10+ posts? You get 25 ready-to-use prompts that slice one video into short clips, blog posts, and more."
   }
  ]
 }
