@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-11-11T22:17:24Z",
- "total_verified": 535,
+ "generated_at": "2026-11-11T23:17:21Z",
+ "total_verified": 537,
  "by_platform": {
+  "tiktok": 160,
+  "youtube": 95,
   "facebook": 29,
-  "youtube": 94,
   "instagram": 149,
-  "tiktok": 159,
   "x": 86,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7707047431791299870",
+   "ts": "2026-11-11T22:41:37.836442+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/CyAKHx4kACs",
+   "ts": "2026-11-11T22:17:40.670810+00:00",
+   "caption": "Want 7 prompts that keep your solo business running flawlessly? With the Agent Identity Brief, your assistant will deliver the exact same output on job 400 as it does on job 1, eli"
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/330341929876486",
@@ -214,18 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2119416841458319775",
    "ts": "2026-11-08T13:09:10.164556+00:00",
    "caption": "Want 25 prompts to make your chatbot talk like a pro? Use them to boost engagement and cut response time."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7705630808693919007",
-   "ts": "2026-11-08T03:04:00.696115+00:00",
-   "caption": "7 prompts keep your routine work on track? Your Daily Status Report stops drift and keeps output consistent. Mac Steel\u2019s 7 Prompts give you the exact prompts used in a live multi\u2011a"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7705584227026226463",
-   "ts": "2026-11-08T00:03:13.063459+00:00",
-   "caption": "What if 25 prompts turned one video into 10+ posts? You get short clips, blog posts, and more from every upload. It saves hours per video."
   }
  ]
 }
