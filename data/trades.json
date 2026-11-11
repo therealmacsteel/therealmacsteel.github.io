@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-11T09:17:23Z",
+ "generated_at": "2026-11-11T10:17:24Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
  "closed_total": 254,
- "excluded_unmarkable": 50,
+ "excluded_unmarkable": 52,
  "win_rate": 0.276,
  "avg_trade_pct": -4.24,
- "open_total": 137,
- "open_avg_pct": 0.59,
+ "open_total": 135,
+ "open_avg_pct": 0.6,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -632,8 +632,17 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 2394.18,
-   "mark": 2057.53,
-   "pnl_pct": -14.06,
+   "mark": 2053.34,
+   "pnl_pct": -14.24,
+   "opened": "2026-09-02"
+  },
+  {
+   "asset": "BTC/USD",
+   "lane": "Crypto",
+   "side": "long",
+   "entry": 76912.71,
+   "mark": 73635.7,
+   "pnl_pct": -4.26,
    "opened": "2026-09-02"
   },
   {
@@ -644,15 +653,6 @@
    "mark": 332.07,
    "pnl_pct": -4.06,
    "opened": "2026-11-09"
-  },
-  {
-   "asset": "BTC/USD",
-   "lane": "Crypto",
-   "side": "long",
-   "entry": 76912.71,
-   "mark": 73848.99,
-   "pnl_pct": -3.98,
-   "opened": "2026-09-02"
   },
   {
    "asset": "INDA",
