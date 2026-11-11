@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-11T16:17:27Z",
+ "generated_at": "2026-11-11T17:17:28Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 256,
- "excluded_unmarkable": 52,
- "win_rate": 0.277,
- "avg_trade_pct": -4.2,
+ "closed_total": 258,
+ "excluded_unmarkable": 54,
+ "win_rate": 0.279,
+ "avg_trade_pct": -4.15,
  "open_total": 137,
- "open_avg_pct": 0.65,
+ "open_avg_pct": 0.63,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -28,11 +28,11 @@
   },
   {
    "lane": "Shorts (simulated)",
-   "closed": 56,
-   "win_rate": 0.5,
+   "closed": 57,
+   "win_rate": 0.491,
    "avg_win_pct": 14.39,
-   "avg_loss_pct": -6.27,
-   "avg_trade_pct": 4.06
+   "avg_loss_pct": -6.26,
+   "avg_trade_pct": 3.88
   },
   {
    "lane": "Options (simulated)",
@@ -44,14 +44,36 @@
   },
   {
    "lane": "Congress disclosures",
-   "closed": 14,
-   "win_rate": 0.357,
-   "avg_win_pct": 11.54,
+   "closed": 15,
+   "win_rate": 0.4,
+   "avg_win_pct": 11.66,
    "avg_loss_pct": -10.42,
-   "avg_trade_pct": -2.58
+   "avg_trade_pct": -1.59
   }
  ],
  "recent_closed": [
+  {
+   "asset": "MU",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 732.8,
+   "exit": 822.85,
+   "pnl_pct": 12.29,
+   "opened": "2026-11-09",
+   "closed": "2026-11-11",
+   "exit_reason": "target"
+  },
+  {
+   "asset": "EWY",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 141.32,
+   "exit": 149.75,
+   "pnl_pct": -5.97,
+   "opened": "2026-11-09",
+   "closed": "2026-11-11",
+   "exit_reason": "stop"
+  },
   {
    "asset": "AVGO",
    "lane": "Congress disclosures",
@@ -304,31 +326,17 @@
    "opened": "2026-09-10",
    "closed": "2026-11-09",
    "exit_reason": "target"
-  },
-  {
-   "asset": "USO",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 154.12,
-   "exit": 143.78,
-   "pnl_pct": -6.71,
-   "opened": "2026-09-10",
-   "closed": "2026-11-09",
-   "exit_reason": "stop"
-  },
-  {
-   "asset": "USO",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 154.12,
-   "exit": 143.78,
-   "pnl_pct": -6.71,
-   "opened": "2026-09-10",
-   "closed": "2026-11-09",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "MU",
+   "pnl_pct": 12.29
+  },
+  {
+   "asset": "EWY",
+   "pnl_pct": -5.97
+  },
   {
    "asset": "AVGO",
    "pnl_pct": 10.78
@@ -560,51 +568,34 @@
   {
    "asset": "AVGO",
    "pnl_pct": 13.64
-  },
-  {
-   "asset": "XLK",
-   "pnl_pct": -8.32
-  },
-  {
-   "asset": "QQQ",
-   "pnl_pct": -5.64
   }
  ],
  "best_open": [
-  {
-   "asset": "OKTA",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 170.57,
-   "mark": 187.55,
-   "pnl_pct": 9.95,
-   "opened": "2026-09-07"
-  },
   {
    "asset": "LIN",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 478.47,
-   "mark": 522.66,
-   "pnl_pct": 9.24,
+   "mark": 523.76,
+   "pnl_pct": 9.47,
    "opened": "2026-08-17"
   },
   {
-   "asset": "MU",
-   "lane": "Congress disclosures",
+   "asset": "OKTA",
+   "lane": "Equity factor model",
    "side": "long",
-   "entry": 732.8,
-   "mark": 795.16,
-   "pnl_pct": 8.51,
-   "opened": "2026-11-09"
+   "entry": 170.57,
+   "mark": 186.68,
+   "pnl_pct": 9.44,
+   "opened": "2026-09-07"
   },
   {
    "asset": "DBA",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 28.61,
-   "mark": 26.32,
-   "pnl_pct": 7.99,
+   "mark": 26.35,
+   "pnl_pct": 7.88,
    "opened": "2026-08-27"
   },
   {
@@ -612,9 +603,18 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 281.95,
-   "pnl_pct": 7.53,
+   "mark": 282.96,
+   "pnl_pct": 7.2,
    "opened": "2026-08-15"
+  },
+  {
+   "asset": "INTC",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 59.29,
+   "mark": 63.52,
+   "pnl_pct": 7.13,
+   "opened": "2026-11-09"
   }
  ],
  "worst_open": [
@@ -637,6 +637,15 @@
    "opened": "2026-09-02"
   },
   {
+   "asset": "VIXY",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 18.21,
+   "mark": 17.33,
+   "pnl_pct": -4.83,
+   "opened": "2026-11-09"
+  },
+  {
    "asset": "BTC/USD",
    "lane": "Crypto",
    "side": "long",
@@ -650,18 +659,9 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 35.48,
-   "mark": 33.95,
-   "pnl_pct": -4.33,
+   "mark": 33.98,
+   "pnl_pct": -4.23,
    "opened": "2026-08-24"
-  },
-  {
-   "asset": "EWY",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 141.32,
-   "mark": 146.99,
-   "pnl_pct": -4.01,
-   "opened": "2026-11-09"
   }
  ],
  "book": {
