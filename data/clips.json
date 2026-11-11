@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-11T12:17:22Z",
- "total_verified": 527,
+ "generated_at": "2026-11-11T13:17:23Z",
+ "total_verified": 528,
  "by_platform": {
+  "x": 85,
   "tiktok": 158,
   "facebook": 27,
   "youtube": 93,
   "instagram": 147,
-  "x": 84,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2120504022897471501",
+   "ts": "2026-11-11T13:09:17.279275+00:00",
+   "caption": "Your long video deserves more than one post. Use 25 prompts to turn it into clips, blogs, and more, saving hours every time."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7706744091878477087",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7705191966098640158",
    "ts": "2026-11-07T00:34:34.336891+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video"
-  },
-  {
-   "platform": "podcast",
-   "url": "https://therealmacsteel.github.io/podcast/weekly-2026-11-06.html",
-   "ts": "2026-11-06T22:52:50.910974+00:00",
-   "caption": "Steel Trades Weekly: Book -5.12% vs SPY -3.31%"
   }
  ]
 }
