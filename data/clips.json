@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-11T20:17:21Z",
- "total_verified": 534,
+ "generated_at": "2026-11-11T21:17:23Z",
+ "total_verified": 535,
  "by_platform": {
+  "facebook": 29,
   "youtube": 94,
   "instagram": 149,
-  "facebook": 28,
   "tiktok": 159,
   "x": 86,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/330341929876486",
+   "ts": "2026-11-11T21:01:20.459571+00:00",
+   "caption": "7 prompts to keep your solo business running unattended\u2014check the PDF today! You can schedule routine tasks, get daily status reports, and even self\u2011heal failures without writing a"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/lXZoVq9xzeU",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7705584227026226463",
    "ts": "2026-11-08T00:03:13.063459+00:00",
    "caption": "What if 25 prompts turned one video into 10+ posts? You get short clips, blog posts, and more from every upload. It saves hours per video."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7705563143753190687",
-   "ts": "2026-11-07T22:41:48.881234+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Evaluation Metrics for Effective Performance Assessment \u2192 Error Handling and Recovery Strategies for Robust "
   }
  ]
 }
