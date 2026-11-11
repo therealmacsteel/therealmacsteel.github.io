@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T02:17:25Z",
- "total_verified": 526,
+ "generated_at": "2026-11-11T03:17:21Z",
+ "total_verified": 527,
  "by_platform": {
-  "tiktok": 157,
+  "tiktok": 158,
   "facebook": 27,
   "youtube": 93,
   "instagram": 147,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7706744091878477087",
+   "ts": "2026-11-11T03:03:59.661077+00:00",
+   "caption": "7 prompts that keep your solo business running flawlessly\u2014no guesswork needed. You\u2019ll get a Daily Status Report that stops drift and a Self\u2011Heal Diagnostic that pinpoints failures "
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7706697467437354270",
@@ -220,12 +226,6 @@
    "url": "https://therealmacsteel.github.io/podcast/weekly-2026-11-06.html",
    "ts": "2026-11-06T22:52:50.910974+00:00",
    "caption": "Steel Trades Weekly: Book -5.12% vs SPY -3.31%"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfaUZjCihnK/",
-   "ts": "2026-11-06T19:06:54.835358+00:00",
-   "caption": "7 prompts that keep your solo business running unattended \u2013 ready to test? You can set a Scheduled Task Specification so a routine runs without you lifting a finger, and the Daily "
   }
  ]
 }
