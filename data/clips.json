@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-11-11T15:17:23Z",
- "total_verified": 528,
+ "generated_at": "2026-11-11T16:17:23Z",
+ "total_verified": 530,
  "by_platform": {
-  "x": 85,
+  "x": 86,
+  "instagram": 148,
   "tiktok": 158,
   "facebook": 27,
   "youtube": 93,
-  "instagram": 147,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2120549318482657515",
+   "ts": "2026-11-11T16:09:14.470040+00:00",
+   "caption": "7 prompts for your routine work. Use the Agent Identity Brief to behave the same on job 400."
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/Dfm3MQJjDDB/",
+   "ts": "2026-11-11T16:01:47.337187+00:00",
+   "caption": "Want 10+ posts from one long video? Mac Steel\u2019s repurposing pack gives you 25 prompts to slice your video into short clips, blog posts, and more without starting from scratch. Save"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2120504022897471501",
@@ -214,18 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2119054428414361840",
    "ts": "2026-11-07T13:09:04.864631+00:00",
    "caption": "What if 25 prompts turned your long video into 10+ posts? You get 25 ready-to-use prompts that slice one video into short clips, blog posts, and more."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7705259692666178846",
-   "ts": "2026-11-07T03:03:39.930450+00:00",
-   "caption": "7 prompts can lock consistency across job 400 and job 1\u2014curious? You can let a solo builder run scheduled tasks unattended with the Scheduled Task Specification and get a Daily Sta"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7705191966098640158",
-   "ts": "2026-11-07T00:34:34.336891+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video"
   }
  ]
 }
