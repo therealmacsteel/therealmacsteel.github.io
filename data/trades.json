@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T18:17:28Z",
+ "generated_at": "2026-11-12T19:17:28Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -8,7 +8,7 @@
  "win_rate": 0.271,
  "avg_trade_pct": -4.12,
  "open_total": 137,
- "open_avg_pct": 0.82,
+ "open_avg_pct": 0.83,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,45 +576,45 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 90.97,
-   "mark": 83.02,
-   "pnl_pct": 8.73,
+   "mark": 82.25,
+   "pnl_pct": 9.58,
    "opened": "2026-11-09"
-  },
-  {
-   "asset": "DBA",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 28.61,
-   "mark": 26.34,
-   "pnl_pct": 7.94,
-   "opened": "2026-08-27"
-  },
-  {
-   "asset": "NVDA",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 152.92,
-   "mark": 164.94,
-   "pnl_pct": 7.86,
-   "opened": "2026-11-12"
   },
   {
    "asset": "IWM",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 281.06,
-   "pnl_pct": 7.82,
+   "mark": 279.09,
+   "pnl_pct": 8.47,
    "opened": "2026-08-15"
+  },
+  {
+   "asset": "DBA",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 28.61,
+   "mark": 26.28,
+   "pnl_pct": 8.13,
+   "opened": "2026-08-27"
   },
   {
    "asset": "ENSG",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 172.96,
-   "mark": 186.23,
-   "pnl_pct": 7.67,
+   "mark": 186.44,
+   "pnl_pct": 7.79,
    "opened": "2026-08-31"
+  },
+  {
+   "asset": "NVDA",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 152.92,
+   "mark": 163.95,
+   "pnl_pct": 7.21,
+   "opened": "2026-11-12"
   }
  ],
  "worst_open": [
@@ -646,22 +646,22 @@
    "opened": "2026-09-02"
   },
   {
-   "asset": "GLD",
+   "asset": "TLT",
    "lane": "Macro ETFs",
    "side": "long",
-   "entry": 369.42,
-   "mark": 354.89,
-   "pnl_pct": -3.93,
-   "opened": "2026-11-10"
+   "entry": 83.06,
+   "mark": 79.81,
+   "pnl_pct": -3.91,
+   "opened": "2026-08-25"
   },
   {
-   "asset": "NVDA",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 158.96,
-   "mark": 164.94,
-   "pnl_pct": -3.77,
-   "opened": "2026-11-12"
+   "asset": "TLT",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 83.06,
+   "mark": 79.81,
+   "pnl_pct": -3.91,
+   "opened": "2026-08-25"
   }
  ],
  "book": {

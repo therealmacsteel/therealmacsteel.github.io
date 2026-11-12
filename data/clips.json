@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-12T18:17:24Z",
- "total_verified": 543,
+ "generated_at": "2026-11-12T19:17:23Z",
+ "total_verified": 544,
  "by_platform": {
+  "instagram": 151,
   "facebook": 30,
   "x": 88,
-  "instagram": 150,
   "tiktok": 162,
   "youtube": 95,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfpwjIXkYtN/",
+   "ts": "2026-11-12T19:01:16.594111+00:00",
+   "caption": "7 prompts that keep your AI routine honest? You can copy the 7 prompts from Mac Steel's 6\u2011page PDF and plug them into your workflow to make routine tasks run unattended and consist"
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/2304698316774301",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7705856837911842078",
    "ts": "2026-11-08T17:41:36.013665+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Vid"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7705213218377026847",
-   "ts": "2026-11-08T17:14:48.294587+00:00",
-   "caption": "Want to boost your chatbot with 25 proven prompts? You\u2019ll transform bland replies into natural, flowing dialogue that keeps customers coming back. Just load the 25 prompts from our"
   }
  ]
 }
