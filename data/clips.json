@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-12T20:17:24Z",
- "total_verified": 545,
+ "generated_at": "2026-11-12T21:17:24Z",
+ "total_verified": 546,
  "by_platform": {
+  "facebook": 31,
   "youtube": 96,
   "instagram": 151,
-  "facebook": 30,
   "x": 88,
   "tiktok": 162,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/1647644066825658",
+   "ts": "2026-11-12T21:01:20.450540+00:00",
+   "caption": "7 prompts that could cut your admin time in half\u2014ready to try? You can lock down routine jobs with the Scheduled Task Specification and get a Daily Status Report that keeps your wo"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/YT7Mx_bCesg",
@@ -220,12 +226,6 @@
    "url": "https://www.youtube.com/shorts/KpvDKHnlV6o",
    "ts": "2026-11-08T19:17:38.119296+00:00",
    "caption": "Want 25 prompts to make your chatbot sound human? You\u2019re about to unlock a set of 25 proven prompts that transform any chatbot into an engaging conversational partner, so your user"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DffdW9qEWGa/",
-   "ts": "2026-11-08T19:01:08.625773+00:00",
-   "caption": "7 prompts keep your routine work consistent Your daily tasks stay on track with Mac Steel's 7 Prompts, each delivered in a 6\u2011page PDF that explains why it works. You get a self\u2011hea"
   }
  ]
 }
