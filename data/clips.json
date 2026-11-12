@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T02:17:22Z",
- "total_verified": 538,
+ "generated_at": "2026-11-12T03:17:24Z",
+ "total_verified": 539,
  "by_platform": {
-  "tiktok": 161,
+  "tiktok": 162,
   "youtube": 95,
   "facebook": 29,
   "instagram": 149,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7707115077224221982",
+   "ts": "2026-11-12T03:03:34.931691+00:00",
+   "caption": "7 prompts that can cut your admin time in half\u2014ready to try? You\u2019ll swap a 200\u2011prompt dump for just 7 proven prompts, keeping your workflow consistent and honest. Add the Daily Sta"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7707068622899924255",
@@ -220,12 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2119462166201868775",
    "ts": "2026-11-08T16:09:18.605301+00:00",
    "caption": "Your routine work can run on 7 prompts You get a 6-page PDF with every prompt explained"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DffI2ZWjvMm/",
-   "ts": "2026-11-08T16:02:06.382381+00:00",
-   "caption": "25 prompts to make your chatbot sound human? Use the 25 prompts from Mac Steel to turn any chatbot into an engaging conversational partner for your business. Each prompt is designe"
   }
  ]
 }
