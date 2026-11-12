@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-11-12T15:17:26Z",
- "total_verified": 540,
+ "generated_at": "2026-11-12T16:17:23Z",
+ "total_verified": 542,
  "by_platform": {
-  "x": 87,
+  "x": 88,
+  "instagram": 150,
   "tiktok": 162,
   "youtube": 95,
   "facebook": 29,
-  "instagram": 149,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2120911695199825992",
+   "ts": "2026-11-12T16:09:13.688387+00:00",
+   "caption": "7 prompts keep your routine work consistent? Mac Steel\u2019s 7 Prompts give you a 6\u2011page PDF that keeps tasks on track."
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/Dfpb-VajvdH/",
+   "ts": "2026-11-12T16:02:20.394248+00:00",
+   "caption": "25 prompts for better chatbot dialogue. You want your chatbot to feel like a real person, not a robot. Stop letting generic responses drive customers away. Use these 25 proven prom"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2120866396976361974",
@@ -214,18 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7704100027215498526",
    "ts": "2026-11-08T17:14:48.279330+00:00",
    "caption": "Are you tired of prompt packs that drop raw text and wish you luck? When you build workflows, raw text leaves your business guessing. You need context and real failure modes to pre"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7693740721580297503",
-   "ts": "2026-11-08T17:14:48.244891+00:00",
-   "caption": "Your chatbot answers questions but the conversations feel dead. 25 prompts can fix that. Each prompt is built to make your chatbot sound natural, keep people engaged, and move chat"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7691467490789985567",
-   "ts": "2026-11-08T17:13:16.150310+00:00",
-   "caption": "14 top creators studied before your first line. Auto brief gives opening line, angle, visuals, avoidances. All 5 blueprints for $10."
   }
  ]
 }
