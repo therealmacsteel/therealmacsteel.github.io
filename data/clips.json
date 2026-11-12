@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T23:17:21Z",
- "total_verified": 537,
+ "generated_at": "2026-11-12T00:17:21Z",
+ "total_verified": 538,
  "by_platform": {
-  "tiktok": 160,
+  "tiktok": 161,
   "youtube": 95,
   "facebook": 29,
   "instagram": 149,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7707068622899924255",
+   "ts": "2026-11-12T00:03:19.561467+00:00",
+   "caption": "One long video, 25 ways to repost it Your content can become clips, blog posts, and more without starting from scratch every time. Saves hours per video. 25 prompts to turn one lon"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7707047431791299870",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DffI2ZWjvMm/",
    "ts": "2026-11-08T16:02:06.382381+00:00",
    "caption": "25 prompts to make your chatbot sound human? Use the 25 prompts from Mac Steel to turn any chatbot into an engaging conversational partner for your business. Each prompt is designe"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2119416841458319775",
-   "ts": "2026-11-08T13:09:10.164556+00:00",
-   "caption": "Want 25 prompts to make your chatbot talk like a pro? Use them to boost engagement and cut response time."
   }
  ]
 }
