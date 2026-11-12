@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-12T19:17:23Z",
- "total_verified": 544,
+ "generated_at": "2026-11-12T20:17:24Z",
+ "total_verified": 545,
  "by_platform": {
+  "youtube": 96,
   "instagram": 151,
   "facebook": 30,
   "x": 88,
   "tiktok": 162,
-  "youtube": 95,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/YT7Mx_bCesg",
+   "ts": "2026-11-12T19:17:30.212412+00:00",
+   "caption": "Ready to boost your chatbot with 25 proven prompts? You can turn any bot into an engaging conversational partner by using the 25 prompts from Mac Steel\u2019s guide\u2014each one is crafted "
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DfpwjIXkYtN/",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DffdW9qEWGa/",
    "ts": "2026-11-08T19:01:08.625773+00:00",
    "caption": "7 prompts keep your routine work consistent Your daily tasks stay on track with Mac Steel's 7 Prompts, each delivered in a 6\u2011page PDF that explains why it works. You get a self\u2011hea"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7705856837911842078",
-   "ts": "2026-11-08T17:41:36.013665+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Vid"
   }
  ]
 }
