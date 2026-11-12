@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-12T22:17:22Z",
- "total_verified": 546,
+ "generated_at": "2026-11-12T23:17:23Z",
+ "total_verified": 547,
  "by_platform": {
+  "youtube": 97,
   "facebook": 31,
-  "youtube": 96,
   "instagram": 151,
   "x": 88,
   "tiktok": 162,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/vsLyE7j6_Vo",
+   "ts": "2026-11-12T22:17:32.990908+00:00",
+   "caption": "Can 7 prompts eliminate drift in your solo business workflow? Your day\u2011to\u2011day tasks\u2014scheduling posts, scoring leads, routing models\u2014can run unattended with Mac Steel\u2019s 7 Prompts Fr"
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/1647644066825658",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7705934155695000862",
    "ts": "2026-11-08T22:41:38.362135+00:00",
    "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/KpvDKHnlV6o",
-   "ts": "2026-11-08T19:17:38.119296+00:00",
-   "caption": "Want 25 prompts to make your chatbot sound human? You\u2019re about to unlock a set of 25 proven prompts that transform any chatbot into an engaging conversational partner, so your user"
   }
  ]
 }
