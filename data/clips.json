@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-12T12:17:21Z",
- "total_verified": 539,
+ "generated_at": "2026-11-12T13:17:22Z",
+ "total_verified": 540,
  "by_platform": {
+  "x": 87,
   "tiktok": 162,
   "youtube": 95,
   "facebook": 29,
   "instagram": 149,
-  "x": 86,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2120866396976361974",
+   "ts": "2026-11-12T13:09:13.439028+00:00",
+   "caption": "Ready to boost your chatbot with 25 proven prompts? Use the 25 prompts to make dialogue flow naturally and keep users talking longer."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7707115077224221982",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7691467490789985567",
    "ts": "2026-11-08T17:13:16.150310+00:00",
    "caption": "14 top creators studied before your first line. Auto brief gives opening line, angle, visuals, avoidances. All 5 blueprints for $10."
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2119462166201868775",
-   "ts": "2026-11-08T16:09:18.605301+00:00",
-   "caption": "Your routine work can run on 7 prompts You get a 6-page PDF with every prompt explained"
   }
  ]
 }
