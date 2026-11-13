@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-11-13T15:17:46Z",
- "total_verified": 550,
+ "generated_at": "2026-11-13T16:17:27Z",
+ "total_verified": 552,
  "by_platform": {
-  "x": 89,
+  "x": 90,
+  "instagram": 152,
   "tiktok": 164,
   "youtube": 97,
   "facebook": 31,
-  "instagram": 151,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2121274061963821433",
+   "ts": "2026-11-13T16:09:09.130569+00:00",
+   "caption": "7 prompts, job 400 same as job 1. Your AI runs unattended without drift."
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfsAxjzDKx4/",
+   "ts": "2026-11-13T16:02:01.059892+00:00",
+   "caption": "25 prompts turn your long video into short clips, blog posts, and more You save hours per video using Mac Steel repurposing prompts Stop posting once from your content More reach f"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2121228793235079472",
@@ -214,18 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2120141666510344582",
    "ts": "2026-11-10T13:10:08.763718+00:00",
    "caption": "Want a chatbot that feels human? Try the 25 proven prompts for richer dialogue. You\u2019ll see conversation flow improve instantly, boosting engagement for your users."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7706305248335301918",
-   "ts": "2026-11-09T22:41:40.322527+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Write Email Newsletters from Video Segments \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes fo"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7706227900923612447",
-   "ts": "2026-11-09T18:34:04.178088+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Training Data Curation for High-Quality Learning \u2192 Autonomous Agent Real-Time Feedback for Improved Decision"
   }
  ]
 }
