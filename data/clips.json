@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-13T12:17:22Z",
- "total_verified": 549,
+ "generated_at": "2026-11-13T13:17:30Z",
+ "total_verified": 550,
  "by_platform": {
+  "x": 89,
   "tiktok": 164,
   "youtube": 97,
   "facebook": 31,
   "instagram": 151,
-  "x": 88,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2121228793235079472",
+   "ts": "2026-11-13T13:09:14.440908+00:00",
+   "caption": "One long video, how many posts can you squeeze out? Turn it into 25 pieces with Mac Steel repurposing prompts. Saves hours per video."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7707486182887673118",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7706227900923612447",
    "ts": "2026-11-09T18:34:04.178088+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Training Data Curation for High-Quality Learning \u2192 Autonomous Agent Real-Time Feedback for Improved Decision"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Dfhtn9yDC7h/",
-   "ts": "2026-11-09T16:01:55.289452+00:00",
-   "caption": "25 prompts turn one video into 10+ posts? You can turn a single long video into short clips, blog posts, and more with 25 ready\u2011to\u2011use prompts. It saves you hours per video and kee"
   }
  ]
 }
