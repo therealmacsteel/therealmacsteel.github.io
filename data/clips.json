@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-11-13T17:17:27Z",
- "total_verified": 552,
+ "generated_at": "2026-11-13T18:17:26Z",
+ "total_verified": 554,
  "by_platform": {
+  "facebook": 32,
+  "tiktok": 165,
   "x": 90,
   "instagram": 152,
-  "tiktok": 164,
   "youtube": 97,
-  "facebook": 31,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/2982019065511391",
+   "ts": "2026-11-13T18:01:18.457133+00:00",
+   "caption": "Can 7 prompts run your routine work unattended? Most small businesses dump hundreds of prompts into AI and hope it stays consistent. Mac Steel\u2019s 7 Prompts gives you seven checks in"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7707712245156875550",
+   "ts": "2026-11-13T17:41:47.924129+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2121274061963821433",
@@ -214,18 +226,6 @@
    "url": "https://www.instagram.com/p/DfkSZE5iAUQ/",
    "ts": "2026-11-10T16:02:05.635576+00:00",
    "caption": "25 prompts to make your chatbot talk like a pro? You get 25 proven prompts from Mac Steel that turn any bot into a natural conversational partner. Use them to sharpen tone, handle "
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfkLlYBgrGN/",
-   "ts": "2026-11-10T15:20:04.500536+00:00",
-   "caption": "$0/month of AI ran my business this week. Six numbers, one rule each: 1. 570 automated tasks, 96% clean \u2014 timebox every job. 2. 61 posts, 55 with a live URL \u2014 a link or it didn't h"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2120141666510344582",
-   "ts": "2026-11-10T13:10:08.763718+00:00",
-   "caption": "Want a chatbot that feels human? Try the 25 proven prompts for richer dialogue. You\u2019ll see conversation flow improve instantly, boosting engagement for your users."
   }
  ]
 }
