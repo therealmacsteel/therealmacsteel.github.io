@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T18:17:30Z",
+ "generated_at": "2026-11-13T19:17:30Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -8,7 +8,7 @@
  "win_rate": 0.272,
  "avg_trade_pct": -4.21,
  "open_total": 135,
- "open_avg_pct": 0.93,
+ "open_avg_pct": 0.94,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,8 +576,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 276.57,
-   "pnl_pct": 9.29,
+   "mark": 276.98,
+   "pnl_pct": 9.16,
    "opened": "2026-08-15"
   },
   {
@@ -585,26 +585,26 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 172.96,
-   "mark": 187.51,
-   "pnl_pct": 8.41,
+   "mark": 188.55,
+   "pnl_pct": 9.01,
    "opened": "2026-08-31"
   },
   {
-   "asset": "QQQ",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 731.01,
-   "mark": 676.51,
-   "pnl_pct": 7.46,
-   "opened": "2026-08-16"
+   "asset": "OKTA",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 170.57,
+   "mark": 183.27,
+   "pnl_pct": 7.45,
+   "opened": "2026-09-07"
   },
   {
    "asset": "URA",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 34.24,
-   "mark": 31.69,
-   "pnl_pct": 7.46,
+   "mark": 31.71,
+   "pnl_pct": 7.4,
    "opened": "2026-11-09"
   },
   {
@@ -637,21 +637,12 @@
    "opened": "2026-09-02"
   },
   {
-   "asset": "NVDA",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 168.52,
-   "mark": 160.47,
-   "pnl_pct": -4.78,
-   "opened": "2026-11-13"
-  },
-  {
    "asset": "TLT",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 83.06,
-   "mark": 79.51,
-   "pnl_pct": -4.27,
+   "mark": 79.39,
+   "pnl_pct": -4.41,
    "opened": "2026-08-25"
   },
   {
@@ -659,8 +650,17 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 83.06,
-   "mark": 79.51,
-   "pnl_pct": -4.27,
+   "mark": 79.39,
+   "pnl_pct": -4.41,
+   "opened": "2026-08-25"
+  },
+  {
+   "asset": "TLT",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 83.06,
+   "mark": 79.39,
+   "pnl_pct": -4.41,
    "opened": "2026-08-25"
   }
  ],

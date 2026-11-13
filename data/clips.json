@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-13T18:17:26Z",
- "total_verified": 554,
+ "generated_at": "2026-11-13T19:17:25Z",
+ "total_verified": 555,
  "by_platform": {
+  "instagram": 153,
   "facebook": 32,
   "tiktok": 165,
   "x": 90,
-  "instagram": 152,
   "youtube": 97,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfsVa4xAMYu/",
+   "ts": "2026-11-13T19:01:53.483927+00:00",
+   "caption": "7 prompts that run your routine work unattended You don't need a 200-prompt dump. You need seven. Mac Steel's free PDF covers identity briefs, scheduled tasks, lead scoring, self-h"
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/2982019065511391",
@@ -220,12 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2120186936363286575",
    "ts": "2026-11-10T16:09:17.068186+00:00",
    "caption": "7 prompts keep your AI consistent on job 400 Your Daily Status Report stops drift. Agent Identity Brief locks format so output stays identical from job 1 to job 400. Free 6-page PD"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfkSZE5iAUQ/",
-   "ts": "2026-11-10T16:02:05.635576+00:00",
-   "caption": "25 prompts to make your chatbot talk like a pro? You get 25 proven prompts from Mac Steel that turn any bot into a natural conversational partner. Use them to sharpen tone, handle "
   }
  ]
 }
