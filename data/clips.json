@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-12T23:17:23Z",
- "total_verified": 547,
+ "generated_at": "2026-11-13T00:17:24Z",
+ "total_verified": 548,
  "by_platform": {
+  "tiktok": 163,
   "youtube": 97,
   "facebook": 31,
   "instagram": 151,
   "x": 88,
-  "tiktok": 162,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7707439609747197198",
+   "ts": "2026-11-13T00:02:52.531302+00:00",
+   "caption": "Why did you override the 3% take profit? Mac Steel's rules\u2011based paper\u2011trading exit engine graded 5 closed trades: 3 wins, 2 losses, $10.02 profit. Stop letting discretion erase yo"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/vsLyE7j6_Vo",
@@ -220,12 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2119779250647486899",
    "ts": "2026-11-09T13:09:16.181304+00:00",
    "caption": "Want 25 prompts to turn one video into many posts? You\u2019ll save hours per video and get 10+ ready\u2011to\u2011publish pieces."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7705934155695000862",
-   "ts": "2026-11-08T22:41:38.362135+00:00",
-   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
   }
  ]
 }
