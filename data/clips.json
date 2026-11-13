@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T22:17:23Z",
- "total_verified": 556,
+ "generated_at": "2026-11-13T23:17:25Z",
+ "total_verified": 557,
  "by_platform": {
-  "youtube": 98,
+  "youtube": 99,
   "instagram": 153,
   "facebook": 32,
   "tiktok": 165,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/98yMFV8mjPs",
+   "ts": "2026-11-13T22:17:33.065134+00:00",
+   "caption": "Want 7 prompts that run your routine work unattended? Mac Steel\u2019s free 6-page PDF gives you seven fixed prompts: Agent Identity Brief, Scheduled Task Specification, Build-in-Public"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/Bocd7wnBGqM",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/Dfkm9qYFYS3/",
    "ts": "2026-11-10T19:01:27.491372+00:00",
    "caption": "Ready to automate with just 7 prompts? You can give your solo\u2011business workflow a reliable upgrade with Mac Steel\u2019s 7\u2011prompt set\u2014free, packed in a tidy 6\u2011page PDF. The Agent Identi"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7706599025243376926",
-   "ts": "2026-11-10T17:41:53.280158+00:00",
-   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
   }
  ]
 }
