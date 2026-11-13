@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-13T13:17:36Z",
+ "generated_at": "2026-11-13T14:17:29Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 276,
- "excluded_unmarkable": 58,
- "win_rate": 0.272,
- "avg_trade_pct": -4.25,
- "open_total": 139,
- "open_avg_pct": 0.94,
+ "closed_total": 277,
+ "excluded_unmarkable": 61,
+ "win_rate": 0.274,
+ "avg_trade_pct": -4.19,
+ "open_total": 138,
+ "open_avg_pct": 0.88,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -36,11 +36,11 @@
   },
   {
    "lane": "Congress disclosures",
-   "closed": 17,
-   "win_rate": 0.353,
-   "avg_win_pct": 11.66,
+   "closed": 18,
+   "win_rate": 0.389,
+   "avg_win_pct": 11.45,
    "avg_loss_pct": -9.87,
-   "avg_trade_pct": -2.27
+   "avg_trade_pct": -1.58
   },
   {
    "lane": "Options (simulated)",
@@ -52,6 +52,17 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "NVDA",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 152.92,
+   "exit": 168.52,
+   "pnl_pct": 10.2,
+   "opened": "2026-11-12",
+   "closed": "2026-11-13",
+   "exit_reason": "target"
+  },
   {
    "asset": "NVDA",
    "lane": "Shorts (simulated)",
@@ -315,20 +326,13 @@
    "opened": "2026-08-10",
    "closed": "2026-11-10",
    "exit_reason": "stop"
-  },
-  {
-   "asset": "GDX",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 91.44,
-   "exit": 86.12,
-   "pnl_pct": -5.82,
-   "opened": "2026-11-09",
-   "closed": "2026-11-10",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "NVDA",
+   "pnl_pct": 10.2
+  },
   {
    "asset": "NVDA",
    "pnl_pct": -5.12
@@ -564,29 +568,16 @@
   {
    "asset": "GRID",
    "pnl_pct": 10.15
-  },
-  {
-   "asset": "NVDA",
-   "pnl_pct": -22.67
   }
  ],
  "best_open": [
-  {
-   "asset": "NVDA",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 152.92,
-   "mark": 167.1,
-   "pnl_pct": 9.27,
-   "opened": "2026-11-12"
-  },
   {
    "asset": "IWM",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 304.9,
-   "mark": 278.42,
-   "pnl_pct": 8.68,
+   "mark": 279.47,
+   "pnl_pct": 8.34,
    "opened": "2026-08-15"
   },
   {
@@ -615,6 +606,15 @@
    "mark": 182.52,
    "pnl_pct": 7.01,
    "opened": "2026-09-07"
+  },
+  {
+   "asset": "FXI",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 35.54,
+   "mark": 33.46,
+   "pnl_pct": 5.85,
+   "opened": "2026-08-27"
   }
  ],
  "worst_open": [
@@ -623,8 +623,8 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 2394.18,
-   "mark": 1954.44,
-   "pnl_pct": -18.37,
+   "mark": 1973.07,
+   "pnl_pct": -17.59,
    "opened": "2026-09-02"
   },
   {
@@ -632,17 +632,26 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 76912.71,
-   "mark": 69405.47,
-   "pnl_pct": -9.76,
+   "mark": 69673.57,
+   "pnl_pct": -9.41,
    "opened": "2026-09-02"
   },
   {
+   "asset": "GOOGL",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 290.27,
+   "mark": 303.28,
+   "pnl_pct": -4.48,
+   "opened": "2026-11-09"
+  },
+  {
    "asset": "TLT",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 83.06,
-   "mark": 79.72,
-   "pnl_pct": -4.02,
+   "mark": 79.43,
+   "pnl_pct": -4.37,
    "opened": "2026-08-25"
   },
   {
@@ -650,17 +659,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 83.06,
-   "mark": 79.72,
-   "pnl_pct": -4.02,
-   "opened": "2026-08-25"
-  },
-  {
-   "asset": "TLT",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 83.06,
-   "mark": 79.72,
-   "pnl_pct": -4.02,
+   "mark": 79.43,
+   "pnl_pct": -4.37,
    "opened": "2026-08-25"
   }
  ],
