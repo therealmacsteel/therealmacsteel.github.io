@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T02:17:24Z",
- "total_verified": 548,
+ "generated_at": "2026-11-13T03:17:44Z",
+ "total_verified": 549,
  "by_platform": {
-  "tiktok": 163,
+  "tiktok": 164,
   "youtube": 97,
   "facebook": 31,
   "instagram": 151,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7707486182887673118",
+   "ts": "2026-11-13T03:03:40.405674+00:00",
+   "caption": "Got 25 proven prompts to supercharge your chatbot? You can copy the 25 prompts straight into your bot and watch the conversation flow feel natural and lively. No rewrites, just plu"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7707439609747197198",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/Dfhtn9yDC7h/",
    "ts": "2026-11-09T16:01:55.289452+00:00",
    "caption": "25 prompts turn one video into 10+ posts? You can turn a single long video into short clips, blog posts, and more with 25 ready\u2011to\u2011use prompts. It saves you hours per video and kee"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2119779250647486899",
-   "ts": "2026-11-09T13:09:16.181304+00:00",
-   "caption": "Want 25 prompts to turn one video into many posts? You\u2019ll save hours per video and get 10+ ready\u2011to\u2011publish pieces."
   }
  ]
 }
