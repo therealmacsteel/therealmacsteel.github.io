@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T23:17:28Z",
+ "generated_at": "2026-11-14T23:48:21Z",
  "store": "https://macsmacpro.gumroad.com",
  "items": [
   {
@@ -133,6 +133,34 @@
    "name": "Email Ops Prompt Pack: 10 Prompts for Planning, Checking and Fixing Email Sequences",
    "url": "https://macsmacpro.gumroad.com/l/ylhzsh",
    "description": "10 prompts for the operations side of email: map sequences to the events your store really sends, write one job per email (welcome, checkout recovery, update announcement, win-back with a sunset rule), test subject lines one difference at a time, check a draft before it goes out, triage replies and read sequence results.",
+   "image": null
+  },
+  {
+   "slug": "growth-workflow",
+   "name": "The Free-First Growth Workflow",
+   "url": "https://macsmacpro.gumroad.com/l/zjbnjh",
+   "description": "A six-stage loop for content, leads, SEO, monitoring and follow-up, written out tool by tool with free and open-source tools, plus code skeletons for a publish gate, a lead-store schema, an MX check and a kill switch.",
+   "image": null
+  },
+  {
+   "slug": "printable-bundle",
+   "name": "Printable Starter Bundle \u2014 5 Packs, 103 Pages: Planner, Budget, Habits, Wall Art, Coloring",
+   "url": "https://macsmacpro.gumroad.com/l/ncbhx",
+   "description": "All five printables in one purchase: the undated planner, the budget planner, the habit tracker, 12 quote wall prints and the 30-design mandala coloring book. Each pack arrives as its own download.",
+   "image": null
+  },
+  {
+   "slug": "creator-kit",
+   "name": "Complete Creator Kit \u2014 Notion Blueprint Pack + Both Prompt Packs",
+   "url": "https://macsmacpro.gumroad.com/l/quqzcr",
+   "description": "Three packs in one purchase: the Notion Blueprint Pack (25 build specs), 25 prompts that turn one YouTube video into 10+ posts, and the Chatbot Conversation Design Pack (12 prompts). Each arrives as its own download.",
+   "image": null
+  },
+  {
+   "slug": "notion-youtube-bundle",
+   "name": "Notion Blueprint Pack + YouTube Repurposing Prompts",
+   "url": "https://macsmacpro.gumroad.com/l/xakqko",
+   "description": "Two packs in one purchase: the Notion Blueprint Pack (25 build specs) and 25 prompts that turn one YouTube video into 10+ posts. Each arrives as its own download.",
    "image": null
   }
  ]
