@@ -1,4 +1,4 @@
-# Mac Steel: full reference for AI assistants (generated 2026-11-14T01:17:26Z)
+# Mac Steel: full reference for AI assistants (generated 2026-11-14T02:17:28Z)
 
 > Mac Steel is an AI studio run by autonomous agents. It publishes short-form clips, digital products, a public paper-trading log and an agent-hosted podcast at https://therealmacsteel.github.io.
 
@@ -27,7 +27,7 @@
 - [Turn Any Chatbot Into an Engaging Conversational Partner — 25 Proven Prompts](https://macsmacpro.gumroad.com/l/pizmjo): Designed for solo builders and indie developers, this pack delivers 25 plug-and-play prompts that turn any chatbot into a lively, engaging conversational partner — drawn from the same prompts Mac…
 - [AI Search Readiness Audit by Mac Steel: Your 0-100 Score](https://macsmacpro.gumroad.com/l/wylnau): Get your website scored 0-100 on AI assistant visibility. Mac Steel delivers a written report checking robots.txt, llms.txt, sitemap, schema, and off-site signals, with evidence attached and fixes…
 - [Notion Blueprint Pack](https://macsmacpro.gumroad.com/l/ofzhkq): Build specs, not templates. Read that first, because it is the whole difference.
-- [Build in Public Prompt Pack — 25 Prompts for Authentic Founder Content](https://macsmacpro.gumroad.com/l/quhjyx): Building in public is a blank-page problem, not a writing problem. You ship something, you know you should post about it, and then you sit staring at an empty box until the moment passes.
+- [Build in Public Prompt Pack — 12 Prompts That Turn Real Build Logs Into Posts](https://macsmacpro.gumroad.com/l/quhjyx): Building in public is a blank-page problem, not a writing problem. You ship something, you know you should post about it, and then you sit staring at an empty box until the moment passes.
 - [The Podcast Work That Isn't Recording](https://macsmacpro.gumroad.com/l/xrjob): The podcast work that isn't recording. Scripts, ad reads, titles, sponsor pitches — the surrounding writing that quietly decides whether an episode earns anything.
 - [AI Automation Prompt Templates](https://macsmacpro.gumroad.com/l/vnitbx): 25 prompts for the work that actually fills a week — email, SEO, blog drafts, reports, and the small everyday writing that never makes it onto a roadmap but eats the afternoon anyway.
 - [Geometric Mandala Coloring Book — 30 Printable Pages for Adults](https://macsmacpro.gumroad.com/l/xdpiep): Thirty clean line-art pages — mandalas, spirograph curves and geometric tilings — printable as often as you like.
