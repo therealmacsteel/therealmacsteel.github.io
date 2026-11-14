@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T02:17:24Z",
- "total_verified": 558,
+ "generated_at": "2026-11-14T03:17:23Z",
+ "total_verified": 559,
  "by_platform": {
-  "tiktok": 166,
+  "tiktok": 167,
   "youtube": 99,
   "instagram": 153,
   "facebook": 32,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7707857364606569741",
+   "ts": "2026-11-14T03:04:06.734899+00:00",
+   "caption": "7 prompts, not 200. Can your small business run routine work unattended? Copy the same setup Mac Steel uses: Agent Identity Brief, Scheduled Task Specification, Lead Scoring, Self-"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7707810744821124382",
@@ -220,12 +226,6 @@
    "url": "https://www.facebook.com/reel/1130432476168916",
    "ts": "2026-11-10T21:01:27.392151+00:00",
    "caption": "7 prompts that keep your solo business running without a hitch You can stop the guesswork and let Mac Steel\u2019s 7 Prompts From a Live Agent Stack do the routine work for you. The Age"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/QEhOWe66rDE",
-   "ts": "2026-11-10T19:17:47.775965+00:00",
-   "caption": "Want 25 prompts that make your chatbot talk like a pro? Use the 25 proven prompts to turn any chatbot into an engaging conversational partner for your customers."
   }
  ]
 }
