@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-14T12:17:22Z",
- "total_verified": 559,
+ "generated_at": "2026-11-14T13:17:23Z",
+ "total_verified": 560,
  "by_platform": {
+  "x": 91,
   "tiktok": 167,
   "youtube": 99,
   "instagram": 153,
   "facebook": 32,
-  "x": 90,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "x",
+   "url": "https://x.com/therealmacsteel/status/2121591154403688589",
+   "ts": "2026-11-14T13:09:10.270191+00:00",
+   "caption": "Want better chatbot conversations? Try Mac Steel's 25 prompts for dialogue design."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7707857364606569741",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7706676312215162143",
    "ts": "2026-11-10T22:41:36.486783+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Chatbot Design for Customer Support \u2192 Streamlining Task Routing for Efficient Agent Performance \u2192 Improving Memory"
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/1130432476168916",
-   "ts": "2026-11-10T21:01:27.392151+00:00",
-   "caption": "7 prompts that keep your solo business running without a hitch You can stop the guesswork and let Mac Steel\u2019s 7 Prompts From a Live Agent Stack do the routine work for you. The Age"
   }
  ]
 }
