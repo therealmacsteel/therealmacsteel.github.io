@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-13T23:17:25Z",
- "total_verified": 557,
+ "generated_at": "2026-11-14T00:17:23Z",
+ "total_verified": 558,
  "by_platform": {
+  "tiktok": 166,
   "youtube": 99,
   "instagram": 153,
   "facebook": 32,
-  "tiktok": 165,
   "x": 90,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7707810744821124382",
+   "ts": "2026-11-14T00:03:11.743402+00:00",
+   "caption": "Want 10+ posts from one long video? Get 25 repurposing prompts. Turn your video into short clips, blog posts, and more. Save hours per video with Mac Steel."
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/98yMFV8mjPs",
@@ -220,12 +226,6 @@
    "url": "https://www.youtube.com/shorts/QEhOWe66rDE",
    "ts": "2026-11-10T19:17:47.775965+00:00",
    "caption": "Want 25 prompts that make your chatbot talk like a pro? Use the 25 proven prompts to turn any chatbot into an engaging conversational partner for your customers."
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Dfkm9qYFYS3/",
-   "ts": "2026-11-10T19:01:27.491372+00:00",
-   "caption": "Ready to automate with just 7 prompts? You can give your solo\u2011business workflow a reliable upgrade with Mac Steel\u2019s 7\u2011prompt set\u2014free, packed in a tidy 6\u2011page PDF. The Agent Identi"
   }
  ]
 }
