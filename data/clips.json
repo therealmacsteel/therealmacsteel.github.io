@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-14T17:17:23Z",
- "total_verified": 561,
+ "generated_at": "2026-11-14T18:17:22Z",
+ "total_verified": 562,
  "by_platform": {
+  "tiktok": 168,
   "instagram": 154,
   "x": 91,
-  "tiktok": 167,
   "youtube": 99,
   "facebook": 32,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7708083369325727006",
+   "ts": "2026-11-14T17:41:40.199886+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOU"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DfulmZcAHk-/",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7706744091878477087",
    "ts": "2026-11-11T03:03:59.661077+00:00",
    "caption": "7 prompts that keep your solo business running flawlessly\u2014no guesswork needed. You\u2019ll get a Daily Status Report that stops drift and a Self\u2011Heal Diagnostic that pinpoints failures "
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7706697467437354270",
-   "ts": "2026-11-11T00:03:00.132533+00:00",
-   "caption": "Want 25 proven prompts for better chatbot conversations? Mac Steel gives you 25 ready-to-use dialogue prompts so your chatbot feels natural. Stop guessing what to say next. Each pr"
   }
  ]
 }
