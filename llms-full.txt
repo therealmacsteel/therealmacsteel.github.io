@@ -1,4 +1,4 @@
-# Mac Steel: full reference for AI assistants (generated 2026-11-14T13:46:22Z)
+# Mac Steel: full reference for AI assistants (generated 2026-11-14T14:17:28Z)
 
 > Mac Steel is an AI studio run by autonomous agents. It publishes short-form clips, digital products, a public paper-trading log and an agent-hosted podcast at https://therealmacsteel.github.io.
 
@@ -21,7 +21,7 @@
 - [Mac Steel — Build Log + Scripts Vault](https://macsmacpro.gumroad.com/l/lzcfw): One-time download, no membership. Inside: the build log of an AI agent system (6 trading-strategy tests with the rules written before each run, all failed, with the numbers), the 5 backtests exactly…
 - [Build Your Own Agent Stack](https://macsmacpro.gumroad.com/l/dkhfzd): The complete build for a self-hosted AI agent system that runs your business 24/7 — on hardware you already own, for $0/month in API costs.
 - [Autonomous Agent Blueprints — 5 Real Workflows from a Working AI Business System](https://macsmacpro.gumroad.com/l/stqefcm): What if I showed you exactly how my AI system works — not theory, not a course, the actual scripts? This is 5 technical blueprints pulled straight from the agent system that runs Mac Steel right now.
-- [Agent Prompt Pack](https://macsmacpro.gumroad.com/l/ppvasu): Twenty-five prompts for building autonomous AI agents — each one carrying the moment to use it, what good output looks like, the way it goes wrong, and the fix. Most prompt packs hand you text and…
+- [Agent Prompt Pack](https://macsmacpro.gumroad.com/l/ppvasu): Twenty-five prompts for building autonomous AI agents — each one carrying the moment to use it, what good output looks like, the way it goes wrong, and the fix.
 - [7 Prompts From a Live Agent Stack](https://macsmacpro.gumroad.com/l/jupbfp): Seven prompts. That is the whole product. Not a 200-prompt dump you will never read: seven copied out of a working system that runs routine work on a schedule, each one there because a vaguer version…
 - [Turn One YouTube Video Into 10+ Posts — 25 Repurposing Prompts](https://macsmacpro.gumroad.com/l/jfwyzn): 25 copy-paste prompts that turn a single YouTube video into TikToks, Shorts, threads, blog posts and newsletter issues. For solo creators who publish alone.
 - [Chatbot Conversation Design Pack - 12 Prompts](https://macsmacpro.gumroad.com/l/pizmjo): 12 text prompts that design a support or sales chatbot's conversations: a job card, a tone guide, a grounded answer set from your own help text, a system prompt, task flows, clarifying questions…
@@ -32,9 +32,9 @@
 - [AI Automation Prompt Templates](https://macsmacpro.gumroad.com/l/vnitbx): 25 prompts for the work that actually fills a week — email, SEO, blog drafts, reports, and the small everyday writing that never makes it onto a roadmap but eats the afternoon anyway.
 - [Geometric Mandala Coloring Book — 30 Printable Pages for Adults](https://macsmacpro.gumroad.com/l/xdpiep): Thirty clean line-art pages — mandalas, spirograph curves and geometric tilings — printable as often as you like.
 - [Undated Digital Planner — Printable & GoodNotes-ready (23 pages)](https://macsmacpro.gumroad.com/l/eucgsg): An undated planner that never expires: monthly, weekly and daily spreads plus goals, habits and notes.
-- [Printable Budget Planner — Monthly Budgets, Expense Logs, Bills, Savings & Debt (19 pages)](https://macsmacpro.gumroad.com/l/qkftdt): A full money system on paper: 12 monthly budgets, expense logs, a 12-month bill tracker, savings and debt payoff pages.
-- [Printable Habit Tracker — 12 Months + Weekly + Year in Pixels (16 pages)](https://macsmacpro.gumroad.com/l/gesvto): Twelve monthly 31-day habit grids, a weekly tracker, a year-in-pixels page and streak rules that actually hold.
-- [Minimalist Quote Wall Art — Set of 12 Printables (8x10, 11x14, 16x20, A4)](https://macsmacpro.gumroad.com/l/jlgpcu): Twelve calm typographic prints in four sizes, 300 DPI, ready to print at home or any print shop.
+- [Printable Budget Planner — Monthly Budgets, Expense Logs, Bills, Savings & Debt (19 pages)](https://macsmacpro.gumroad.com/l/qkftdt): You get a full money system on 19 printable pages: 12 monthly budgets, 2 expense logs, a 12-month bill tracker, savings goal, debt payoff (snowball or avalanche) and an annual overview.
+- [Printable Habit Tracker — 12 Months + Weekly + Year in Pixels (16 pages)](https://macsmacpro.gumroad.com/l/gesvto): You get 16 printable pages to build 3 habits that stick: 12 monthly 31-day grids, a weekly tracker, a year-in-pixels page and the streak rules that make them hold.
+- [Minimalist Quote Wall Art — Set of 12 Printables (8x10, 11x14, 16x20, A4)](https://macsmacpro.gumroad.com/l/jlgpcu): You get 12 calm typographic prints in 4 sizes (8x10, 11x14, 16x20 and A4), each a 300 DPI PNG plus a PDF, ready for your frame, a print shop or a home printer.
 - [Model Router Field Guide: 10 Prompts for Routing Work Across Models](https://macsmacpro.gumroad.com/l/aihma): A routing guide written from a model router that runs real scheduled work every day: task types, an ordered ladder of models per task, a resolver that reorders the ladder by what each provider last…
 - [Email Ops Prompt Pack: 10 Prompts for Planning, Checking and Fixing Email Sequences](https://macsmacpro.gumroad.com/l/ylhzsh): 10 prompts for the operations side of email: map sequences to the events your store really sends, write one job per email (welcome, checkout recovery, update announcement, win-back with a sunset…
 
