@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-14T15:17:27Z",
- "total_verified": 560,
+ "generated_at": "2026-11-14T16:17:22Z",
+ "total_verified": 561,
  "by_platform": {
+  "instagram": 154,
   "x": 91,
   "tiktok": 167,
   "youtube": 99,
-  "instagram": 153,
   "facebook": 32,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfulmZcAHk-/",
+   "ts": "2026-11-14T16:02:17.007171+00:00",
+   "caption": "Want 25 prompts for better chatbot conversations? Your bot can sound more human and keep customers chatting longer. Use clear prompts to shape every reply for your business. Stop g"
+  },
   {
    "platform": "x",
    "url": "https://x.com/therealmacsteel/status/2121591154403688589",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7706697467437354270",
    "ts": "2026-11-11T00:03:00.132533+00:00",
    "caption": "Want 25 proven prompts for better chatbot conversations? Mac Steel gives you 25 ready-to-use dialogue prompts so your chatbot feels natural. Stop guessing what to say next. Each pr"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7706676312215162143",
-   "ts": "2026-11-10T22:41:36.486783+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Chatbot Design for Customer Support \u2192 Streamlining Task Routing for Efficient Agent Performance \u2192 Improving Memory"
   }
  ]
 }
