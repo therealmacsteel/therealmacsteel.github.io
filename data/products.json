@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T13:17:27Z",
+ "generated_at": "2026-11-14T13:46:22Z",
  "store": "https://macsmacpro.gumroad.com",
  "items": [
   {
@@ -119,6 +119,20 @@
    "name": "Minimalist Quote Wall Art \u2014 Set of 12 Printables (8x10, 11x14, 16x20, A4)",
    "url": "https://macsmacpro.gumroad.com/l/jlgpcu",
    "description": "Twelve calm typographic prints in four sizes, 300 DPI, ready to print at home or any print shop.",
+   "image": null
+  },
+  {
+   "slug": "model-router-pack",
+   "name": "Model Router Field Guide: 10 Prompts for Routing Work Across Models",
+   "url": "https://macsmacpro.gumroad.com/l/aihma",
+   "description": "A routing guide written from a model router that runs real scheduled work every day: task types, an ordered ladder of models per task, a resolver that reorders the ladder by what each provider last reported, and a cooldown table that knows prompt size.",
+   "image": null
+  },
+  {
+   "slug": "email-ops-pack",
+   "name": "Email Ops Prompt Pack: 10 Prompts for Planning, Checking and Fixing Email Sequences",
+   "url": "https://macsmacpro.gumroad.com/l/ylhzsh",
+   "description": "10 prompts for the operations side of email: map sequences to the events your store really sends, write one job per email (welcome, checkout recovery, update announcement, win-back with a sunset rule), test subject lines one difference at a time, check a draft before it goes out, triage replies and read sequence results.",
    "image": null
   }
  ]

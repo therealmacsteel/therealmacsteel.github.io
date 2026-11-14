@@ -98,7 +98,9 @@
         body: JSON.stringify(d)
       }).then(function (r) {
         if (!r.ok) { throw new Error("status " + r.status); }
-        note(form, "Got it. You'll hear back at " + d.email + ".", true);
+        // A form may state its own next step (data-ok); "{email}" is filled in.
+        var ok = form.getAttribute("data-ok");
+        note(form, ok ? ok.replace("{email}", d.email) : "Got it. You'll hear back at " + d.email + ".", true);
         form.reset();
       }).catch(function () {
         // The original rule: a failure tells the visitor how to reach a human,
