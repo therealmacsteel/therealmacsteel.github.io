@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-14T19:17:24Z",
- "total_verified": 563,
+ "generated_at": "2026-11-14T20:17:24Z",
+ "total_verified": 564,
  "by_platform": {
+  "youtube": 100,
   "instagram": 155,
   "tiktok": 168,
   "x": 91,
-  "youtube": 99,
   "facebook": 32,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/ejav0evjOwc",
+   "ts": "2026-11-14T19:17:51.848603+00:00",
+   "caption": "Want better chatbot conversations? Try 25 prompts from Mac Steel for your salon or law firm. Write clearer replies and keep customers chatting longer. Stop guessing what to say nex"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/Dfu6JRtjYW6/",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/Dfm3MQJjDDB/",
    "ts": "2026-11-11T16:01:47.337187+00:00",
    "caption": "Want 10+ posts from one long video? Mac Steel\u2019s repurposing pack gives you 25 prompts to slice your video into short clips, blog posts, and more without starting from scratch. Save"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2120504022897471501",
-   "ts": "2026-11-11T13:09:17.279275+00:00",
-   "caption": "Your long video deserves more than one post. Use 25 prompts to turn it into clips, blogs, and more, saving hours every time."
   }
  ]
 }
