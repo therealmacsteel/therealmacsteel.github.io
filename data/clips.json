@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T03:17:25Z",
- "total_verified": 567,
+ "generated_at": "2026-11-15T04:17:24Z",
+ "total_verified": 568,
  "by_platform": {
-  "tiktok": 170,
+  "tiktok": 171,
   "youtube": 101,
   "instagram": 155,
   "x": 91,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7708228403920506143",
+   "ts": "2026-11-15T03:20:02.828097+00:00",
+   "caption": "Want 25 prompts for better chatbot conversations? Your bot talks. Your customers leave. Fix the dialogue with Mac Steel\u2019s Chatbot Conversation Design Pack. Twenty-five ready-to-use"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7708181920303025439",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DfnLxHqjJyt/",
    "ts": "2026-11-11T19:01:19.675726+00:00",
    "caption": "7 prompts to keep your solo business running smoothly\u2014no drift, no guesswork. You\u2019ll get a Daily Status Report that stops your workflow from wandering off course, so you can focus "
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/2559805037840363",
-   "ts": "2026-11-11T18:01:11.102113+00:00",
-   "caption": "Get 25 prompts that turn one long video into short clips, blog posts and more You can save hours per video by repurposing what you already filmed instead of starting from scratch. "
   }
  ]
 }
