@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-15T20:17:24Z",
- "total_verified": 572,
+ "generated_at": "2026-11-15T21:17:25Z",
+ "total_verified": 573,
  "by_platform": {
+  "facebook": 34,
   "youtube": 102,
-  "facebook": 33,
   "tiktok": 172,
   "instagram": 156,
   "x": 91,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/1140309922233578",
+   "ts": "2026-11-15T21:01:29.492178+00:00",
+   "caption": "7 prompts keep routine AI work consistent and unattended. Stop rewriting instructions every time your system runs. Mac Steel\u2019s 7 Prompts give you an Agent Identity Brief, Scheduled"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/JQ7hMsTD_T0",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7707068622899924255",
    "ts": "2026-11-12T00:03:19.561467+00:00",
    "caption": "One long video, 25 ways to repost it Your content can become clips, blog posts, and more without starting from scratch every time. Saves hours per video. 25 prompts to turn one lon"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7707047431791299870",
-   "ts": "2026-11-11T22:41:37.836442+00:00",
-   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
   }
  ]
 }
