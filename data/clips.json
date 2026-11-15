@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-15T19:17:23Z",
- "total_verified": 571,
+ "generated_at": "2026-11-15T20:17:24Z",
+ "total_verified": 572,
  "by_platform": {
+  "youtube": 102,
   "facebook": 33,
   "tiktok": 172,
   "instagram": 156,
-  "youtube": 101,
   "x": 91,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/JQ7hMsTD_T0",
+   "ts": "2026-11-15T19:17:33.784215+00:00",
+   "caption": "Want your routine work to run unattended and honest? Use 7 prompts that keep a real multi-agent system consistent, not a 200-prompt dump. Each one tells an assistant exactly what t"
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/2793652691033890",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7707047431791299870",
    "ts": "2026-11-11T22:41:37.836442+00:00",
    "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/CyAKHx4kACs",
-   "ts": "2026-11-11T22:17:40.670810+00:00",
-   "caption": "Want 7 prompts that keep your solo business running flawlessly? With the Agent Identity Brief, your assistant will deliver the exact same output on job 400 as it does on job 1, eli"
   }
  ]
 }
