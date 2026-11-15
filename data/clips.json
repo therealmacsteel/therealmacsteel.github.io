@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T00:17:25Z",
- "total_verified": 566,
+ "generated_at": "2026-11-15T00:57:30Z",
+ "total_verified": 567,
  "by_platform": {
-  "tiktok": 169,
+  "tiktok": 170,
   "youtube": 101,
   "instagram": 155,
   "x": 91,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7708181920303025439",
+   "ts": "2026-11-15T00:35:17.384108+00:00",
+   "caption": "Can 7 prompts keep your solo biz running like a pro? You\u2019ll get an Agent Identity Brief that forces the same output on job 400 as on job 1, eliminating drift. All 7 prompts come in"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7708160668121222431",
@@ -220,12 +226,6 @@
    "url": "https://www.facebook.com/reel/2559805037840363",
    "ts": "2026-11-11T18:01:11.102113+00:00",
    "caption": "Get 25 prompts that turn one long video into short clips, blog posts and more You can save hours per video by repurposing what you already filmed instead of starting from scratch. "
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7706970136338566431",
-   "ts": "2026-11-11T17:41:42.370379+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Extract Key Moments from [YOUR VIDEO] \u2192 Write Email Newsletters from Video Segments \u2192 Summarize Video Discussions for Podcast"
   }
  ]
 }
