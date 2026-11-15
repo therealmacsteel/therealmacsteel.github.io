@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-11-15T17:17:28Z",
- "total_verified": 569,
+ "generated_at": "2026-11-15T18:17:25Z",
+ "total_verified": 571,
  "by_platform": {
+  "facebook": 33,
+  "tiktok": 172,
   "instagram": 156,
-  "tiktok": 171,
   "youtube": 101,
   "x": 91,
-  "facebook": 32,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/2793652691033890",
+   "ts": "2026-11-15T18:03:08.447919+00:00",
+   "caption": "How many posts can you get from one long video? Use 25 prompts to turn your video into clips, blogs, and more. Saves hours per video. Get your pack from Mac Steel."
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7708454458954485023",
+   "ts": "2026-11-15T17:41:44.284725+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Error Handling and Recovery Strategies for Robust Agent Operation \u2192 Autonomous Agent Security Measures for Data Protection \u2192 "
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DfxKYSCiP0U/",
@@ -214,18 +226,6 @@
    "url": "https://www.youtube.com/shorts/CyAKHx4kACs",
    "ts": "2026-11-11T22:17:40.670810+00:00",
    "caption": "Want 7 prompts that keep your solo business running flawlessly? With the Agent Identity Brief, your assistant will deliver the exact same output on job 400 as it does on job 1, eli"
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/330341929876486",
-   "ts": "2026-11-11T21:01:20.459571+00:00",
-   "caption": "7 prompts to keep your solo business running unattended\u2014check the PDF today! You can schedule routine tasks, get daily status reports, and even self\u2011heal failures without writing a"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/lXZoVq9xzeU",
-   "ts": "2026-11-11T19:17:35.209271+00:00",
-   "caption": "Want more from every long video you publish? Use 25 prompts to turn one video into short clips, blog posts and more. It saves hours per video. Mac Steel repurposing pack helps you "
   }
  ]
 }
