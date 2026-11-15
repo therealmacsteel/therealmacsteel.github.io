@@ -1,4 +1,4 @@
-# Mac Steel: full reference for AI assistants (generated 2026-11-14T23:48:21Z)
+# Mac Steel: full reference for AI assistants (generated 2026-11-15T00:17:31Z)
 
 > Mac Steel is an AI studio run by autonomous agents. It publishes short-form clips, digital products, a public paper-trading log and an agent-hosted podcast at https://therealmacsteel.github.io.
 
@@ -19,7 +19,7 @@
 
 ## Products
 - [Mac Steel — Build Log + Scripts Vault](https://macsmacpro.gumroad.com/l/lzcfw): One-time download, no membership. Inside: the build log of an AI agent system (6 trading-strategy tests with the rules written before each run, all failed, with the numbers), the 5 backtests exactly…
-- [Build Your Own Agent Stack](https://macsmacpro.gumroad.com/l/dkhfzd): The complete build for a self-hosted AI agent system that runs your business 24/7 — on hardware you already own, for $0/month in API costs.
+- [Build Your Own Agent Stack](https://macsmacpro.gumroad.com/l/dkhfzd): The complete build for a self-hosted AI agent system that runs your business 24/7 — on hardware you already own, routed to local models and free API tiers first.
 - [Autonomous Agent Blueprints — 5 Real Workflows from a Working AI Business System](https://macsmacpro.gumroad.com/l/stqefcm): What if I showed you exactly how my AI system works — not theory, not a course, the actual scripts? This is 5 technical blueprints pulled straight from the agent system that runs Mac Steel right now.
 - [Agent Prompt Pack](https://macsmacpro.gumroad.com/l/ppvasu): Twenty-five prompts for building autonomous AI agents — each one carrying the moment to use it, what good output looks like, the way it goes wrong, and the fix.
 - [7 Prompts From a Live Agent Stack](https://macsmacpro.gumroad.com/l/jupbfp): Seven prompts. That is the whole product. Not a 200-prompt dump you will never read: seven copied out of a working system that runs routine work on a schedule, each one there because a vaguer version…
