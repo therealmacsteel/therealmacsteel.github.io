@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-15T15:17:22Z",
- "total_verified": 568,
+ "generated_at": "2026-11-15T16:17:22Z",
+ "total_verified": 569,
  "by_platform": {
+  "instagram": 156,
   "tiktok": 171,
   "youtube": 101,
-  "instagram": 155,
   "x": 91,
   "facebook": 32,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DfxKYSCiP0U/",
+   "ts": "2026-11-15T16:01:54.132521+00:00",
+   "caption": "Who runs your routine work when you step away? Mac Steel shares 7 prompts that keep AI steady on job 400 just like job 1. No drift. No invented progress. One PDF. Six pages. Get th"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7708228403920506143",
@@ -220,12 +226,6 @@
    "url": "https://www.youtube.com/shorts/lXZoVq9xzeU",
    "ts": "2026-11-11T19:17:35.209271+00:00",
    "caption": "Want more from every long video you publish? Use 25 prompts to turn one video into short clips, blog posts and more. It saves hours per video. Mac Steel repurposing pack helps you "
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfnLxHqjJyt/",
-   "ts": "2026-11-11T19:01:19.675726+00:00",
-   "caption": "7 prompts to keep your solo business running smoothly\u2014no drift, no guesswork. You\u2019ll get a Daily Status Report that stops your workflow from wandering off course, so you can focus "
   }
  ]
 }
