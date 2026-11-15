@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-15T22:17:26Z",
- "total_verified": 573,
+ "generated_at": "2026-11-15T23:17:25Z",
+ "total_verified": 574,
  "by_platform": {
+  "tiktok": 173,
   "facebook": 34,
   "youtube": 102,
-  "tiktok": 172,
   "instagram": 156,
   "x": 91,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7708531728255651103",
+   "ts": "2026-11-15T22:41:37.185280+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video"
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/1140309922233578",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7707115077224221982",
    "ts": "2026-11-12T03:03:34.931691+00:00",
    "caption": "7 prompts that can cut your admin time in half\u2014ready to try? You\u2019ll swap a 200\u2011prompt dump for just 7 proven prompts, keeping your workflow consistent and honest. Add the Daily Sta"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7707068622899924255",
-   "ts": "2026-11-12T00:03:19.561467+00:00",
-   "caption": "One long video, 25 ways to repost it Your content can become clips, blog posts, and more without starting from scratch every time. Saves hours per video. 25 prompts to turn one lon"
   }
  ]
 }
