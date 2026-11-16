@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T23:17:25Z",
- "total_verified": 574,
+ "generated_at": "2026-11-16T00:17:25Z",
+ "total_verified": 575,
  "by_platform": {
-  "tiktok": 173,
+  "tiktok": 174,
   "facebook": 34,
   "youtube": 102,
   "instagram": 156,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7708553000381451550",
+   "ts": "2026-11-16T00:03:31.961615+00:00",
+   "caption": "7 prompts, not 200. Which routine task is eating your day? Mac Steel gives you 7 free prompts for real AI work that stays consistent. Identity briefs, scheduled jobs, lead scoring,"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7708531728255651103",
@@ -220,12 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2120866396976361974",
    "ts": "2026-11-12T13:09:13.439028+00:00",
    "caption": "Ready to boost your chatbot with 25 proven prompts? Use the 25 prompts to make dialogue flow naturally and keep users talking longer."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7707115077224221982",
-   "ts": "2026-11-12T03:03:34.931691+00:00",
-   "caption": "7 prompts that can cut your admin time in half\u2014ready to try? You\u2019ll swap a 200\u2011prompt dump for just 7 proven prompts, keeping your workflow consistent and honest. Add the Daily Sta"
   }
  ]
 }
