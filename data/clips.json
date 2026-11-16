@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-16T18:17:28Z",
- "total_verified": 577,
+ "generated_at": "2026-11-16T19:17:29Z",
+ "total_verified": 578,
  "by_platform": {
+  "youtube": 103,
   "tiktok": 176,
   "facebook": 34,
-  "youtube": 102,
   "instagram": 156,
   "x": 91,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/fi0BIBeLjbg",
+   "ts": "2026-11-16T19:16:54.747842+00:00",
+   "caption": "7 prompts keep your routine work consistent? You get a PDF with 7 prompts that lock down each step, from Agent Identity Brief to Daily Status Report. Each prompt includes why it wo"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7708825606393203998",
@@ -220,12 +226,6 @@
    "url": "https://www.facebook.com/reel/2304698316774301",
    "ts": "2026-11-12T18:01:13.336918+00:00",
    "caption": "Ready to boost your chatbot with 25 proven prompts? You\u2019ll get a ready\u2011to\u2011use set of 25 prompts that instantly make your bot sound more natural, cutting the trial\u2011and\u2011error time yo"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2120911695199825992",
-   "ts": "2026-11-12T16:09:13.688387+00:00",
-   "caption": "7 prompts keep your routine work consistent? Mac Steel\u2019s 7 Prompts give you a 6\u2011page PDF that keeps tasks on track."
   }
  ]
 }
