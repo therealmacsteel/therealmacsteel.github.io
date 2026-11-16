@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T17:17:25Z",
- "total_verified": 576,
+ "generated_at": "2026-11-16T18:17:28Z",
+ "total_verified": 577,
  "by_platform": {
-  "tiktok": 175,
+  "tiktok": 176,
   "facebook": 34,
   "youtube": 102,
   "instagram": 156,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7708825606393203998",
+   "ts": "2026-11-16T17:41:56.943740+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7708599646830021919",
@@ -220,12 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2120911695199825992",
    "ts": "2026-11-12T16:09:13.688387+00:00",
    "caption": "7 prompts keep your routine work consistent? Mac Steel\u2019s 7 Prompts give you a 6\u2011page PDF that keeps tasks on track."
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Dfpb-VajvdH/",
-   "ts": "2026-11-12T16:02:20.394248+00:00",
-   "caption": "25 prompts for better chatbot dialogue. You want your chatbot to feel like a real person, not a robot. Stop letting generic responses drive customers away. Use these 25 proven prom"
   }
  ]
 }
