@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T22:17:28Z",
- "total_verified": 578,
+ "generated_at": "2026-11-16T23:17:26Z",
+ "total_verified": 579,
  "by_platform": {
+  "tiktok": 177,
   "youtube": 103,
-  "tiktok": 176,
   "facebook": 34,
   "instagram": 156,
   "x": 91,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7708902848498502942",
+   "ts": "2026-11-16T22:41:33.020881+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Real-Time Feedback for Improved Decision-Making \u2192 Autonomous Agent Conflict Resolution for Resolving Human-H"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/fi0BIBeLjbg",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DfpwjIXkYtN/",
    "ts": "2026-11-12T19:01:16.594111+00:00",
    "caption": "7 prompts that keep your AI routine honest? You can copy the 7 prompts from Mac Steel's 6\u2011page PDF and plug them into your workflow to make routine tasks run unattended and consist"
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/2304698316774301",
-   "ts": "2026-11-12T18:01:13.336918+00:00",
-   "caption": "Ready to boost your chatbot with 25 proven prompts? You\u2019ll get a ready\u2011to\u2011use set of 25 prompts that instantly make your bot sound more natural, cutting the trial\u2011and\u2011error time yo"
   }
  ]
 }
