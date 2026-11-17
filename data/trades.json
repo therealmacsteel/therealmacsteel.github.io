@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T13:17:34Z",
+ "generated_at": "2026-11-17T14:17:31Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -7,8 +7,8 @@
  "excluded_unmarkable": 67,
  "win_rate": 0.274,
  "avg_trade_pct": -4.03,
- "open_total": 156,
- "open_avg_pct": 0.42,
+ "open_total": 158,
+ "open_avg_pct": 0.14,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,18 +576,9 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 731.01,
-   "mark": 661.99,
-   "pnl_pct": 9.44,
+   "mark": 661.63,
+   "pnl_pct": 9.49,
    "opened": "2026-08-16"
-  },
-  {
-   "asset": "SLV",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 46.7,
-   "mark": 42.4,
-   "pnl_pct": 9.21,
-   "opened": "2026-11-10"
   },
   {
    "asset": "ENSG",
@@ -608,41 +599,59 @@
    "opened": "2026-11-11"
   },
   {
-   "asset": "AVGO",
+   "asset": "SLV",
    "lane": "Shorts (simulated)",
    "side": "short",
-   "entry": 364.29,
-   "mark": 333.75,
-   "pnl_pct": 8.38,
-   "opened": "2026-11-12"
+   "entry": 46.7,
+   "mark": 42.76,
+   "pnl_pct": 8.44,
+   "opened": "2026-11-10"
+  },
+  {
+   "asset": "DBA",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 28.61,
+   "mark": 26.39,
+   "pnl_pct": 7.74,
+   "opened": "2026-08-27"
   }
  ],
  "worst_open": [
-  {
-   "asset": "ETH/USD",
-   "lane": "Crypto",
-   "side": "long",
-   "entry": 2394.18,
-   "mark": 1822.88,
-   "pnl_pct": -23.86,
-   "opened": "2026-09-02"
-  },
   {
    "asset": "IWM",
    "lane": "Options (simulated)",
    "side": "long",
    "entry": 4.63,
-   "mark": 3.54,
-   "pnl_pct": -23.62,
+   "mark": 3.06,
+   "pnl_pct": -34.09,
    "opened": "2026-11-16"
+  },
+  {
+   "asset": "SLV",
+   "lane": "Options (simulated)",
+   "side": "long",
+   "entry": 3.25,
+   "mark": 2.25,
+   "pnl_pct": -30.77,
+   "opened": "2026-11-16"
+  },
+  {
+   "asset": "ETH/USD",
+   "lane": "Crypto",
+   "side": "long",
+   "entry": 2394.18,
+   "mark": 1821.12,
+   "pnl_pct": -23.94,
+   "opened": "2026-09-02"
   },
   {
    "asset": "BTC/USD",
    "lane": "Crypto",
    "side": "long",
    "entry": 76912.71,
-   "mark": 65196.45,
-   "pnl_pct": -15.23,
+   "mark": 64904.42,
+   "pnl_pct": -15.61,
    "opened": "2026-09-02"
   },
   {
@@ -653,15 +662,6 @@
    "mark": 352.94,
    "pnl_pct": -4.46,
    "opened": "2026-11-10"
-  },
-  {
-   "asset": "KALU",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 108.21,
-   "mark": 103.45,
-   "pnl_pct": -4.4,
-   "opened": "2026-11-16"
   }
  ],
  "book": {
