@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T20:17:26Z",
- "total_verified": 583,
+ "generated_at": "2026-11-17T21:17:26Z",
+ "total_verified": 584,
  "by_platform": {
+  "facebook": 36,
   "youtube": 104,
-  "facebook": 35,
   "tiktok": 178,
   "instagram": 157,
   "x": 91,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/2745738955863897",
+   "ts": "2026-11-17T21:01:33.745779+00:00",
+   "caption": "Tired of prompt packs that just dump text and leave you guessing? This one ships 25 prompts, each with when to use it, what good output looks like, where the naive version fails, a"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/yxk6T-O0LjU",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7707486182887673118",
    "ts": "2026-11-13T03:03:40.405674+00:00",
    "caption": "Got 25 proven prompts to supercharge your chatbot? You can copy the 25 prompts straight into your bot and watch the conversation flow feel natural and lively. No rewrites, just plu"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7707439609747197198",
-   "ts": "2026-11-13T00:02:52.531302+00:00",
-   "caption": "Why did you override the 3% take profit? Mac Steel's rules\u2011based paper\u2011trading exit engine graded 5 closed trades: 3 wins, 2 losses, $10.02 profit. Stop letting discretion erase yo"
   }
  ]
 }
