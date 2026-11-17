@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-17T15:17:29Z",
- "total_verified": 579,
+ "generated_at": "2026-11-17T16:17:26Z",
+ "total_verified": 580,
  "by_platform": {
+  "instagram": 157,
   "tiktok": 177,
   "youtube": 103,
   "facebook": 34,
-  "instagram": 156,
   "x": 91,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/Df2NFHVjmyb/",
+   "ts": "2026-11-17T15:20:03.523189+00:00",
+   "caption": "$0/month of AI ran my business this week. Six numbers, one rule each: 1. 602 automated tasks, 97% clean \u2014 timebox every job. 2. 95 posts, 84 with a live URL \u2014 a link or it didn't h"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7708902848498502942",
@@ -220,12 +226,6 @@
    "url": "https://www.youtube.com/shorts/YT7Mx_bCesg",
    "ts": "2026-11-12T19:17:30.212412+00:00",
    "caption": "Ready to boost your chatbot with 25 proven prompts? You can turn any bot into an engaging conversational partner by using the 25 prompts from Mac Steel\u2019s guide\u2014each one is crafted "
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfpwjIXkYtN/",
-   "ts": "2026-11-12T19:01:16.594111+00:00",
-   "caption": "7 prompts that keep your AI routine honest? You can copy the 7 prompts from Mac Steel's 6\u2011page PDF and plug them into your workflow to make routine tasks run unattended and consist"
   }
  ]
 }
