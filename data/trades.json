@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-17T14:17:31Z",
+ "generated_at": "2026-11-17T15:17:35Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 296,
- "excluded_unmarkable": 67,
- "win_rate": 0.274,
- "avg_trade_pct": -4.03,
- "open_total": 158,
- "open_avg_pct": 0.14,
+ "closed_total": 297,
+ "excluded_unmarkable": 69,
+ "win_rate": 0.273,
+ "avg_trade_pct": -4.04,
+ "open_total": 155,
+ "open_avg_pct": 0.2,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -36,11 +36,11 @@
   },
   {
    "lane": "Congress disclosures",
-   "closed": 24,
-   "win_rate": 0.292,
+   "closed": 25,
+   "win_rate": 0.28,
    "avg_win_pct": 11.45,
-   "avg_loss_pct": -8.52,
-   "avg_trade_pct": -2.69
+   "avg_loss_pct": -8.36,
+   "avg_trade_pct": -2.81
   },
   {
    "lane": "Options (simulated)",
@@ -52,6 +52,17 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "TSM",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 388.74,
+   "exit": 366.27,
+   "pnl_pct": -5.78,
+   "opened": "2026-11-09",
+   "closed": "2026-11-17",
+   "exit_reason": "stop"
+  },
   {
    "asset": "SVXY",
    "lane": "Macro ETFs",
@@ -315,20 +326,13 @@
    "opened": "2026-11-11",
    "closed": "2026-11-12",
    "exit_reason": "stop"
-  },
-  {
-   "asset": "FXI",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 35.48,
-   "exit": 33.6,
-   "pnl_pct": -5.3,
-   "opened": "2026-08-24",
-   "closed": "2026-11-12",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "TSM",
+   "pnl_pct": -5.78
+  },
   {
    "asset": "SVXY",
    "pnl_pct": -5.25
@@ -564,57 +568,53 @@
   {
    "asset": "FWONK",
    "pnl_pct": 11.21
-  },
-  {
-   "asset": "CHRW",
-   "pnl_pct": -15.2
   }
  ],
  "best_open": [
+  {
+   "asset": "EWY",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 149.75,
+   "mark": 135.03,
+   "pnl_pct": 9.83,
+   "opened": "2026-11-11"
+  },
   {
    "asset": "QQQ",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 731.01,
-   "mark": 661.63,
-   "pnl_pct": 9.49,
+   "mark": 660.98,
+   "pnl_pct": 9.58,
    "opened": "2026-08-16"
+  },
+  {
+   "asset": "PSQ",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 25.64,
+   "mark": 27.72,
+   "pnl_pct": 8.09,
+   "opened": "2026-08-27"
   },
   {
    "asset": "ENSG",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 172.96,
-   "mark": 188.18,
-   "pnl_pct": 8.8,
+   "mark": 186.78,
+   "pnl_pct": 7.99,
    "opened": "2026-08-31"
-  },
-  {
-   "asset": "EWY",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 149.75,
-   "mark": 136.57,
-   "pnl_pct": 8.8,
-   "opened": "2026-11-11"
   },
   {
    "asset": "SLV",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 46.7,
-   "mark": 42.76,
-   "pnl_pct": 8.44,
+   "mark": 43.08,
+   "pnl_pct": 7.76,
    "opened": "2026-11-10"
-  },
-  {
-   "asset": "DBA",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 28.61,
-   "mark": 26.39,
-   "pnl_pct": 7.74,
-   "opened": "2026-08-27"
   }
  ],
  "worst_open": [
@@ -655,27 +655,27 @@
    "opened": "2026-09-02"
   },
   {
-   "asset": "GLD",
+   "asset": "UNG",
    "lane": "Macro ETFs",
    "side": "long",
-   "entry": 369.42,
-   "mark": 352.94,
-   "pnl_pct": -4.46,
-   "opened": "2026-11-10"
+   "entry": 10.27,
+   "mark": 9.8,
+   "pnl_pct": -4.58,
+   "opened": "2026-11-12"
   }
  ],
  "book": {
   "mode": "PAPER",
   "inception": "2026-09-25",
   "capital": 69769.61,
-  "nav": 66208.46,
-  "book_pct": -5.1,
-  "spy_pct": -2.72,
-  "days": 37,
+  "nav": 64657.5,
+  "book_pct": -7.33,
+  "spy_pct": -4.13,
+  "days": 38,
   "positions": [
    {
     "symbol": "DBC",
-    "qty": 154.0
+    "qty": 150.0
    },
    {
     "symbol": "EEM",
@@ -691,7 +691,7 @@
    },
    {
     "symbol": "QQQ",
-    "qty": 7.0
+    "qty": 6.0
    },
    {
     "symbol": "SPY",
@@ -699,15 +699,15 @@
    },
    {
     "symbol": "SSO",
-    "qty": 501.0
-   },
-   {
-    "symbol": "UUP",
     "qty": 505.0
    },
    {
+    "symbol": "UUP",
+    "qty": 493.0
+   },
+   {
     "symbol": "VNQ",
-    "qty": 64.0
+    "qty": 63.0
    }
   ],
   "sleeves": {
@@ -715,7 +715,7 @@
    "T": "15-ETF trend (3/6/9/12m), inverse-vol, 15% vol target, gross <= 1.8, 25% cap"
   },
   "risk": "daily loss -4%: no increases; drawdown -15%: halve; -25%: flat + halt",
-  "shadow_costs": 173.67,
+  "shadow_costs": 175.16,
   "curve": [
    {
     "date": "2026-09-25",
@@ -938,9 +938,50 @@
     "nav": 66208.46,
     "book_pct": -5.1,
     "spy_pct": -2.72
+   },
+   {
+    "date": "2026-11-17",
+    "nav": 64657.5,
+    "book_pct": -7.33,
+    "spy_pct": -4.13
    }
   ],
   "fills": [
+   {
+    "date": "2026-11-17",
+    "symbol": "SSO",
+    "side": "buy",
+    "qty": 4.0,
+    "price": 64.14
+   },
+   {
+    "date": "2026-11-17",
+    "symbol": "VNQ",
+    "side": "sell",
+    "qty": 1.0,
+    "price": 95.75
+   },
+   {
+    "date": "2026-11-17",
+    "symbol": "UUP",
+    "side": "sell",
+    "qty": 12.0,
+    "price": 29.55
+   },
+   {
+    "date": "2026-11-17",
+    "symbol": "QQQ",
+    "side": "sell",
+    "qty": 1.0,
+    "price": 661.09
+   },
+   {
+    "date": "2026-11-17",
+    "symbol": "DBC",
+    "side": "sell",
+    "qty": 4.0,
+    "price": 30.42
+   },
    {
     "date": "2026-11-16",
     "symbol": "SSO",
@@ -1080,41 +1121,6 @@
     "side": "sell",
     "qty": 1.0,
     "price": 66.28
-   },
-   {
-    "date": "2026-11-09",
-    "symbol": "UUP",
-    "side": "buy",
-    "qty": 10.0,
-    "price": 29.03
-   },
-   {
-    "date": "2026-11-09",
-    "symbol": "SSO",
-    "side": "buy",
-    "qty": 7.0,
-    "price": 65.56
-   },
-   {
-    "date": "2026-11-09",
-    "symbol": "QQQ",
-    "side": "buy",
-    "qty": 1.0,
-    "price": 668.64
-   },
-   {
-    "date": "2026-11-09",
-    "symbol": "DBC",
-    "side": "buy",
-    "qty": 4.0,
-    "price": 31.11
-   },
-   {
-    "date": "2026-11-09",
-    "symbol": "EFA",
-    "side": "sell",
-    "qty": 1.0,
-    "price": 103.84
    }
   ],
   "backtest": "Both pre-registered backtests FAILED the bar vs SPY (CAGR 9.32% / 14.08% vs 11.20%; Sharpe 0.58 / 0.61). The book runs to measure, not to claim."
