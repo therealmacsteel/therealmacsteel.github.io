@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-17T18:17:25Z",
- "total_verified": 582,
+ "generated_at": "2026-11-17T19:17:25Z",
+ "total_verified": 583,
  "by_platform": {
+  "youtube": 104,
   "facebook": 35,
   "tiktok": 178,
   "instagram": 157,
-  "youtube": 103,
   "x": 91,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/yxk6T-O0LjU",
+   "ts": "2026-11-17T19:16:55.780778+00:00",
+   "caption": "Tired of prompt packs that dump text and leave you guessing? Mac Steel's Agent Prompt Pack ships 25 prompts, each with when to use it, expected output, failure mode, and fix. Real "
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/3783202671690617",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7707439609747197198",
    "ts": "2026-11-13T00:02:52.531302+00:00",
    "caption": "Why did you override the 3% take profit? Mac Steel's rules\u2011based paper\u2011trading exit engine graded 5 closed trades: 3 wins, 2 losses, $10.02 profit. Stop letting discretion erase yo"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/vsLyE7j6_Vo",
-   "ts": "2026-11-12T22:17:32.990908+00:00",
-   "caption": "Can 7 prompts eliminate drift in your solo business workflow? Your day\u2011to\u2011day tasks\u2014scheduling posts, scoring leads, routing models\u2014can run unattended with Mac Steel\u2019s 7 Prompts Fr"
   }
  ]
 }
