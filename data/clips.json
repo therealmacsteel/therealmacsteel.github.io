@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-11-17T17:17:26Z",
- "total_verified": 580,
+ "generated_at": "2026-11-17T18:17:25Z",
+ "total_verified": 582,
  "by_platform": {
+  "facebook": 35,
+  "tiktok": 178,
   "instagram": 157,
-  "tiktok": 177,
   "youtube": 103,
-  "facebook": 34,
   "x": 91,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/3783202671690617",
+   "ts": "2026-11-17T18:01:20.580314+00:00",
+   "caption": "Can a 14 page guide run on hardware you already own around the clock? Your business needs an AI stack that never stops. Mac Steel Build Your Own Agent Stack covers the daily jobs, "
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7709196582427708702",
+   "ts": "2026-11-17T17:41:39.936271+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Vid"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/Df2NFHVjmyb/",
@@ -214,18 +226,6 @@
    "url": "https://www.youtube.com/shorts/vsLyE7j6_Vo",
    "ts": "2026-11-12T22:17:32.990908+00:00",
    "caption": "Can 7 prompts eliminate drift in your solo business workflow? Your day\u2011to\u2011day tasks\u2014scheduling posts, scoring leads, routing models\u2014can run unattended with Mac Steel\u2019s 7 Prompts Fr"
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/1647644066825658",
-   "ts": "2026-11-12T21:01:20.450540+00:00",
-   "caption": "7 prompts that could cut your admin time in half\u2014ready to try? You can lock down routine jobs with the Scheduled Task Specification and get a Daily Status Report that keeps your wo"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/YT7Mx_bCesg",
-   "ts": "2026-11-12T19:17:30.212412+00:00",
-   "caption": "Ready to boost your chatbot with 25 proven prompts? You can turn any bot into an engaging conversational partner by using the 25 prompts from Mac Steel\u2019s guide\u2014each one is crafted "
   }
  ]
 }
