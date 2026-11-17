@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-17T21:17:32Z",
+ "generated_at": "2026-11-17T22:17:30Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 311,
+ "closed_total": 312,
  "excluded_unmarkable": 69,
- "win_rate": 0.27,
- "avg_trade_pct": -3.96,
+ "win_rate": 0.269,
+ "avg_trade_pct": -4.1,
  "open_total": 149,
- "open_avg_pct": 0.19,
+ "open_avg_pct": 0.44,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -44,14 +44,25 @@
   },
   {
    "lane": "Options (simulated)",
-   "closed": 16,
-   "win_rate": 0.125,
+   "closed": 17,
+   "win_rate": 0.118,
    "avg_win_pct": 41.07,
-   "avg_loss_pct": -51.15,
-   "avg_trade_pct": -39.62
+   "avg_loss_pct": -50.92,
+   "avg_trade_pct": -40.09
   }
  ],
  "recent_closed": [
+  {
+   "asset": "IWM",
+   "lane": "Options (simulated)",
+   "side": "long",
+   "entry": 4.63,
+   "exit": 2.42,
+   "pnl_pct": -47.68,
+   "opened": "2026-11-16",
+   "closed": "2026-11-17",
+   "exit_reason": "stop"
+  },
   {
    "asset": "TBBK",
    "lane": "Equity factor model",
@@ -315,20 +326,13 @@
    "opened": "2026-08-08",
    "closed": "2026-11-16",
    "exit_reason": "stop"
-  },
-  {
-   "asset": "COPX",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 70.86,
-   "exit": 67.26,
-   "pnl_pct": -5.08,
-   "opened": "2026-11-12",
-   "closed": "2026-11-16",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "IWM",
+   "pnl_pct": -47.68
+  },
   {
    "asset": "TBBK",
    "pnl_pct": -5.27
@@ -564,10 +568,6 @@
   {
    "asset": "VEL",
    "pnl_pct": -5.42
-  },
-  {
-   "asset": "GDX",
-   "pnl_pct": -5.82
   }
  ],
  "best_open": [
@@ -619,21 +619,12 @@
  ],
  "worst_open": [
   {
-   "asset": "IWM",
-   "lane": "Options (simulated)",
-   "side": "long",
-   "entry": 4.63,
-   "mark": 3.06,
-   "pnl_pct": -34.09,
-   "opened": "2026-11-16"
-  },
-  {
    "asset": "SLV",
    "lane": "Options (simulated)",
    "side": "long",
    "entry": 3.25,
-   "mark": 2.25,
-   "pnl_pct": -30.77,
+   "mark": 2.36,
+   "pnl_pct": -27.38,
    "opened": "2026-11-16"
   },
   {
@@ -641,8 +632,8 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 2394.18,
-   "mark": 1821.12,
-   "pnl_pct": -23.94,
+   "mark": 1806.95,
+   "pnl_pct": -24.53,
    "opened": "2026-09-02"
   },
   {
@@ -650,8 +641,8 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 76912.71,
-   "mark": 64904.42,
-   "pnl_pct": -15.61,
+   "mark": 64361.39,
+   "pnl_pct": -16.32,
    "opened": "2026-09-02"
   },
   {
@@ -661,6 +652,15 @@
    "entry": 369.42,
    "mark": 352.46,
    "pnl_pct": -4.59,
+   "opened": "2026-11-10"
+  },
+  {
+   "asset": "GLD",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 368.61,
+   "mark": 352.46,
+   "pnl_pct": -4.38,
    "opened": "2026-11-10"
   }
  ],
