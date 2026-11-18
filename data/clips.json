@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T23:17:24Z",
- "total_verified": 585,
+ "generated_at": "2026-11-18T00:17:24Z",
+ "total_verified": 586,
  "by_platform": {
-  "tiktok": 179,
+  "tiktok": 180,
   "facebook": 36,
   "youtube": 104,
   "instagram": 157,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7709295385302322462",
+   "ts": "2026-11-18T00:04:30.030027+00:00",
+   "caption": "Run your AI system 24/7 on hardware you already own. You get a 14 page build guide in six sections. Section one covers the actual daily jobs your system runs right now. Section fou"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7709273949439282463",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DfsAxjzDKx4/",
    "ts": "2026-11-13T16:02:01.059892+00:00",
    "caption": "25 prompts turn your long video into short clips, blog posts, and more You save hours per video using Mac Steel repurposing prompts Stop posting once from your content More reach f"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2121228793235079472",
-   "ts": "2026-11-13T13:09:14.440908+00:00",
-   "caption": "One long video, how many posts can you squeeze out? Turn it into 25 pieces with Mac Steel repurposing prompts. Saves hours per video."
   }
  ]
 }
