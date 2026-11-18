@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T22:17:31Z",
- "total_verified": 587,
+ "generated_at": "2026-11-18T23:17:31Z",
+ "total_verified": 588,
  "by_platform": {
-  "tiktok": 181,
+  "tiktok": 182,
   "facebook": 36,
   "youtube": 104,
   "instagram": 157,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7709644968553483551",
+   "ts": "2026-11-18T22:41:32.447440+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Write Email Newsletters from Video Segments \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes fo"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7709567651571322143",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7707712245156875550",
    "ts": "2026-11-13T17:41:47.924129+00:00",
    "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2121274061963821433",
-   "ts": "2026-11-13T16:09:09.130569+00:00",
-   "caption": "7 prompts, job 400 same as job 1. Your AI runs unattended without drift."
   }
  ]
 }
