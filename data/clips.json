@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T17:17:26Z",
- "total_verified": 586,
+ "generated_at": "2026-11-18T18:17:24Z",
+ "total_verified": 587,
  "by_platform": {
-  "tiktok": 180,
+  "tiktok": 181,
   "facebook": 36,
   "youtube": 104,
   "instagram": 157,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7709567651571322143",
+   "ts": "2026-11-18T17:41:37.048660+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Streamlining Task Routing for Efficient Agent Performance \u2192 Improving Memory Systems for Long-Term Information Retention \u2192 In"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7709295385302322462",
@@ -220,12 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2121274061963821433",
    "ts": "2026-11-13T16:09:09.130569+00:00",
    "caption": "7 prompts, job 400 same as job 1. Your AI runs unattended without drift."
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfsAxjzDKx4/",
-   "ts": "2026-11-13T16:02:01.059892+00:00",
-   "caption": "25 prompts turn your long video into short clips, blog posts, and more You save hours per video using Mac Steel repurposing prompts Stop posting once from your content More reach f"
   }
  ]
 }
