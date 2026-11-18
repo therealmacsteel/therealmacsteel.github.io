@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-11-18T18:17:31Z",
+ "generated_at": "2026-11-18T19:17:31Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 326,
+ "closed_total": 327,
  "excluded_unmarkable": 70,
- "win_rate": 0.264,
- "avg_trade_pct": -4.21,
- "open_total": 150,
- "open_avg_pct": 0.94,
+ "win_rate": 0.266,
+ "avg_trade_pct": -4.16,
+ "open_total": 149,
+ "open_avg_pct": 0.87,
  "lanes": [
   {
    "lane": "Equity factor model",
-   "closed": 122,
-   "win_rate": 0.221,
-   "avg_win_pct": 14.33,
+   "closed": 123,
+   "win_rate": 0.228,
+   "avg_win_pct": 14.31,
    "avg_loss_pct": -8.21,
-   "avg_trade_pct": -3.22
+   "avg_trade_pct": -3.08
   },
   {
    "lane": "Macro ETFs",
@@ -52,6 +52,17 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "OKTA",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 170.57,
+   "exit": 193.92,
+   "pnl_pct": 13.69,
+   "opened": "2026-09-07",
+   "closed": "2026-11-18",
+   "exit_reason": "target"
+  },
   {
    "asset": "SLV",
    "lane": "Macro ETFs",
@@ -315,20 +326,13 @@
    "opened": "2026-11-11",
    "closed": "2026-11-17",
    "exit_reason": "target"
-  },
-  {
-   "asset": "XLK",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 170.85,
-   "exit": 160.9,
-   "pnl_pct": -5.82,
-   "opened": "2026-11-09",
-   "closed": "2026-11-17",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "OKTA",
+   "pnl_pct": 13.69
+  },
   {
    "asset": "SLV",
    "pnl_pct": -5.12
@@ -564,10 +568,6 @@
   {
    "asset": "SLV",
    "pnl_pct": -5.8
-  },
-  {
-   "asset": "SLV",
-   "pnl_pct": -5.8
   }
  ],
  "best_open": [
@@ -576,36 +576,18 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 167.1,
-   "mark": 151.37,
-   "pnl_pct": 9.41,
+   "mark": 151.84,
+   "pnl_pct": 9.13,
    "opened": "2026-11-13"
   },
   {
-   "asset": "OKTA",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 170.57,
-   "mark": 186.44,
-   "pnl_pct": 9.3,
-   "opened": "2026-09-07"
-  },
-  {
-   "asset": "GDX",
+   "asset": "GLD",
    "lane": "Shorts (simulated)",
    "side": "short",
-   "entry": 81.87,
-   "mark": 74.28,
-   "pnl_pct": 9.26,
-   "opened": "2026-11-12"
-  },
-  {
-   "asset": "DBA",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 28.61,
-   "mark": 26.03,
-   "pnl_pct": 9.0,
-   "opened": "2026-08-27"
+   "entry": 376.01,
+   "mark": 342.38,
+   "pnl_pct": 8.94,
+   "opened": "2026-11-09"
   },
   {
    "asset": "XME",
@@ -613,8 +595,26 @@
    "side": "short",
    "entry": 96.05,
    "mark": 87.5,
-   "pnl_pct": 8.9,
+   "pnl_pct": 8.91,
    "opened": "2026-11-10"
+  },
+  {
+   "asset": "GDX",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 81.87,
+   "mark": 74.59,
+   "pnl_pct": 8.89,
+   "opened": "2026-11-12"
+  },
+  {
+   "asset": "DBA",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 28.61,
+   "mark": 26.07,
+   "pnl_pct": 8.86,
+   "opened": "2026-08-27"
   }
  ],
  "worst_open": [
@@ -641,8 +641,8 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 528.03,
-   "mark": 502.45,
-   "pnl_pct": -4.84,
+   "mark": 502.76,
+   "pnl_pct": -4.79,
    "opened": "2026-09-01"
   },
   {
@@ -650,18 +650,18 @@
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 528.03,
-   "mark": 502.45,
-   "pnl_pct": -4.84,
+   "mark": 502.76,
+   "pnl_pct": -4.79,
    "opened": "2026-09-01"
   },
   {
-   "asset": "IWM",
-   "lane": "Options (simulated)",
+   "asset": "TW",
+   "lane": "Equity factor model",
    "side": "long",
-   "entry": 4.38,
-   "mark": 4.17,
-   "pnl_pct": -4.57,
-   "opened": "2026-11-18"
+   "entry": 133.97,
+   "mark": 127.69,
+   "pnl_pct": -4.69,
+   "opened": "2026-11-16"
   }
  ],
  "book": {
