@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T19:17:33Z",
+ "generated_at": "2026-11-19T20:17:33Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -8,7 +8,7 @@
  "win_rate": 0.278,
  "avg_trade_pct": -3.75,
  "open_total": 142,
- "open_avg_pct": 0.79,
+ "open_avg_pct": 0.76,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,8 +576,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 76.04,
-   "mark": 69.03,
-   "pnl_pct": 9.21,
+   "mark": 68.87,
+   "pnl_pct": 9.43,
    "opened": "2026-11-10"
   },
   {
@@ -585,8 +585,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 32.55,
-   "mark": 29.59,
-   "pnl_pct": 9.09,
+   "mark": 29.5,
+   "pnl_pct": 9.37,
    "opened": "2026-11-09"
   },
   {
@@ -594,26 +594,26 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 494.43,
-   "mark": 451.69,
-   "pnl_pct": 8.65,
+   "mark": 448.42,
+   "pnl_pct": 9.31,
    "opened": "2026-11-12"
   },
   {
-   "asset": "EFA",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 108.29,
-   "mark": 99.0,
-   "pnl_pct": 8.58,
-   "opened": "2026-08-27"
+   "asset": "PSQ",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 26.05,
+   "mark": 28.36,
+   "pnl_pct": 8.87,
+   "opened": "2026-09-01"
   },
   {
-   "asset": "DBA",
+   "asset": "EWJ",
    "lane": "Shorts (simulated)",
    "side": "short",
-   "entry": 28.61,
-   "mark": 26.18,
-   "pnl_pct": 8.48,
+   "entry": 95.43,
+   "mark": 87.03,
+   "pnl_pct": 8.8,
    "opened": "2026-08-27"
   }
  ],
@@ -637,30 +637,30 @@
    "opened": "2026-09-02"
   },
   {
+   "asset": "QQQ",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 678.56,
+   "mark": 645.62,
+   "pnl_pct": -4.85,
+   "opened": "2026-11-09"
+  },
+  {
+   "asset": "QQQ",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 678.56,
+   "mark": 645.62,
+   "pnl_pct": -4.85,
+   "opened": "2026-11-09"
+  },
+  {
    "asset": "EWJ",
    "lane": "Macro ETFs",
    "side": "long",
    "entry": 91.47,
-   "mark": 87.38,
-   "pnl_pct": -4.48,
-   "opened": "2026-11-09"
-  },
-  {
-   "asset": "SPY",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 752.72,
-   "mark": 719.55,
-   "pnl_pct": -4.41,
-   "opened": "2026-11-09"
-  },
-  {
-   "asset": "SPY",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 752.72,
-   "mark": 719.55,
-   "pnl_pct": -4.41,
+   "mark": 87.03,
+   "pnl_pct": -4.85,
    "opened": "2026-11-09"
   }
  ],

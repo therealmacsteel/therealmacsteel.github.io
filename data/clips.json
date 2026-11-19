@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-19T19:17:27Z",
- "total_verified": 589,
+ "generated_at": "2026-11-19T20:17:27Z",
+ "total_verified": 590,
  "by_platform": {
+  "youtube": 105,
   "tiktok": 183,
   "facebook": 36,
-  "youtube": 104,
   "instagram": 157,
   "x": 91,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/F7bgabIdg9Y",
+   "ts": "2026-11-19T19:17:37.545799+00:00",
+   "caption": "Tired of prompt packs that dump text and leave you guessing? 25 prompts, 6,200 words, every one ships with When, Expected output, Failure mode, Tip Real failure modes, not hypothet"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7709938826382216478",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DfsVa4xAMYu/",
    "ts": "2026-11-13T19:01:53.483927+00:00",
    "caption": "7 prompts that run your routine work unattended You don't need a 200-prompt dump. You need seven. Mac Steel's free PDF covers identity briefs, scheduled tasks, lead scoring, self-h"
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/2982019065511391",
-   "ts": "2026-11-13T18:01:18.457133+00:00",
-   "caption": "Can 7 prompts run your routine work unattended? Most small businesses dump hundreds of prompts into AI and hope it stays consistent. Mac Steel\u2019s 7 Prompts gives you seven checks in"
   }
  ]
 }
