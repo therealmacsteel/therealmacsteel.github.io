@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-19T22:17:36Z",
- "total_verified": 590,
+ "generated_at": "2026-11-19T23:17:27Z",
+ "total_verified": 591,
  "by_platform": {
+  "tiktok": 184,
   "youtube": 105,
-  "tiktok": 183,
   "facebook": 36,
   "instagram": 157,
   "x": 91,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7710016095452695821",
+   "ts": "2026-11-19T22:41:32.676190+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Cron Scheduling for Autonomous Agent Tasks \u2192 Tool Integration for Enhanced Agent Functionality \u2192 Output Formatting for Consis"
+  },
   {
    "platform": "youtube",
    "url": "https://www.youtube.com/shorts/F7bgabIdg9Y",
@@ -220,12 +226,6 @@
    "url": "https://www.youtube.com/shorts/Bocd7wnBGqM",
    "ts": "2026-11-13T19:17:42.716989+00:00",
    "caption": "Want to get more from your long video without extra filming time? Mac Steel's repurposing pack gives you 25 prompts that turn one long video into short clips, blog posts, and more."
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfsVa4xAMYu/",
-   "ts": "2026-11-13T19:01:53.483927+00:00",
-   "caption": "7 prompts that run your routine work unattended You don't need a 200-prompt dump. You need seven. Mac Steel's free PDF covers identity briefs, scheduled tasks, lead scoring, self-h"
   }
  ]
 }
