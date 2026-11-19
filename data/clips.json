@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T18:17:26Z",
- "total_verified": 588,
+ "generated_at": "2026-11-19T19:17:27Z",
+ "total_verified": 589,
  "by_platform": {
-  "tiktok": 182,
+  "tiktok": 183,
   "facebook": 36,
   "youtube": 104,
   "instagram": 157,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7709938826382216478",
+   "ts": "2026-11-19T18:36:31.766129+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7709644968553483551",
@@ -220,12 +226,6 @@
    "url": "https://www.facebook.com/reel/2982019065511391",
    "ts": "2026-11-13T18:01:18.457133+00:00",
    "caption": "Can 7 prompts run your routine work unattended? Most small businesses dump hundreds of prompts into AI and hope it stays consistent. Mac Steel\u2019s 7 Prompts gives you seven checks in"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7707712245156875550",
-   "ts": "2026-11-13T17:41:47.924129+00:00",
-   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
   }
  ]
 }
