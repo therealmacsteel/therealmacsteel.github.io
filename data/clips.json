@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T22:17:24Z",
- "total_verified": 593,
+ "generated_at": "2026-11-20T23:17:24Z",
+ "total_verified": 594,
  "by_platform": {
-  "tiktok": 186,
+  "tiktok": 187,
   "youtube": 105,
   "facebook": 36,
   "instagram": 157,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7710387217469934879",
+   "ts": "2026-11-20T22:41:39.380712+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7710309885132541215",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7707857364606569741",
    "ts": "2026-11-14T03:04:06.734899+00:00",
    "caption": "7 prompts, not 200. Can your small business run routine work unattended? Copy the same setup Mac Steel uses: Agent Identity Brief, Scheduled Task Specification, Lead Scoring, Self-"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7707810744821124382",
-   "ts": "2026-11-14T00:03:11.743402+00:00",
-   "caption": "Want 10+ posts from one long video? Get 25 repurposing prompts. Turn your video into short clips, blog posts, and more. Save hours per video with Mac Steel."
   }
  ]
 }
