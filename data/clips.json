@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-21T16:17:24Z",
- "total_verified": 594,
+ "generated_at": "2026-11-21T17:17:25Z",
+ "total_verified": 595,
  "by_platform": {
+  "instagram": 158,
   "tiktok": 187,
   "youtube": 105,
   "facebook": 36,
-  "instagram": 157,
   "x": 91,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DgAnY1IglH2/",
+   "ts": "2026-11-21T16:36:53.841513+00:00",
+   "caption": "Can you stick to your exits for one full week? You override your plan and turn small losses into bigger ones. Mac Steel grades every rules-based exit so you see exactly where your "
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7710387217469934879",
@@ -220,12 +226,6 @@
    "url": "https://x.com/therealmacsteel/status/2121591154403688589",
    "ts": "2026-11-14T13:09:10.270191+00:00",
    "caption": "Want better chatbot conversations? Try Mac Steel's 25 prompts for dialogue design."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7707857364606569741",
-   "ts": "2026-11-14T03:04:06.734899+00:00",
-   "caption": "7 prompts, not 200. Can your small business run routine work unattended? Copy the same setup Mac Steel uses: Agent Identity Brief, Scheduled Task Specification, Lead Scoring, Self-"
   }
  ]
 }

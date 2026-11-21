@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T16:17:29Z",
+ "generated_at": "2026-11-21T17:17:30Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -707,9 +707,12 @@
    }
   ],
   "sleeves": {
-   "B": "SSO when SPY > 200-day average, else BIL",
-   "T": "15-ETF trend (3/6/9/12m), inverse-vol, 15% vol target, gross <= 1.8, 25% cap"
+   "B": "SPY when SPY > 200-day average, else BIL",
+   "T": "15-ETF trend (3/6/9/12m), inverse-vol, 15% vol target, gross <= 1.0, 25% cap"
   },
+  "rules_version": "sbk-v2-1x-20261121",
+  "rules_change": "From 2026-11-23 the book holds no leveraged funds (the 2x S&P fund SSO was removed, the trend sleeve capped at 1x). Results before 2026-11-23 were under the earlier leveraged rules.",
+  "rules_v2_start": null,
   "risk": "daily loss -4%: no increases; drawdown -15%: halve; -25%: flat + halt",
   "shadow_costs": 216.22,
   "curve": [
