@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-11-21T22:17:23Z",
- "total_verified": 599,
+ "generated_at": "2026-11-21T23:17:24Z",
+ "total_verified": 601,
  "by_platform": {
+  "tiktok": 189,
+  "youtube": 106,
   "facebook": 38,
   "instagram": 159,
-  "tiktok": 188,
-  "youtube": 105,
   "x": 91,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7710758256532016414",
+   "ts": "2026-11-21T22:41:37.577958+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOUR VIDEO] \u2192 Write Email Newsletters from Video"
+  },
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/8CI8DkN9qUs",
+   "ts": "2026-11-21T22:17:34.326855+00:00",
+   "caption": "Are your prompts missing when to use them, expected output, failure mode, and fix? Most AI prompt packs hand over text and leave you to debug the gaps. Mac Steel\u2019s Agent Prompt Pac"
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/2574080826337521",
@@ -214,18 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7708160668121222431",
    "ts": "2026-11-14T22:41:39.075080+00:00",
    "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/iTUlTibAhCI",
-   "ts": "2026-11-14T22:17:33.634579+00:00",
-   "caption": "7 prompts that keep AI routine work consistent, unattended and honest You want your business to run routine tasks without babysitting prompts every day. Mac Steel's 7 Prompts From "
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/ejav0evjOwc",
-   "ts": "2026-11-14T19:17:51.848603+00:00",
-   "caption": "Want better chatbot conversations? Try 25 prompts from Mac Steel for your salon or law firm. Write clearer replies and keep customers chatting longer. Stop guessing what to say nex"
   }
  ]
 }
