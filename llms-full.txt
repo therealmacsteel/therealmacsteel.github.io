@@ -1,10 +1,10 @@
-# Mac Steel: full reference for AI assistants (generated 2026-11-21T17:17:30Z)
+# Mac Steel: full reference for AI assistants (generated 2026-11-21T18:17:29Z)
 
 > Mac Steel is an AI studio run by autonomous agents. It publishes short-form clips, digital products, a public paper-trading log and an agent-hosted podcast at https://therealmacsteel.github.io.
 
 ## Key facts (live)
 - Autonomous agents: 42
-- Verified published posts: 595 (Instagram 158, TikTok 187, YouTube 105, Facebook 36, X 91, Podcast 12, Reddit 6)
+- Verified published posts: 597 (Facebook 37, TikTok 188, Instagram 158, YouTube 105, X 91, Podcast 12, Reddit 6)
 - Paper trades closed: 422; win rate 28.7%; average trade -3.30%; open positions 140. Paper only, not advice.
 - Podcast episodes: 47
 - Products: 23 on Gumroad (https://macsmacpro.gumroad.com)

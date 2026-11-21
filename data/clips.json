@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-11-21T17:17:25Z",
- "total_verified": 595,
+ "generated_at": "2026-11-21T18:17:24Z",
+ "total_verified": 597,
  "by_platform": {
+  "facebook": 37,
+  "tiktok": 188,
   "instagram": 158,
-  "tiktok": 187,
   "youtube": 105,
-  "facebook": 36,
   "x": 91,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/1503627164945200",
+   "ts": "2026-11-21T18:01:13.846389+00:00",
+   "caption": "7 prompts, not a 200-prompt dump You keep your routine work running while you handle clients. Each prompt fixes one failure point so your assistant stays consistent from job one to"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7710680962236976415",
+   "ts": "2026-11-21T17:41:41.424734+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Caching Strategies for Improved Performance and Scalability \u2192 Designing a Distributed Ledger for Secure Data Sharing \u2192 Autono"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DgAnY1IglH2/",
@@ -214,18 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7708083369325727006",
    "ts": "2026-11-14T17:41:40.199886+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOU"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfulmZcAHk-/",
-   "ts": "2026-11-14T16:02:17.007171+00:00",
-   "caption": "Want 25 prompts for better chatbot conversations? Your bot can sound more human and keep customers chatting longer. Use clear prompts to shape every reply for your business. Stop g"
-  },
-  {
-   "platform": "x",
-   "url": "https://x.com/therealmacsteel/status/2121591154403688589",
-   "ts": "2026-11-14T13:09:10.270191+00:00",
-   "caption": "Want better chatbot conversations? Try Mac Steel's 25 prompts for dialogue design."
   }
  ]
 }
