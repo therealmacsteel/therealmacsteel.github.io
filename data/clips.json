@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-21T20:17:24Z",
- "total_verified": 598,
+ "generated_at": "2026-11-21T21:17:24Z",
+ "total_verified": 599,
  "by_platform": {
+  "facebook": 38,
   "instagram": 159,
-  "facebook": 37,
   "tiktok": 188,
   "youtube": 105,
   "x": 91,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/2574080826337521",
+   "ts": "2026-11-21T21:01:26.918029+00:00",
+   "caption": "Tired of prompt packs that just dump text and leave you guessing? Here is what actually moves the needle: 25 prompts, each with when to use it, what good output looks like, how the"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DgA71nADrgZ/",
@@ -220,12 +226,6 @@
    "url": "https://www.youtube.com/shorts/ejav0evjOwc",
    "ts": "2026-11-14T19:17:51.848603+00:00",
    "caption": "Want better chatbot conversations? Try 25 prompts from Mac Steel for your salon or law firm. Write clearer replies and keep customers chatting longer. Stop guessing what to say nex"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Dfu6JRtjYW6/",
-   "ts": "2026-11-14T19:01:17.290975+00:00",
-   "caption": "7 prompts, not a 200-prompt dump Your routine work runs the same on job 400 as job 1. Mac Steel gives you the exact prompts: identity, scheduled tasks, lead scoring, self-heal, rou"
   }
  ]
 }
