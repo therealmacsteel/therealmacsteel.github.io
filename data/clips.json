@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-22T18:17:24Z",
- "total_verified": 605,
+ "generated_at": "2026-11-22T19:17:25Z",
+ "total_verified": 606,
  "by_platform": {
+  "instagram": 161,
   "facebook": 39,
   "tiktok": 191,
-  "instagram": 160,
   "youtube": 106,
   "x": 91,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DgDghSIgl9z/",
+   "ts": "2026-11-22T19:02:32.056722+00:00",
+   "caption": "7 prompts keep your system consistent, unattended and honest Stop rewriting instructions for every routine task. Mac Steel\u2019s 7 Prompts give you a reusable stack for identity, sched"
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/907370722206864",
@@ -220,12 +226,6 @@
    "url": "https://www.facebook.com/reel/2793652691033890",
    "ts": "2026-11-15T18:03:08.447919+00:00",
    "caption": "How many posts can you get from one long video? Use 25 prompts to turn your video into clips, blogs, and more. Saves hours per video. Get your pack from Mac Steel."
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7708454458954485023",
-   "ts": "2026-11-15T17:41:44.284725+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Error Handling and Recovery Strategies for Robust Agent Operation \u2192 Autonomous Agent Security Measures for Data Protection \u2192 "
   }
  ]
 }
