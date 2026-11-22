@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-11-22T22:17:23Z",
- "total_verified": 606,
+ "generated_at": "2026-11-22T23:17:24Z",
+ "total_verified": 608,
  "by_platform": {
+  "tiktok": 192,
+  "youtube": 107,
   "instagram": 161,
   "facebook": 39,
-  "tiktok": 191,
-  "youtube": 106,
   "x": 91,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7711129332957187358",
+   "ts": "2026-11-22T22:41:34.251106+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Security Measures for Data Protection \u2192 Autonomous Agent Transparency and Explainability for Improved Trust "
+  },
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/jU_HKbAGsv4",
+   "ts": "2026-11-22T22:17:50.775664+00:00",
+   "caption": "Can your business run five AI workflows without a monthly SaaS bill? You get five blueprints from the Mac Steel system. One Python script turns a topic into posts for five social p"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DgDghSIgl9z/",
@@ -214,18 +226,6 @@
    "url": "https://www.facebook.com/reel/1140309922233578",
    "ts": "2026-11-15T21:01:29.492178+00:00",
    "caption": "7 prompts keep routine AI work consistent and unattended. Stop rewriting instructions every time your system runs. Mac Steel\u2019s 7 Prompts give you an Agent Identity Brief, Scheduled"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/JQ7hMsTD_T0",
-   "ts": "2026-11-15T19:17:33.784215+00:00",
-   "caption": "Want your routine work to run unattended and honest? Use 7 prompts that keep a real multi-agent system consistent, not a 200-prompt dump. Each one tells an assistant exactly what t"
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/2793652691033890",
-   "ts": "2026-11-15T18:03:08.447919+00:00",
-   "caption": "How many posts can you get from one long video? Use 25 prompts to turn your video into clips, blogs, and more. Saves hours per video. Get your pack from Mac Steel."
   }
  ]
 }
