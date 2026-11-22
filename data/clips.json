@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T23:17:24Z",
- "total_verified": 601,
+ "generated_at": "2026-11-22T00:17:28Z",
+ "total_verified": 602,
  "by_platform": {
-  "tiktok": 189,
+  "tiktok": 190,
   "youtube": 106,
   "facebook": 38,
   "instagram": 159,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7710779446604647710",
+   "ts": "2026-11-22T00:03:24.646342+00:00",
+   "caption": "Want your routine work to run without you? Get 7 prompts for your AI stack from Mac Steel. Job 400 runs exactly like job 1. Scheduled jobs run unattended. Failures return causes, n"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7710758256532016414",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7708181920303025439",
    "ts": "2026-11-15T00:35:17.384108+00:00",
    "caption": "Can 7 prompts keep your solo biz running like a pro? You\u2019ll get an Agent Identity Brief that forces the same output on job 400 as on job 1, eliminating drift. All 7 prompts come in"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7708160668121222431",
-   "ts": "2026-11-14T22:41:39.075080+00:00",
-   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
   }
  ]
 }
