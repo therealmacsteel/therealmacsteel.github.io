@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-11-22T17:17:23Z",
- "total_verified": 603,
+ "generated_at": "2026-11-22T18:17:24Z",
+ "total_verified": 605,
  "by_platform": {
+  "facebook": 39,
+  "tiktok": 191,
   "instagram": 160,
-  "tiktok": 190,
   "youtube": 106,
-  "facebook": 38,
   "x": 91,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/907370722206864",
+   "ts": "2026-11-22T18:01:13.423647+00:00",
+   "caption": "7 prompts your business can run unattended, free You spend hours on routine replies, lead scoring, and status reports. These seven prompts keep output consistent from job one to jo"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7711052031863164190",
+   "ts": "2026-11-22T17:41:42.835443+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/p/DgDL8IJjTHM/",
@@ -214,18 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7708454458954485023",
    "ts": "2026-11-15T17:41:44.284725+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Error Handling and Recovery Strategies for Robust Agent Operation \u2192 Autonomous Agent Security Measures for Data Protection \u2192 "
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/DfxKYSCiP0U/",
-   "ts": "2026-11-15T16:01:54.132521+00:00",
-   "caption": "Who runs your routine work when you step away? Mac Steel shares 7 prompts that keep AI steady on job 400 just like job 1. No drift. No invented progress. One PDF. Six pages. Get th"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7708228403920506143",
-   "ts": "2026-11-15T03:20:02.828097+00:00",
-   "caption": "Want 25 prompts for better chatbot conversations? Your bot talks. Your customers leave. Fix the dialogue with Mac Steel\u2019s Chatbot Conversation Design Pack. Twenty-five ready-to-use"
   }
  ]
 }
