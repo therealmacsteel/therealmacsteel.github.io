@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-22T15:17:24Z",
- "total_verified": 602,
+ "generated_at": "2026-11-22T16:17:25Z",
+ "total_verified": 603,
  "by_platform": {
+  "instagram": 160,
   "tiktok": 190,
   "youtube": 106,
   "facebook": 38,
-  "instagram": 159,
   "x": 91,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DgDL8IJjTHM/",
+   "ts": "2026-11-22T16:01:45.233173+00:00",
+   "caption": "Your next five posts in three to eight minutes? A working schedule with failure alerts to your phone is waiting at Mac Steel Blueprints Copy-paste commands, setup steps, and troubl"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7710779446604647710",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7708228403920506143",
    "ts": "2026-11-15T03:20:02.828097+00:00",
    "caption": "Want 25 prompts for better chatbot conversations? Your bot talks. Your customers leave. Fix the dialogue with Mac Steel\u2019s Chatbot Conversation Design Pack. Twenty-five ready-to-use"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7708181920303025439",
-   "ts": "2026-11-15T00:35:17.384108+00:00",
-   "caption": "Can 7 prompts keep your solo biz running like a pro? You\u2019ll get an Agent Identity Brief that forces the same output on job 400 as on job 1, eliminating drift. All 7 prompts come in"
   }
  ]
 }
