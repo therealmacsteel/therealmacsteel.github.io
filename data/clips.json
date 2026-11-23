@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T02:17:24Z",
- "total_verified": 609,
+ "generated_at": "2026-11-23T03:17:26Z",
+ "total_verified": 610,
  "by_platform": {
-  "tiktok": 193,
+  "tiktok": 194,
   "youtube": 107,
   "instagram": 161,
   "facebook": 39,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7711196979770035486",
+   "ts": "2026-11-23T03:04:02.502147+00:00",
+   "caption": "Want seven prompts that keep your system consistent, unattended and honest? Mac Steel\u2019s 7 Prompts from a Live Agent Stack helps your business run routine work the same way every ti"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7711150722846379295",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7708553000381451550",
    "ts": "2026-11-16T00:03:31.961615+00:00",
    "caption": "7 prompts, not 200. Which routine task is eating your day? Mac Steel gives you 7 free prompts for real AI work that stays consistent. Identity briefs, scheduled jobs, lead scoring,"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7708531728255651103",
-   "ts": "2026-11-15T22:41:37.185280+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video"
   }
  ]
 }
