@@ -23,7 +23,7 @@
   --ink-900: oklch(0.15 0.02  250);   /* page ground            */
   --ink-700: oklch(0.28 0.02  250);   /* raised surface         */
   --ink-500: oklch(0.45 0.015 250);   /* borders, rules         */
-  --ink-300: oklch(0.72 0.01  250);   /* secondary text         */
+  --ink-300: oklch(0.90 0.005 250);   /* secondary text — WCAG AA on ink-900 (page ground) */
   --ink-100: oklch(0.95 0.005 250);   /* primary text           */
 
   /* chromatics — exactly two */
