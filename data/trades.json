@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-23T16:17:32Z",
+ "generated_at": "2026-11-23T17:17:33Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 441,
- "excluded_unmarkable": 90,
- "win_rate": 0.286,
+ "closed_total": 442,
+ "excluded_unmarkable": 92,
+ "win_rate": 0.285,
  "avg_trade_pct": -3.0,
  "open_total": 160,
- "open_avg_pct": 1.07,
+ "open_avg_pct": 0.92,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -20,11 +20,11 @@
   },
   {
    "lane": "Macro ETFs",
-   "closed": 129,
-   "win_rate": 0.124,
+   "closed": 130,
+   "win_rate": 0.123,
    "avg_win_pct": 10.45,
-   "avg_loss_pct": -7.2,
-   "avg_trade_pct": -5.01
+   "avg_loss_pct": -7.19,
+   "avg_trade_pct": -5.02
   },
   {
    "lane": "Shorts (simulated)",
@@ -52,6 +52,17 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "USO",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 141.48,
+   "exit": 133.44,
+   "pnl_pct": -5.69,
+   "opened": "2026-11-11",
+   "closed": "2026-11-23",
+   "exit_reason": "stop"
+  },
   {
    "asset": "INTC",
    "lane": "Congress disclosures",
@@ -315,20 +326,13 @@
    "opened": "2026-11-20",
    "closed": "2026-11-20",
    "exit_reason": "stop"
-  },
-  {
-   "asset": "SVXY",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 52.3,
-   "exit": 49.15,
-   "pnl_pct": -6.02,
-   "opened": "2026-11-19",
-   "closed": "2026-11-20",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "USO",
+   "pnl_pct": -5.69
+  },
   {
    "asset": "INTC",
    "pnl_pct": 10.5
@@ -564,56 +568,52 @@
   {
    "asset": "AVGO",
    "pnl_pct": -5.03
-  },
-  {
-   "asset": "NVDA",
-   "pnl_pct": -5.29
   }
  ],
  "best_open": [
-  {
-   "asset": "IWM",
-   "lane": "Options (simulated)",
-   "side": "long",
-   "entry": 4.34,
-   "mark": 6.12,
-   "pnl_pct": 40.97,
-   "opened": "2026-11-23"
-  },
   {
    "asset": "DBC",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 32.31,
-   "mark": 29.37,
-   "pnl_pct": 9.1,
+   "mark": 29.28,
+   "pnl_pct": 9.38,
    "opened": "2026-09-08"
   },
   {
-   "asset": "IVR",
+   "asset": "KALU",
    "lane": "Equity factor model",
    "side": "long",
-   "entry": 5.03,
-   "mark": 5.47,
-   "pnl_pct": 8.85,
-   "opened": "2026-11-16"
+   "entry": 89.88,
+   "mark": 97.64,
+   "pnl_pct": 8.63,
+   "opened": "2026-11-23"
   },
   {
    "asset": "DBA",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 28.61,
-   "mark": 26.26,
-   "pnl_pct": 8.2,
+   "mark": 26.28,
+   "pnl_pct": 8.13,
    "opened": "2026-08-27"
+  },
+  {
+   "asset": "IVR",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 5.03,
+   "mark": 5.39,
+   "pnl_pct": 7.26,
+   "opened": "2026-11-16"
   },
   {
    "asset": "XLB",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 53.52,
-   "mark": 49.31,
-   "pnl_pct": 7.86,
+   "mark": 49.66,
+   "pnl_pct": 7.21,
    "opened": "2026-08-21"
   }
  ],
@@ -637,31 +637,31 @@
    "opened": "2026-09-02"
   },
   {
-   "asset": "UNG",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 10.27,
-   "mark": 9.77,
-   "pnl_pct": -4.87,
-   "opened": "2026-11-12"
+   "asset": "VOO",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 635.01,
+   "mark": 665.49,
+   "pnl_pct": -4.8,
+   "opened": "2026-11-23"
+  },
+  {
+   "asset": "SPY",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 692.35,
+   "mark": 723.92,
+   "pnl_pct": -4.56,
+   "opened": "2026-11-20"
   },
   {
    "asset": "BOTZ",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 28.32,
-   "mark": 29.62,
-   "pnl_pct": -4.59,
+   "mark": 29.54,
+   "pnl_pct": -4.31,
    "opened": "2026-11-20"
-  },
-  {
-   "asset": "VOO",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 635.01,
-   "mark": 663.43,
-   "pnl_pct": -4.48,
-   "opened": "2026-11-23"
   }
  ],
  "book": {
