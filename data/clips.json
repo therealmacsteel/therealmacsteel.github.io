@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T00:17:23Z",
- "total_verified": 608,
+ "generated_at": "2026-11-23T01:17:24Z",
+ "total_verified": 609,
  "by_platform": {
-  "tiktok": 192,
+  "tiktok": 193,
   "youtube": 107,
   "instagram": 161,
   "facebook": 39,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7711150722846379295",
+   "ts": "2026-11-23T00:37:08.232087+00:00",
+   "caption": "Stop paying for content automation software. What part of your weekly posting takes longest? Five blueprints from Mac Steel show how one Python script turns a topic into posts for "
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7711129332957187358",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7708531728255651103",
    "ts": "2026-11-15T22:41:37.185280+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video"
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/1140309922233578",
-   "ts": "2026-11-15T21:01:29.492178+00:00",
-   "caption": "7 prompts keep routine AI work consistent and unattended. Stop rewriting instructions every time your system runs. Mac Steel\u2019s 7 Prompts give you an Agent Identity Brief, Scheduled"
   }
  ]
 }

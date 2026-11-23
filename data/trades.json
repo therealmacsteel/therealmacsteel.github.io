@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-23T00:17:28Z",
+ "generated_at": "2026-11-23T01:17:30Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
  "closed_total": 422,
- "excluded_unmarkable": 84,
+ "excluded_unmarkable": 87,
  "win_rate": 0.287,
  "avg_trade_pct": -3.3,
- "open_total": 140,
- "open_avg_pct": 0.57,
+ "open_total": 137,
+ "open_avg_pct": 0.96,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -619,15 +619,6 @@
  ],
  "worst_open": [
   {
-   "asset": "IWM",
-   "lane": "Options (simulated)",
-   "side": "long",
-   "entry": 4.49,
-   "mark": 2.98,
-   "pnl_pct": -33.63,
-   "opened": "2026-11-20"
-  },
-  {
    "asset": "ETH/USD",
    "lane": "Crypto",
    "side": "long",
@@ -646,15 +637,6 @@
    "opened": "2026-09-02"
   },
   {
-   "asset": "SLV",
-   "lane": "Options (simulated)",
-   "side": "long",
-   "entry": 2.9,
-   "mark": 2.37,
-   "pnl_pct": -18.28,
-   "opened": "2026-11-20"
-  },
-  {
    "asset": "XLRE",
    "lane": "Macro ETFs",
    "side": "long",
@@ -662,6 +644,24 @@
    "mark": 42.48,
    "pnl_pct": -4.84,
    "opened": "2026-08-27"
+  },
+  {
+   "asset": "XLB",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 50.76,
+   "mark": 48.35,
+   "pnl_pct": -4.75,
+   "opened": "2026-09-10"
+  },
+  {
+   "asset": "WTS",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 363.09,
+   "mark": 346.01,
+   "pnl_pct": -4.7,
+   "opened": "2026-09-07"
   }
  ],
  "book": {
