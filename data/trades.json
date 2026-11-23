@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-23T19:17:33Z",
+ "generated_at": "2026-11-23T20:17:39Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
- "closed_total": 442,
+ "closed_total": 443,
  "excluded_unmarkable": 92,
- "win_rate": 0.285,
- "avg_trade_pct": -3.0,
+ "win_rate": 0.287,
+ "avg_trade_pct": -2.97,
  "open_total": 160,
- "open_avg_pct": 0.92,
+ "open_avg_pct": 0.83,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -28,11 +28,11 @@
   },
   {
    "lane": "Shorts (simulated)",
-   "closed": 115,
-   "win_rate": 0.574,
-   "avg_win_pct": 12.37,
+   "closed": 116,
+   "win_rate": 0.578,
+   "avg_win_pct": 12.34,
    "avg_loss_pct": -6.6,
-   "avg_trade_pct": 4.29
+   "avg_trade_pct": 4.34
   },
   {
    "lane": "Congress disclosures",
@@ -52,6 +52,17 @@
   }
  ],
  "recent_closed": [
+  {
+   "asset": "DBC",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 32.31,
+   "exit": 29.07,
+   "pnl_pct": 10.01,
+   "opened": "2026-09-08",
+   "closed": "2026-11-23",
+   "exit_reason": "target"
+  },
   {
    "asset": "USO",
    "lane": "Macro ETFs",
@@ -315,20 +326,13 @@
    "opened": "2026-11-20",
    "closed": "2026-11-20",
    "exit_reason": "stop"
-  },
-  {
-   "asset": "XME",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 85.4,
-   "exit": 80.71,
-   "pnl_pct": -5.49,
-   "opened": "2026-11-20",
-   "closed": "2026-11-20",
-   "exit_reason": "stop"
   }
  ],
  "recent_chart": [
+  {
+   "asset": "DBC",
+   "pnl_pct": 10.01
+  },
   {
    "asset": "USO",
    "pnl_pct": -5.69
@@ -564,29 +568,16 @@
   {
    "asset": "EFA",
    "pnl_pct": 10.51
-  },
-  {
-   "asset": "AVGO",
-   "pnl_pct": -5.03
   }
  ],
  "best_open": [
-  {
-   "asset": "DBC",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 32.31,
-   "mark": 29.17,
-   "pnl_pct": 9.72,
-   "opened": "2026-09-08"
-  },
   {
    "asset": "KALU",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 89.88,
-   "mark": 98.54,
-   "pnl_pct": 9.64,
+   "mark": 98.78,
+   "pnl_pct": 9.9,
    "opened": "2026-11-23"
   },
   {
@@ -594,8 +585,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 28.61,
-   "mark": 26.25,
-   "pnl_pct": 8.25,
+   "mark": 26.23,
+   "pnl_pct": 8.3,
    "opened": "2026-08-27"
   },
   {
@@ -603,8 +594,8 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 5.03,
-   "mark": 5.45,
-   "pnl_pct": 8.25,
+   "mark": 5.43,
+   "pnl_pct": 7.95,
    "opened": "2026-11-16"
   },
   {
@@ -615,6 +606,15 @@
    "mark": 66.09,
    "pnl_pct": 7.02,
    "opened": "2026-08-27"
+  },
+  {
+   "asset": "XLB",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 53.52,
+   "mark": 49.78,
+   "pnl_pct": 6.99,
+   "opened": "2026-08-21"
   }
  ],
  "worst_open": [
@@ -637,12 +637,21 @@
    "opened": "2026-09-02"
   },
   {
+   "asset": "DBC",
+   "lane": "Macro ETFs",
+   "side": "long",
+   "entry": 30.57,
+   "mark": 29.07,
+   "pnl_pct": -4.89,
+   "opened": "2026-08-18"
+  },
+  {
    "asset": "VOO",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 635.01,
-   "mark": 665.11,
-   "pnl_pct": -4.74,
+   "mark": 665.39,
+   "pnl_pct": -4.78,
    "opened": "2026-11-23"
   },
   {
@@ -650,18 +659,9 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 692.35,
-   "mark": 724.04,
-   "pnl_pct": -4.58,
+   "mark": 723.91,
+   "pnl_pct": -4.56,
    "opened": "2026-11-20"
-  },
-  {
-   "asset": "DBC",
-   "lane": "Macro ETFs",
-   "side": "long",
-   "entry": 30.57,
-   "mark": 29.17,
-   "pnl_pct": -4.58,
-   "opened": "2026-08-18"
   }
  ],
  "book": {

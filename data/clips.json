@@ -1,16 +1,22 @@
 {
- "generated_at": "2026-11-23T19:17:27Z",
- "total_verified": 611,
+ "generated_at": "2026-11-23T20:17:32Z",
+ "total_verified": 612,
  "by_platform": {
+  "youtube": 108,
   "facebook": 39,
   "tiktok": 195,
-  "youtube": 107,
   "instagram": 161,
   "x": 91,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/aKglZYGPo9M",
+   "ts": "2026-11-23T19:18:32.993041+00:00",
+   "caption": "What does your business look like with seven reliable prompts? Mac Steel\u2019s 7 Prompts from a Live Agent Stack helps your system stay consistent and honest while running unattended. "
+  },
   {
    "platform": "facebook",
    "url": "https://www.facebook.com/reel/907370722206864",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7708825606393203998",
    "ts": "2026-11-16T17:41:56.943740+00:00",
    "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7708599646830021919",
-   "ts": "2026-11-16T03:04:33.405968+00:00",
-   "caption": "7 prompts keep your AI honest, unattended and consistent Stop rebuilding prompts every time you run a job. The Agent Identity Brief sets one hard constraint so your output stays th"
   }
  ]
 }
