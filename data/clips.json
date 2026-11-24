@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-11-24T15:17:29Z",
- "total_verified": 613,
+ "generated_at": "2026-11-24T16:18:27Z",
+ "total_verified": 615,
  "by_platform": {
-  "tiktok": 196,
+  "instagram": 162,
+  "tiktok": 197,
   "youtube": 108,
   "facebook": 39,
-  "instagram": 161,
   "x": 91,
   "podcast": 12,
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/reel/DgIVjpdjJJU/",
+   "ts": "2026-11-24T16:02:26.666690+00:00",
+   "caption": "7 prompts keep your routine work consistent, unattended and honest. You want AI handling the repeat jobs while you run your business. Mac Steel's 7 Prompts give you the exact brief"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7711752990478175501",
+   "ts": "2026-11-24T15:20:04.335550+00:00",
+   "caption": "$0/month of AI ran my business this week. Six numbers, one rule each: 1. 631 automated tasks, 97% clean \u2014 timebox every job. 2. 56 posts, 47 with a live URL \u2014 a link or it didn't h"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7711500424045530398",
@@ -214,18 +226,6 @@
    "url": "https://www.instagram.com/p/Df2NFHVjmyb/",
    "ts": "2026-11-17T15:20:03.523189+00:00",
    "caption": "$0/month of AI ran my business this week. Six numbers, one rule each: 1. 602 automated tasks, 97% clean \u2014 timebox every job. 2. 95 posts, 84 with a live URL \u2014 a link or it didn't h"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7708902848498502942",
-   "ts": "2026-11-16T22:41:33.020881+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Real-Time Feedback for Improved Decision-Making \u2192 Autonomous Agent Conflict Resolution for Resolving Human-H"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/fi0BIBeLjbg",
-   "ts": "2026-11-16T19:16:54.747842+00:00",
-   "caption": "7 prompts keep your routine work consistent? You get a PDF with 7 prompts that lock down each step, from Agent Identity Brief to Daily Status Report. Each prompt includes why it wo"
   }
  ]
 }
