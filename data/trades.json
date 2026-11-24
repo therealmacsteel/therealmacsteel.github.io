@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T18:17:35Z",
+ "generated_at": "2026-11-24T19:17:41Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -8,7 +8,7 @@
  "win_rate": 0.285,
  "avg_trade_pct": -2.96,
  "open_total": 159,
- "open_avg_pct": 0.56,
+ "open_avg_pct": 0.53,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -576,8 +576,8 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 5.19,
-   "mark": 5.63,
-   "pnl_pct": 8.57,
+   "mark": 5.7,
+   "pnl_pct": 9.83,
    "opened": "2026-11-23"
   },
   {
@@ -585,9 +585,27 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 28.61,
-   "mark": 26.33,
-   "pnl_pct": 7.95,
+   "mark": 26.3,
+   "pnl_pct": 8.06,
    "opened": "2026-08-27"
+  },
+  {
+   "asset": "IVR",
+   "lane": "Equity factor model",
+   "side": "long",
+   "entry": 5.03,
+   "mark": 5.42,
+   "pnl_pct": 7.65,
+   "opened": "2026-11-16"
+  },
+  {
+   "asset": "MSFT",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 533.18,
+   "mark": 494.77,
+   "pnl_pct": 7.2,
+   "opened": "2026-11-10"
   },
   {
    "asset": "FXA",
@@ -597,24 +615,6 @@
    "mark": 66.09,
    "pnl_pct": 7.02,
    "opened": "2026-08-27"
-  },
-  {
-   "asset": "PPLT",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 12.39,
-   "mark": 11.54,
-   "pnl_pct": 6.82,
-   "opened": "2026-11-18"
-  },
-  {
-   "asset": "CHRW",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 129.39,
-   "mark": 138.2,
-   "pnl_pct": 6.81,
-   "opened": "2026-11-09"
   }
  ],
  "worst_open": [
@@ -659,8 +659,8 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 218.5,
-   "mark": 209.41,
-   "pnl_pct": -4.16,
+   "mark": 209.31,
+   "pnl_pct": -4.2,
    "opened": "2026-11-16"
   }
  ],
