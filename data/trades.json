@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T19:17:41Z",
+ "generated_at": "2026-11-24T20:17:31Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -576,45 +576,45 @@
    "lane": "Equity factor model",
    "side": "long",
    "entry": 5.19,
-   "mark": 5.7,
-   "pnl_pct": 9.83,
+   "mark": 5.65,
+   "pnl_pct": 8.86,
    "opened": "2026-11-23"
-  },
-  {
-   "asset": "DBA",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 28.61,
-   "mark": 26.3,
-   "pnl_pct": 8.06,
-   "opened": "2026-08-27"
   },
   {
    "asset": "IVR",
    "lane": "Equity factor model",
    "side": "long",
    "entry": 5.03,
-   "mark": 5.42,
-   "pnl_pct": 7.65,
+   "mark": 5.45,
+   "pnl_pct": 8.25,
    "opened": "2026-11-16"
+  },
+  {
+   "asset": "DBA",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 28.61,
+   "mark": 26.29,
+   "pnl_pct": 8.09,
+   "opened": "2026-08-27"
+  },
+  {
+   "asset": "CHRW",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 129.39,
+   "mark": 139.35,
+   "pnl_pct": 7.7,
+   "opened": "2026-11-09"
   },
   {
    "asset": "MSFT",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 533.18,
-   "mark": 494.77,
-   "pnl_pct": 7.2,
+   "mark": 493.82,
+   "pnl_pct": 7.38,
    "opened": "2026-11-10"
-  },
-  {
-   "asset": "FXA",
-   "lane": "Shorts (simulated)",
-   "side": "short",
-   "entry": 71.08,
-   "mark": 66.09,
-   "pnl_pct": 7.02,
-   "opened": "2026-08-27"
   }
  ],
  "worst_open": [
@@ -655,13 +655,13 @@
    "opened": "2026-11-24"
   },
   {
-   "asset": "HWM",
-   "lane": "Equity factor model",
-   "side": "long",
-   "entry": 218.5,
-   "mark": 209.31,
-   "pnl_pct": -4.2,
-   "opened": "2026-11-16"
+   "asset": "VOO",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 635.01,
+   "mark": 659.2,
+   "pnl_pct": -3.81,
+   "opened": "2026-11-23"
   }
  ],
  "book": {
