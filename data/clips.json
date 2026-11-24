@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-24T17:23:04Z",
- "total_verified": 615,
+ "generated_at": "2026-11-24T18:17:28Z",
+ "total_verified": 616,
  "by_platform": {
+  "tiktok": 198,
   "instagram": 162,
-  "tiktok": 197,
   "youtube": 108,
   "facebook": 39,
   "x": 91,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7711794231454502175",
+   "ts": "2026-11-24T17:41:42.887582+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Conflict Resolution for Resolving Human-Human Disagreements \u2192 Autonomous Agent Predictive Maintenance for Eq"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/reel/DgIVjpdjJJU/",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7709196582427708702",
    "ts": "2026-11-17T17:41:39.936271+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Vid"
-  },
-  {
-   "platform": "instagram",
-   "url": "https://www.instagram.com/p/Df2NFHVjmyb/",
-   "ts": "2026-11-17T15:20:03.523189+00:00",
-   "caption": "$0/month of AI ran my business this week. Six numbers, one rule each: 1. 602 automated tasks, 97% clean \u2014 timebox every job. 2. 95 posts, 84 with a live URL \u2014 a link or it didn't h"
   }
  ]
 }
