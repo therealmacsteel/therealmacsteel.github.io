@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-25T17:17:29Z",
- "total_verified": 620,
+ "generated_at": "2026-11-25T18:17:32Z",
+ "total_verified": 621,
  "by_platform": {
+  "tiktok": 202,
   "instagram": 163,
-  "tiktok": 201,
   "youtube": 108,
   "facebook": 39,
   "x": 91,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7712165333406158094",
+   "ts": "2026-11-25T17:41:44.121761+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/reel/DgK6ZxJoZbI/",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7709295385302322462",
    "ts": "2026-11-18T00:04:30.030027+00:00",
    "caption": "Run your AI system 24/7 on hardware you already own. You get a 14 page build guide in six sections. Section one covers the actual daily jobs your system runs right now. Section fou"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7709273949439282463",
-   "ts": "2026-11-17T22:41:41.054348+00:00",
-   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
   }
  ]
 }
