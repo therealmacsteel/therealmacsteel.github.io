@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T20:18:02Z",
+ "generated_at": "2026-11-25T21:17:34Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
@@ -8,7 +8,7 @@
  "win_rate": 0.285,
  "avg_trade_pct": -2.9,
  "open_total": 156,
- "open_avg_pct": 0.77,
+ "open_avg_pct": 0.76,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -572,22 +572,22 @@
  ],
  "best_open": [
   {
+   "asset": "INTC",
+   "lane": "Congress disclosures",
+   "side": "long",
+   "entry": 50.21,
+   "mark": 54.66,
+   "pnl_pct": 8.86,
+   "opened": "2026-11-25"
+  },
+  {
    "asset": "DBA",
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 28.61,
-   "mark": 26.36,
-   "pnl_pct": 7.83,
+   "mark": 26.34,
+   "pnl_pct": 7.9,
    "opened": "2026-08-27"
-  },
-  {
-   "asset": "MLM",
-   "lane": "Congress disclosures",
-   "side": "long",
-   "entry": 502.43,
-   "mark": 540.04,
-   "pnl_pct": 7.49,
-   "opened": "2026-09-10"
   },
   {
    "asset": "FXA",
@@ -599,22 +599,22 @@
    "opened": "2026-08-27"
   },
   {
-   "asset": "PPLT",
+   "asset": "AMZN",
    "lane": "Shorts (simulated)",
    "side": "short",
-   "entry": 12.39,
-   "mark": 11.54,
-   "pnl_pct": 6.86,
-   "opened": "2026-11-18"
+   "entry": 262.64,
+   "mark": 244.23,
+   "pnl_pct": 7.01,
+   "opened": "2026-08-15"
   },
   {
-   "asset": "XLP",
-   "lane": "Macro ETFs",
+   "asset": "MLM",
+   "lane": "Congress disclosures",
    "side": "long",
-   "entry": 86.5,
-   "mark": 92.39,
-   "pnl_pct": 6.81,
-   "opened": "2026-08-25"
+   "entry": 502.43,
+   "mark": 536.51,
+   "pnl_pct": 6.78,
+   "opened": "2026-09-10"
   }
  ],
  "worst_open": [
@@ -659,8 +659,8 @@
    "lane": "Shorts (simulated)",
    "side": "short",
    "entry": 481.23,
-   "mark": 501.8,
-   "pnl_pct": -4.27,
+   "mark": 501.29,
+   "pnl_pct": -4.17,
    "opened": "2026-11-20"
   }
  ],
