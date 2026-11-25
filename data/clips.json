@@ -1,231 +1,231 @@
 {
-  "generated_at": "2026-10-30T22:33:37Z",
-  "total_verified": 439,
-  "by_platform": {
-    "instagram": 124,
-    "tiktok": 115,
-    "youtube": 89,
-    "x": 68,
-    "podcast": 11,
-    "facebook": 26,
-    "reddit": 6
+ "generated_at": "2026-11-25T17:17:29Z",
+ "total_verified": 620,
+ "by_platform": {
+  "instagram": 163,
+  "tiktok": 201,
+  "youtube": 108,
+  "facebook": 39,
+  "x": 91,
+  "podcast": 12,
+  "reddit": 6
+ },
+ "items": [
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/reel/DgK6ZxJoZbI/",
+   "ts": "2026-11-25T16:02:36.455518+00:00",
+   "caption": "3 to 8 minutes turns one topic into five platforms. Can your schedule handle that without a monthly SaaS bill? Blueprint 01 from Mac Steel shows you the script, setup steps, and co"
   },
-  "items": [
-    {
-      "platform": "instagram",
-      "url": "https://www.instagram.com/p/DfILVvKDLmo/",
-      "ts": "2026-10-30T18:01:19.287915+00:00",
-      "caption": "Tired of prompt packs that dump text and wish you luck? 25 prompts. Each one ships with when to use it, expected output, failure mode, and fix. No hypothetical failures\u2014one caught "
-    },
-    {
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@therealmacsteel/video/7702501545614544159",
-      "ts": "2026-10-30T16:41:45.444417+00:00",
-      "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Vid"
-    },
-    {
-      "platform": "instagram",
-      "url": "https://www.instagram.com/p/DfH2xFHjgdC/",
-      "ts": "2026-10-30T15:01:35.355566+00:00",
-      "caption": "Stop paying for hosted AI. Run yours 24/7 on hardware you already own. Mac Steel Build Your Own Agent Stack is a 14 page guide in six sections, written from a system that actually "
-    },
-    {
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@therealmacsteel/video/7702275463187549470",
-      "ts": "2026-10-30T02:03:23.891456+00:00",
-      "caption": "7 prompts, not a 200-prompt dump You can keep your routine work running unattended with Mac Steel's 7 Prompts. Each prompt includes why it works, and the PDF is 6 pages. This keeps"
-    },
-    {
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@therealmacsteel/video/7702229354960424222",
-      "ts": "2026-10-29T23:04:15.839838+00:00",
-      "caption": "Want to schedule five AI workflows without a monthly platform fee? The Mac Steel blueprint pack gives you five technical blueprints pulled from a working system. Blueprint 01 turns"
-    },
-    {
-      "platform": "youtube",
-      "url": "https://www.youtube.com/shorts/BdNFaBrzIFs",
-      "ts": "2026-10-29T21:17:24.391779+00:00",
-      "caption": "Get 7 prompts that keep AI work consistent, unattended, and honest. You run your business. Let Mac Steel handle the routine tasks you do again and again. These seven prompts guide "
-    },
-    {
-      "platform": "youtube",
-      "url": "https://www.youtube.com/shorts/uGjllTYaq_8",
-      "ts": "2026-10-29T18:17:15.467495+00:00",
-      "caption": "Want a scheduled AI system for your business without a monthly SaaS bill? Five Mac Steel blueprints show you the full setup, from one-topic posts across five platforms in 3 to 8 mi"
-    },
-    {
-      "platform": "instagram",
-      "url": "https://www.instagram.com/p/DfFmiw6CMeg/",
-      "ts": "2026-10-29T18:02:16.567621+00:00",
-      "caption": "7 prompts, not a 200-prompt dump You need routine work to run without you. Mac Steel\u2019s free PDF gives you 7 prompts that keep a real system consistent, unattended and honest. From "
-    },
-    {
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@therealmacsteel/video/7702130567453609247",
-      "ts": "2026-10-29T16:41:38.256349+00:00",
-      "caption": "5 prompts you can paste into any AI assistant today: \u2192 Output Formatting for Consistent and Informative Reporting \u2192 Personalizing Agent Identities for Enhanced Engagement \u2192 Agent S"
-    },
-    {
-      "platform": "instagram",
-      "url": "https://www.instagram.com/p/DfFR-kriKiq/",
-      "ts": "2026-10-29T15:01:57.646434+00:00",
-      "caption": "Want your business posting to five platforms in three to eight minutes without a monthly SaaS bill? Mac Steel blueprints give you five technical workflows from a working AI busines"
-    },
-    {
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@therealmacsteel/video/7701857884237286686",
-      "ts": "2026-10-28T23:03:02.219226+00:00",
-      "caption": "Want your chatbot to hold better conversations? Try 25 proven prompts for chatbot dialogue from Mac Steel. Make every reply feel more human for your business."
-    },
-    {
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@therealmacsteel/video/7701759403430612255",
-      "ts": "2026-10-28T16:41:45.437931+00:00",
-      "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-    },
-    {
-      "platform": "instagram",
-      "url": "https://www.instagram.com/p/DfCtK8EiI1l/",
-      "ts": "2026-10-28T15:01:33.543083+00:00",
-      "caption": "Want your chatbot to actually keep people talking? Try these 25 proven prompts for conversational AI and chatbot dialogue."
-    },
-    {
-      "platform": "x",
-      "url": "https://x.com/therealmacsteel/status/2115415443917910192",
-      "ts": "2026-10-28T12:09:05.271345+00:00",
-      "caption": "Want sharper chatbot conversations for your business? Try 25 proven prompts from Mac Steel designed for engaging AI dialogue."
-    },
-    {
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@therealmacsteel/video/7701465665969900831",
-      "ts": "2026-10-28T02:40:03.036221+00:00",
-      "caption": ""
-    },
-    {
-      "platform": "instagram",
-      "url": "https://www.instagram.com/p/DfABnrTCpCU/",
-      "ts": "2026-10-27T23:41:49.120593+00:00",
-      "caption": "$0/month of AI ran my business this week. Six numbers, one rule each: 1. 515 automated tasks, 97% clean \u2014 timebox every job. 2. 77 posts, 69 with a live URL \u2014 a link or it didn't h"
-    },
-    {
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@therealmacsteel/video/7701486967925607711",
-      "ts": "2026-10-27T23:03:40.555481+00:00",
-      "caption": "What if your lead follow-up ran 24/7 on hardware you already own? Build Your Own Agent Stack is the complete guide: 14 pages, six sections, written from a system that actually runs"
-    },
-    {
-      "platform": "instagram",
-      "url": "https://www.instagram.com/p/DfAc-1Gjr2M/",
-      "ts": "2026-10-27T18:01:36.271490+00:00",
-      "caption": "What would 14 pages of setup actually save you? If your business runs on hardware you already own, this is the build guide: six sections on a system that runs 24/7. Section 1 shows"
-    },
-    {
-      "platform": "x",
-      "url": "https://x.com/therealmacsteel/status/2115098347199516996",
-      "ts": "2026-10-27T15:09:03.399576+00:00",
-      "caption": "14 pages show your self\u2011hosted AI running 24/7 Section 3 gives you the IDENTITY.md system to define roles Runs on hardware you already own, no new servers"
-    },
-    {
-      "platform": "instagram",
-      "url": "https://www.instagram.com/p/DfAIYnpinVn/",
-      "ts": "2026-10-27T15:01:38.639383+00:00",
-      "caption": "7 prompts keep your AI routine honest? Your daily tasks stay consistent when you use the Daily Status Report from Mac Steel's 7 Prompts. The PDF is 6 pages and each prompt includes"
-    },
-    {
-      "platform": "x",
-      "url": "https://x.com/therealmacsteel/status/2115053041171009701",
-      "ts": "2026-10-27T12:09:01.650896+00:00",
-      "caption": "Your assistant drifts by job 200? 7 prompts keep it consistent on job 400. Free PDF, 6 pages. Grab it here:"
-    },
-    {
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@therealmacsteel/video/7701162242636696862",
-      "ts": "2026-10-27T02:03:32.247624+00:00",
-      "caption": "Turn one video into 10 posts instantly. Use these 25 prompts to save hours per video on your content calendar."
-    },
-    {
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@therealmacsteel/video/7701116245642382623",
-      "ts": "2026-10-26T23:05:04.993747+00:00",
-      "caption": "Cut 8 minutes off your content with the 01 blueprint. See how you can post to five platforms without a browser using direct upload APIs."
-    },
-    {
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@therealmacsteel/video/7701094635581525278",
-      "ts": "2026-10-26T21:41:44.779440+00:00",
-      "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-    },
-    {
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@therealmacsteel/video/7701017286714379550",
-      "ts": "2026-10-26T16:41:40.266332+00:00",
-      "caption": "5 prompts you can paste into any AI assistant today: \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOU"
-    },
-    {
-      "platform": "x",
-      "url": "https://x.com/therealmacsteel/status/2114735955831890108",
-      "ts": "2026-10-26T15:09:02.382743+00:00",
-      "caption": "25 prompts turn one video into 10+ posts? You save hours per video and get short clips, blog posts, and more."
-    },
-    {
-      "platform": "instagram",
-      "url": "https://www.instagram.com/p/De9jmEaDA7C/",
-      "ts": "2026-10-26T15:01:27.040888+00:00",
-      "caption": "Turn one video into 10+ posts You save hours per video with this pack of 25 prompts. It turns your long content into short clips and blog posts without the extra work."
-    },
-    {
-      "platform": "x",
-      "url": "https://x.com/therealmacsteel/status/2114373669808116141",
-      "ts": "2026-10-26T12:11:18.923548+00:00",
-      "caption": "Mac Steel's 05 blueprints show your full AI schedule Each includes steps, commands, and a 5\u2011job starter schedule with phone alerts."
-    },
-    {
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@therealmacsteel/video/7700791623726239006",
-      "ts": "2026-10-26T02:05:28.142478+00:00",
-      "caption": "25 prompts, 4 guides each\u2014your AI assistant will stop guessing and start delivering. Switch from 2,700 to 6,200 words of real failure modes and fixes, saving you hours of trial\u2011and"
-    },
-    {
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@therealmacsteel/video/7700744763787578655",
-      "ts": "2026-10-25T23:03:29.944859+00:00",
-      "caption": "Want 25 prompts that fix flat chatbot replies? Your bot talks but does it actually engage? These 25 proven prompts turn stiff scripts into real dialogue. No guesswork, just plug in"
-    },
-    {
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@therealmacsteel/video/7700723504399830303",
-      "ts": "2026-10-25T21:41:37.444081+00:00",
-      "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Predictive Maintenance for Equipment and Infrastructure \u2192 Autonomous Agent Continuous Learning for Adaptatio"
-    },
-    {
-      "platform": "instagram",
-      "url": "https://www.instagram.com/p/De7TZCyjJdT/",
-      "ts": "2026-10-25T18:01:24.204504+00:00",
-      "caption": "25 prompts with when, expected output, failure mode, and fix. Your assistant workflow gets a clear playbook: each prompt tells you when to use it, what good output looks like, why "
-    },
-    {
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@therealmacsteel/video/7700646178039385374",
-      "ts": "2026-10-25T16:41:42.820303+00:00",
-      "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-    },
-    {
-      "platform": "x",
-      "url": "https://x.com/therealmacsteel/status/2114373627365748778",
-      "ts": "2026-10-25T15:09:16.350867+00:00",
-      "caption": "Want prompts that actually ship with failure modes? You get 25 prompts, each with when, expected output, failure mode, and a fix tip."
-    },
-    {
-      "platform": "instagram",
-      "url": "https://www.instagram.com/p/De6-zQPjso5/",
-      "ts": "2026-10-25T15:01:38.443496+00:00",
-      "caption": "Want 25 proven prompts to boost your chatbot conversations? You can apply these prompts today to make every reply feel natural and keep users engaged. Mac Steel\u2019s 25 proven prompts"
-    },
-    {
-      "platform": "x",
-      "url": "https://x.com/therealmacsteel/status/2114328335526568198",
-      "ts": "2026-10-25T12:09:16.926983+00:00",
-      "caption": "25 prompts to make your chatbot talk like a pro? Use Mac Steel's 25 proven prompts to boost engagement."
-    }
-  ]
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7711939327588158733",
+   "ts": "2026-11-25T03:04:21.521517+00:00",
+   "caption": "Stop paying for AI. Your hardware can run it 24/7. Mac Steel's Build Your Own Agent Stack is a 14-page guide in six sections for self-hosting on what you already own. Section 4 sho"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7711892788035587358",
+   "ts": "2026-11-25T00:03:35.187211+00:00",
+   "caption": "How many hours does your routine work eat each week? Seven prompts keep your assistant consistent on job one and job four hundred. Lead scoring uses three narrow questions. Self-he"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7711871496053919006",
+   "ts": "2026-11-24T22:41:35.419562+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7711794231454502175",
+   "ts": "2026-11-24T17:41:42.887582+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Conflict Resolution for Resolving Human-Human Disagreements \u2192 Autonomous Agent Predictive Maintenance for Eq"
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/reel/DgIVjpdjJJU/",
+   "ts": "2026-11-24T16:02:26.666690+00:00",
+   "caption": "7 prompts keep your routine work consistent, unattended and honest. You want AI handling the repeat jobs while you run your business. Mac Steel's 7 Prompts give you the exact brief"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7711752990478175501",
+   "ts": "2026-11-24T15:20:04.335550+00:00",
+   "caption": "$0/month of AI ran my business this week. Six numbers, one rule each: 1. 631 automated tasks, 97% clean \u2014 timebox every job. 2. 56 posts, 47 with a live URL \u2014 a link or it didn't h"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7711500424045530398",
+   "ts": "2026-11-23T22:41:37.989711+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/aKglZYGPo9M",
+   "ts": "2026-11-23T19:18:32.993041+00:00",
+   "caption": "What does your business look like with seven reliable prompts? Mac Steel\u2019s 7 Prompts from a Live Agent Stack helps your system stay consistent and honest while running unattended. "
+  },
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/907370722206864",
+   "ts": "2026-11-23T18:02:01.671763+00:00",
+   "caption": "7 prompts keep your routine work consistent unattended and honest You want AI handling the repeat jobs while you run your business. Mac Steel's 7 Prompts give you the exact brief f"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7711423192220323102",
+   "ts": "2026-11-23T17:41:59.548346+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Generate Webinar Promos from Video Content \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOU"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7711196979770035486",
+   "ts": "2026-11-23T03:04:02.502147+00:00",
+   "caption": "Want seven prompts that keep your system consistent, unattended and honest? Mac Steel\u2019s 7 Prompts from a Live Agent Stack helps your business run routine work the same way every ti"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7711150722846379295",
+   "ts": "2026-11-23T00:37:08.232087+00:00",
+   "caption": "Stop paying for content automation software. What part of your weekly posting takes longest? Five blueprints from Mac Steel show how one Python script turns a topic into posts for "
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7711129332957187358",
+   "ts": "2026-11-22T22:41:34.251106+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Autonomous Agent Security Measures for Data Protection \u2192 Autonomous Agent Transparency and Explainability for Improved Trust "
+  },
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/jU_HKbAGsv4",
+   "ts": "2026-11-22T22:17:50.775664+00:00",
+   "caption": "Can your business run five AI workflows without a monthly SaaS bill? You get five blueprints from the Mac Steel system. One Python script turns a topic into posts for five social p"
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DgDghSIgl9z/",
+   "ts": "2026-11-22T19:02:32.056722+00:00",
+   "caption": "7 prompts keep your system consistent, unattended and honest Stop rewriting instructions for every routine task. Mac Steel\u2019s 7 Prompts give you a reusable stack for identity, sched"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7711052031863164190",
+   "ts": "2026-11-22T17:41:42.835443+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DgDL8IJjTHM/",
+   "ts": "2026-11-22T16:01:45.233173+00:00",
+   "caption": "Your next five posts in three to eight minutes? A working schedule with failure alerts to your phone is waiting at Mac Steel Blueprints Copy-paste commands, setup steps, and troubl"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7710779446604647710",
+   "ts": "2026-11-22T00:03:24.646342+00:00",
+   "caption": "Want your routine work to run without you? Get 7 prompts for your AI stack from Mac Steel. Job 400 runs exactly like job 1. Scheduled jobs run unattended. Failures return causes, n"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7710758256532016414",
+   "ts": "2026-11-21T22:41:37.577958+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Create Brand-Specific Hashtags from Video Themes \u2192 Extract Key Moments from [YOUR VIDEO] \u2192 Write Email Newsletters from Video"
+  },
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/8CI8DkN9qUs",
+   "ts": "2026-11-21T22:17:34.326855+00:00",
+   "caption": "Are your prompts missing when to use them, expected output, failure mode, and fix? Most AI prompt packs hand over text and leave you to debug the gaps. Mac Steel\u2019s Agent Prompt Pac"
+  },
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/2574080826337521",
+   "ts": "2026-11-21T21:01:26.918029+00:00",
+   "caption": "Tired of prompt packs that just dump text and leave you guessing? Here is what actually moves the needle: 25 prompts, each with when to use it, what good output looks like, how the"
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DgA71nADrgZ/",
+   "ts": "2026-11-21T19:02:57.599420+00:00",
+   "caption": "Do you still rewrite the same prompts every week? Seven prompts keep your routine work consistent and unattended. Job 400 runs exactly like job 1. One hard constraint stops drift. "
+  },
+  {
+   "platform": "facebook",
+   "url": "https://www.facebook.com/reel/1503627164945200",
+   "ts": "2026-11-21T18:01:13.846389+00:00",
+   "caption": "7 prompts, not a 200-prompt dump You keep your routine work running while you handle clients. Each prompt fixes one failure point so your assistant stays consistent from job one to"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7710680962236976415",
+   "ts": "2026-11-21T17:41:41.424734+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Caching Strategies for Improved Performance and Scalability \u2192 Designing a Distributed Ledger for Secure Data Sharing \u2192 Autono"
+  },
+  {
+   "platform": "instagram",
+   "url": "https://www.instagram.com/p/DgAnY1IglH2/",
+   "ts": "2026-11-21T16:36:53.841513+00:00",
+   "caption": "Can you stick to your exits for one full week? You override your plan and turn small losses into bigger ones. Mac Steel grades every rules-based exit so you see exactly where your "
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7710387217469934879",
+   "ts": "2026-11-20T22:41:39.380712+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7710309885132541215",
+   "ts": "2026-11-20T17:41:40.913429+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Extract Key Moments from [YOUR VIDEO] \u2192 Write Email Newsletters from Video Segments \u2192 Summarize Video Discussions for Podcast"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7710037489632808223",
+   "ts": "2026-11-20T00:36:32.263595+00:00",
+   "caption": "Want 7 prompts that keep your system consistent and unattended? Mac Steel\u2019s free 7-prompt PDF gives you an Agent Identity Brief for steady output, a Scheduled Task Specification th"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7710016095452695821",
+   "ts": "2026-11-19T22:41:32.676190+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Cron Scheduling for Autonomous Agent Tasks \u2192 Tool Integration for Enhanced Agent Functionality \u2192 Output Formatting for Consis"
+  },
+  {
+   "platform": "youtube",
+   "url": "https://www.youtube.com/shorts/F7bgabIdg9Y",
+   "ts": "2026-11-19T19:17:37.545799+00:00",
+   "caption": "Tired of prompt packs that dump text and leave you guessing? 25 prompts, 6,200 words, every one ships with When, Expected output, Failure mode, Tip Real failure modes, not hypothet"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7709938826382216478",
+   "ts": "2026-11-19T18:36:31.766129+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7709644968553483551",
+   "ts": "2026-11-18T22:41:32.447440+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Write Email Newsletters from Video Segments \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes fo"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7709567651571322143",
+   "ts": "2026-11-18T17:41:37.048660+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Streamlining Task Routing for Efficient Agent Performance \u2192 Improving Memory Systems for Long-Term Information Retention \u2192 In"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7709295385302322462",
+   "ts": "2026-11-18T00:04:30.030027+00:00",
+   "caption": "Run your AI system 24/7 on hardware you already own. You get a 14 page build guide in six sections. Section one covers the actual daily jobs your system runs right now. Section fou"
+  },
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7709273949439282463",
+   "ts": "2026-11-17T22:41:41.054348+00:00",
+   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
+  }
+ ]
 }
