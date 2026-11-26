@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T17:17:25Z",
- "total_verified": 625,
+ "generated_at": "2026-11-26T18:17:26Z",
+ "total_verified": 626,
  "by_platform": {
-  "tiktok": 205,
+  "tiktok": 206,
   "youtube": 109,
   "instagram": 163,
   "facebook": 39,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7712536378063506719",
+   "ts": "2026-11-26T17:41:38.080813+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes for Audio Ads \u2192 Generate Webinar Promos from Vid"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7712310189130665229",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7710016095452695821",
    "ts": "2026-11-19T22:41:32.676190+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Cron Scheduling for Autonomous Agent Tasks \u2192 Tool Integration for Enhanced Agent Functionality \u2192 Output Formatting for Consis"
-  },
-  {
-   "platform": "youtube",
-   "url": "https://www.youtube.com/shorts/F7bgabIdg9Y",
-   "ts": "2026-11-19T19:17:37.545799+00:00",
-   "caption": "Tired of prompt packs that dump text and leave you guessing? 25 prompts, 6,200 words, every one ships with When, Expected output, Failure mode, Tip Real failure modes, not hypothet"
   }
  ]
 }
