@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-26T14:17:32Z",
+ "generated_at": "2026-11-26T15:17:33Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
  "closed_total": 473,
- "excluded_unmarkable": 103,
+ "excluded_unmarkable": 104,
  "win_rate": 0.285,
  "avg_trade_pct": -2.9,
- "open_total": 157,
- "open_avg_pct": 1.11,
+ "open_total": 156,
+ "open_avg_pct": 1.12,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -623,8 +623,8 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 2394.18,
-   "mark": 1702.06,
-   "pnl_pct": -28.91,
+   "mark": 1702.58,
+   "pnl_pct": -28.89,
    "opened": "2026-09-02"
   },
   {
@@ -632,8 +632,8 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 76912.71,
-   "mark": 60827.69,
-   "pnl_pct": -20.91,
+   "mark": 60807.87,
+   "pnl_pct": -20.94,
    "opened": "2026-09-02"
   },
   {
@@ -668,10 +668,10 @@
   "mode": "PAPER",
   "inception": "2026-09-25",
   "capital": 69769.61,
-  "nav": 60879.33,
-  "book_pct": -12.74,
-  "spy_pct": -9.22,
-  "days": 44,
+  "nav": 61357.9,
+  "book_pct": -12.06,
+  "spy_pct": -6.89,
+  "days": 45,
   "positions": [
    {
     "symbol": "BIL",
@@ -989,6 +989,12 @@
     "nav": 60879.33,
     "book_pct": -12.74,
     "spy_pct": -9.22
+   },
+   {
+    "date": "2026-11-26",
+    "nav": 61357.9,
+    "book_pct": -12.06,
+    "spy_pct": -6.89
    }
   ],
   "fills": [
