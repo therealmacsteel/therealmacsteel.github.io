@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-26T13:17:43Z",
+ "generated_at": "2026-11-26T14:17:32Z",
  "mode": "PAPER",
  "disclaimer": "Paper trading only - no real money. The strategy book sends orders to a paper endpoint; the other strategies are simulated. Not investment advice. Losses are published as they happen.",
  "regime": "risk_off",
  "closed_total": 473,
- "excluded_unmarkable": 100,
+ "excluded_unmarkable": 103,
  "win_rate": 0.285,
  "avg_trade_pct": -2.9,
- "open_total": 156,
- "open_avg_pct": 0.8,
+ "open_total": 157,
+ "open_avg_pct": 1.11,
  "lanes": [
   {
    "lane": "Equity factor model",
@@ -623,35 +623,17 @@
    "lane": "Crypto",
    "side": "long",
    "entry": 2394.18,
-   "mark": 1702.44,
-   "pnl_pct": -28.89,
+   "mark": 1702.06,
+   "pnl_pct": -28.91,
    "opened": "2026-09-02"
-  },
-  {
-   "asset": "SLV",
-   "lane": "Options (simulated)",
-   "side": "long",
-   "entry": 3.82,
-   "mark": 2.84,
-   "pnl_pct": -25.65,
-   "opened": "2026-11-25"
-  },
-  {
-   "asset": "IWM",
-   "lane": "Options (simulated)",
-   "side": "long",
-   "entry": 4.32,
-   "mark": 3.29,
-   "pnl_pct": -23.96,
-   "opened": "2026-11-24"
   },
   {
    "asset": "BTC/USD",
    "lane": "Crypto",
    "side": "long",
    "entry": 76912.71,
-   "mark": 60878.15,
-   "pnl_pct": -20.85,
+   "mark": 60827.69,
+   "pnl_pct": -20.91,
    "opened": "2026-09-02"
   },
   {
@@ -661,6 +643,24 @@
    "entry": 481.23,
    "mark": 501.29,
    "pnl_pct": -4.17,
+   "opened": "2026-11-20"
+  },
+  {
+   "asset": "VOO",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 635.01,
+   "mark": 658.74,
+   "pnl_pct": -3.74,
+   "opened": "2026-11-23"
+  },
+  {
+   "asset": "SPY",
+   "lane": "Shorts (simulated)",
+   "side": "short",
+   "entry": 692.35,
+   "mark": 716.67,
+   "pnl_pct": -3.51,
    "opened": "2026-11-20"
   }
  ],
