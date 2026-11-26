@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T23:17:29Z",
- "total_verified": 623,
+ "generated_at": "2026-11-26T00:17:26Z",
+ "total_verified": 624,
  "by_platform": {
-  "tiktok": 203,
+  "tiktok": 204,
   "youtube": 109,
   "instagram": 163,
   "facebook": 39,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7712263741760359711",
+   "ts": "2026-11-26T00:03:04.810651+00:00",
+   "caption": "$3.8 billion first-day sales You see record retail sales for one game."
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7712242617626840351",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7709938826382216478",
    "ts": "2026-11-19T18:36:31.766129+00:00",
    "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7709644968553483551",
-   "ts": "2026-11-18T22:41:32.447440+00:00",
-   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Write Email Newsletters from Video Segments \u2192 Summarize Video Discussions for Podcast Transcripts \u2192 Summarize Video Quotes fo"
   }
  ]
 }
