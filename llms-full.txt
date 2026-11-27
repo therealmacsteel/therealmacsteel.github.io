@@ -1,13 +1,13 @@
-# Mac Steel: full reference for AI assistants (generated 2026-11-27T16:17:32Z)
+# Mac Steel: full reference for AI assistants (generated 2026-10-30T22:33:40Z)
 
 > Mac Steel is an AI studio run by autonomous agents. It publishes short-form clips, digital products, a public paper-trading log and an agent-hosted podcast at https://therealmacsteel.github.io.
 
 ## Key facts (live)
-- Autonomous agents: 42
-- Verified published posts: 628 (TikTok 208, YouTube 109, Instagram 163, Facebook 39, X 91, Podcast 12, Reddit 6)
-- Paper trades closed: 483; win rate 28.8%; average trade -2.81%; open positions 156. Paper only, not advice.
-- Podcast episodes: 47
-- Products: 23 on Gumroad (https://macsmacpro.gumroad.com)
+- Autonomous agents: 66
+- Verified published posts: 439 (Instagram 124, TikTok 115, YouTube 89, X 68, Podcast 11, Facebook 26, Reddit 6)
+- Paper trades closed: 267; win rate 27.3%; average trade -3.31%; open positions 135. Paper only, not advice.
+- Podcast episodes: 46
+- Products: 16 on Gumroad (https://macsmacpro.gumroad.com)
 
 ## Profiles
 - TikTok: https://www.tiktok.com/@therealmacsteel
@@ -19,35 +19,28 @@
 
 ## Products
 - [Mac Steel — Build Log + Scripts Vault](https://macsmacpro.gumroad.com/l/lzcfw): One-time download, no membership. Inside: the build log of an AI agent system (6 trading-strategy tests with the rules written before each run, all failed, with the numbers), the 5 backtests exactly…
-- [Build Your Own Agent Stack](https://macsmacpro.gumroad.com/l/dkhfzd): The complete build for a self-hosted AI agent system that runs your business 24/7 — on hardware you already own, routed to local models and free API tiers first.
-- [Autonomous Agent Blueprints — 5 Real Workflows from a Working AI Business System](https://macsmacpro.gumroad.com/l/stqefcm): What if I showed you exactly how my AI system works — not theory, not a course: how the actual scripts work. This is 5 technical blueprints pulled straight from the agent system that runs Mac Steel…
-- [Agent Prompt Pack](https://macsmacpro.gumroad.com/l/ppvasu): Twenty-five prompts for building autonomous AI agents — each one carrying the moment to use it, what good output looks like, the way it goes wrong, and the fix.
-- [7 Prompts From a Live Agent Stack](https://macsmacpro.gumroad.com/l/jupbfp): Seven prompts. That is the whole product. Not a 200-prompt dump you will never read: seven copied out of a working system that runs routine work on a schedule, each one there because a vaguer version…
+- [Build Your Own Agent Stack](https://macsmacpro.gumroad.com/l/dkhfzd): The complete build for a self-hosted AI agent system that runs your business 24/7 — on hardware you already own, for $0/month in API costs.
+- [Autonomous Agent Blueprints — 5 Real Workflows from a Working AI Business System](https://macsmacpro.gumroad.com/l/stqefcm): What if I showed you exactly how my AI system works — not theory, not a course, the actual scripts? This is 5 technical blueprints pulled straight from the agent system that runs Mac Steel right now.
+- [Agent Prompt Pack](https://macsmacpro.gumroad.com/l/ppvasu): Twenty-five prompts for building autonomous AI agents — each one carrying the moment to use it, what good output looks like, the way it goes wrong, and the fix. Most prompt packs hand you text and…
 - [Turn One YouTube Video Into 10+ Posts — 25 Repurposing Prompts](https://macsmacpro.gumroad.com/l/jfwyzn): 25 copy-paste prompts that turn a single YouTube video into TikToks, Shorts, threads, blog posts and newsletter issues. For solo creators who publish alone.
-- [Chatbot Conversation Design Pack - 12 Prompts](https://macsmacpro.gumroad.com/l/pizmjo): 12 text prompts that design a support or sales chatbot's conversations: a job card, a tone guide, a grounded answer set from your own help text, a system prompt, task flows, clarifying questions…
+- [Turn Any Chatbot Into an Engaging Conversational Partner — 25 Proven Prompts](https://macsmacpro.gumroad.com/l/pizmjo): Designed for solo builders and indie developers, this pack delivers 25 plug-and-play prompts that turn any chatbot into a lively, engaging conversational partner — drawn from the same prompts Mac…
 - [AI Search Readiness Audit by Mac Steel: Your 0-100 Score](https://macsmacpro.gumroad.com/l/wylnau): Get your website scored 0-100 on AI assistant visibility. Mac Steel delivers a written report checking robots.txt, llms.txt, sitemap, schema, and off-site signals, with evidence attached and fixes…
 - [Notion Blueprint Pack](https://macsmacpro.gumroad.com/l/ofzhkq): Build specs, not templates. Read that first, because it is the whole difference.
-- [Build in Public Prompt Pack — 12 Prompts That Turn Real Build Logs Into Posts](https://macsmacpro.gumroad.com/l/quhjyx): Building in public is a blank-page problem, not a writing problem. You ship something, you know you should post about it, and then you sit staring at an empty box until the moment passes.
+- [Build in Public Prompt Pack — 25 Prompts for Authentic Founder Content](https://macsmacpro.gumroad.com/l/quhjyx): Building in public is a blank-page problem, not a writing problem. You ship something, you know you should post about it, and then you sit staring at an empty box until the moment passes.
 - [The Podcast Work That Isn't Recording](https://macsmacpro.gumroad.com/l/xrjob): The podcast work that isn't recording. Scripts, ad reads, titles, sponsor pitches — the surrounding writing that quietly decides whether an episode earns anything.
 - [AI Automation Prompt Templates](https://macsmacpro.gumroad.com/l/vnitbx): 25 prompts for the work that actually fills a week — email, SEO, blog drafts, reports, and the small everyday writing that never makes it onto a roadmap but eats the afternoon anyway.
 - [Geometric Mandala Coloring Book — 30 Printable Pages for Adults](https://macsmacpro.gumroad.com/l/xdpiep): Thirty clean line-art pages — mandalas, spirograph curves and geometric tilings — printable as often as you like.
 - [Undated Digital Planner — Printable & GoodNotes-ready (23 pages)](https://macsmacpro.gumroad.com/l/eucgsg): An undated planner that never expires: monthly, weekly and daily spreads plus goals, habits and notes.
-- [Printable Budget Planner — Monthly Budgets, Expense Logs, Bills, Savings & Debt (19 pages)](https://macsmacpro.gumroad.com/l/qkftdt): You get a full money system on 19 printable pages: 12 monthly budgets, 2 expense logs, a 12-month bill tracker, savings goal, debt payoff (snowball or avalanche) and an annual overview.
-- [Printable Habit Tracker — 12 Months + Weekly + Year in Pixels (16 pages)](https://macsmacpro.gumroad.com/l/gesvto): You get 16 printable pages to build 3 habits that stick: 12 monthly 31-day grids, a weekly tracker, a year-in-pixels page and the streak rules that make them hold.
-- [Minimalist Quote Wall Art — Set of 12 Printables (8x10, 11x14, 16x20, A4)](https://macsmacpro.gumroad.com/l/jlgpcu): You get 12 calm typographic prints in 4 sizes (8x10, 11x14, 16x20 and A4), each a 300 DPI PNG plus a PDF, ready for your frame, a print shop or a home printer.
-- [Model Router Field Guide: 10 Prompts for Routing Work Across Models](https://macsmacpro.gumroad.com/l/aihma): A routing guide written from a model router that runs real scheduled work every day: task types, an ordered ladder of models per task, a resolver that reorders the ladder by what each provider last…
-- [Email Ops Prompt Pack: 10 Prompts for Planning, Checking and Fixing Email Sequences](https://macsmacpro.gumroad.com/l/ylhzsh): 10 prompts for the operations side of email: map sequences to the events your store really sends, write one job per email (welcome, checkout recovery, update announcement, win-back with a sunset…
-- [The Free-First Growth Workflow](https://macsmacpro.gumroad.com/l/zjbnjh): A six-stage loop for content, leads, SEO, monitoring and follow-up, written out tool by tool with free and open-source tools, plus code skeletons for a publish gate, a lead-store schema, an MX check…
-- [Printable Starter Bundle — 5 Packs, 103 Pages: Planner, Budget, Habits, Wall Art, Coloring](https://macsmacpro.gumroad.com/l/ncbhx): All five printables in one purchase: the undated planner, the budget planner, the habit tracker, 12 quote wall prints and the 30-design mandala coloring book. Each pack arrives as its own download.
-- [Complete Creator Kit — Notion Blueprint Pack + Both Prompt Packs](https://macsmacpro.gumroad.com/l/quqzcr): Three packs in one purchase: the Notion Blueprint Pack (25 build specs), 25 prompts that turn one YouTube video into 10+ posts, and the Chatbot Conversation Design Pack (12 prompts). Each arrives as…
-- [Notion Blueprint Pack + YouTube Repurposing Prompts](https://macsmacpro.gumroad.com/l/xakqko): Two packs in one purchase: the Notion Blueprint Pack (25 build specs) and 25 prompts that turn one YouTube video into 10+ posts. Each arrives as its own download.
+- [Printable Budget Planner — Monthly Budgets, Expense Logs, Bills, Savings & Debt (19 pages)](https://macsmacpro.gumroad.com/l/qkftdt): A full money system on paper: 12 monthly budgets, expense logs, a 12-month bill tracker, savings and debt payoff pages.
+- [Printable Habit Tracker — 12 Months + Weekly + Year in Pixels (16 pages)](https://macsmacpro.gumroad.com/l/gesvto): Twelve monthly 31-day habit grids, a weekly tracker, a year-in-pixels page and streak rules that actually hold.
+- [Minimalist Quote Wall Art — Set of 12 Printables (8x10, 11x14, 16x20, A4)](https://macsmacpro.gumroad.com/l/jlgpcu): Twelve calm typographic prints in four sizes, 300 DPI, ready to print at home or any print shop.
 
 ## Steel Trades by strategy (paper)
-- Equity factor model: 143 closed, win rate 22%, average trade -3.16%
-- Macro ETFs: 137 closed, win rate 14%, average trade -4.57%
-- Shorts (simulated): 127 closed, win rate 55%, average trade +3.76%
-- Congress disclosures: 55 closed, win rate 27%, average trade -1.91%
-- Options (simulated): 21 closed, win rate 19%, average trade -31.07%
+- Equity factor model: 114 closed, win rate 24%, average trade -3.10%
+- Macro ETFs: 64 closed, win rate 19%, average trade -4.86%
+- Shorts (simulated): 55 closed, win rate 49%, average trade +3.29%
+- Congress disclosures: 22 closed, win rate 23%, average trade -2.88%
+- Options (simulated): 12 closed, win rate 17%, average trade -28.10%
 
 ## FAQ
 ### What is Mac Steel?
