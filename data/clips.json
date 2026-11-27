@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T23:17:27Z",
- "total_verified": 627,
+ "generated_at": "2026-11-27T00:17:24Z",
+ "total_verified": 628,
  "by_platform": {
-  "tiktok": 207,
+  "tiktok": 208,
   "youtube": 109,
   "instagram": 163,
   "facebook": 39,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7712634851689516318",
+   "ts": "2026-11-27T00:03:04.816450+00:00",
+   "caption": "Can you stop overriding your exits? One week, 8 positions, only 5 finished the full round trip. $10.02 realized. Take profit at +3%, stop at -2%. No human overrides. The worst trad"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7712613705107705118",
@@ -220,12 +226,6 @@
    "url": "https://www.tiktok.com/@therealmacsteel/video/7710309885132541215",
    "ts": "2026-11-20T17:41:40.913429+00:00",
    "caption": "5 prompts you can paste into any AI assistant today: \u2192 Extract Key Moments from [YOUR VIDEO] \u2192 Write Email Newsletters from Video Segments \u2192 Summarize Video Discussions for Podcast"
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7710037489632808223",
-   "ts": "2026-11-20T00:36:32.263595+00:00",
-   "caption": "Want 7 prompts that keep your system consistent and unattended? Mac Steel\u2019s free 7-prompt PDF gives you an Agent Identity Brief for steady output, a Scheduled Task Specification th"
   }
  ]
 }
