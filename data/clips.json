@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-27T17:17:33Z",
- "total_verified": 629,
+ "generated_at": "2026-11-27T18:17:36Z",
+ "total_verified": 630,
  "by_platform": {
+  "tiktok": 209,
   "instagram": 164,
-  "tiktok": 208,
   "youtube": 109,
   "facebook": 39,
   "x": 91,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7712907491327085854",
+   "ts": "2026-11-27T17:41:47.038145+00:00",
+   "caption": "5 prompts you can paste into any AI assistant today: \u2192 Tool Integration for Enhanced Agent Functionality \u2192 Output Formatting for Consistent and Informative Reporting \u2192 Personalizin"
+  },
   {
    "platform": "instagram",
    "url": "https://www.instagram.com/reel/DgQD6dLA7sc/",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DgAnY1IglH2/",
    "ts": "2026-11-21T16:36:53.841513+00:00",
    "caption": "Can you stick to your exits for one full week? You override your plan and turn small losses into bigger ones. Mac Steel grades every rules-based exit so you see exactly where your "
-  },
-  {
-   "platform": "tiktok",
-   "url": "https://www.tiktok.com/@therealmacsteel/video/7710387217469934879",
-   "ts": "2026-11-20T22:41:39.380712+00:00",
-   "caption": "7 prompts you can paste into any AI assistant today: \u2192 Agent Identity Brief \u2192 Scheduled Task Specification \u2192 Build-in-Public Content \u2192 Lead Scoring for a Small Model \u2192 Self-Heal Di"
   }
  ]
 }
