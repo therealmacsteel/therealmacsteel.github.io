@@ -1,167 +1,118 @@
 {
- "generated_at": "2026-11-27T22:17:35Z",
- "store": "https://macsmacpro.gumroad.com",
- "items": [
-  {
-   "slug": "inner-circle",
-   "name": "Mac Steel \u2014 Build Log + Scripts Vault",
-   "url": "https://macsmacpro.gumroad.com/l/lzcfw",
-   "description": "One-time download, no membership. Inside: the build log of an AI agent system (6 trading-strategy tests with the rules written before each run, all failed, with the numbers), the 5 backtests exactly as they ran, a pre-registration template, and 4 dependency-free ops tools for running scheduled agents on one machine.",
-   "image": null
-  },
-  {
-   "slug": "agent-stack",
-   "name": "Build Your Own Agent Stack",
-   "url": "https://macsmacpro.gumroad.com/l/dkhfzd",
-   "description": "The complete build for a self-hosted AI agent system that runs your business 24/7 \u2014 on hardware you already own, routed to local models and free API tiers first.",
-   "image": null
-  },
-  {
-   "slug": "blueprints",
-   "name": "Autonomous Agent Blueprints \u2014 5 Real Workflows from a Working AI Business System",
-   "url": "https://macsmacpro.gumroad.com/l/stqefcm",
-   "description": "What if I showed you exactly how my AI system works \u2014 not theory, not a course: how the actual scripts work. This is 5 technical blueprints pulled straight from the agent system that runs Mac Steel right now.",
-   "image": null
-  },
-  {
-   "slug": "prompt-pack",
-   "name": "Agent Prompt Pack",
-   "url": "https://macsmacpro.gumroad.com/l/ppvasu",
-   "description": "Twenty-five prompts for building autonomous AI agents \u2014 each one carrying the moment to use it, what good output looks like, the way it goes wrong, and the fix.",
-   "image": null
-  },
-  {
-   "slug": "7-prompts",
-   "name": "7 Prompts From a Live Agent Stack",
-   "url": "https://macsmacpro.gumroad.com/l/jupbfp",
-   "description": "Seven prompts. That is the whole product. Not a 200-prompt dump you will never read: seven copied out of a working system that runs routine work on a schedule, each one there because a vaguer version failed first.",
-   "image": null
-  },
-  {
-   "slug": "repurposing-pack",
-   "name": "Turn One YouTube Video Into 10+ Posts \u2014 25 Repurposing Prompts",
-   "url": "https://macsmacpro.gumroad.com/l/jfwyzn",
-   "description": "25 copy-paste prompts that turn a single YouTube video into TikToks, Shorts, threads, blog posts and newsletter issues. For solo creators who publish alone.",
-   "image": null
-  },
-  {
-   "slug": "setup-guide",
-   "name": "Chatbot Conversation Design Pack - 12 Prompts",
-   "url": "https://macsmacpro.gumroad.com/l/pizmjo",
-   "description": "12 text prompts that design a support or sales chatbot's conversations: a job card, a tone guide, a grounded answer set from your own help text, a system prompt, task flows, clarifying questions, handoff and complaint replies, a test set, a transcript review and safety rules.",
-   "image": null
-  },
-  {
-   "slug": "seo-audit",
-   "name": "AI Search Readiness Audit by Mac Steel: Your 0-100 Score",
-   "url": "https://macsmacpro.gumroad.com/l/wylnau",
-   "description": "Get your website scored 0-100 on AI assistant visibility. Mac Steel delivers a written report checking robots.txt, llms.txt, sitemap, schema, and off-site signals, with evidence attached and fixes ranked.",
-   "image": null
-  },
-  {
-   "slug": "notion-pack",
-   "name": "Notion Blueprint Pack",
-   "url": "https://macsmacpro.gumroad.com/l/ofzhkq",
-   "description": "Build specs, not templates. Read that first, because it is the whole difference.",
-   "image": null
-  },
-  {
-   "slug": "build-in-public-pack",
-   "name": "Build in Public Prompt Pack \u2014 12 Prompts That Turn Real Build Logs Into Posts",
-   "url": "https://macsmacpro.gumroad.com/l/quhjyx",
-   "description": "Building in public is a blank-page problem, not a writing problem. You ship something, you know you should post about it, and then you sit staring at an empty box until the moment passes.",
-   "image": null
-  },
-  {
-   "slug": "podcast-prompts",
-   "name": "The Podcast Work That Isn't Recording",
-   "url": "https://macsmacpro.gumroad.com/l/xrjob",
-   "description": "The podcast work that isn't recording. Scripts, ad reads, titles, sponsor pitches \u2014 the surrounding writing that quietly decides whether an episode earns anything.",
-   "image": null
-  },
-  {
-   "slug": "automation-templates",
-   "name": "AI Automation Prompt Templates",
-   "url": "https://macsmacpro.gumroad.com/l/vnitbx",
-   "description": "25 prompts for the work that actually fills a week \u2014 email, SEO, blog drafts, reports, and the small everyday writing that never makes it onto a roadmap but eats the afternoon anyway.",
-   "image": null
-  },
-  {
-   "slug": "mandala-coloring-book",
-   "name": "Geometric Mandala Coloring Book \u2014 30 Printable Pages for Adults",
-   "url": "https://macsmacpro.gumroad.com/l/xdpiep",
-   "description": "Thirty clean line-art pages \u2014 mandalas, spirograph curves and geometric tilings \u2014 printable as often as you like.",
-   "image": null
-  },
-  {
-   "slug": "undated-planner",
-   "name": "Undated Digital Planner \u2014 Printable & GoodNotes-ready (23 pages)",
-   "url": "https://macsmacpro.gumroad.com/l/eucgsg",
-   "description": "An undated planner that never expires: monthly, weekly and daily spreads plus goals, habits and notes.",
-   "image": null
-  },
-  {
-   "slug": "budget-planner",
-   "name": "Printable Budget Planner \u2014 Monthly Budgets, Expense Logs, Bills, Savings & Debt (19 pages)",
-   "url": "https://macsmacpro.gumroad.com/l/qkftdt",
-   "description": "You get a full money system on 19 printable pages: 12 monthly budgets, 2 expense logs, a 12-month bill tracker, savings goal, debt payoff (snowball or avalanche) and an annual overview.",
-   "image": null
-  },
-  {
-   "slug": "habit-tracker",
-   "name": "Printable Habit Tracker \u2014 12 Months + Weekly + Year in Pixels (16 pages)",
-   "url": "https://macsmacpro.gumroad.com/l/gesvto",
-   "description": "You get 16 printable pages to build 3 habits that stick: 12 monthly 31-day grids, a weekly tracker, a year-in-pixels page and the streak rules that make them hold.",
-   "image": null
-  },
-  {
-   "slug": "quote-wall-art",
-   "name": "Minimalist Quote Wall Art \u2014 Set of 12 Printables (8x10, 11x14, 16x20, A4)",
-   "url": "https://macsmacpro.gumroad.com/l/jlgpcu",
-   "description": "You get 12 calm typographic prints in 4 sizes (8x10, 11x14, 16x20 and A4), each a 300 DPI PNG plus a PDF, ready for your frame, a print shop or a home printer.",
-   "image": null
-  },
-  {
-   "slug": "model-router-pack",
-   "name": "Model Router Field Guide: 10 Prompts for Routing Work Across Models",
-   "url": "https://macsmacpro.gumroad.com/l/aihma",
-   "description": "A routing guide written from a model router that runs real scheduled work every day: task types, an ordered ladder of models per task, a resolver that reorders the ladder by what each provider last reported, and a cooldown table that knows prompt size.",
-   "image": null
-  },
-  {
-   "slug": "email-ops-pack",
-   "name": "Email Ops Prompt Pack: 10 Prompts for Planning, Checking and Fixing Email Sequences",
-   "url": "https://macsmacpro.gumroad.com/l/ylhzsh",
-   "description": "10 prompts for the operations side of email: map sequences to the events your store really sends, write one job per email (welcome, checkout recovery, update announcement, win-back with a sunset rule), test subject lines one difference at a time, check a draft before it goes out, triage replies and read sequence results.",
-   "image": null
-  },
-  {
-   "slug": "growth-workflow",
-   "name": "The Free-First Growth Workflow",
-   "url": "https://macsmacpro.gumroad.com/l/zjbnjh",
-   "description": "A six-stage loop for content, leads, SEO, monitoring and follow-up, written out tool by tool with free and open-source tools, plus code skeletons for a publish gate, a lead-store schema, an MX check and a kill switch.",
-   "image": null
-  },
-  {
-   "slug": "printable-bundle",
-   "name": "Printable Starter Bundle \u2014 5 Packs, 103 Pages: Planner, Budget, Habits, Wall Art, Coloring",
-   "url": "https://macsmacpro.gumroad.com/l/ncbhx",
-   "description": "All five printables in one purchase: the undated planner, the budget planner, the habit tracker, 12 quote wall prints and the 30-design mandala coloring book. Each pack arrives as its own download.",
-   "image": null
-  },
-  {
-   "slug": "creator-kit",
-   "name": "Complete Creator Kit \u2014 Notion Blueprint Pack + Both Prompt Packs",
-   "url": "https://macsmacpro.gumroad.com/l/quqzcr",
-   "description": "Three packs in one purchase: the Notion Blueprint Pack (25 build specs), 25 prompts that turn one YouTube video into 10+ posts, and the Chatbot Conversation Design Pack (12 prompts). Each arrives as its own download.",
-   "image": null
-  },
-  {
-   "slug": "notion-youtube-bundle",
-   "name": "Notion Blueprint Pack + YouTube Repurposing Prompts",
-   "url": "https://macsmacpro.gumroad.com/l/xakqko",
-   "description": "Two packs in one purchase: the Notion Blueprint Pack (25 build specs) and 25 prompts that turn one YouTube video into 10+ posts. Each arrives as its own download.",
-   "image": null
-  }
- ]
+  "generated_at": "2026-10-30T22:33:40Z",
+  "store": "https://macsmacpro.gumroad.com",
+  "items": [
+    {
+      "slug": "inner-circle",
+      "name": "Mac Steel \u2014 Build Log + Scripts Vault",
+      "url": "https://macsmacpro.gumroad.com/l/lzcfw",
+      "description": "One-time download, no membership. Inside: the build log of an AI agent system (6 trading-strategy tests with the rules written before each run, all failed, with the numbers), the 5 backtests exactly as they ran, a pre-registration template, and 4 dependency-free ops tools for running scheduled agents on one machine.",
+      "image": null
+    },
+    {
+      "slug": "agent-stack",
+      "name": "Build Your Own Agent Stack",
+      "url": "https://macsmacpro.gumroad.com/l/dkhfzd",
+      "description": "The complete build for a self-hosted AI agent system that runs your business 24/7 \u2014 on hardware you already own, for $0/month in API costs.",
+      "image": null
+    },
+    {
+      "slug": "blueprints",
+      "name": "Autonomous Agent Blueprints \u2014 5 Real Workflows from a Working AI Business System",
+      "url": "https://macsmacpro.gumroad.com/l/stqefcm",
+      "description": "What if I showed you exactly how my AI system works \u2014 not theory, not a course, the actual scripts? This is 5 technical blueprints pulled straight from the agent system that runs Mac Steel right now.",
+      "image": null
+    },
+    {
+      "slug": "prompt-pack",
+      "name": "Agent Prompt Pack",
+      "url": "https://macsmacpro.gumroad.com/l/ppvasu",
+      "description": "Twenty-five prompts for building autonomous AI agents \u2014 each one carrying the moment to use it, what good output looks like, the way it goes wrong, and the fix. Most prompt packs hand you text and wish you luck.",
+      "image": null
+    },
+    {
+      "slug": "repurposing-pack",
+      "name": "Turn One YouTube Video Into 10+ Posts \u2014 25 Repurposing Prompts",
+      "url": "https://macsmacpro.gumroad.com/l/jfwyzn",
+      "description": "25 copy-paste prompts that turn a single YouTube video into TikToks, Shorts, threads, blog posts and newsletter issues. For solo creators who publish alone.",
+      "image": null
+    },
+    {
+      "slug": "setup-guide",
+      "name": "Turn Any Chatbot Into an Engaging Conversational Partner \u2014 25 Proven Prompts",
+      "url": "https://macsmacpro.gumroad.com/l/pizmjo",
+      "description": "Designed for solo builders and indie developers, this pack delivers 25 plug-and-play prompts that turn any chatbot into a lively, engaging conversational partner \u2014 drawn from the same prompts Mac Steel uses to run a real autonomous AI agent system on one Mac for $0/month.",
+      "image": null
+    },
+    {
+      "slug": "seo-audit",
+      "name": "AI Search Readiness Audit by Mac Steel: Your 0-100 Score",
+      "url": "https://macsmacpro.gumroad.com/l/wylnau",
+      "description": "Get your website scored 0-100 on AI assistant visibility. Mac Steel delivers a written report checking robots.txt, llms.txt, sitemap, schema, and off-site signals, with evidence attached and fixes ranked.",
+      "image": null
+    },
+    {
+      "slug": "notion-pack",
+      "name": "Notion Blueprint Pack",
+      "url": "https://macsmacpro.gumroad.com/l/ofzhkq",
+      "description": "Build specs, not templates. Read that first, because it is the whole difference.",
+      "image": null
+    },
+    {
+      "slug": "build-in-public-pack",
+      "name": "Build in Public Prompt Pack \u2014 25 Prompts for Authentic Founder Content",
+      "url": "https://macsmacpro.gumroad.com/l/quhjyx",
+      "description": "Building in public is a blank-page problem, not a writing problem. You ship something, you know you should post about it, and then you sit staring at an empty box until the moment passes.",
+      "image": null
+    },
+    {
+      "slug": "podcast-prompts",
+      "name": "The Podcast Work That Isn't Recording",
+      "url": "https://macsmacpro.gumroad.com/l/xrjob",
+      "description": "The podcast work that isn't recording. Scripts, ad reads, titles, sponsor pitches \u2014 the surrounding writing that quietly decides whether an episode earns anything.",
+      "image": null
+    },
+    {
+      "slug": "automation-templates",
+      "name": "AI Automation Prompt Templates",
+      "url": "https://macsmacpro.gumroad.com/l/vnitbx",
+      "description": "25 prompts for the work that actually fills a week \u2014 email, SEO, blog drafts, reports, and the small everyday writing that never makes it onto a roadmap but eats the afternoon anyway.",
+      "image": null
+    },
+    {
+      "slug": "mandala-coloring-book",
+      "name": "Geometric Mandala Coloring Book \u2014 30 Printable Pages for Adults",
+      "url": "https://macsmacpro.gumroad.com/l/xdpiep",
+      "description": "Thirty clean line-art pages \u2014 mandalas, spirograph curves and geometric tilings \u2014 printable as often as you like.",
+      "image": null
+    },
+    {
+      "slug": "undated-planner",
+      "name": "Undated Digital Planner \u2014 Printable & GoodNotes-ready (23 pages)",
+      "url": "https://macsmacpro.gumroad.com/l/eucgsg",
+      "description": "An undated planner that never expires: monthly, weekly and daily spreads plus goals, habits and notes.",
+      "image": null
+    },
+    {
+      "slug": "budget-planner",
+      "name": "Printable Budget Planner \u2014 Monthly Budgets, Expense Logs, Bills, Savings & Debt (19 pages)",
+      "url": "https://macsmacpro.gumroad.com/l/qkftdt",
+      "description": "A full money system on paper: 12 monthly budgets, expense logs, a 12-month bill tracker, savings and debt payoff pages.",
+      "image": null
+    },
+    {
+      "slug": "habit-tracker",
+      "name": "Printable Habit Tracker \u2014 12 Months + Weekly + Year in Pixels (16 pages)",
+      "url": "https://macsmacpro.gumroad.com/l/gesvto",
+      "description": "Twelve monthly 31-day habit grids, a weekly tracker, a year-in-pixels page and streak rules that actually hold.",
+      "image": null
+    },
+    {
+      "slug": "quote-wall-art",
+      "name": "Minimalist Quote Wall Art \u2014 Set of 12 Printables (8x10, 11x14, 16x20, A4)",
+      "url": "https://macsmacpro.gumroad.com/l/jlgpcu",
+      "description": "Twelve calm typographic prints in four sizes, 300 DPI, ready to print at home or any print shop.",
+      "image": null
+    }
+  ]
 }
