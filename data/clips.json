@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-28T02:17:25Z",
- "total_verified": 632,
+ "generated_at": "2026-11-28T03:17:28Z",
+ "total_verified": 633,
  "by_platform": {
-  "tiktok": 211,
+  "tiktok": 212,
   "instagram": 164,
   "youtube": 109,
   "facebook": 39,
@@ -11,6 +11,12 @@
   "reddit": 6
  },
  "items": [
+  {
+   "platform": "tiktok",
+   "url": "https://www.tiktok.com/@therealmacsteel/video/7713052947852119310",
+   "ts": "2026-11-28T03:05:32.677109+00:00",
+   "caption": "Steel Trades book +1.18% vs SPY +2.15% this week. Paper account. Every trade and every loss is on the Steel Trades page. Paper account, not advice. Every trade:"
+  },
   {
    "platform": "tiktok",
    "url": "https://www.tiktok.com/@therealmacsteel/video/7713006101792328990",
@@ -220,12 +226,6 @@
    "url": "https://www.instagram.com/p/DgA71nADrgZ/",
    "ts": "2026-11-21T19:02:57.599420+00:00",
    "caption": "Do you still rewrite the same prompts every week? Seven prompts keep your routine work consistent and unattended. Job 400 runs exactly like job 1. One hard constraint stops drift. "
-  },
-  {
-   "platform": "facebook",
-   "url": "https://www.facebook.com/reel/1503627164945200",
-   "ts": "2026-11-21T18:01:13.846389+00:00",
-   "caption": "7 prompts, not a 200-prompt dump You keep your routine work running while you handle clients. Each prompt fixes one failure point so your assistant stays consistent from job one to"
   }
  ]
 }
